@@ -1,0 +1,46 @@
+@import '@fontsource/cardo/700.css';
+@import '@fontsource/source-serif-pro/400.css';
+@import '@fontsource/source-serif-pro/600.css';
+@import '@fontsource/noto-serif-sc/400.css';
+@import '@fontsource/noto-serif-sc/600.css';
+@import 'tailwindcss';
+@plugin '@tailwindcss/typography';
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --color-aus-red: #8B3A1F;
+  --color-aus-green: #2E5C3A;
+  --color-aus-sand: #FAF6EE;
+  --color-aus-ink: #1F1A14;
+  --color-aus-muted: #6B5E52;
+  --font-heading: 'Cardo', 'Noto Serif SC', serif;
+  --font-body: 'Source Serif Pro', 'Noto Serif SC', serif;
+}
+
+body {
+  @apply bg-aus-sand text-aus-ink font-body antialiased;
+}
+
+/* Chapter numerals */
+.chapter-num {
+  font-family: 'Cardo', serif;
+  font-variant-numeric: oldstyle-nums;
+}
+
+/* Footnote styling */
+.footnote-ref {
+  @apply text-aus-red text-xs align-super no-underline;
+}
+
+.footnote-list {
+  @apply mt-8 pt-4 border-t border-aus-green/20;
+}
+
+.footnote-list li {
+  @apply text-sm text-aus-muted mb-1;
+}
+
+.footnote-list a {
+  @apply text-aus-green underline;
+}

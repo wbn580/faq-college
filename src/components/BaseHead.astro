@@ -1,0 +1,41 @@
+---
+interface Props {
+  title: string;
+  description: string;
+  ogImage?: string;
+  canonicalURL?: string;
+  schema?: string;
+}
+
+const {
+  title,
+  description,
+  ogImage = '/og-image.png',
+  canonicalURL,
+  schema,
+} = Astro.props;
+
+const SITE_NAME = '澳洲百科 · Aus.wiki';
+const BASE_URL = 'https://aus.wiki';
+---
+
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>{title} — {SITE_NAME}</title>
+<meta name="description" content={description} />
+<link rel="canonical" href={canonicalURL || BASE_URL} />
+<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+
+<meta property="og:title" content={title} />
+<meta property="og:description" content={description} />
+<meta property="og:image" content={ogImage} />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content={SITE_NAME} />
+
+<meta name="twitter:card" content="summary_large_image" />
+
+<!-- robots: allow all crawlers including AI -->
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large" />
+<meta name="ai" content="allow" />
+
+{schema && <script type="application/ld+json" set:html={schema} />}
