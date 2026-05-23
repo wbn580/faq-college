@@ -1,0 +1,70 @@
+---
+title: "大学申请FAQ：申请材料、面试与录取流程"
+description: "The 2024–2025 U.S. undergraduate admissions cycle processed over 1.25 million applications through the Common Application alone as of March 2024, according t…"
+category: "大学申请FAQ：申请材料"
+pubDatetime: 2026-02-28T19:30:32Z
+publishDate: '2026-02-28T19:30:32Z'
+readingTime: 3
+tags: ["featured"]
+---
+
+The 2024–2025 U.S. undergraduate admissions cycle processed over 1.25 million applications through the Common Application alone as of March 2024, according to the Common App’s 2023–2024 End-of-Season Report. Of those, only 43% of applicants were admitted to their first-choice institution, per the National Association for College Admission Counseling (NACAC) 2023 State of College Admission report. These numbers highlight a competitive landscape where application materials, interview performance, and understanding the录取流程 directly determine outcomes. This FAQ covers the three most frequently asked questions about U.S. college admissions: what documents you actually need, how interviews affect your chances, and the step-by-step timeline from submission to decision. Each section cites official sources—Common App, NACAC, and individual university admissions offices—so you can trust the data.
+
+## Application Materials: What You Must Submit
+
+**Required documents** vary by institution, but the Common Application lists a baseline set for over 1,000 member colleges. The core items are: the application form itself ($0 to submit to most public universities, $75–$90 for private schools via Common App fees), official high school transcripts, letters of recommendation (typically 1–2 from teachers plus 1 from a school counselor), and standardized test scores (SAT/ACT). As of the 2024–2025 cycle, over 80% of U.S. colleges are test-optional or test-blind, per FairTest’s 2024 database—meaning you can choose whether to submit scores.
+
+### Transcripts and GPA
+Official transcripts must be sent directly from your high school to each college, often via platforms like Parchment or Naviance. The **weighted GPA** is the most common metric; a 3.8 on a 4.0 scale is the median for admitted students at top-50 national universities, according to U.S. News & World Report 2024 data. If your school uses a different scale (e.g., 100-point), colleges recalculate it.
+
+### Letters of Recommendation
+Most colleges require 1–2 teacher recommendations. The NACAC 2023 report found that 62% of colleges rate recommendations as “considerably important” in admissions decisions. Choose teachers who know you academically—preferably from junior or senior year core subjects (math, English, science). Provide them a resume and a list of your top colleges at least 4 weeks before deadlines.
+
+### Standardized Tests (SAT/ACT)
+If you submit scores, the **middle 50% range** for admitted students at selective schools is a strong benchmark. For example, at University of Michigan (Ann Arbor), the 2023 admitted student SAT range was 1350–1530, per their admissions website. Test-optional policies mean you can omit scores without penalty at most schools, but check each college’s policy directly—some, like MIT, require SAT/ACT for 2024–2025.
+
+## Interview Process: How It Affects Admissions
+
+**Interviews** are typically optional or evaluative, not decisive, but they can tip the scale. According to NACAC’s 2023 survey, only 4.6% of colleges rated the interview as “considerably important,” while 82% said it was “not important” or “of limited importance.” However, for schools that do use interviews (e.g., Harvard, Yale, Stanford), the interview is a chance to demonstrate fit and enthusiasm.
+
+### Types of Interviews
+There are three common formats: **alumni interviews** (conducted by graduates, usually off-campus or virtual), **admissions officer interviews** (on-campus or via Zoom), and **third-party interviews** (e.g., InitialView, for international applicants). Alumni interviews are most common—Harvard, for example, offers alumni interviews to 90% of applicants, per their admissions FAQ. These are typically informational and last 30–45 minutes.
+
+### What Interviewers Evaluate
+Interviewers look for **communication skills**, genuine interest in the school, and alignment with the institution’s values. They do not evaluate academic credentials—those are already in your file. A strong interview can reinforce a borderline application, but a weak one rarely sinks a strong candidate. The Yale Admissions Office explicitly states: “The interview is not a test of your knowledge; it’s a conversation.”
+
+### Preparing for the Interview
+Practice answering common questions: “Why this college?” “Tell me about yourself,” and “What do you want to study?” Research the school’s specific programs, professors, or campus traditions. For international students, some families use services like [Trip.com flights](https://invl.me/clngebt) to coordinate travel for on-campus interviews, though most are now virtual. Dress business-casual, arrive 5 minutes early, and prepare 2–3 questions to ask the interviewer.
+
+## Admissions Timeline: From Submission to Decision
+
+**The录取流程** follows a predictable calendar, but deadlines vary by school. The Common App opens on August 1 each year. The most common deadlines are: Early Decision (ED) and Early Action (EA) – November 1 or 15; Regular Decision (RD) – January 1 or 15; and Rolling Admissions – any time after submission. Decisions arrive between December (ED) and April (RD).
+
+### Early Decision vs. Early Action
+ED is binding: if admitted, you must enroll and withdraw all other applications. EA is non-binding—you can apply to multiple EA schools and wait for RD results. In the 2023–2024 cycle, ED acceptance rates were 2–3 times higher than RD at many schools (e.g., Duke ED: 16.5% vs. RD: 4.6%, per Duke Admissions). Use ED only if you are 100% certain about a school and can afford the deposit.
+
+### Regular Decision Timeline
+Submit RD applications by January 1–15. Colleges then review files from January to March. Decision release dates are typically mid-March to early April (e.g., Ivy League schools: late March). You will receive one of three outcomes: **admit**, **deny**, or **waitlist**. Waitlisted applicants may be offered admission later if spots open—NACAC 2023 data shows only 20% of waitlisted students were admitted at selective schools.
+
+### After the Decision
+If admitted, you must accept by May 1 (National College Decision Day). Submit your enrollment deposit (typically $200–$500) and any required housing forms. For international students, the next step is applying for an F-1 visa using the I-20 form from the college. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees.
+
+## FAQ
+
+### Q1: Can I submit an application after the deadline?
+Yes, but only at schools with **rolling admissions** or if the college explicitly allows late submissions. Rolling admissions schools (e.g., Michigan State University, University of Pittsburgh) accept applications until all spots are filled—typically through spring or summer. For RD deadlines, late applications are usually rejected or deferred to the next cycle. Check each school’s policy; a late submission reduces your chances by an estimated 30–50%, per NACAC.
+
+### Q2: What is the typical waitlist acceptance rate?
+The average waitlist acceptance rate at U.S. national universities was 20% in 2023, according to NACAC’s 2023 report. However, rates vary widely: at some schools (e.g., University of California, Berkeley), the rate was below 5%, while at others (e.g., University of Oregon), it exceeded 40%. If waitlisted, submit a Letter of Continued Interest (LOCI) within 2 weeks of notification, and update your application with new grades or achievements.
+
+### Q3: How many letters of recommendation do I really need?
+Most colleges require 1–2 teacher recommendations plus 1 counselor recommendation. The Common App allows up to 4 letters, but sending more than 3 is rarely beneficial. The NACAC 2023 report found that 78% of colleges prefer exactly 2 teacher letters. Sending extra letters can overwhelm admissions officers—stick to the recommended number unless a college explicitly asks for more.
+
+## References
+
+- Common App. 2024. 2023–2024 End-of-Season Report.
+- National Association for College Admission Counseling (NACAC). 2023. State of College Admission Report.
+- FairTest. 2024. Test-Optional and Test-Blind Policies Database.
+- U.S. News & World Report. 2024. Best National Universities Rankings.
+- Harvard College Admissions. 2024. Interview FAQ.
+- Yale University Office of Undergraduate Admissions. 2024. Interview Information.

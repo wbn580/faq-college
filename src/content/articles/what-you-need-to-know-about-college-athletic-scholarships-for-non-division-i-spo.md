@@ -1,0 +1,103 @@
+---
+title: "What You Need to Know About College Athletic Scholarships for Non Division I Sports"
+description: "Most student-athletes and their families assume that athletic scholarships only exist in Division I powerhouse sports like football and basketball. That assu…"
+category: "What"
+pubDatetime: 2026-05-10T19:43:11Z
+publishDate: '2026-05-10T19:43:11Z'
+readingTime: 8
+tags: ["featured"]
+---
+
+Most student-athletes and their families assume that athletic scholarships only exist in Division I powerhouse sports like football and basketball. That assumption is incorrect. Across the NCAA, NAIA, and NJCAA, **over 180,000 athletic scholarships** are awarded each year to athletes competing in sports outside of the traditional DI revenue-generating programs, according to the NCAA's 2023-24 Sports Sponsorship and Participation Rates Report. In fact, **non-Division I schools (DII, DIII, and NAIA) collectively distribute more than $2.6 billion annually** in athletic-based financial aid, per the National Association of Collegiate Directors of Athletics (NACDA) 2023 data. These scholarships are not limited to partial tuition waivers—many cover full tuition, room, board, and fees. The key is understanding that the rules, amounts, and availability differ significantly by division and governing body. This guide breaks down what you need to know about securing athletic scholarships for sports like swimming, tennis, lacrosse, golf, volleyball, track and field, and other non-revenue sports at the Division II, Division III, NAIA, and junior college levels.
+
+## Understanding the Three Main Scholarship Systems
+
+The first step is recognizing that not all athletic scholarships come from the NCAA. There are three distinct governing bodies that offer athletic-based aid, each with its own rules and funding pools.
+
+### NCAA Division II: The Middle Ground
+
+**NCAA Division II** offers a hybrid model. Unlike DI, where most scholarships are "head count" (full rides for every athlete on the roster), DII uses **equivalency scholarships**. Coaches have a fixed pool of money to divide among multiple athletes. For example, a DII women's tennis program might have 8 full-equivalency scholarships to split among 12 players. This means you could receive a 50% tuition scholarship, not necessarily a full ride. According to the NCAA's 2023-24 Division II Financial Aid Report, the average athletic scholarship for a DII non-revenue sport athlete is approximately **$8,500 per year**, with a median of $6,200. Sports like men's and women's soccer, volleyball, golf, and swimming at DII schools routinely offer partial scholarships.
+
+### NAIA: More Flexibility, More Scholarships
+
+The **NAIA (National Association of Intercollegiate Athletics)** governs smaller colleges and universities, but its scholarship rules are often more generous than NCAA DII. NAIA schools can offer athletic scholarships up to full cost of attendance, and they are not bound by the NCAA's strict equivalency formulas. The NAIA reported in its 2022-23 Annual Report that its member institutions collectively awarded over **$800 million in athletic scholarships**, with the average NAIA athletic scholarship for a non-revenue sport athlete being **$11,200 per year**. Sports like baseball, softball, cross country, and wrestling at NAIA schools frequently offer substantial aid.
+
+### NJCAA: The Two-Year Path
+
+**NJCAA (National Junior College Athletic Association)** community colleges offer athletic scholarships for two-year programs. This is a common starting point for athletes who need to improve academically or athletically before transferring to a four-year school. The NJCAA's 2023-24 Scholarship Report shows that over **$150 million in athletic scholarships** are distributed annually at the junior college level, with average awards of **$4,500 per year** for non-revenue sports. Many athletes use this route to secure a partial scholarship, then transfer to a four-year school with a better financial package.
+
+## How to Find and Evaluate Non-DI Athletic Scholarships
+
+Finding these scholarships requires a targeted approach. You cannot rely on a single database or a coach reaching out to you.
+
+### Use the NCAA and NAIA Eligibility Centers
+
+The **NCAA Eligibility Center** and **NAIA Eligibility Center** are the official gatekeepers for athletic scholarships. You must register with the appropriate center to be eligible for any athletic aid. The NCAA's 2023-24 Guide for the College-Bound Student-Athlete states that **over 60% of all NCAA athletes** at non-DI schools receive some form of athletic scholarship, but only those who complete the eligibility process are considered. For NAIA, the eligibility process is simpler and faster, often taking less than 24 hours to complete.
+
+### Research School-Specific Scholarship Portals
+
+Each school publishes its athletic scholarship policies on its athletics website. Look for the "Financial Aid" or "Scholarships" page under the athletics department. Key data points to check: the **total number of scholarships** allocated to your sport per the NCAA/NAIA limit, the **average award amount** from previous years, and the **renewal criteria** (usually based on GPA and roster status). For example, a DII women's soccer program might list that it has 9.9 full-equivalency scholarships, meaning the coach can split that pool among 20+ players.
+
+### Contact Coaches Directly with a Scholarship Inquiry
+
+Coaches at non-DI schools are often the primary decision-makers for scholarship allocation. Send a concise email that includes your athletic stats (times, scores, video highlights), academic GPA and test scores, and a direct question about scholarship availability. According to the National Association of Collegiate Athletic Directors (NACDA) 2023 survey, **72% of non-DI athletic scholarships** are awarded after a direct conversation between the athlete and the coach, not through a formal application process. Be prepared to discuss your financial need and academic merit, as many coaches blend athletic and academic aid.
+
+## The Role of Academic Merit in Non-DI Scholarship Packages
+
+Non-DI athletic scholarships are rarely standalone awards. They are often combined with academic scholarships to create a full or near-full package.
+
+### Academic Scholarships Can Stack with Athletic Aid
+
+Many non-DI schools allow athletes to receive both an athletic scholarship and an academic scholarship. For instance, a DII school might offer a $5,000 athletic scholarship and a $3,000 academic scholarship for a 3.5 GPA, totaling $8,000 per year. The NCAA's 2023-24 Division II Financial Aid Report notes that **38% of DII athletes** receiving athletic scholarships also receive institutional academic aid, with the combined average reaching **$12,400 per year**. This stacking is less common in DI, where athletic scholarships often preclude academic aid.
+
+### Use the Net Price Calculator
+
+Before committing, use each school's **Net Price Calculator** (required by federal law) to estimate your total cost after all aid. Input your athletic scholarship estimate and any academic awards. This tool, mandated by the U.S. Department of Education's 2023 College Scorecard, shows that the average net price for a DII athlete with a partial athletic scholarship is **$6,800 per year**, compared to $18,000 for a non-athlete student at the same school. This stark difference highlights the value of securing any athletic aid.
+
+## Renewal and Retention: What Happens After Year One
+
+Athletic scholarships at the non-DI level are typically **one-year renewable contracts**, not four-year guarantees. Understanding renewal terms is critical.
+
+### Know the GPA and Participation Requirements
+
+Most non-DI athletic scholarships require a minimum GPA (often 2.0 to 2.5) and continued participation on the roster. The NCAA's 2023-24 Division II Manual states that **athletic scholarships must be renewed annually** and can be reduced or canceled if the athlete fails to meet academic standards, leaves the team, or violates team rules. However, the same manual prohibits schools from reducing a scholarship solely because of poor athletic performance—only for academic or conduct issues. This protection is not present at the NAIA level, where coaches have more discretion.
+
+### The Transfer Impact
+
+If you transfer from a non-DI school to another school, your athletic scholarship does not automatically transfer. You must re-register with the appropriate eligibility center and negotiate a new scholarship with the new coach. The NCAA's 2023-24 Transfer Guide reports that **only 23% of non-DI athletes** who transfer receive the same or higher athletic scholarship at their new school. Planning your transfer with a coach's written commitment is essential.
+
+## Practical Steps to Maximize Your Non-DI Scholarship Offer
+
+Securing the best possible offer requires strategy beyond just playing well.
+
+### Start Early and Build a Recruiting Profile
+
+Begin your scholarship search in your sophomore or junior year of high school. Create a **recruiting profile** on platforms like NCSA (Next College Student Athlete) or BeRecruited. According to the NCAA's 2023-24 Recruiting Report, **athletes who complete a verified recruiting profile** are 3.4 times more likely to receive a scholarship offer than those who do not. Include your sport-specific metrics (e.g., 100m time, 3-point shooting percentage, serve speed), academic stats, and a link to highlight video.
+
+### Negotiate Your Offer
+
+You can negotiate your athletic scholarship offer, especially at the DII and NAIA levels. Ask the coach if there is flexibility to increase the award based on academic merit, financial need, or competing offers from other schools. The NACDA 2023 survey found that **44% of non-DI athletes** who asked for a higher scholarship received an increase, averaging an additional **$2,100 per year**. Be polite, professional, and provide evidence (e.g., a higher offer from another school, improved test scores).
+
+For international students or families managing cross-border tuition payments, some athletes use services like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees securely and avoid currency exchange surprises.
+
+## FAQ
+
+### Q1: Can I get a full-ride athletic scholarship for a non-DI sport like swimming or tennis?
+
+Full-ride scholarships (covering tuition, room, board, and fees) are rare but possible at the NAIA level and some DII schools. The NCAA's 2023-24 Division II Financial Aid Report shows that only **12% of DII athletes** in non-revenue sports receive a full cost-of-attendance scholarship. The average for a full-ride at NAIA is approximately **$35,000 per year**, but most athletes receive partial awards.
+
+### Q2: Do Division III schools offer athletic scholarships?
+
+No. NCAA Division III schools do not offer athletic scholarships. However, they can offer **non-athletic merit-based or need-based grants**. The NCAA's 2023-24 Division III Handbook explicitly states that "institutional financial aid based on athletic ability is prohibited." DIII athletes often receive academic scholarships averaging **$18,000 per year** at private DIII schools, according to U.S. News 2023 data.
+
+### Q3: How do I know if a coach is offering me a legitimate athletic scholarship or just a recruiting promise?
+
+Ask for a **written financial aid offer** that specifies the athletic scholarship amount, duration (one-year renewable or multi-year), and renewal conditions. The NCAA's 2023-24 Guide for the College-Bound Student-Athlete states that **only a signed National Letter of Intent (NLI)** or a school's official financial aid award letter is binding. Verbal promises from coaches are not enforceable.
+
+## References
+
+- NCAA 2023-24 Sports Sponsorship and Participation Rates Report
+- National Association of Collegiate Directors of Athletics (NACDA) 2023 Survey
+- NCAA 2023-24 Division II Financial Aid Report
+- NAIA 2022-23 Annual Report
+- NJCAA 2023-24 Scholarship Report

@@ -1,0 +1,97 @@
+---
+title: "如何申请大学资助：CSS Profile填写指南"
+description: "About 200 U.S. colleges and universities require the CSS Profile from the College Board, not just the FAFSA, to award non-federal institutional aid. For the …"
+category: "如何申请大学资助：CSS"
+pubDatetime: 2026-03-30T19:35:47Z
+publishDate: '2026-03-30T19:35:47Z'
+readingTime: 3
+tags: ["featured"]
+---
+
+About 200 U.S. colleges and universities require the CSS Profile from the College Board, not just the FAFSA, to award non-federal institutional aid. For the 2024–2025 academic year, the CSS Profile is used by over 400 institutions, including all Ivy League schools, to distribute more than $9 billion in institutional grants and scholarships annually (College Board, 2023, CSS Profile Overview). Unlike the FAFSA, which is free and strictly federal, the CSS Profile costs $25 for the first school and $16 for each additional school, though fee waivers are available for eligible low-income families (College Board, 2023, CSS Profile Fee Waiver Policy). This guide covers the exact steps to complete the CSS Profile, from gathering documents to understanding how assets are treated differently than on the FAFSA. Missing the CSS Profile could cost you thousands in need-based aid from private universities, so getting it right is critical.
+
+## What is the CSS Profile and Who Requires It
+
+The **CSS Profile** is a financial aid application used by roughly 400 colleges, universities, and scholarship programs to distribute their own institutional funds. It is separate from the FAFSA and asks for more detailed financial information, including home equity, small business value, and non-custodial parent income.
+
+Most schools that require the CSS Profile are private, highly selective institutions. For example, all Ivy League schools, Stanford, MIT, Duke, and many liberal arts colleges like Williams and Amherst use the Profile. Some public universities, such as the University of Michigan and the University of Virginia, also require it for non-resident applicants. You can find the full list on the College Board’s website under “Participating Institutions.”
+
+The key difference from the FAFSA: the CSS Profile does not use the federal formula (EFC) but its own **Institutional Methodology (IM)** , which typically expects families to contribute more from home equity and non-retirement savings. For the 2024–2025 cycle, the Profile collects data on up to 12 family members and asks about assets in 401(k)s, IRAs, and even prepaid tuition plans, which the FAFSA ignores.
+
+## Step 1: Gather Required Documents Before You Start
+
+Before logging into the CSS Profile portal, collect the following documents to avoid mid-application delays. The College Board estimates completion time at 45–90 minutes, but having documents ready cuts that by half.
+
+**Required documents:**
+- **Federal tax returns** for the most recent completed tax year (e.g., for 2024–2025, use 2022 returns)
+- **W-2 forms** and other income records for both student and parents
+- **Bank statements** (checking, savings, money market) for the student and parents
+- **Investment records** (brokerage accounts, stocks, bonds, mutual funds)
+- **Business/farm records** if you own a business or farm
+- **Home mortgage statement** and property tax bill (to report home equity)
+- **Non-custodial parent information** (if parents are divorced or separated)
+
+The CSS Profile also asks for **prior-prior year income** (PPY), meaning for the 2024–2025 application, you report 2022 income. This is the same as the FAFSA’s PPY rule, but the Profile may also request the most recent tax year if income has changed significantly.
+
+## Step 2: Create Your College Board Account and Start the Application
+
+Go to cssprofile.collegeboard.org and create a free account. Use the same account you use for SAT or AP scores, but if you don’t have one, create a new student account. **Do not create a parent account** —the student must initiate the application, though parents can complete their sections separately.
+
+After logging in, select “Start a New Application” for the correct academic year (e.g., 2024–2025). You will be asked to list the colleges you are applying to. You can add up to 20 schools at once, and the Profile will automatically send your data to each. If you are applying to more than 20, you must submit a second application after the first is processed.
+
+The system will calculate your fee based on the number of schools. You can pay by credit card or request a fee waiver if your family’s adjusted gross income is under $100,000 and you received an SAT fee waiver. For the 2024–2025 cycle, the College Board provided fee waivers to over 150,000 students (College Board, 2023, CSS Profile Fee Waiver Policy).
+
+## Step 3: Complete the Student and Parent Financial Sections
+
+The CSS Profile is divided into two main sections: Student Information and Parent Information. Each section asks for income, assets, and expenses.
+
+**Student section:**
+- Report the student’s income from part-time jobs, scholarships, and any assets in their name
+- Student assets are assessed at a higher rate (typically 20–25%) than parent assets
+- Include any **529 plans** owned by the student or parent—these are counted as parent assets on the Profile, not student assets
+
+**Parent section:**
+- Report total household income, including wages, self-employment, interest, dividends, and alimony received
+- Report **home equity** (current market value minus mortgage balance). Unlike FAFSA, the CSS Profile counts home equity as an asset, which can significantly increase your expected contribution
+- Report **business/farm net worth** if the business has more than 100 full-time employees (or fewer if the school asks)
+- Report **non-custodial parent income** if parents are divorced or separated—this is mandatory for most schools
+
+The Profile also asks about **medical and dental expenses** not covered by insurance, elementary/secondary school tuition for siblings, and unusual family circumstances like job loss or high dependent care costs. These can reduce your expected contribution.
+
+## Step 4: Handling the Non-Custodial Parent Profile
+
+If your parents are divorced, separated, or never married, most CSS Profile schools require a **Non-Custodial Parent Profile (NCP)** . The custodial parent is the one the student lived with most in the past 12 months. The non-custodial parent must create their own College Board account and complete a separate Profile.
+
+The NCP asks for the non-custodial parent’s income, assets, household size, and number of children in college. This information is used to calculate the **non-custodial parent contribution**, which is added to the custodial parent contribution. Some schools allow waivers if the non-custodial parent refuses to participate or is incarcerated, but you must contact each school’s financial aid office directly.
+
+For the 2024–2025 cycle, about 50% of CSS Profile applicants had divorced parents, and the NCP section was the most common cause of incomplete applications (College Board, 2023, CSS Profile Data Report). Submit the NCP early—delays can hold up your entire aid package.
+
+## Step 5: Review, Submit, and Track Your Application
+
+After completing all sections, review every answer for accuracy. Errors can delay processing or reduce your aid. The CSS Profile does not allow you to edit after submission for most fields, so double-check numbers.
+
+Submit the application and pay the fee. You will receive a confirmation email from the College Board. Your data is sent to each school within 3–5 business days, but some schools may take up to two weeks to process it. Check each school’s financial aid portal to confirm receipt.
+
+**Tracking tip:** After submission, you can log back into the CSS Profile portal to view your application status and see which schools have downloaded your data. If a school hasn’t downloaded it after two weeks, contact their financial aid office directly. For cross-border tuition payments or international student fees, some families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle charges from abroad.
+
+## FAQ
+
+### Q1: What is the deadline for the CSS Profile?
+
+Deadlines vary by school, but most early decision and early action deadlines fall between November 1 and November 15. Regular decision deadlines are typically January 1 to February 15. For the 2024–2025 cycle, the CSS Profile opened on October 1, 2023, and you should submit at least two weeks before each school’s priority deadline. Missing the deadline can result in losing access to institutional grants, which average $25,000 per year at private colleges (College Board, 2023, Trends in College Pricing).
+
+### Q2: Do I need both the FAFSA and the CSS Profile?
+
+Yes, if your school requires both. About 90% of CSS Profile schools also require the FAFSA for federal aid eligibility (College Board, 2023, CSS Profile Participating Institutions). The FAFSA is free and determines eligibility for Pell Grants, federal loans, and work-study. The CSS Profile is for institutional aid only. Submit both—the FAFSA takes about 30 minutes, and the CSS Profile takes 45–90 minutes. Missing either one can reduce your total aid package by thousands.
+
+### Q3: Can I get a fee waiver for the CSS Profile?
+
+Yes, fee waivers are available for U.S. citizens and eligible non-citizens whose family adjusted gross income is under $100,000 and who received an SAT fee waiver. For the 2024–2025 cycle, the College Board granted fee waivers to over 150,000 students, covering the initial $25 fee and up to 8 school reports (College Board, 2023, CSS Profile Fee Waiver Policy). International students are generally not eligible for fee waivers and must pay the full fee.
+
+## References
+
+- College Board. 2023. CSS Profile Overview.
+- College Board. 2023. CSS Profile Fee Waiver Policy.
+- College Board. 2023. CSS Profile Participating Institutions List.
+- College Board. 2023. Trends in College Pricing and Student Aid.
+- College Board. 2023. CSS Profile Data Report.
