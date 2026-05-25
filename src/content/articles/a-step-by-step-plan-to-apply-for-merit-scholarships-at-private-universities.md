@@ -2,7 +2,7 @@
 title: "A Step by Step Plan to Apply for Merit Scholarships at Private Universities"
 description: "Private U.S. universities awarded over **$9.2 billion** in institutional grant aid to undergraduate students in the 2022-2023 academic year, according to the…"
 category: "A"
-pubDatetime: 2026-04-14T19:38:33Z
+pubDatetime: "2026-04-14T19:38:33Z"
 publishDate: '2026-04-14T19:38:33Z'
 readingTime: 7
 tags: ["featured"]

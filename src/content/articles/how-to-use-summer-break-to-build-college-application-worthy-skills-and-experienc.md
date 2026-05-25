@@ -2,7 +2,7 @@
 title: "How to Use Summer Break to Build College Application Worthy Skills and Experience"
 description: "A single summer break spans roughly 10 to 12 weeks, yet that window can determine whether a college application stands out or blends in. According to the 202…"
 category: "How"
-pubDatetime: 2026-05-18T19:44:42Z
+pubDatetime: "2026-05-18T19:44:42Z"
 publishDate: '2026-05-18T19:44:42Z'
 readingTime: 11
 tags: ["featured"]

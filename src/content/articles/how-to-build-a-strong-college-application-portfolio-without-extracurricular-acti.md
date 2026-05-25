@@ -2,7 +2,7 @@
 title: "How to Build a Strong College Application Portfolio Without Extracurricular Activities"
 description: "A 2019 report from the National Center for Education Statistics (NCES) found that 88% of first-time, full-time freshmen at four-year institutions had partici…"
 category: "How"
-pubDatetime: 2026-04-08T19:37:20Z
+pubDatetime: "2026-04-08T19:37:20Z"
 publishDate: '2026-04-08T19:37:20Z'
 readingTime: 8
 tags: ["featured"]

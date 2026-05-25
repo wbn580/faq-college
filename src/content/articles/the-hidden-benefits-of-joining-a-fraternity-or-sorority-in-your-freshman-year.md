@@ -2,7 +2,7 @@
 title: "The Hidden Benefits of Joining a Fraternity or Sorority in Your Freshman Year"
 description: "Joining a fraternity or sorority as a freshman offers measurable advantages in academic performance, career placement, and social integration that extend far…"
 category: "The"
-pubDatetime: 2026-04-12T19:38:01Z
+pubDatetime: "2026-04-12T19:38:01Z"
 publishDate: '2026-04-12T19:38:01Z'
 readingTime: 6
 tags: ["featured"]

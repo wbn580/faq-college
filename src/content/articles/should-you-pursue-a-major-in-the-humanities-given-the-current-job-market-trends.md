@@ -2,7 +2,7 @@
 title: "Should You Pursue a Major in the Humanities Given the Current Job Market Trends"
 description: "The decision to major in the humanities is often framed as a trade-off between passion and practicality. The data, however, reveals a more nuanced picture. A…"
 category: "Should"
-pubDatetime: 2026-04-30T19:41:23Z
+pubDatetime: "2026-04-30T19:41:23Z"
 publishDate: '2026-04-30T19:41:23Z'
 readingTime: 9
 tags: ["featured"]

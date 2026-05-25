@@ -2,7 +2,7 @@
 title: "How Summer Programs Can Strengthen Your College Application for Selective Schools"
 description: "A summer program alone will not get you into Harvard, but a strategic, academically rigorous summer experience can meaningfully differentiate your applicatio…"
 category: "How"
-pubDatetime: 2026-04-16T19:38:51Z
+pubDatetime: "2026-04-16T19:38:51Z"
 publishDate: '2026-04-16T19:38:51Z'
 readingTime: 7
 tags: ["featured"]

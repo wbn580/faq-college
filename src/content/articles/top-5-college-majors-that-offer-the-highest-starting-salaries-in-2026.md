@@ -2,7 +2,7 @@
 title: "Top 5 College Majors That Offer the Highest Starting Salaries in 2026"
 description: "Choosing a college major is one of the most financially consequential decisions a student can make. Data from the National Association of Colleges and Employ…"
 category: "Top"
-pubDatetime: 2026-04-30T19:41:20Z
+pubDatetime: "2026-04-30T19:41:20Z"
 publishDate: '2026-04-30T19:41:20Z'
 readingTime: 6
 tags: ["featured"]

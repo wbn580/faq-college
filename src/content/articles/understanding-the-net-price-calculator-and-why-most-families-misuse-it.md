@@ -2,7 +2,7 @@
 title: "Understanding the Net Price Calculator and Why Most Families Misuse It"
 description: "The average published tuition at a four-year private US college for the 2023-2024 academic year was $41,540, yet the average *net price* — what students actu…"
 category: "Understanding"
-pubDatetime: 2026-04-12T19:38:08Z
+pubDatetime: "2026-04-12T19:38:08Z"
 publishDate: '2026-04-12T19:38:08Z'
 readingTime: 8
 tags: ["featured"]

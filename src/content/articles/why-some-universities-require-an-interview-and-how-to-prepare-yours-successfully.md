@@ -2,7 +2,7 @@
 title: "Why Some Universities Require an Interview and How to Prepare Yours Successfully"
 description: "Of the 2,240 four-year colleges in the United States, approximately 22% require or recommend an admissions interview, according to the National Association f…"
 category: "Why"
-pubDatetime: 2026-04-20T19:39:41Z
+pubDatetime: "2026-04-20T19:39:41Z"
 publishDate: '2026-04-20T19:39:41Z'
 readingTime: 6
 tags: ["featured"]

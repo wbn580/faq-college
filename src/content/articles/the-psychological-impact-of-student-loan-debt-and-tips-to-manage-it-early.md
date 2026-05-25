@@ -2,7 +2,7 @@
 title: "The Psychological Impact of Student Loan Debt and Tips to Manage It Early"
 description: "Student loan debt in the United States has crossed $1.77 trillion as of Q2 2024, according to the Federal Reserve Bank of New York, affecting approximately 4…"
 category: "The"
-pubDatetime: 2026-04-14T19:38:22Z
+pubDatetime: "2026-04-14T19:38:22Z"
 publishDate: '2026-04-14T19:38:22Z'
 readingTime: 6
 tags: ["featured"]

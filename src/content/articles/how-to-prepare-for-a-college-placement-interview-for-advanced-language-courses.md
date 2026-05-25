@@ -2,7 +2,7 @@
 title: "How to Prepare for a College Placement Interview for Advanced Language Courses"
 description: "A college placement interview for advanced language courses determines whether you skip introductory sequences, enter an honors track, or receive retroactive…"
 category: "How"
-pubDatetime: 2026-05-19T19:44:51Z
+pubDatetime: "2026-05-19T19:44:51Z"
 publishDate: '2026-05-19T19:44:51Z'
 readingTime: 7
 tags: ["featured"]

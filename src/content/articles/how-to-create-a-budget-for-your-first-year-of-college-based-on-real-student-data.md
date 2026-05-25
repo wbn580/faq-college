@@ -2,7 +2,7 @@
 title: "How to Create a Budget for Your First Year of College Based on Real Student Data"
 description: "The average cost of tuition and fees for the 2024-2025 academic year was $11,610 for in-state public four-year institutions and $43,350 for private non-profi…"
 category: "How"
-pubDatetime: 2026-05-07T19:42:40Z
+pubDatetime: "2026-05-07T19:42:40Z"
 publishDate: '2026-05-07T19:42:40Z'
 readingTime: 8
 tags: ["featured"]

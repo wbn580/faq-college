@@ -2,7 +2,7 @@
 title: "The Real Difference Between Need Based and Merit Based Financial Aid Explained"
 description: "In the 2023-2024 academic year, the average published tuition and fees at private nonprofit four-year U.S. colleges reached **$41,540**, while public in-stat…"
 category: "The"
-pubDatetime: 2026-04-10T19:37:42Z
+pubDatetime: "2026-04-10T19:37:42Z"
 publishDate: '2026-04-10T19:37:42Z'
 readingTime: 8
 tags: ["featured"]

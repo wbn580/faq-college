@@ -2,7 +2,7 @@
 title: "Understanding the Difference Between a College Major and a Concentration Program"
 description: "A college major is the primary field of study a student declares, typically comprising 30–50 credit hours, while a concentration is a specialized subset with…"
 category: "Understanding"
-pubDatetime: 2026-05-20T19:45:08Z
+pubDatetime: "2026-05-20T19:45:08Z"
 publishDate: '2026-05-20T19:45:08Z'
 readingTime: 7
 tags: ["featured"]

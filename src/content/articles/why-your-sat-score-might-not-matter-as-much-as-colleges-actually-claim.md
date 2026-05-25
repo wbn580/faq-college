@@ -2,7 +2,7 @@
 title: "Why Your SAT Score Might Not Matter as Much as Colleges Actually Claim"
 description: "Over 1,700 four-year colleges in the United States now operate test-optional or test-blind admissions policies, according to the National Center for Fair & O…"
 category: "Why"
-pubDatetime: 2026-04-08T19:37:24Z
+pubDatetime: "2026-04-08T19:37:24Z"
 publishDate: '2026-04-08T19:37:24Z'
 readingTime: 5
 tags: ["featured"]

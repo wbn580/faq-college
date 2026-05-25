@@ -2,7 +2,7 @@
 title: "Comparing the Pros and Cons of Attending a Large University vs a Small Liberal Arts College"
 description: "The choice between a large university and a small liberal arts college (LAC) is one of the most fundamental decisions in the US college application process, …"
 category: "Comparing"
-pubDatetime: 2026-04-21T19:39:42Z
+pubDatetime: "2026-04-21T19:39:42Z"
 publishDate: '2026-04-21T19:39:42Z'
 readingTime: 6
 tags: ["featured"]

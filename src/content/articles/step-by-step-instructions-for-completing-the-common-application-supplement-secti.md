@@ -2,7 +2,7 @@
 title: "Step by Step Instructions for Completing the Common Application Supplement Section"
 description: "The Common Application Supplement section is where colleges ask for school-specific information beyond the standard application, and over 1,000 member instit…"
 category: "Step"
-pubDatetime: 2026-04-19T19:39:20Z
+pubDatetime: "2026-04-19T19:39:20Z"
 publishDate: '2026-04-19T19:39:20Z'
 readingTime: 7
 tags: ["featured"]

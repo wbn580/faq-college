@@ -2,7 +2,7 @@
 title: "How Summer Jobs During High School Can Strengthen Your College Application Profile"
 description: "A single summer job during high school can raise your admission odds at selective colleges by 20-30% compared to an identical applicant without work experien…"
 category: "How"
-pubDatetime: 2026-04-26T19:40:33Z
+pubDatetime: "2026-04-26T19:40:33Z"
 publishDate: '2026-04-26T19:40:33Z'
 readingTime: 7
 tags: ["featured"]

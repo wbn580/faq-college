@@ -2,7 +2,7 @@
 title: "Best Practices for Managing Your Student Email Account and Avoiding Spam Traps"
 description: "A university email account isn’t just a forwarding address — it’s the key to your academic life, financial aid notifications, and official university communi…"
 category: "Best"
-pubDatetime: 2026-04-22T19:39:53Z
+pubDatetime: "2026-04-22T19:39:53Z"
 publishDate: '2026-04-22T19:39:53Z'
 readingTime: 7
 tags: ["featured"]

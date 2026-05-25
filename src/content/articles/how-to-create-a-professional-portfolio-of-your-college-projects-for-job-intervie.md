@@ -2,7 +2,7 @@
 title: "How to Create a Professional Portfolio of Your College Projects for Job Interviews"
 description: "A portfolio of your college projects can be the single most effective tool in a job interview, with 86% of employers on LinkedIn stating that a strong portfo…"
 category: "How"
-pubDatetime: 2026-05-14T19:43:59Z
+pubDatetime: "2026-05-14T19:43:59Z"
 publishDate: '2026-05-14T19:43:59Z'
 readingTime: 6
 tags: ["featured"]

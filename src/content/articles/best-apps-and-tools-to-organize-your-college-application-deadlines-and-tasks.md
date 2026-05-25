@@ -2,7 +2,7 @@
 title: "Best Apps and Tools to Organize Your College Application Deadlines and Tasks"
 description: "Managing 8–15 college application deadlines simultaneously is a logistical challenge that 63% of U.S. high school seniors report as their top source of stres…"
 category: "Best"
-pubDatetime: 2026-05-12T19:43:30Z
+pubDatetime: "2026-05-12T19:43:30Z"
 publishDate: '2026-05-12T19:43:30Z'
 readingTime: 7
 tags: ["featured"]

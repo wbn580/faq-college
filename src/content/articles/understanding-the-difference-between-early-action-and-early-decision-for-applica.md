@@ -2,7 +2,7 @@
 title: "Understanding the Difference Between Early Action and Early Decision for Applicants"
 description: "Applying early to college can significantly shift your odds, but picking the wrong plan can lock you into a binding commitment or waste your strategic advant…"
 category: "Understanding"
-pubDatetime: 2026-04-23T19:40:04Z
+pubDatetime: "2026-04-23T19:40:04Z"
 publishDate: '2026-04-23T19:40:04Z'
 readingTime: 7
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "How to Write a Winning Scholarship Essay Even If You Don't Have a Grand Story"
 description: "You don’t need a story about surviving a plane crash or climbing Everest to win a scholarship. In the 2022–2023 academic year, U.S. colleges awarded over $12…"
 category: "How"
-pubDatetime: 2026-04-27T19:40:49Z
+pubDatetime: "2026-04-27T19:40:49Z"
 publishDate: '2026-04-27T19:40:49Z'
 readingTime: 7
 tags: ["featured"]

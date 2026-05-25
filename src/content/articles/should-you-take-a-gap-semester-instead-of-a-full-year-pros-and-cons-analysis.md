@@ -2,7 +2,7 @@
 title: "Should You Take a Gap Semester Instead of a Full Year Pros and Cons Analysis"
 description: "Deciding between a gap semester and a gap year is a strategic choice that hinges on specific goals and timelines. Data from the Gap Year Association’s 2023 s…"
 category: "Should"
-pubDatetime: 2026-04-23T19:40:03Z
+pubDatetime: "2026-04-23T19:40:03Z"
 publishDate: '2026-04-23T19:40:03Z'
 readingTime: 7
 tags: ["featured"]

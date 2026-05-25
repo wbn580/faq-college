@@ -2,7 +2,7 @@
 title: "Best Tips for Managing College Email Overload and Staying on Top of Messages"
 description: "The average college student receives **120 to 150 emails per week** during the academic year, according to a 2023 EDUCAUSE survey of 15,000 undergraduates. T…"
 category: "Best"
-pubDatetime: 2026-05-19T19:44:55Z
+pubDatetime: "2026-05-19T19:44:55Z"
 publishDate: '2026-05-19T19:44:55Z'
 readingTime: 8
 tags: ["featured"]

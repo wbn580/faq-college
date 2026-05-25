@@ -2,7 +2,7 @@
 title: "Best Ways to Prepare for College Math Placement Exams to Avoid Remedial Courses"
 description: "Nearly 40% of U.S. college students who take a math placement exam are placed into a remedial (non-credit) course, according to a 2023 report by the National…"
 category: "Best"
-pubDatetime: 2026-05-10T19:43:06Z
+pubDatetime: "2026-05-10T19:43:06Z"
 publishDate: '2026-05-10T19:43:06Z'
 readingTime: 7
 tags: ["featured"]

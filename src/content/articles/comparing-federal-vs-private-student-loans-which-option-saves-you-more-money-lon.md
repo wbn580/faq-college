@@ -2,7 +2,7 @@
 title: "Comparing Federal vs Private Student Loans Which Option Saves You More Money Long Term"
 description: "The average cost of tuition and fees at a four-year public university for in-state students reached $11,260 for the 2023–2024 academic year, according to the…"
 category: "Comparing"
-pubDatetime: 2026-04-07T19:37:14Z
+pubDatetime: "2026-04-07T19:37:14Z"
 publishDate: '2026-04-07T19:37:14Z'
 readingTime: 6
 tags: ["featured"]

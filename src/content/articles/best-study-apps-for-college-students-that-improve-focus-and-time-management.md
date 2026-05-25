@@ -2,7 +2,7 @@
 title: "Best Study Apps for College Students That Improve Focus and Time Management"
 description: "A 2024 survey by the National Center for Education Statistics found that 72% of U.S. college students reported using digital tools daily for academic tasks, …"
 category: "Best"
-pubDatetime: 2026-04-21T19:39:47Z
+pubDatetime: "2026-04-21T19:39:47Z"
 publishDate: '2026-04-21T19:39:47Z'
 readingTime: 6
 tags: ["featured"]

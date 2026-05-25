@@ -2,7 +2,7 @@
 title: "Comparing Study Abroad Programs Through Your University vs Third Party Providers"
 description: "U.S. students studying abroad through their home university's exchange program pay an average of $18,280 per semester in tuition and fees, while those using …"
 category: "Comparing"
-pubDatetime: 2026-04-24T19:40:15Z
+pubDatetime: "2026-04-24T19:40:15Z"
 publishDate: '2026-04-24T19:40:15Z'
 readingTime: 6
 tags: ["featured"]

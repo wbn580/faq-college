@@ -2,7 +2,7 @@
 title: "2026 Scholarship Opportunities for Students Planning to Study Environmental Science"
 description: "Over 2,400 scholarships and fellowships specifically targeting environmental science students are listed across U.S. university portals and federal databases…"
 category: "2026"
-pubDatetime: 2026-05-06T19:42:28Z
+pubDatetime: "2026-05-06T19:42:28Z"
 publishDate: '2026-05-06T19:42:28Z'
 readingTime: 6
 tags: ["featured"]

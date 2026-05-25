@@ -2,7 +2,7 @@
 title: "Understanding the Process of Applying for a Student Visa for the United Kingdom"
 description: "In 2023, the UK Home Office issued 486,107 sponsored study visas to main applicants, a 22% increase from the previous year, according to the Home Office’s *I…"
 category: "Understanding"
-pubDatetime: 2026-05-02T19:41:44Z
+pubDatetime: "2026-05-02T19:41:44Z"
 publishDate: '2026-05-02T19:41:44Z'
 readingTime: 7
 tags: ["featured"]

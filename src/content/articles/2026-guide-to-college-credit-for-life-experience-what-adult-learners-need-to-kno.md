@@ -2,7 +2,7 @@
 title: "2026 Guide to College Credit for Life Experience What Adult Learners Need to Know"
 description: "More than 36 million U.S. adults have some college credit but no degree, according to the National Student Clearinghouse Research Center (2024). For this pop…"
 category: "2026"
-pubDatetime: 2026-05-02T19:41:47Z
+pubDatetime: "2026-05-02T19:41:47Z"
 publishDate: '2026-05-02T19:41:47Z'
 readingTime: 7
 tags: ["featured"]

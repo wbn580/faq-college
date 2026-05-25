@@ -2,7 +2,7 @@
 title: "Understanding the FAFSA Verification Process and What to Do If You Get Selected"
 description: "Each year, roughly **30%** of all FAFSA applicants are randomly selected for a process called verification, according to the U.S. Department of Education’s F…"
 category: "Understanding"
-pubDatetime: 2026-05-11T19:43:29Z
+pubDatetime: "2026-05-11T19:43:29Z"
 publishDate: '2026-05-11T19:43:29Z'
 readingTime: 7
 tags: ["featured"]

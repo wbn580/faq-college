@@ -2,7 +2,7 @@
 title: "Step by Step Guide to Filing a Successful Appeal for More Financial Aid Money"
 description: "Every year, roughly 1 in 5 U.S. college students who formally appeal their financial aid package receives an adjustment, with the average increase hovering a…"
 category: "Step"
-pubDatetime: 2026-04-29T19:41:13Z
+pubDatetime: "2026-04-29T19:41:13Z"
 publishDate: '2026-04-29T19:41:13Z'
 readingTime: 6
 tags: ["featured"]

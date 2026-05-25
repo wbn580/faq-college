@@ -2,7 +2,7 @@
 title: "Why Some Students Choose to Apply Test Optional and How It Affects Admissions"
 description: "By fall 2024, over **1,900 accredited U.S. bachelor's-degree-granting institutions** had extended test-optional or test-free admissions policies, according t…"
 category: "Why"
-pubDatetime: 2026-05-11T19:43:19Z
+pubDatetime: "2026-05-11T19:43:19Z"
 publishDate: '2026-05-11T19:43:19Z'
 readingTime: 9
 tags: ["featured"]

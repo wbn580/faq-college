@@ -2,7 +2,7 @@
 title: "How to Build a Strong Support Network When You Move Away for College Alone"
 description: "Moving away for college alone doesn't mean you have to navigate the transition without a safety net. According to the 2023 National College Health Assessment…"
 category: "How"
-pubDatetime: 2026-05-03T19:41:54Z
+pubDatetime: "2026-05-03T19:41:54Z"
 publishDate: '2026-05-03T19:41:54Z'
 readingTime: 7
 tags: ["featured"]

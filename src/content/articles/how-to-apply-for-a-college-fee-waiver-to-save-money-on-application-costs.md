@@ -2,7 +2,7 @@
 title: "How to Apply for a College Fee Waiver to Save Money on Application Costs"
 description: "The average cost to apply to a single U.S. college is around $50, but selective private universities often charge $75–$90 per application. With the Common Ap…"
 category: "How"
-pubDatetime: 2026-04-29T19:41:14Z
+pubDatetime: "2026-04-29T19:41:14Z"
 publishDate: '2026-04-29T19:41:14Z'
 readingTime: 8
 tags: ["featured"]

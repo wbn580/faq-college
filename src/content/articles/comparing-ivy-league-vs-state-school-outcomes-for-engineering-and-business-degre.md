@@ -2,7 +2,7 @@
 title: "Comparing Ivy League vs State School Outcomes for Engineering and Business Degrees"
 description: "A chemical engineering graduate from an Ivy League university earns a median starting salary of $85,000, while a peer from a top-50 public state school earns…"
 category: "Comparing"
-pubDatetime: 2026-04-11T19:37:58Z
+pubDatetime: "2026-04-11T19:37:58Z"
 publishDate: '2026-04-11T19:37:58Z'
 readingTime: 8
 tags: ["featured"]

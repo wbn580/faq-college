@@ -2,7 +2,7 @@
 title: "Understanding the Process of Applying for a College Minor and Whether It Helps"
 description: "A college minor is a secondary field of study requiring roughly half the credits of a major, typically 15–24 semester hours, and declaring one can add strate…"
 category: "Understanding"
-pubDatetime: 2026-05-16T19:44:21Z
+pubDatetime: "2026-05-16T19:44:21Z"
 publishDate: '2026-05-16T19:44:21Z'
 readingTime: 7
 tags: ["featured"]

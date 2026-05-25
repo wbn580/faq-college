@@ -2,7 +2,7 @@
 title: "Should You Use a College Admissions Consultant What the Data Actually Shows"
 description: "The decision to hire a college admissions consultant is a financial and strategic one, and the data shows the outcomes are far from uniform. According to a 2…"
 category: "Should"
-pubDatetime: 2026-04-12T19:38:08Z
+pubDatetime: "2026-04-12T19:38:08Z"
 publishDate: '2026-04-12T19:38:08Z'
 readingTime: 7
 tags: ["featured"]

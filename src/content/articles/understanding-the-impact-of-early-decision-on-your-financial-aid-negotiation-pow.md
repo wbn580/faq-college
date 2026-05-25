@@ -2,7 +2,7 @@
 title: "Understanding the Impact of Early Decision on Your Financial Aid Negotiation Power"
 description: "Applying Early Decision (ED) signals strong commitment to a college, but it also changes your position when it comes to financial aid. Data from the 2023-202…"
 category: "Understanding"
-pubDatetime: 2026-05-01T19:41:31Z
+pubDatetime: "2026-05-01T19:41:31Z"
 publishDate: '2026-05-01T19:41:31Z'
 readingTime: 9
 tags: ["featured"]

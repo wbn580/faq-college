@@ -2,7 +2,7 @@
 title: "Top 5 Tools to Calculate the True Cost of a College Degree Over 20 Years"
 description: "The sticker price of a college degree is only the beginning. When you factor in tuition inflation, opportunity cost of forgone wages, student loan interest, …"
 category: "Top"
-pubDatetime: 2026-05-04T19:42:07Z
+pubDatetime: "2026-05-04T19:42:07Z"
 publishDate: '2026-05-04T19:42:07Z'
 readingTime: 6
 tags: ["featured"]

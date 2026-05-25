@@ -2,7 +2,7 @@
 title: "How to Write an Effective Thank You Note After a College Admissions Interview"
 description: "A post-interview thank you note can move the needle on your application. According to a 2023 survey by the National Association for College Admission Counsel…"
 category: "How"
-pubDatetime: 2026-05-10T19:43:12Z
+pubDatetime: "2026-05-10T19:43:12Z"
 publishDate: '2026-05-10T19:43:12Z'
 readingTime: 5
 tags: ["featured"]

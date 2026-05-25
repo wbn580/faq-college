@@ -2,7 +2,7 @@
 title: "What Admissions Officers Look for in Recommendation Letters After the Pandemic"
 description: "The pandemic permanently altered how admissions officers evaluate recommendation letters. A 2023 survey by the National Association for College Admission Cou…"
 category: "What"
-pubDatetime: 2026-04-14T19:38:29Z
+pubDatetime: "2026-04-14T19:38:29Z"
 publishDate: '2026-04-14T19:38:29Z'
 readingTime: 9
 tags: ["featured"]

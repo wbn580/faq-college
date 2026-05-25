@@ -6,7 +6,7 @@ publishDate: '2026-05-23T00:00:00Z'
 modDatetime: '2026-05-23T00:00:00Z'
 slug: complete-guide-us-university-scholarships-international-students
 ogImage: 'https://img.ulec.com.cn/留学-大学FAQ/complete-guide-us-university-scholarships-international-students-2026-1880x1255.jpg'
-tags: []
+tags:
   - '美国大学奖学金'
   - '国际学生'
   - '奖学金申请指南'

@@ -2,7 +2,7 @@
 title: "Top 5 Myths About College Greek Life That Could Mislead Prospective Students"
 description: "Nearly one in three U.S. college students who join a fraternity or sorority reports a GPA above 3.5, according to the North American Interfraternity Conferen…"
 category: "Top"
-pubDatetime: 2026-05-17T19:44:38Z
+pubDatetime: "2026-05-17T19:44:38Z"
 publishDate: '2026-05-17T19:44:38Z'
 readingTime: 5
 tags: ["featured"]

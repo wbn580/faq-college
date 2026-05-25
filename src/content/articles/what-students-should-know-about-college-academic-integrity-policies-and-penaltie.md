@@ -2,7 +2,7 @@
 title: "What Students Should Know About College Academic Integrity Policies and Penalties"
 description: "Academic integrity policies are not advisory guidelines — they are binding codes that can result in course failure, suspension, or expulsion at virtually eve…"
 category: "What"
-pubDatetime: 2026-05-19T19:44:57Z
+pubDatetime: "2026-05-19T19:44:57Z"
 publishDate: '2026-05-19T19:44:57Z'
 readingTime: 8
 tags: ["featured"]

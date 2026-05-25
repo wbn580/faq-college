@@ -2,7 +2,7 @@
 title: "How to Evaluate a College Dean of Students Office Before Committing to Enroll"
 description: "The Dean of Students office (DOS) is the central hub for student life, crisis management, and behavioral conduct at most U.S. colleges. Yet, 68% of incoming …"
 category: "How"
-pubDatetime: 2026-05-16T19:44:18Z
+pubDatetime: "2026-05-16T19:44:18Z"
 publishDate: '2026-05-16T19:44:18Z'
 readingTime: 8
 tags: ["featured"]

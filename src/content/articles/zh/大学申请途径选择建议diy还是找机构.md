@@ -2,7 +2,7 @@
 title: "大学申请途径选择建议：DIY还是找机构"
 description: "The decision between managing your own college applications (DIY) and hiring an agency isn't a moral one—it’s a resource calculation. In the 2022-2023 admiss…"
 category: "大学申请途径选择建议：D"
-pubDatetime: 2026-03-03T19:31:05Z
+pubDatetime: "2026-03-03T19:31:05Z"
 publishDate: '2026-03-03T19:31:05Z'
 readingTime: 3
 tags: ["featured"]

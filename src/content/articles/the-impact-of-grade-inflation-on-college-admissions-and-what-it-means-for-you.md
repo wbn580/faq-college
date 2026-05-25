@@ -2,7 +2,7 @@
 title: "The Impact of Grade Inflation on College Admissions and What It Means for You"
 description: "Grade inflation has reshaped the U.S. college admissions landscape over the past two decades, with the average high school GPA rising from 3.17 in 2000 to 3.…"
 category: "The"
-pubDatetime: 2026-04-22T19:39:53Z
+pubDatetime: "2026-04-22T19:39:53Z"
 publishDate: '2026-04-22T19:39:53Z'
 readingTime: 9
 tags: ["featured"]

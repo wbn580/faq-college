@@ -2,7 +2,7 @@
 title: "2026 Guide to Summer Bridge Programs That Help Students Transition to College"
 description: "Summer bridge programs—typically 4–8 week pre-freshman academic boot camps—are one of the most effective tools for closing the college readiness gap. Accordi…"
 category: "2026"
-pubDatetime: 2026-04-29T19:41:01Z
+pubDatetime: "2026-04-29T19:41:01Z"
 publishDate: '2026-04-29T19:41:01Z'
 readingTime: 6
 tags: ["featured"]

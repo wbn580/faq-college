@@ -2,7 +2,7 @@
 title: "How to Handle Waitlist Decisions From Colleges Strategies That Actually Work"
 description: "About 43% of U.S. colleges that use a waitlist admitted zero students from it in 2022, according to the National Association for College Admission Counseling…"
 category: "How"
-pubDatetime: 2026-05-02T19:41:45Z
+pubDatetime: "2026-05-02T19:41:45Z"
 publishDate: '2026-05-02T19:41:45Z'
 readingTime: 7
 tags: ["featured"]

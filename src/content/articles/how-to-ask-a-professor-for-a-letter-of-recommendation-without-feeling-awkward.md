@@ -2,7 +2,7 @@
 title: "How to Ask a Professor for a Letter of Recommendation Without Feeling Awkward"
 description: "A strong letter of recommendation can be the deciding factor in a competitive graduate school application. According to U.S. News & World Report, 2024 data s…"
 category: "How"
-pubDatetime: 2026-05-09T19:42:52Z
+pubDatetime: "2026-05-09T19:42:52Z"
 publishDate: '2026-05-09T19:42:52Z'
 readingTime: 6
 tags: ["featured"]

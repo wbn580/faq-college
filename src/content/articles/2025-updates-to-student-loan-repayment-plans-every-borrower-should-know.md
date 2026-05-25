@@ -2,7 +2,7 @@
 title: "2025 Updates to Student Loan Repayment Plans Every Borrower Should Know"
 description: "In 2025, the landscape of federal student loan repayment in the United States has shifted significantly, affecting over **43 million borrowers** who collecti…"
 category: "2025"
-pubDatetime: 2026-04-18T19:39:17Z
+pubDatetime: "2026-04-18T19:39:17Z"
 publishDate: '2026-04-18T19:39:17Z'
 readingTime: 6
 tags: ["featured"]

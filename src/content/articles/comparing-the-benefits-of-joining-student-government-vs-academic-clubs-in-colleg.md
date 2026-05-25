@@ -2,7 +2,7 @@
 title: "Comparing the Benefits of Joining Student Government vs Academic Clubs in College"
 description: "A 2023 National Association of Colleges and Employers (NACE) survey found that **82.6% of employers** consider leadership experience a key hiring factor, yet…"
 category: "Comparing"
-pubDatetime: 2026-05-05T19:42:17Z
+pubDatetime: "2026-05-05T19:42:17Z"
 publishDate: '2026-05-05T19:42:17Z'
 readingTime: 6
 tags: ["featured"]

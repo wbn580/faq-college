@@ -2,7 +2,7 @@
 title: "Comparing Two Year vs Four Year Degrees for Career Changers and Adult Learners"
 description: "Adults considering a career change face a fundamental choice: a two-year associate degree or a four-year bachelor's degree. Data from the U.S. Bureau of Labo…"
 category: "Comparing"
-pubDatetime: 2026-04-16T19:38:51Z
+pubDatetime: "2026-04-16T19:38:51Z"
 publishDate: '2026-04-16T19:38:51Z'
 readingTime: 9
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "How to Research a College Campus Safety Record Before Deciding Where to Apply"
 description: "A 2023 U.S. Department of Education report documented over 38,000 criminal incidents on U.S. college campuses, with 1,700 involving forcible sex offenses and…"
 category: "How"
-pubDatetime: 2026-05-07T19:42:42Z
+pubDatetime: "2026-05-07T19:42:42Z"
 publishDate: '2026-05-07T19:42:42Z'
 readingTime: 8
 tags: ["featured"]

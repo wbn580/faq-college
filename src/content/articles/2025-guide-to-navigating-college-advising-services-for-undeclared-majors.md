@@ -2,7 +2,7 @@
 title: "2025 Guide to Navigating College Advising Services for Undeclared Majors"
 description: "Nearly 30% of students entering four-year U.S. colleges and universities in fall 2023 declared themselves undeclared or exploratory, according to the Nationa…"
 category: "2025"
-pubDatetime: 2026-05-17T19:44:27Z
+pubDatetime: "2026-05-17T19:44:27Z"
 publishDate: '2026-05-17T19:44:27Z'
 readingTime: 8
 tags: ["featured"]

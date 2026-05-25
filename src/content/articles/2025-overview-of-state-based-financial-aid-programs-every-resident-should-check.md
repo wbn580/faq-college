@@ -2,7 +2,7 @@
 title: "2025 Overview of State Based Financial Aid Programs Every Resident Should Check"
 description: "State-based financial aid programs distribute over **$14 billion** annually to U.S. residents, yet an estimated **30% of eligible students** fail to apply ea…"
 category: "2025"
-pubDatetime: 2026-05-01T19:41:36Z
+pubDatetime: "2026-05-01T19:41:36Z"
 publishDate: '2026-05-01T19:41:36Z'
 readingTime: 10
 tags: ["featured"]

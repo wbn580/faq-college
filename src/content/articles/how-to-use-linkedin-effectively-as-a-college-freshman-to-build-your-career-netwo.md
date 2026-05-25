@@ -2,7 +2,7 @@
 title: "How to Use LinkedIn Effectively as a College Freshman to Build Your Career Network"
 description: "Starting LinkedIn as a college freshman places you ahead of 85% of your peers who wait until junior year to create a profile, according to a 2023 survey by t…"
 category: "How"
-pubDatetime: 2026-04-21T19:39:41Z
+pubDatetime: "2026-04-21T19:39:41Z"
 publishDate: '2026-04-21T19:39:41Z'
 readingTime: 7
 tags: ["featured"]

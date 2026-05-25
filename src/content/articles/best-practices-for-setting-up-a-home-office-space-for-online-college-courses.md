@@ -2,7 +2,7 @@
 title: "Best Practices for Setting Up a Home Office Space for Online College Courses"
 description: "A 2023 survey by the National Center for Education Statistics (NCES) found that **60% of U.S. undergraduates** enrolled in at least one online course, yet on…"
 category: "Best"
-pubDatetime: 2026-05-17T19:44:24Z
+pubDatetime: "2026-05-17T19:44:24Z"
 publishDate: '2026-05-17T19:44:24Z'
 readingTime: 5
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "How to Find and Apply for Local Scholarships in Your Hometown That Few Know About"
 description: "Over 60% of all U.S. undergraduate scholarship funding comes from local and community-based sources, not national competitions, according to the 2023 report …"
 category: "How"
-pubDatetime: 2026-04-23T19:40:05Z
+pubDatetime: "2026-04-23T19:40:05Z"
 publishDate: '2026-04-23T19:40:05Z'
 readingTime: 6
 tags: ["featured"]

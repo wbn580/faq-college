@@ -2,7 +2,7 @@
 title: "Top 5 Majors With the Fastest Growing Job Markets in the Next Decade"
 description: "The U.S. Bureau of Labor Statistics (BLS) projects that total employment will grow by 4.7 million jobs from 2023 to 2033, a 2.7% increase. However, this aver…"
 category: "Top"
-pubDatetime: 2026-04-17T19:38:59Z
+pubDatetime: "2026-04-17T19:38:59Z"
 publishDate: '2026-04-17T19:38:59Z'
 readingTime: 5
 tags: ["featured"]

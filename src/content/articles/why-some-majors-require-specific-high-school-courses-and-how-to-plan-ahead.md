@@ -2,7 +2,7 @@
 title: "Why Some Majors Require Specific High School Courses and How to Plan Ahead"
 description: "University admissions teams treat high school course selection as a **prerequisite signal**, not just a GPA component. A 2023 report from the National Associ…"
 category: "Why"
-pubDatetime: 2026-05-03T19:41:52Z
+pubDatetime: "2026-05-03T19:41:52Z"
 publishDate: '2026-05-03T19:41:52Z'
 readingTime: 8
 tags: ["featured"]

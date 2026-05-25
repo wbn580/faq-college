@@ -2,7 +2,7 @@
 title: "大学专业选择测试对比：MBTI、霍兰德与优势识别器"
 description: "Each year, approximately 1.9 million U.S. students enter their first year of college, and roughly 30% will change their major at least once within three year…"
 category: "大学专业选择测试对比：M"
-pubDatetime: 2026-03-22T19:34:25Z
+pubDatetime: "2026-03-22T19:34:25Z"
 publishDate: '2026-03-22T19:34:25Z'
 readingTime: 3
 tags: ["featured"]

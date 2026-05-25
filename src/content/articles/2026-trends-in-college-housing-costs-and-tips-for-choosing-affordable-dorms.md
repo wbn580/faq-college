@@ -2,7 +2,7 @@
 title: "2026 Trends in College Housing Costs and Tips for Choosing Affordable Dorms"
 description: "On-campus housing costs in the United States have risen by 5.2% year-over-year for the 2025-2026 academic year, pushing the average annual price for a standa…"
 category: "2026"
-pubDatetime: 2026-04-15T19:38:48Z
+pubDatetime: "2026-04-15T19:38:48Z"
 publishDate: '2026-04-15T19:38:48Z'
 readingTime: 7
 tags: ["featured"]

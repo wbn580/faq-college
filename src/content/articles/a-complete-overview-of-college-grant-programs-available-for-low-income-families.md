@@ -2,7 +2,7 @@
 title: "A Complete Overview of College Grant Programs Available for Low Income Families"
 description: "A college degree is the single most effective wealth-building tool in the United States, yet the sticker price of a four-year institution now exceeds $60,000…"
 category: "A"
-pubDatetime: 2026-04-24T19:40:22Z
+pubDatetime: "2026-04-24T19:40:22Z"
 publishDate: '2026-04-24T19:40:22Z'
 readingTime: 8
 tags: ["featured"]

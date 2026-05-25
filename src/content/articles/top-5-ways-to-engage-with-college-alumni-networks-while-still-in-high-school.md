@@ -2,7 +2,7 @@
 title: "Top 5 Ways to Engage With College Alumni Networks While Still in High School"
 description: "A high school student who actively engages with a target college’s alumni network is 3.4 times more likely to receive an admissions offer than a peer with si…"
 category: "Top"
-pubDatetime: 2026-05-16T19:44:19Z
+pubDatetime: "2026-05-16T19:44:19Z"
 publishDate: '2026-05-16T19:44:19Z'
 readingTime: 9
 tags: ["featured"]

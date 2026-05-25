@@ -2,7 +2,7 @@
 title: "How to Build Professional Connections as a Shy Student Without Feeling Awkward"
 description: "Building professional connections feels like a performance for shy students, but the data shows that introverts can be equally effective networkers when they…"
 category: "How"
-pubDatetime: 2026-04-15T19:38:41Z
+pubDatetime: "2026-04-15T19:38:41Z"
 publishDate: '2026-04-15T19:38:41Z'
 readingTime: 6
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "How to Find and Apply for College Bridge Programs That Ease the Transition"
 description: "College bridge programs serve as structured pathways for high school students to earn college credits, acclimate to university-level coursework, and reduce t…"
 category: "How"
-pubDatetime: 2026-05-17T19:44:35Z
+pubDatetime: "2026-05-17T19:44:35Z"
 publishDate: '2026-05-17T19:44:35Z'
 readingTime: 5
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "Comparing the Job Placement Rates of College Career Centers vs Private Headhunters"
 description: "A 2023 survey by the National Association of Colleges and Employers (NACE) found that 70.4% of college career centers reported placing students into full-tim…"
 category: "Comparing"
-pubDatetime: 2026-05-18T19:44:47Z
+pubDatetime: "2026-05-18T19:44:47Z"
 publishDate: '2026-05-18T19:44:47Z'
 readingTime: 7
 tags: ["featured"]

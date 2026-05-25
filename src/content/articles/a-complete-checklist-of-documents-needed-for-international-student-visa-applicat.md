@@ -2,7 +2,7 @@
 title: "A Complete Checklist of Documents Needed for International Student Visa Applications"
 description: "A single missing document can delay your visa by 8–12 weeks, according to the U.S. Department of State’s 2024 Visa Processing Report, and the UK Home Office …"
 category: "A"
-pubDatetime: 2026-04-11T19:37:48Z
+pubDatetime: "2026-04-11T19:37:48Z"
 publishDate: '2026-04-11T19:37:48Z'
 readingTime: 8
 tags: ["featured"]

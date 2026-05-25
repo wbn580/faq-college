@@ -2,7 +2,7 @@
 title: "Comparing the Social Integration Programs at Large Universities and Small Colleges"
 description: "Social integration — the process of building friendships, joining communities, and feeling like you belong on campus — operates differently depending on whet…"
 category: "Comparing"
-pubDatetime: 2026-05-21T19:45:16Z
+pubDatetime: "2026-05-21T19:45:16Z"
 publishDate: '2026-05-21T19:45:16Z'
 readingTime: 7
 tags: ["featured"]

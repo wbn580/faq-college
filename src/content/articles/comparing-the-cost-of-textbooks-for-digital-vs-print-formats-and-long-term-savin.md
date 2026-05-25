@@ -2,7 +2,7 @@
 title: "Comparing the Cost of Textbooks for Digital vs Print Formats and Long Term Savings"
 description: "A single college textbook in the US now costs an average of $105, according to the Bureau of Labor Statistics (2023 Consumer Price Index data), with some STE…"
 category: "Comparing"
-pubDatetime: 2026-05-15T19:44:05Z
+pubDatetime: "2026-05-15T19:44:05Z"
 publishDate: '2026-05-15T19:44:05Z'
 readingTime: 7
 tags: ["featured"]

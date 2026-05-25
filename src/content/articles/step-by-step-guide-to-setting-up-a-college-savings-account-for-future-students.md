@@ -2,7 +2,7 @@
 title: "Step by Step Guide to Setting Up a College savings Account for Future Students"
 description: "The average cost of tuition and fees at a four-year private U.S. university now exceeds $41,540 per year, while in-state public university tuition averages $…"
 category: "Step"
-pubDatetime: 2026-04-24T19:40:10Z
+pubDatetime: "2026-04-24T19:40:10Z"
 publishDate: '2026-04-24T19:40:10Z'
 readingTime: 6
 tags: ["featured"]

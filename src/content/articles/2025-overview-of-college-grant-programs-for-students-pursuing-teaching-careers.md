@@ -2,7 +2,7 @@
 title: "2025 Overview of College Grant Programs for Students Pursuing Teaching Careers"
 description: "In 2025, over 40 U.S. states operate dedicated grant and scholarship programs specifically for students who commit to teaching careers, with total annual fun…"
 category: "2025"
-pubDatetime: 2026-05-12T19:43:37Z
+pubDatetime: "2026-05-12T19:43:37Z"
 publishDate: '2026-05-12T19:43:37Z'
 readingTime: 8
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "Understanding the Role of Demonstrated Interest in College Admissions Decisions"
 description: "Demonstrated interest — the degree to which a prospective student shows genuine enthusiasm for a specific college — is a factor in admissions decisions at ap…"
 category: "Understanding"
-pubDatetime: 2026-04-18T19:39:18Z
+pubDatetime: "2026-04-18T19:39:18Z"
 publishDate: '2026-04-18T19:39:18Z'
 readingTime: 9
 tags: ["featured"]

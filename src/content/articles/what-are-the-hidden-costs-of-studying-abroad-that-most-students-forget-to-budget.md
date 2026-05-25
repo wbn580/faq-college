@@ -2,7 +2,7 @@
 title: "What Are the Hidden Costs of Studying Abroad That Most Students Forget to Budget For"
 description: "Most students budgeting for a year abroad focus on tuition, flights, and rent—yet actual spending often exceeds the initial estimate by 30–50%. A 2023 study …"
 category: "What"
-pubDatetime: 2026-04-08T19:37:21Z
+pubDatetime: "2026-04-08T19:37:21Z"
 publishDate: '2026-04-08T19:37:21Z'
 readingTime: 8
 tags: ["featured"]

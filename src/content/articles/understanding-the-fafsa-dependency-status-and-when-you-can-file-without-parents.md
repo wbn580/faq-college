@@ -2,7 +2,7 @@
 title: "Understanding the FAFSA Dependency Status and When You Can File Without Parents"
 description: "About 1.7 million dependent students submitted the FAFSA for the 2022-2023 award year, yet roughly 200,000 of those applications were flagged with conflictin…"
 category: "Understanding"
-pubDatetime: 2026-04-20T19:39:40Z
+pubDatetime: "2026-04-20T19:39:40Z"
 publishDate: '2026-04-20T19:39:40Z'
 readingTime: 7
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "大学奖学金申请条件：GPA、排名与标准化考试"
 description: "In the 2023-2024 academic year, U.S. colleges distributed over $19.6 billion in institutional grant aid to undergraduate students, according to the College B…"
 category: "大学奖学金申请条件：GP"
-pubDatetime: 2026-03-31T19:36:01Z
+pubDatetime: "2026-03-31T19:36:01Z"
 publishDate: '2026-03-31T19:36:01Z'
 readingTime: 3
 tags: ["featured"]

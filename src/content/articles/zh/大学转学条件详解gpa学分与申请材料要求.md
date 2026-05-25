@@ -2,7 +2,7 @@
 title: "大学转学条件详解：GPA、学分与申请材料要求"
 description: "Transferring to a different university in the United States is a strategic academic move that requires a clear understanding of **GPA thresholds, transferabl…"
 category: "大学转学条件详解：GPA"
-pubDatetime: 2026-03-05T19:31:27Z
+pubDatetime: "2026-03-05T19:31:27Z"
 publishDate: '2026-03-05T19:31:27Z'
 readingTime: 3
 tags: ["featured"]

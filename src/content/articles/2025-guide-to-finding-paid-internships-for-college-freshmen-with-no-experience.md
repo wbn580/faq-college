@@ -2,7 +2,7 @@
 title: "2025 Guide to Finding Paid Internships for College Freshmen With No Experience"
 description: "Landing a paid internship as a college freshman with zero prior work experience is a realistic goal, not a long shot. According to the National Association o…"
 category: "2025"
-pubDatetime: 2026-04-13T19:38:09Z
+pubDatetime: "2026-04-13T19:38:09Z"
 publishDate: '2026-04-13T19:38:09Z'
 readingTime: 7
 tags: ["featured"]

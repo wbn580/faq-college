@@ -2,7 +2,7 @@
 title: "大学奖学金申请Dcard经验分享：成功案例与教训"
 description: "A single $25,000 scholarship can reduce the total cost of a U.S. bachelor's degree by 15-20% for an international student, yet the application success rate f…"
 category: "大学奖学金申请Dcard"
-pubDatetime: 2026-03-20T19:34:07Z
+pubDatetime: "2026-03-20T19:34:07Z"
 publishDate: '2026-03-20T19:34:07Z'
 readingTime: 3
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "How to Transfer From a Community College to a Top University Without Losing Credits"
 description: "In the 2022–2023 academic year, approximately 41% of all U.S. undergraduate students were enrolled in community colleges, according to the American Associati…"
 category: "How"
-pubDatetime: 2026-04-26T19:40:38Z
+pubDatetime: "2026-04-26T19:40:38Z"
 publishDate: '2026-04-26T19:40:38Z'
 readingTime: 8
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "How to Create a Standout College Application Video Essay for Optional Submissions"
 description: "As of the 2023-2024 admissions cycle, over 65 U.S. colleges and universities—including the entire University of California system, Brown, and the University …"
 category: "How"
-pubDatetime: 2026-05-01T19:41:29Z
+pubDatetime: "2026-05-01T19:41:29Z"
 publishDate: '2026-05-01T19:41:29Z'
 readingTime: 6
 tags: ["featured"]

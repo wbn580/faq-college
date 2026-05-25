@@ -2,7 +2,7 @@
 title: "Why Mental Health Resources on Campus Vary So Much and What to Look For"
 description: "A student at a large public university might wait 6 to 8 weeks for a first counseling appointment, while a peer at a small private college down the road can …"
 category: "Why"
-pubDatetime: 2026-04-24T19:40:16Z
+pubDatetime: "2026-04-24T19:40:16Z"
 publishDate: '2026-04-24T19:40:16Z'
 readingTime: 6
 tags: ["featured"]

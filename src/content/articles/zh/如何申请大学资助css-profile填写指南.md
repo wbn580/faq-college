@@ -2,7 +2,7 @@
 title: "如何申请大学资助：CSS Profile填写指南"
 description: "About 200 U.S. colleges and universities require the CSS Profile from the College Board, not just the FAFSA, to award non-federal institutional aid. For the …"
 category: "如何申请大学资助：CSS"
-pubDatetime: 2026-03-30T19:35:47Z
+pubDatetime: "2026-03-30T19:35:47Z"
 publishDate: '2026-03-30T19:35:47Z'
 readingTime: 3
 tags: ["featured"]

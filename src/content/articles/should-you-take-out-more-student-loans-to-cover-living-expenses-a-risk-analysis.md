@@ -2,7 +2,7 @@
 title: "Should You Take Out More Student Loans to Cover Living Expenses A Risk Analysis"
 description: "The average U.S. bachelor’s degree recipient in 2023 graduated with **$29,400** in federal student loan debt, according to the College Board’s Trends in Coll…"
 category: "Should"
-pubDatetime: 2026-04-26T19:40:33Z
+pubDatetime: "2026-04-26T19:40:33Z"
 publishDate: '2026-04-26T19:40:33Z'
 readingTime: 7
 tags: ["featured"]

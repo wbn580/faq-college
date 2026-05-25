@@ -2,7 +2,7 @@
 title: "Top 5 Reasons to Consider a College With a Co Op Program for Career Experience"
 description: "A college degree alone no longer guarantees a job. Data from the National Association of Colleges and Employers (NACE) shows that in 2024, **60.8%** of gradu…"
 category: "Top"
-pubDatetime: 2026-05-06T19:42:26Z
+pubDatetime: "2026-05-06T19:42:26Z"
 publishDate: '2026-05-06T19:42:26Z'
 readingTime: 8
 tags: ["featured"]

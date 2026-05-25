@@ -2,7 +2,7 @@
 title: "How College Accreditation Affects Your Degree Value and Future Job Prospects"
 description: "A college’s accreditation status is the single most important factor determining whether your degree will be recognized by employers, graduate schools, and p…"
 category: "How"
-pubDatetime: 2026-04-13T19:38:12Z
+pubDatetime: "2026-04-13T19:38:12Z"
 publishDate: '2026-04-13T19:38:12Z'
 readingTime: 8
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "2026 Trends in College Majors That Are Declining in Popularity and Emerging Fields"
 description: "Between 2012 and 2022, the number of U.S. bachelor’s degrees awarded in English language and literature fell by 34%, dropping from 54,438 to 36,045, accordin…"
 category: "2026"
-pubDatetime: 2026-05-11T19:43:21Z
+pubDatetime: "2026-05-11T19:43:21Z"
 publishDate: '2026-05-11T19:43:21Z'
 readingTime: 9
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "Breaking Down the Cost of Textbooks and Smart Ways to Save Over 1000 Dollars"
 description: "The average U.S. college student spent **$413 on course materials in the 2023-2024 academic year**, according to the National Association of College Stores (…"
 category: "Breaking"
-pubDatetime: 2026-04-13T19:38:18Z
+pubDatetime: "2026-04-13T19:38:18Z"
 publishDate: '2026-04-13T19:38:18Z'
 readingTime: 8
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "大学奖学金申请Dcard学长姐经验整理2025"
 description: "In the 2024-2025 academic year, U.S. colleges and universities distributed over $236 billion in financial aid, with approximately $76 billion coming from ins…"
 category: "大学奖学金申请Dcard"
-pubDatetime: 2026-03-27T19:35:25Z
+pubDatetime: "2026-03-27T19:35:25Z"
 publishDate: '2026-03-27T19:35:25Z'
 readingTime: 3
 tags: ["featured"]

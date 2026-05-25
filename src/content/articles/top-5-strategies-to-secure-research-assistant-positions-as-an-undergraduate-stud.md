@@ -2,7 +2,7 @@
 title: "Top 5 Strategies to Secure Research Assistant Positions as an Undergraduate Student"
 description: "Only 19.2% of U.S. undergraduates participate in faculty-led research before graduation, according to the 2023 National Survey of Student Engagement (NSSE). …"
 category: "Top"
-pubDatetime: 2026-04-12T19:38:06Z
+pubDatetime: "2026-04-12T19:38:06Z"
 publishDate: '2026-04-12T19:38:06Z'
 readingTime: 6
 tags: ["featured"]

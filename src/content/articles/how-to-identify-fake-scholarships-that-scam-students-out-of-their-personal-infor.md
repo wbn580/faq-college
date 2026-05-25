@@ -2,7 +2,7 @@
 title: "How to Identify Fake Scholarships That Scam Students Out of Their Personal Information"
 description: "The Federal Trade Commission (FTC) reported that consumers lost over $122 million to scholarship and education scams in 2022 alone, a 40% increase from the p…"
 category: "How"
-pubDatetime: 2026-04-21T19:39:49Z
+pubDatetime: "2026-04-21T19:39:49Z"
 publishDate: '2026-04-21T19:39:49Z'
 readingTime: 8
 tags: ["featured"]

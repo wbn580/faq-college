@@ -2,7 +2,7 @@
 title: "Five Common Myths About Community College That Could Cost You Time and Money"
 description: "Nearly one in three U.S. undergraduates — **29.4%**, or about 5.4 million students — were enrolled in a community college in fall 2022, according to the Nati…"
 category: "Five"
-pubDatetime: 2026-04-09T19:37:36Z
+pubDatetime: "2026-04-09T19:37:36Z"
 publishDate: '2026-04-09T19:37:36Z'
 readingTime: 6
 tags: ["featured"]

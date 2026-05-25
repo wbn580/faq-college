@@ -2,7 +2,7 @@
 title: "Comparing the Academic Rigor of Honors Programs vs Regular College Curricula"
 description: "About 25% of U.S. four-year public universities offer an honors program, and students in these programs typically take 15–24 credits of honors-designated cou…"
 category: "Comparing"
-pubDatetime: 2026-05-03T19:41:56Z
+pubDatetime: "2026-05-03T19:41:56Z"
 publishDate: '2026-05-03T19:41:56Z'
 readingTime: 9
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "Top 5 Data Science Skills Every College Student Should Learn Before Graduation"
 description: "By 2027, the U.S. Bureau of Labor Statistics projects 3.5 million data-related job openings, yet the supply of qualified graduates falls short by roughly 200…"
 category: "Top"
-pubDatetime: 2026-04-22T19:40:01Z
+pubDatetime: "2026-04-22T19:40:01Z"
 publishDate: '2026-04-22T19:40:01Z'
 readingTime: 6
 tags: ["featured"]

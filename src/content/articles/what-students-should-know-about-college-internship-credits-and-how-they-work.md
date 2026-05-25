@@ -2,7 +2,7 @@
 title: "What Students Should Know About College Internship Credits and How They Work"
 description: "Approximately 60% of four-year U.S. colleges and universities now offer academic credit for internships, according to the National Association of Colleges an…"
 category: "What"
-pubDatetime: 2026-05-22T19:45:25Z
+pubDatetime: "2026-05-22T19:45:25Z"
 publishDate: '2026-05-22T19:45:25Z'
 readingTime: 8
 tags: ["featured"]

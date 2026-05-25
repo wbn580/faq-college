@@ -2,7 +2,7 @@
 title: "大学专业选择指南：STEM专业与非STEM专业的对比"
 description: "STEM graduates in the U.S. earn a median annual salary of $77,000, compared to $55,000 for non-STEM graduates, according to the U.S. Bureau of Labor Statisti…"
 category: "大学专业选择指南：STE"
-pubDatetime: 2026-03-27T19:35:26Z
+pubDatetime: "2026-03-27T19:35:26Z"
 publishDate: '2026-03-27T19:35:26Z'
 readingTime: 3
 tags: ["featured"]

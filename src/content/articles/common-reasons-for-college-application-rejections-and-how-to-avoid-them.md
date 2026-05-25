@@ -2,7 +2,7 @@
 title: "Common Reasons for College Application Rejections and How to Avoid Them"
 description: "Each year, roughly **1.5 million** students apply to U.S. four-year colleges through the Common Application alone, and the average admission rate across all …"
 category: "Common"
-pubDatetime: 2026-04-24T19:40:12Z
+pubDatetime: "2026-04-24T19:40:12Z"
 publishDate: '2026-04-24T19:40:12Z'
 readingTime: 7
 tags: ["featured"]

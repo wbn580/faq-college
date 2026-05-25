@@ -2,7 +2,7 @@
 title: "Comparing the Value of AP Courses vs Dual Enrollment for College Credit Savings"
 description: "A U.S. student taking one AP exam saves an average of $340 on in-state public university tuition, while a student completing a single dual-enrollment course …"
 category: "Comparing"
-pubDatetime: 2026-04-28T19:41:01Z
+pubDatetime: "2026-04-28T19:41:01Z"
 publishDate: '2026-04-28T19:41:01Z'
 readingTime: 6
 tags: ["featured"]

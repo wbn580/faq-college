@@ -2,7 +2,7 @@
 title: "Understanding the Costs of Living on Campus vs Living at Home During College"
 description: "The decision between living on campus and commuting from home is one of the most significant financial choices a college student makes. According to the **Co…"
 category: "Understanding"
-pubDatetime: 2026-05-10T19:43:13Z
+pubDatetime: "2026-05-10T19:43:13Z"
 publishDate: '2026-05-10T19:43:13Z'
 readingTime: 7
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "Comparing the Benefits of Study Abroad in Europe vs Asia for Language Majors"
 description: "Language majors face a critical choice between Europe and Asia for study abroad, and the data shows the decision hinges on **language family distance** and *…"
 category: "Comparing"
-pubDatetime: 2026-05-13T19:43:42Z
+pubDatetime: "2026-05-13T19:43:42Z"
 publishDate: '2026-05-13T19:43:42Z'
 readingTime: 7
 tags: ["featured"]

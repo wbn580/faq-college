@@ -2,7 +2,7 @@
 title: "How to Choose Between a Double Major and a Minor Without Overloading Your Schedule"
 description: "Nearly 30% of U.S. undergraduates pursue a double major, according to a 2020 U.S. Department of Education report, yet only 12% complete both fields within fo…"
 category: "How"
-pubDatetime: 2026-04-11T19:38:00Z
+pubDatetime: "2026-04-11T19:38:00Z"
 publishDate: '2026-04-11T19:38:00Z'
 readingTime: 7
 tags: ["featured"]

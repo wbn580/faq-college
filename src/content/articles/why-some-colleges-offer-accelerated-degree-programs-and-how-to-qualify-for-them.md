@@ -2,7 +2,7 @@
 title: "Why Some Colleges Offer Accelerated Degree Programs and How to Qualify for Them"
 description: "In the 2022–2023 academic year, 37% of U.S. four-year colleges offered at least one accelerated degree program, according to the National Center for Educatio…"
 category: "Why"
-pubDatetime: 2026-05-20T19:45:13Z
+pubDatetime: "2026-05-20T19:45:13Z"
 publishDate: '2026-05-20T19:45:13Z'
 readingTime: 8
 tags: ["featured"]

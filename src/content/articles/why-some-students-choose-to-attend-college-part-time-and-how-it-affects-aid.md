@@ -2,7 +2,7 @@
 title: "Why Some Students Choose to Attend College Part Time and How It Affects Aid"
 description: "Nearly 40% of all U.S. undergraduates attend college on a part-time basis, according to the National Center for Education Statistics (NCES, 2022). This figur…"
 category: "Why"
-pubDatetime: 2026-05-01T19:41:27Z
+pubDatetime: "2026-05-01T19:41:27Z"
 publishDate: '2026-05-01T19:41:27Z'
 readingTime: 7
 tags: ["featured"]

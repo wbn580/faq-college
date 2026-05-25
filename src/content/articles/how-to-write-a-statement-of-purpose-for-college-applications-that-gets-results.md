@@ -2,7 +2,7 @@
 title: "How to Write a Statement of Purpose for College Applications That Gets Results"
 description: "A single Statement of Purpose (SOP) can determine whether an admissions officer spends 30 seconds or 5 minutes on your file. According to a 2023 survey by th…"
 category: "How"
-pubDatetime: 2026-04-22T19:39:58Z
+pubDatetime: "2026-04-22T19:39:58Z"
 publishDate: '2026-04-22T19:39:58Z'
 readingTime: 6
 tags: ["featured"]

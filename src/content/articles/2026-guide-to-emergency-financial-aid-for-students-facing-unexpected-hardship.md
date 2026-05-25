@@ -2,7 +2,7 @@
 title: "2026 Guide to Emergency Financial Aid for Students Facing Unexpected Hardship"
 description: "Nearly 60% of U.S. college students reported experiencing at least one basic needs insecurity — food, housing, or healthcare — during the 2023-2024 academic …"
 category: "2026"
-pubDatetime: 2026-04-22T19:39:49Z
+pubDatetime: "2026-04-22T19:39:49Z"
 publishDate: '2026-04-22T19:39:49Z'
 readingTime: 7
 tags: ["featured"]

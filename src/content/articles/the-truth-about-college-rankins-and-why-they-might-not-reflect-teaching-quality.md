@@ -2,7 +2,7 @@
 title: "The Truth About College Rankins and Why They Might Not Reflect Teaching Quality"
 description: "Each year, millions of families consult college rankings published by major outlets like U.S. News & World Report, QS, and Times Higher Education, believing …"
 category: "The"
-pubDatetime: 2026-04-17T19:39:00Z
+pubDatetime: "2026-04-17T19:39:00Z"
 publishDate: '2026-04-17T19:39:00Z'
 readingTime: 9
 tags: ["featured"]

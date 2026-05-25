@@ -2,7 +2,7 @@
 title: "Best Practices for Maintaining Your GPA While Working a Part Time Job in College"
 description: "A 2018 study by Georgetown University's Center on Education and the Workforce found that **40% of full-time undergraduate students** and **76% of part-time s…"
 category: "Best"
-pubDatetime: 2026-05-02T19:41:38Z
+pubDatetime: "2026-05-02T19:41:38Z"
 publishDate: '2026-05-02T19:41:38Z'
 readingTime: 7
 tags: ["featured"]

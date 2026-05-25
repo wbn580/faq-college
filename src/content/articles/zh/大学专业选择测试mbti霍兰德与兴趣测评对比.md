@@ -2,7 +2,7 @@
 title: "大学专业选择测试：MBTI、霍兰德与兴趣测评对比"
 description: "A 2018 study by the National Center for Education Statistics (NCES) found that approximately 30% of undergraduate students in the U.S. change their major at …"
 category: "大学专业选择测试：MBT"
-pubDatetime: 2026-02-28T19:30:32Z
+pubDatetime: "2026-02-28T19:30:32Z"
 publishDate: '2026-02-28T19:30:32Z'
 readingTime: 3
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "A Detailed Look at College Greek Life Costs and Whether It's Worth Joining"
 description: "Joining a fraternity or sorority in the U.S. typically costs between $500 and $4,000 per semester, with lifetime membership dues ranging from $3,000 to over …"
 category: "A"
-pubDatetime: 2026-04-20T19:39:40Z
+pubDatetime: "2026-04-20T19:39:40Z"
 publishDate: '2026-04-20T19:39:40Z'
 readingTime: 6
 tags: ["featured"]

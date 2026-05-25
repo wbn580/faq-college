@@ -2,7 +2,7 @@
 title: "How to Find Affordable Housing Near Campus When On Campus Dorms Are Full"
 description: "Nearly 87% of first-year students at public four-year universities live on campus, according to the 2023 ACUHO-I State of Student Housing report, yet a growi…"
 category: "How"
-pubDatetime: 2026-05-04T19:42:01Z
+pubDatetime: "2026-05-04T19:42:01Z"
 publishDate: '2026-05-04T19:42:01Z'
 readingTime: 6
 tags: ["featured"]

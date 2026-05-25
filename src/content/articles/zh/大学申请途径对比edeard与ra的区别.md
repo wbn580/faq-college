@@ -2,7 +2,7 @@
 title: "大学申请途径对比：ED、EA、RD与RA的区别"
 description: "Over 1.2 million students submitted applications through the Common App for Fall 2024 entry, and nearly 60% of them applied to at least one Early Decision (E…"
 category: "大学申请途径对比：ED、"
-pubDatetime: 2026-03-18T19:33:48Z
+pubDatetime: "2026-03-18T19:33:48Z"
 publishDate: '2026-03-18T19:33:48Z'
 readingTime: 3
 tags: ["featured"]

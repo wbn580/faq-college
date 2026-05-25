@@ -2,7 +2,7 @@
 title: "Common Reasons Students Drop Out of College and How to Stay on Track"
 description: "Nearly one in three U.S. college students will not earn a degree within six years. According to the National Student Clearinghouse Research Center (2024), th…"
 category: "Common"
-pubDatetime: 2026-04-29T19:41:05Z
+pubDatetime: "2026-04-29T19:41:05Z"
 publishDate: '2026-04-29T19:41:05Z'
 readingTime: 6
 tags: ["featured"]

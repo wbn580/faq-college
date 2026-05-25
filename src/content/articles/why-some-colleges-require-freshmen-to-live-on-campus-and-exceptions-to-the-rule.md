@@ -2,7 +2,7 @@
 title: "Why Some Colleges Require Freshmen to Live on Campus and Exceptions to the Rule"
 description: "Roughly 85% of four-year U.S. colleges and universities enforce a **residency requirement** for first-year students, according to a 2022 survey by the Associ…"
 category: "Why"
-pubDatetime: 2026-05-14T19:43:58Z
+pubDatetime: "2026-05-14T19:43:58Z"
 publishDate: '2026-05-14T19:43:58Z'
 readingTime: 7
 tags: ["featured"]

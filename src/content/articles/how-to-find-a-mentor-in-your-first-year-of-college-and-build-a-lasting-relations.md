@@ -2,7 +2,7 @@
 title: "How to Find a Mentor in Your First Year of College and Build a Lasting Relationship"
 description: "Only 37% of first-year college students who actively seek a mentor report doing so through a formal university program, while the remaining 63% find one thro…"
 category: "How"
-pubDatetime: 2026-04-27T19:40:53Z
+pubDatetime: "2026-04-27T19:40:53Z"
 publishDate: '2026-04-27T19:40:53Z'
 readingTime: 6
 tags: ["featured"]

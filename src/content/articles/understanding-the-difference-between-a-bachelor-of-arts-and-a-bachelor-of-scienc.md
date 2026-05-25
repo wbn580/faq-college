@@ -2,7 +2,7 @@
 title: "Understanding the Difference Between a Bachelor of Arts and a Bachelor of Science"
 description: "The choice between a Bachelor of Arts (BA) and a Bachelor of Science (BS) is one of the first major academic decisions you will make in college, and it direc…"
 category: "Understanding"
-pubDatetime: 2026-05-08T19:42:47Z
+pubDatetime: "2026-05-08T19:42:47Z"
 publishDate: '2026-05-08T19:42:47Z'
 readingTime: 7
 tags: ["featured"]

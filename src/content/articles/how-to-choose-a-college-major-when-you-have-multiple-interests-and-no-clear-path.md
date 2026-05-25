@@ -2,7 +2,7 @@
 title: "How to Choose a College Major When You Have Multiple Interests and No Clear Path"
 description: "Around 30% of U.S. college students change their major at least once within the first three years, according to the National Center for Education Statistics …"
 category: "How"
-pubDatetime: 2026-04-25T19:40:28Z
+pubDatetime: "2026-04-25T19:40:28Z"
 publishDate: '2026-04-25T19:40:28Z'
 readingTime: 8
 tags: ["featured"]

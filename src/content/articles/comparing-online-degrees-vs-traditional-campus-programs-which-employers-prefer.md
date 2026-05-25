@@ -2,7 +2,7 @@
 title: "Comparing Online Degrees vs Traditional Campus Programs Which Employers Prefer"
 description: "A 2023 survey by the National Association of Colleges and Employers (NACE) found that **61% of employers view online degrees from accredited, established uni…"
 category: "Comparing"
-pubDatetime: 2026-04-13T19:38:21Z
+pubDatetime: "2026-04-13T19:38:21Z"
 publishDate: '2026-04-13T19:38:21Z'
 readingTime: 6
 tags: ["featured"]

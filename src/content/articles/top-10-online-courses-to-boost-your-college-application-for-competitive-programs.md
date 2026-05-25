@@ -2,7 +2,7 @@
 title: "Top 10 Online Courses to Boost Your College Application for Competitive Programs"
 description: "Admissions officers at top U.S. universities reviewed an average of 59,000 applications for the Class of 2027, with Harvard’s acceptance rate dropping to 3.4…"
 category: "Top"
-pubDatetime: 2026-04-09T19:37:30Z
+pubDatetime: "2026-04-09T19:37:30Z"
 publishDate: '2026-04-09T19:37:30Z'
 readingTime: 6
 tags: ["featured"]

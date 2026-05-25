@@ -2,7 +2,7 @@
 title: "What You Need to Know About College Tuition Insurance and Whether It Is Worth It"
 description: "College tuition insurance reimburses tuition, fees, and room-and-board costs when a student withdraws mid-semester due to a covered medical or mental health …"
 category: "What"
-pubDatetime: 2026-05-19T19:44:59Z
+pubDatetime: "2026-05-19T19:44:59Z"
 publishDate: '2026-05-19T19:44:59Z'
 readingTime: 7
 tags: ["featured"]

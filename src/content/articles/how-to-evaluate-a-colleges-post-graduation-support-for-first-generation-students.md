@@ -2,7 +2,7 @@
 title: "How to Evaluate a College's Post Graduation Support for First Generation Students"
 description: "First-generation students — those whose parents have not earned a bachelor’s degree — now make up **33% of all U.S. college undergraduates** (Pell Institute …"
 category: "How"
-pubDatetime: 2026-05-19T19:45:00Z
+pubDatetime: "2026-05-19T19:45:00Z"
 publishDate: '2026-05-19T19:45:00Z'
 readingTime: 6
 tags: ["featured"]

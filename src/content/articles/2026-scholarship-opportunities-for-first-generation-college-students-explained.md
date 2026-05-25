@@ -2,7 +2,7 @@
 title: "2026 Scholarship Opportunities for First Generation College Students Explained"
 description: "First-generation college students—those whose parents did not complete a four-year degree—represent roughly one-third of all U.S. undergraduates, yet they re…"
 category: "2026"
-pubDatetime: 2026-04-11T19:37:59Z
+pubDatetime: "2026-04-11T19:37:59Z"
 publishDate: '2026-04-11T19:37:59Z'
 readingTime: 6
 tags: ["featured"]

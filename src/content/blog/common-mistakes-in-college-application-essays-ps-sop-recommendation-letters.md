@@ -6,7 +6,7 @@ publishDate: '2026-05-22T00:00:00Z'
 modDatetime: '2026-05-22T00:00:00Z'
 slug: common-mistakes-in-college-application-essays-ps-sop-recommendation-letters
 ogImage: 'https://img.ulec.com.cn/留学-大学FAQ/common-mistakes-in-college-application-essays-ps-sop-recommendation-letters-2026-1880x1253.jpg'
-tags: []
+tags:
   - '留学文书'
   - '个人陈述'
   - '推荐信'

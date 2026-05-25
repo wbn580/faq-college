@@ -2,7 +2,7 @@
 title: "Top 5 Ways to Stay Connected With High School Friends While Adjusting to College"
 description: "The transition from high school to college often involves a geographic and social shift that can strain even the strongest friendships. According to the **U.…"
 category: "Top"
-pubDatetime: 2026-05-21T19:45:19Z
+pubDatetime: "2026-05-21T19:45:19Z"
 publishDate: '2026-05-21T19:45:19Z'
 readingTime: 6
 tags: ["featured"]

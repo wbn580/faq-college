@@ -2,7 +2,7 @@
 title: "Best Strategies to Ace Your First College Midterm Exams Without Burning Out"
 description: "First-semester midterms are the first major academic filter in a U.S. college career, and the data shows that preparation strategy matters more than raw hour…"
 category: "Best"
-pubDatetime: 2026-05-15T19:44:03Z
+pubDatetime: "2026-05-15T19:44:03Z"
 publishDate: '2026-05-15T19:44:03Z'
 readingTime: 6
 tags: ["featured"]

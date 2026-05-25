@@ -2,7 +2,7 @@
 title: "2026 College Application Deadlines You Must Mark on Your Calendar Right Now"
 description: "Missing a single application deadline can cost you an entire year. According to the National Association for College Admission Counseling (NACAC) 2024 State …"
 category: "2026"
-pubDatetime: 2026-04-07T19:37:18Z
+pubDatetime: "2026-04-07T19:37:18Z"
 publishDate: '2026-04-07T19:37:18Z'
 readingTime: 6
 tags: ["featured"]

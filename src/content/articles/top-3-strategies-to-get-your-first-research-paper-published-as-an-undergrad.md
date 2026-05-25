@@ -2,7 +2,7 @@
 title: "Top 3 Strategies to Get Your First Research Paper Published as an Undergrad"
 description: "Only 4.6% of undergraduate students in the United States have a peer-reviewed research paper published before graduation, according to the 2023 National Surv…"
 category: "Top"
-pubDatetime: 2026-04-20T19:39:38Z
+pubDatetime: "2026-04-20T19:39:38Z"
 publishDate: '2026-04-20T19:39:38Z'
 readingTime: 6
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "Comparing the Quality of College Dining Plans and How to Pick the Right One"
 description: "U.S. college dining plans cost an average of $4,500 to $6,500 per academic year, with the University of Massachusetts Amherst reporting the highest meal plan…"
 category: "Comparing"
-pubDatetime: 2026-05-17T19:44:31Z
+pubDatetime: "2026-05-17T19:44:31Z"
 publishDate: '2026-05-17T19:44:31Z'
 readingTime: 7
 tags: ["featured"]

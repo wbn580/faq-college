@@ -2,7 +2,7 @@
 title: "Best Strategies to Pay for College Without Taking on Massive Student Loan Debt"
 description: "American families borrowed over $1.77 trillion in total student debt as of Q2 2024, according to the Federal Reserve Bank of New York’s Household Debt and Cr…"
 category: "Best"
-pubDatetime: 2026-04-27T19:40:53Z
+pubDatetime: "2026-04-27T19:40:53Z"
 publishDate: '2026-04-27T19:40:53Z'
 readingTime: 7
 tags: ["featured"]

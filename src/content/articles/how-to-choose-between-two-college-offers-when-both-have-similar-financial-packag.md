@@ -2,7 +2,7 @@
 title: "How to Choose Between Two College Offers When Both Have Similar Financial Packages"
 description: "Choosing between two college offers with nearly identical financial packages is a high-stakes decision that roughly 38% of U.S. college-bound students face a…"
 category: "How"
-pubDatetime: 2026-05-15T19:44:17Z
+pubDatetime: "2026-05-15T19:44:17Z"
 publishDate: '2026-05-15T19:44:17Z'
 readingTime: 8
 tags: ["featured"]

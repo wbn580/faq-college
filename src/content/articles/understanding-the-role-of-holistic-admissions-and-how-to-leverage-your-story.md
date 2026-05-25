@@ -2,7 +2,7 @@
 title: "Understanding the Role of Holistic Admissions and How to Leverage Your Story"
 description: "In 2023, over 1.2 million first-year students enrolled in U.S. degree-granting institutions, according to the National Center for Education Statistics (NCES)…"
 category: "Understanding"
-pubDatetime: 2026-05-04T19:42:08Z
+pubDatetime: "2026-05-04T19:42:08Z"
 publishDate: '2026-05-04T19:42:08Z'
 readingTime: 6
 tags: ["featured"]

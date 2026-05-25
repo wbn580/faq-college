@@ -2,7 +2,7 @@
 title: "Understanding the Cost of Attendance Breakdown That Colleges Provide in Aid Letters"
 description: "A college financial aid letter is not a bill — it is a structured estimate of what one year will cost and how the school proposes to cover that cost. The cor…"
 category: "Understanding"
-pubDatetime: 2026-04-25T19:40:32Z
+pubDatetime: "2026-04-25T19:40:32Z"
 publishDate: '2026-04-25T19:40:32Z'
 readingTime: 7
 tags: ["featured"]

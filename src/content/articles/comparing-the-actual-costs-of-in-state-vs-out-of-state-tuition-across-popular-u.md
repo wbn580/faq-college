@@ -2,7 +2,7 @@
 title: "Comparing the Actual Costs of In State vs Out of State Tuition Across Popular U S Colleges"
 description: "The gap between in-state and out-of-state tuition at U.S. public universities has widened to an average of **$16,182 per year** at four-year institutions, ac…"
 category: "Comparing"
-pubDatetime: 2026-04-27T19:40:45Z
+pubDatetime: "2026-04-27T19:40:45Z"
 publishDate: '2026-04-27T19:40:45Z'
 readingTime: 6
 tags: ["featured"]

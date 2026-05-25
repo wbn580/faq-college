@@ -2,7 +2,7 @@
 title: "Top 10 College Podcasts Every Prospective Student Should Listen to for Advice"
 description: "Prospective college students spend an average of 17 hours per week consuming podcasts, according to a 2023 Edison Research survey of 16-24 year olds, yet few…"
 category: "Top"
-pubDatetime: 2026-05-03T19:41:51Z
+pubDatetime: "2026-05-03T19:41:51Z"
 publishDate: '2026-05-03T19:41:51Z'
 readingTime: 8
 tags: ["featured"]

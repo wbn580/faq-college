@@ -2,7 +2,7 @@
 title: "大学奖学金申请Dcard经验分享整理"
 description: "In the 2023-2024 academic year, U.S. colleges distributed over $236 billion in financial aid, with $76 billion specifically allocated to institutional grants…"
 category: "大学奖学金申请Dcard"
-pubDatetime: 2026-03-05T19:31:25Z
+pubDatetime: "2026-03-05T19:31:25Z"
 publishDate: '2026-03-05T19:31:25Z'
 readingTime: 3
 tags: ["featured"]

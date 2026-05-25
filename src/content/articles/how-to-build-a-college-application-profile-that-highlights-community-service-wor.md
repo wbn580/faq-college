@@ -2,7 +2,7 @@
 title: "How to Build a College Application Profile That Highlights Community Service Work"
 description: "First-year applications submitted through the Common App in 2023-24 included an average of 5.8 activities per student, yet admissions officers at top-50 univ…"
 category: "How"
-pubDatetime: 2026-05-21T19:45:14Z
+pubDatetime: "2026-05-21T19:45:14Z"
 publishDate: '2026-05-21T19:45:14Z'
 readingTime: 7
 tags: ["featured"]

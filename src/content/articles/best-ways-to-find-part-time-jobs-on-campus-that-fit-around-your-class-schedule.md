@@ -2,7 +2,7 @@
 title: "Best Ways to Find Part Time Jobs on Campus That Fit Around Your Class Schedule"
 description: "Over 70% of U.S. college students work while enrolled, according to a 2022 Georgetown University Center on Education and the Workforce report, with the avera…"
 category: "Best"
-pubDatetime: 2026-04-16T19:38:57Z
+pubDatetime: "2026-04-16T19:38:57Z"
 publishDate: '2026-04-16T19:38:57Z'
 readingTime: 7
 tags: ["featured"]

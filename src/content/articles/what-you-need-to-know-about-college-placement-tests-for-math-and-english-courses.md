@@ -2,7 +2,7 @@
 title: "What You Need to Know About College Placement Tests for Math and English Courses"
 description: "Nearly 60% of first-year students at U.S. community colleges are placed into developmental (remedial) math courses, according to a 2023 report from the Commu…"
 category: "What"
-pubDatetime: 2026-04-28T19:40:56Z
+pubDatetime: "2026-04-28T19:40:56Z"
 publishDate: '2026-04-28T19:40:56Z'
 readingTime: 8
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "Understanding the Role of a College Registrar and How to Get Help From Them"
 description: "The college registrar is the official guardian of your academic record, responsible for course registration, transcript issuance, degree verification, and en…"
 category: "Understanding"
-pubDatetime: 2026-05-18T19:44:43Z
+pubDatetime: "2026-05-18T19:44:43Z"
 publishDate: '2026-05-18T19:44:43Z'
 readingTime: 7
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "2026 Trends in College Application Essays Topics That Admissions Officers Notice"
 description: "By the 2025–2026 admissions cycle, **college application essays** will shift further away from polished 'overcoming adversity' narratives and toward raw, spe…"
 category: "2026"
-pubDatetime: 2026-05-22T19:45:49Z
+pubDatetime: "2026-05-22T19:45:49Z"
 publishDate: '2026-05-22T19:45:49Z'
 readingTime: 8
 tags: ["featured"]

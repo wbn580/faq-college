@@ -2,7 +2,7 @@
 title: "Dcard学长姐奖学金申请经验汇总与避坑指南"
 description: "In 2023, Taiwanese students studying abroad received over NT$12.3 billion in government and private scholarships combined, according to the Ministry of Educa…"
 category: "Dcard学长姐奖学金申"
-pubDatetime: 2026-02-24T19:29:50Z
+pubDatetime: "2026-02-24T19:29:50Z"
 publishDate: '2026-02-24T19:29:50Z'
 readingTime: 3
 tags: ["featured"]

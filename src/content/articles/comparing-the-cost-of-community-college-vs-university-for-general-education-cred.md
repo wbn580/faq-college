@@ -2,7 +2,7 @@
 title: "Comparing the Cost of Community College vs University for General Education Credits"
 description: "The cost difference between completing general education credits at a community college versus directly at a four-year university is substantial, with studen…"
 category: "Comparing"
-pubDatetime: 2026-04-19T19:39:23Z
+pubDatetime: "2026-04-19T19:39:23Z"
 publishDate: '2026-04-19T19:39:23Z'
 readingTime: 7
 tags: ["featured"]

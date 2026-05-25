@@ -2,7 +2,7 @@
 title: "Top 10 Mistakes International Students Make When Applying for US Visas"
 description: "In fiscal year 2023, U.S. consular officers worldwide adjudicated approximately 618,000 F-1 student visa applications, and the refusal rate for non-immigrant…"
 category: "Top"
-pubDatetime: 2026-04-25T19:40:23Z
+pubDatetime: "2026-04-25T19:40:23Z"
 publishDate: '2026-04-25T19:40:23Z'
 readingTime: 7
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "大学申请常见问题：标化考试、语言成绩与GPA"
 description: "U.S. college applications typically require three core academic metrics: standardized test scores (SAT/ACT), English language proficiency scores (TOEFL/IELTS…"
 category: "大学申请常见问题：标化考"
-pubDatetime: 2026-03-13T19:32:59Z
+pubDatetime: "2026-03-13T19:32:59Z"
 publishDate: '2026-03-13T19:32:59Z'
 readingTime: 3
 tags: ["featured"]

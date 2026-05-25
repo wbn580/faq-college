@@ -2,7 +2,7 @@
 title: "How to Create a Four Year Academic Plan That Keeps You on Track for Graduation"
 description: "Only 41% of U.S. first-time bachelor’s degree students graduate within four years, according to the National Student Clearinghouse Research Center’s 2024 *Co…"
 category: "How"
-pubDatetime: 2026-04-19T19:39:23Z
+pubDatetime: "2026-04-19T19:39:23Z"
 publishDate: '2026-04-19T19:39:23Z'
 readingTime: 7
 tags: ["featured"]

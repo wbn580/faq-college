@@ -2,7 +2,7 @@
 title: "Why Taking a Gap Year Could Actually Improve Your Chances at Top Universities"
 description: "A gap year—a structured break of one academic year between high school and university—is no longer a fringe choice. At Harvard University, the number of inco…"
 category: "Why"
-pubDatetime: 2026-04-11T19:37:51Z
+pubDatetime: "2026-04-11T19:37:51Z"
 publishDate: '2026-04-11T19:37:51Z'
 readingTime: 6
 tags: ["featured"]

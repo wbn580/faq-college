@@ -2,7 +2,7 @@
 title: "Comparing the Graduation Rates of Community Colleges vs Four Year Universities"
 description: "The 6-year completion rate for first-time, full-time students at four-year public universities in the United States stands at 62.2%, according to the Nationa…"
 category: "Comparing"
-pubDatetime: 2026-05-11T19:43:25Z
+pubDatetime: "2026-05-11T19:43:25Z"
 publishDate: '2026-05-11T19:43:25Z'
 readingTime: 7
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "Top 5 Resources for College Students to Find Free or Low Cost Legal Advice"
 description: "Nearly 40% of U.S. college students report experiencing a legal issue each year, yet fewer than 1 in 5 seek professional legal help, according to a 2022 surv…"
 category: "Top"
-pubDatetime: 2026-05-20T19:45:03Z
+pubDatetime: "2026-05-20T19:45:03Z"
 publishDate: '2026-05-20T19:45:03Z'
 readingTime: 6
 tags: ["featured"]

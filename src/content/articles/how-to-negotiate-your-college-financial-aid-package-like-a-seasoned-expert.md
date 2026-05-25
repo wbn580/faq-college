@@ -2,7 +2,7 @@
 title: "How to Negotiate Your College Financial Aid Package Like a Seasoned Expert"
 description: "A college financial aid offer is not a final bill — it is the start of a negotiation. According to a 2023 report by the National Association of College and U…"
 category: "How"
-pubDatetime: 2026-04-10T19:37:45Z
+pubDatetime: "2026-04-10T19:37:45Z"
 publishDate: '2026-04-10T19:37:45Z'
 readingTime: 8
 tags: ["featured"]

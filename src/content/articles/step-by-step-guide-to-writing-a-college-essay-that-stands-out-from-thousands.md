@@ -2,7 +2,7 @@
 title: "Step by Step Guide to Writing a College Essay That Stands Out From Thousands"
 description: "Every admissions cycle, over 1.2 million students submit the Common Application alone, with top-tier universities like Harvard receiving 56,937 applications …"
 category: "Step"
-pubDatetime: 2026-04-09T19:37:30Z
+pubDatetime: "2026-04-09T19:37:30Z"
 publishDate: '2026-04-09T19:37:30Z'
 readingTime: 6
 tags: ["featured"]

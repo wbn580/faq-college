@@ -2,7 +2,7 @@
 title: "How to Appeal a College Rejection Letter and Get Your Application Reconsidered"
 description: "A college rejection letter is not a final verdict. In the 2022-23 admissions cycle, 43% of U.S. colleges reported receiving formal appeals, according to the …"
 category: "How"
-pubDatetime: 2026-04-18T19:39:00Z
+pubDatetime: "2026-04-18T19:39:00Z"
 publishDate: '2026-04-18T19:39:00Z'
 readingTime: 5
 tags: ["featured"]
