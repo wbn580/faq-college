@@ -6,6 +6,7 @@ pubDatetime: "2026-05-17T19:44:38Z"
 publishDate: '2026-05-17T19:44:38Z'
 readingTime: 5
 tags: ["featured"]
+
 ---
 
 Nearly one in three U.S. college students who join a fraternity or sorority reports a GPA above 3.5, according to the North American Interfraternity Conference (NIC, 2023 Annual Report). Yet only 8.5% of undergraduate students nationwide are active in Greek life, per the U.S. Department of Education's 2022 National Postsecondary Student Aid Study. This wide gap between perception and participation fuels persistent myths—that Greek organizations are purely social clubs, that membership destroys academic performance, that hazing is universal, that the cost is prohibitive, and that joining guarantees a lifetime of exclusive networking. Each of these claims has been examined by institutional research bodies including the Association of Fraternity/Sorority Advisors (AFA) and the Journal of College Student Development. The data tells a different story: Greek life can be academically rigorous, financially manageable, and structurally diverse. This article breaks down the five most common misconceptions using peer-reviewed studies and official university statistics, so prospective students can make an informed decision without relying on second-hand anecdotes.

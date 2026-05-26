@@ -6,6 +6,7 @@ pubDatetime: "2026-05-02T19:41:44Z"
 publishDate: '2026-05-02T19:41:44Z'
 readingTime: 7
 tags: ["featured"]
+
 ---
 
 In 2023, the UK Home Office issued 486,107 sponsored study visas to main applicants, a 22% increase from the previous year, according to the Home Office’s *Immigration Statistics, Year Ending December 2023*. This surge reflects the UK’s continued pull as a top study destination, but the application process itself demands strict adherence to a points-based system. Applicants must score 70 points total under the Student route (formerly Tier 4) — 50 points for a valid Confirmation of Acceptance for Studies (CAS) from a licensed sponsor, 10 points for sufficient English language proficiency (typically CEFR B2 for degree-level courses), and 10 points for adequate financial maintenance funds. The UK Visas and Immigration (UKVI) service processes most applications within 3 weeks for standard service, though priority (5 working days) and super-priority (next working day) options exist for an additional fee. Understanding each requirement’s exact documentation and timing is the difference between a smooth approval and a refusal that could delay your entire academic year.

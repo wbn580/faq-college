@@ -6,6 +6,7 @@ pubDatetime: "2026-04-30T19:41:23Z"
 publishDate: '2026-04-30T19:41:23Z'
 readingTime: 9
 tags: ["featured"]
+
 ---
 
 The decision to major in the humanities is often framed as a trade-off between passion and practicality. The data, however, reveals a more nuanced picture. According to the American Academy of Arts & Sciences’ 2023 Humanities Indicators, the number of bachelor’s degrees awarded in humanities fields fell by 24% between 2012 and 2022, dropping to roughly 212,000 degrees. Yet, this same period saw a surge in demand for skills that humanities curricula explicitly teach: critical thinking, complex communication, and ethical reasoning. The Georgetown University Center on Education and the Workforce (2022) reports that the median annual earnings for humanities majors 10 years after graduation is $65,000 — lower than the median for engineering ($100,000) but comparable to many life sciences and psychology fields. The real question is not whether humanities degrees have value, but how to strategically position them in a job market that increasingly prizes adaptability and cross-functional expertise. This article breaks down the earnings data, hiring trends, and skill overlaps to help you decide if a humanities major is the right fit given current market realities.

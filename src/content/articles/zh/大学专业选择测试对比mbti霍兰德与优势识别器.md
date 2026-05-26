@@ -6,6 +6,7 @@ pubDatetime: "2026-03-22T19:34:25Z"
 publishDate: '2026-03-22T19:34:25Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 Each year, approximately 1.9 million U.S. students enter their first year of college, and roughly 30% will change their major at least once within three years, according to the National Center for Education Statistics (NCES, 2023, *Digest of Education Statistics*). A mismatch between a student’s natural inclinations and their chosen field of study is a primary driver of this churn. Three career-assessment frameworks dominate the landscape for 16-to-24-year-olds: the Myers-Briggs Type Indicator (MBTI), the Holland Code (RIASEC), and the CliftonStrengths (formerly StrengthsFinder). Each tool approaches the question “What should I major in?” from a distinct angle — personality type, vocational interest, or innate talent. The MBTI classifies users into one of 16 personality types based on four dichotomies (e.g., Introversion vs. Extraversion) and is used by roughly 89% of Fortune 500 companies for team building (The Myers-Briggs Company, 2022, *MBTI Applications Report*). Holland’s hexagon sorts individuals into six interest categories — Realistic, Investigative, Artistic, Social, Enterprising, Conventional — and is embedded in the U.S. Department of Labor’s O*NET database. CliftonStrengths identifies a user’s top 5 signature themes from a list of 34 talent domains. This article compares the three assessments head-to-head on validity, cost, time commitment, and actionable output for choosing a college major.

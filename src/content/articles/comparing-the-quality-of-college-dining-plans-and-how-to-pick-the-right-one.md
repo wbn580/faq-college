@@ -6,6 +6,7 @@ pubDatetime: "2026-05-17T19:44:31Z"
 publishDate: '2026-05-17T19:44:31Z'
 readingTime: 7
 tags: ["featured"]
+
 ---
 
 U.S. college dining plans cost an average of $4,500 to $6,500 per academic year, with the University of Massachusetts Amherst reporting the highest meal plan rate among public universities at $6,958 for the 2024-2025 year, according to the National Association of College & University Food Services (NACUFS 2024 Industry Benchmarking Report). A 2023 analysis by the Education Data Initiative found that the average on-campus meal plan runs $4,500 per year, yet 48% of students surveyed by the American College Health Association reported skipping meals due to cost or dissatisfaction with dining options. The gap between what students pay and what they actually eat is widening, driven by inflexible block plans, limited dietary accommodations, and rising food costs that outpace tuition increases. Choosing the right plan requires more than comparing sticker prices — you must evaluate meal frequency, rollover policies, off-campus flexibility, and nutritional coverage. This guide breaks down the five core factors that separate good dining plans from bad ones, using 2024-2025 data from NACUFS, U.S. News, and institutional disclosures.

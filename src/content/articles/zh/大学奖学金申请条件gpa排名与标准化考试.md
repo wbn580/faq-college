@@ -6,6 +6,7 @@ pubDatetime: "2026-03-31T19:36:01Z"
 publishDate: '2026-03-31T19:36:01Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 In the 2023-2024 academic year, U.S. colleges distributed over $19.6 billion in institutional grant aid to undergraduate students, according to the College Board's Trends in College Pricing and Student Aid 2024 report. Of that total, roughly $7.4 billion was awarded on a non-need basis—meaning it was tied directly to academic merit, test scores, or other performance criteria rather than financial circumstances. For international students, the picture is even more selective: a 2023 survey by the Institute of International Education (IIE) found that only 12% of U.S. universities offer full-tuition merit scholarships to non-resident applicants. The three metrics that dominate almost every merit-based scholarship rubric are **GPA**, **class rank**, and **standardized test scores** (SAT/ACT). Understanding the specific thresholds and how these factors interact is the single most effective way to target awards that match your profile.

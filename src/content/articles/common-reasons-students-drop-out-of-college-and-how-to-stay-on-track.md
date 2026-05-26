@@ -6,6 +6,7 @@ pubDatetime: "2026-04-29T19:41:05Z"
 publishDate: '2026-04-29T19:41:05Z'
 readingTime: 6
 tags: ["featured"]
+
 ---
 
 Nearly one in three U.S. college students will not earn a degree within six years. According to the National Student Clearinghouse Research Center (2024), the six-year completion rate for first-time, degree-seeking students who started in fall 2018 was 62.2%, meaning 37.8% dropped out or remained enrolled without graduating. Financial strain is the single most cited reason: a 2023 survey by the Education Data Initiative found that 55% of dropouts reported "financial pressure" as a primary factor, with 29% specifically citing an inability to afford tuition and fees. Academic unpreparedness and mental health challenges follow closely. The National Alliance on Mental Illness (NAMI) reports that 64% of college students who drop out do so because of a mental health-related reason. Understanding these numbers is the first step toward preventing them. This article breaks down the top reasons students leave college and provides actionable, research-backed strategies to stay enrolled and on track toward graduation.

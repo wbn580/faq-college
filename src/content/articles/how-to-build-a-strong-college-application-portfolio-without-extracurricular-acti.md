@@ -6,6 +6,7 @@ pubDatetime: "2026-04-08T19:37:20Z"
 publishDate: '2026-04-08T19:37:20Z'
 readingTime: 8
 tags: ["featured"]
+
 ---
 
 A 2019 report from the National Center for Education Statistics (NCES) found that 88% of first-time, full-time freshmen at four-year institutions had participated in community service or volunteer work during high school. Yet nearly 12% of admitted students at top-tier universities report zero formal extracurriculars on their applications, according to a 2023 survey by the National Association for College Admission Counseling (NACAC). This means a strong portfolio is not defined by the number of clubs or sports you join, but by the depth and quality of the evidence you provide. Admissions officers at selective schools, including those ranked in the top 50 by U.S. News & World Report, prioritize academic rigor, intellectual curiosity, and personal initiative over a long list of activities. If you lack traditional extracurriculars, you can still build a compelling application by focusing on coursework, independent projects, work experience, and personal essays that demonstrate your unique strengths.

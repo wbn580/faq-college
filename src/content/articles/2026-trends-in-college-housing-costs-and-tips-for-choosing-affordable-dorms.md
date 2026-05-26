@@ -6,6 +6,7 @@ pubDatetime: "2026-04-15T19:38:48Z"
 publishDate: '2026-04-15T19:38:48Z'
 readingTime: 7
 tags: ["featured"]
+
 ---
 
 On-campus housing costs in the United States have risen by 5.2% year-over-year for the 2025-2026 academic year, pushing the average annual price for a standard double room to $14,530, according to the College Board’s *Trends in College Pricing 2025* report. This increase outpaces the general inflation rate of 3.1% reported by the U.S. Bureau of Labor Statistics for the same period, meaning housing is taking a larger share of the total cost of attendance than ever before. At public four-year institutions, in-state students now pay an average of $12,770 for room and board, while private nonprofit universities charge $15,870. The National Association of College and University Business Officers (NACUBO) projects that housing costs will continue climbing at a 4-6% annual rate through 2028, driven by deferred maintenance on aging residence halls and rising utility expenses. For students and families budgeting for college, understanding these trends and knowing how to evaluate dorm options can reduce housing expenses by $2,000 to $4,000 per year.

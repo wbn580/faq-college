@@ -6,6 +6,7 @@ pubDatetime: "2026-05-22T19:45:49Z"
 publishDate: '2026-05-22T19:45:49Z'
 readingTime: 8
 tags: ["featured"]
+
 ---
 
 By the 2025–2026 admissions cycle, **college application essays** will shift further away from polished "overcoming adversity" narratives and toward raw, specific demonstrations of intellectual curiosity. According to the 2024 NACAC State of College Admission report, **68% of U.S. colleges now rate the personal essay as "considerably important" or "moderately important"** in admissions decisions—up from 56% in 2019. Meanwhile, a 2025 Kaplan survey of 400 admissions officers found that **72% said generic COVID-era stories (e.g., "I learned resilience through Zoom school") now hurt an application** due to oversaturation. The essay is no longer a tiebreaker; it is a primary filter. Admissions officers at top-50 universities spend an average of **4–6 minutes per essay** (Inside Higher Ed, 2023), meaning every sentence must earn its place. The core trend for 2026: **specificity over sentiment, process over product, and intellectual risk over safe storytelling.**

@@ -3,6 +3,7 @@ title: "Transfer Between Universities · Domestic and International Transfers"
 description: "How to transfer between universities — the credit transfer process, articulation agreements, timing, and practical steps for both domestic and international students."
 category: "apply"
 publishDate: "2026-05-15T08:00:00Z"
+
 ---
 
 Transferring universities is possible but more complex than most students assume. Credit transfer is not automatic — it requires careful course matching, and transferring internationally adds visa complications.

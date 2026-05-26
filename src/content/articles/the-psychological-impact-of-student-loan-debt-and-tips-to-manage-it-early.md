@@ -6,6 +6,7 @@ pubDatetime: "2026-04-14T19:38:22Z"
 publishDate: '2026-04-14T19:38:22Z'
 readingTime: 6
 tags: ["featured"]
+
 ---
 
 Student loan debt in the United States has crossed $1.77 trillion as of Q2 2024, according to the Federal Reserve Bank of New York, affecting approximately 43 million borrowers. Beyond the financial burden, a 2023 study published in the *Journal of Financial Therapy* found that 65% of student loan borrowers report significant stress directly tied to their debt, with 29% showing symptoms consistent with clinical anxiety. This isn't just about monthly payments; it’s a psychological weight that can delay major life decisions like buying a home, starting a family, or even choosing a lower-paying career aligned with personal passion. Understanding this impact is the first step toward mitigating it. This article breaks down the specific mental health challenges linked to student debt and provides actionable, early-stage financial strategies to regain control before the stress compounds.

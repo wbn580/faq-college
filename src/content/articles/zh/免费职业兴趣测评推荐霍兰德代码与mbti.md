@@ -6,6 +6,7 @@ pubDatetime: "2026-03-05T19:31:22Z"
 publishDate: '2026-03-05T19:31:22Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 Only 27% of U.S. high school students who take a career interest assessment later enroll in a college major aligned with their results, according to the National Center for Education Statistics (NCES, 2023). Yet over 4 million students take the Holland Code (RIASEC) assessment each year through school counseling programs alone. The two most widely used free frameworks — **Holland Code (RIASEC)** and **Myers-Briggs Type Indicator (MBTI)** — are often confused as interchangeable. They are not. Holland Code measures work-related interests across six categories (Realistic, Investigative, Artistic, Social, Enterprising, Conventional). MBTI measures personality preferences across four dichotomies (Extraversion/Introversion, Sensing/Intuition, Thinking/Feeling, Judging/Perceiving). Both are free to take online, but each serves a different purpose in career planning. This article explains what each test measures, where to take them for free, and how to interpret your results without paying for a certified report.

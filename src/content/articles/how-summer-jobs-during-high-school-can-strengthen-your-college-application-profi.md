@@ -6,6 +6,7 @@ pubDatetime: "2026-04-26T19:40:33Z"
 publishDate: '2026-04-26T19:40:33Z'
 readingTime: 7
 tags: ["featured"]
+
 ---
 
 A single summer job during high school can raise your admission odds at selective colleges by 20-30% compared to an identical applicant without work experience, according to a 2023 survey by the National Association for College Admission Counseling (NACAC). The same NACAC report found that 62% of U.S. colleges assign "considerable" or "moderate" importance to a student's work and extracurricular history when evaluating applications. Beyond the GPA and test-score numbers, admissions officers at institutions like Harvard, Stanford, and the University of California system explicitly look for evidence of responsibility, time management, and real-world initiative—qualities that summer employment demonstrates concretely. A 2022 study by the Bureau of Labor Statistics showed that 34.5% of 16-to-19-year-olds held summer jobs in the U.S., meaning admissions readers see thousands of applicants each cycle who have never worked. Standing out from that majority with a paid or unpaid summer position signals maturity and drive that test scores alone cannot convey.

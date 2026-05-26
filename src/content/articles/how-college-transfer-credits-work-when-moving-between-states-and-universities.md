@@ -6,6 +6,7 @@ pubDatetime: "2026-04-09T19:37:38Z"
 publishDate: '2026-04-09T19:37:38Z'
 readingTime: 7
 tags: ["featured"]
+
 ---
 
 Roughly one in three U.S. undergraduates will transfer institutions at least once during their academic career, according to the National Student Clearinghouse Research Center’s 2023 report, which tracked 38% of all bachelor’s degree earners as having enrolled in two or more colleges. The process of moving credits between states and universities is governed by no single federal standard — each institution sets its own transfer policy, and the average student loses 13% of earned credits during the move, per a 2020 U.S. Government Accountability Office study. This means that for a student with 60 completed credits, roughly 7 to 8 may not transfer, potentially adding a full semester of cost and time. Understanding how articulation agreements, accreditation status, and course equivalency databases work is the only reliable way to minimize credit loss. This article breaks down the mechanics of transfer credit evaluation, the role of state-level transfer compacts, and the practical steps students can take to protect their academic progress before submitting an application.

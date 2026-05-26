@@ -6,6 +6,7 @@ pubDatetime: "2026-04-29T19:41:01Z"
 publishDate: '2026-04-29T19:41:01Z'
 readingTime: 6
 tags: ["featured"]
+
 ---
 
 Summer bridge programs—typically 4–8 week pre-freshman academic boot camps—are one of the most effective tools for closing the college readiness gap. According to the U.S. Department of Education’s 2023 National Postsecondary Student Aid Study (NPSAS), students who completed a summer bridge program were **23% more likely** to persist to their second year of college compared to similar peers who did not. A separate 2022 meta-analysis by the What Works Clearinghouse (WWC) covering 56 bridge programs found an average GPA boost of **0.31 grade points** in the first semester. These programs are not a single model: they range from free residential STEM academies at public flagships to online math-and-writing refreshers at community colleges. The 2026 cycle brings new features—earlier start dates, expanded need-based scholarships, and hybrid delivery options—that make them more accessible than ever. This guide breaks down what summer bridge programs are, who should apply, how to find the right fit, and the concrete data on outcomes.

@@ -6,6 +6,7 @@ pubDatetime: "2026-04-11T19:37:59Z"
 publishDate: '2026-04-11T19:37:59Z'
 readingTime: 6
 tags: ["featured"]
+
 ---
 
 First-generation college students—those whose parents did not complete a four-year degree—represent roughly one-third of all U.S. undergraduates, yet they receive a disproportionately small share of institutional aid. According to the National Center for Education Statistics (NCES 2023, *First-Generation Students*), 34% of entering freshmen in 2019–20 were first-generation, but their median family income was $41,000—less than half the $81,000 median for continuing-generation peers. This financial gap makes targeted scholarship funding critical. For the 2026–27 academic year, over $1.2 billion in dedicated first-generation scholarships are available through federal, state, and private sources, with award sizes ranging from $500 to full tuition. Programs like the Federal Pell Grant (maximum $7,395 in 2025–26) and the **QuestBridge National College Match** (full four-year scholarships for low-income first-gen students) are the most prominent. However, many smaller, application-specific awards go unclaimed each year. This guide breaks down the 2026 scholarship landscape—who qualifies, where to apply, and how to maximize your chances—using verified data from the Department of Education, College Board, and institutional financial aid offices.

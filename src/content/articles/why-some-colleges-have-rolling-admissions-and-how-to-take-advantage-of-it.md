@@ -6,6 +6,7 @@ pubDatetime: "2026-05-08T19:42:48Z"
 publishDate: '2026-05-08T19:42:48Z'
 readingTime: 6
 tags: ["featured"]
+
 ---
 
 Roughly 400 U.S. colleges and universities operate on a **rolling admissions** schedule, meaning they review applications as they arrive and continue accepting students until all spots are filled, according to the National Association for College Admission Counseling (NACAC 2023 State of College Admission report). Unlike Early Decision (binding) or Regular Decision (fixed deadline) models, rolling admissions can offer decisions within 4–8 weeks of submission, and some schools remain open past June for fall enrollment. The University of Pittsburgh, for example, reported a rolling-admissions acceptance rate of 49% for Fall 2023, with applications accepted through May. This system benefits students who apply early in the cycle — applicants who submit in September or October often face less competition and receive faster responses. But rolling admissions also carries risks: applying late can mean competing for the few remaining seats, and some programs fill within weeks of opening. Understanding why institutions choose this model and how to time your application strategically can turn rolling admissions into a clear advantage.

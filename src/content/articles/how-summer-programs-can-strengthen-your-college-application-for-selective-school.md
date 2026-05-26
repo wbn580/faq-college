@@ -6,6 +6,7 @@ pubDatetime: "2026-04-16T19:38:51Z"
 publishDate: '2026-04-16T19:38:51Z'
 readingTime: 7
 tags: ["featured"]
+
 ---
 
 A summer program alone will not get you into Harvard, but a strategic, academically rigorous summer experience can meaningfully differentiate your application in a pool where 43.7% of Harvard College admits in 2027 reported having participated in some form of pre-college academic enrichment, according to the Harvard Crimson 2023 Freshman Survey. At Ivy League and other selective schools, admissions officers are looking for evidence of intellectual curiosity and initiative beyond the classroom. A 2022 National Association for College Admission Counseling (NACAC) report found that 46.3% of colleges rated "participation in academic enrichment programs" as having at least moderate importance in admissions decisions. However, not all summer programs carry equal weight. The key is selecting a program that provides genuine academic depth, demonstrable outcomes, and a narrative that connects to your intended field of study. A summer spent at a "pay-to-play" program with no selective admissions or graded work can actually weaken your application by signaling privilege without purpose.

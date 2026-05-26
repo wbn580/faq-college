@@ -6,6 +6,7 @@ pubDatetime: "2026-05-18T19:44:48Z"
 publishDate: '2026-05-18T19:44:48Z'
 readingTime: 8
 tags: ["featured"]
+
 ---
 
 In the 2023–2024 academic year, approximately 72% of U.S. bachelor’s degree-granting institutions required some form of general education or core curriculum for graduation, according to the National Center for Education Statistics (NCES 2024). This means the vast majority of American college students must complete a prescribed set of courses in subjects like writing, mathematics, natural sciences, and humanities before they can declare a major or graduate. The core curriculum model traces its roots to the 19th-century Yale Report of 1828, which argued for a broad, liberal arts foundation to cultivate "mental discipline." In contrast, roughly 12% of U.S. colleges and universities offer a fully open curriculum, where students face no required courses outside their major. Pioneered by Brown University in 1969, the open curriculum grants students near-total freedom to design their own academic path, with only a single writing requirement or none at all. Understanding the difference between these two models is critical for applicants: your choice determines whether you will spend the first two years exploring a wide range of disciplines or diving straight into your area of interest. Below, we break down the rationale behind each system, their structural differences, and how they affect your college experience.

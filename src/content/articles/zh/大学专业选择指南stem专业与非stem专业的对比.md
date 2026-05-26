@@ -6,6 +6,7 @@ pubDatetime: "2026-03-27T19:35:26Z"
 publishDate: '2026-03-27T19:35:26Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 STEM graduates in the U.S. earn a median annual salary of $77,000, compared to $55,000 for non-STEM graduates, according to the U.S. Bureau of Labor Statistics (BLS, 2023). This 40% wage premium is a key factor driving 52% of international students in the U.S. to enroll in STEM programs, per the 2023 Open Doors Report from the Institute of International Education (IIE). However, choosing between a STEM (Science, Technology, Engineering, Mathematics) and a non-STEM major involves more than just salary projections. It requires weighing graduation timelines, visa policies, job market saturation, and long-term career satisfaction. This guide provides a direct, data-backed comparison to help you decide which path aligns with your goals.

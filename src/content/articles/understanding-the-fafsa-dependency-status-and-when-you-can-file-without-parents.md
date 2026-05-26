@@ -6,6 +6,7 @@ pubDatetime: "2026-04-20T19:39:40Z"
 publishDate: '2026-04-20T19:39:40Z'
 readingTime: 7
 tags: ["featured"]
+
 ---
 
 About 1.7 million dependent students submitted the FAFSA for the 2022-2023 award year, yet roughly 200,000 of those applications were flagged with conflicting information about parental data, according to the National College Attainment Network (NCAN, 2023). The FAFSA (Free Application for Federal Student Aid) uses a **dependency status** question set to determine whether a student must provide parent financial information. If you are classified as a **dependent student**, you cannot file without your parents’ data unless you qualify for a **dependency override** or meet one of the specific **unusual circumstances** outlined by the U.S. Department of Education. For the 2024-2025 cycle, the Department reported that only about 2.5% of all FAFSA filers received a dependency override (Federal Student Aid, 2024). Understanding the exact criteria for independent status—and the narrow exceptions that allow you to file without parents—can save you months of financial aid delays.

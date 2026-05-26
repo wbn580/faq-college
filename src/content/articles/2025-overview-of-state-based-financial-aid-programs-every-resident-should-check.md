@@ -6,6 +6,7 @@ pubDatetime: "2026-05-01T19:41:36Z"
 publishDate: '2026-05-01T19:41:36Z'
 readingTime: 10
 tags: ["featured"]
+
 ---
 
 State-based financial aid programs distribute over **$14 billion** annually to U.S. residents, yet an estimated **30% of eligible students** fail to apply each year, leaving billions unclaimed (National Association of State Student Grant and Aid Programs, 2023 Annual Survey). Unlike federal aid, which relies on a single FAFSA submission, each of the 50 states operates its own grant, scholarship, and tuition-reduction system with unique deadlines, eligibility rules, and award amounts. For example, New York’s Excelsior Scholarship covers full tuition at SUNY and CUNY for families earning up to **$125,000**, while California’s Cal Grant program awarded **$2.4 billion** to over 400,000 students in the 2023-24 academic year (California Student Aid Commission, 2024 Report). Missing a state-specific deadline—often as early as October 1 for early-bird priority—can mean losing access to thousands of dollars in non-repayable aid. This overview covers the seven most common types of state-based programs, how to check your eligibility, and the concrete steps to secure funding before the 2025-26 academic year begins.

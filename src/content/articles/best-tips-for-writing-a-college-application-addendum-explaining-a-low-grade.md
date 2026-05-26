@@ -6,6 +6,7 @@ pubDatetime: "2026-05-05T19:42:13Z"
 publishDate: '2026-05-05T19:42:13Z'
 readingTime: 6
 tags: ["featured"]
+
 ---
 
 A single low grade on your transcript doesn't have to derail your college application, but how you explain it matters. According to the National Association for College Admission Counseling (NACAC) 2023 State of College Admission report, 67.4% of colleges attribute considerable importance to grades in all courses, making any dip a potential red flag. However, the same report notes that the "counselor recommendation" and "teacher recommendation" are the next most important factors, meaning context from trusted adults can be decisive. The key is a concise, factual **addendum** — a brief statement, typically 150-250 words, submitted through the application portal or as part of the "Additional Information" section. This isn't an excuse; it's a clarification. Your goal is to demonstrate resilience and a clear understanding of the situation, proving that a single semester doesn't define your academic trajectory. A well-crafted addendum can transform a potential weakness into evidence of your maturity and problem-solving skills.

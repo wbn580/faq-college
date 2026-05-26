@@ -6,6 +6,7 @@ pubDatetime: "2026-05-16T19:44:18Z"
 publishDate: '2026-05-16T19:44:18Z'
 readingTime: 8
 tags: ["featured"]
+
 ---
 
 The Dean of Students office (DOS) is the central hub for student life, crisis management, and behavioral conduct at most U.S. colleges. Yet, 68% of incoming first-year students report never reviewing their college’s student code of conduct or DOS services before moving to campus, according to the 2023 National Survey of Student Engagement (NSSE). This oversight can lead to costly missteps: a 2022 American Council on Education (ACE) report found that 1 in 5 undergraduate conduct cases result in a suspension or expulsion, often due to students misunderstanding the disciplinary process. Evaluating the DOS office before you commit to enroll is a practical step to gauge campus safety, support systems, and your rights as a student. This guide provides a direct checklist of what to look for, from conduct transparency to mental health resources, using official sources and real data.

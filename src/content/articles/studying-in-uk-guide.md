@@ -3,6 +3,7 @@ title: "Studying in the UK · International Student Guide"
 description: "A comprehensive guide for international students considering UK universities — UCAS, visa requirements, costs, NHS surcharge, Graduate Route visa, and academic culture."
 category: "compare"
 publishDate: "2026-05-15T08:00:00Z"
+
 ---
 The UK is the second most popular study destination globally, hosting over 650,000 international students. Its advantages: short degree durations (3 years), world-leading universities (Oxbridge, Russell Group), and the Graduate Route visa for post-study work.
 

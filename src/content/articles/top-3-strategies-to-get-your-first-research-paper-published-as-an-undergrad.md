@@ -6,6 +6,7 @@ pubDatetime: "2026-04-20T19:39:38Z"
 publishDate: '2026-04-20T19:39:38Z'
 readingTime: 6
 tags: ["featured"]
+
 ---
 
 Only 4.6% of undergraduate students in the United States have a peer-reviewed research paper published before graduation, according to the 2023 National Survey of Student Engagement (NSSE). That low figure is not a reflection of capability—it is a reflection of process. Most undergraduates do not know how to navigate the academic publishing pipeline: from identifying a publishable project to formatting a manuscript that passes a journal’s initial desk screening. This article breaks the process into three actionable strategies—**target the right journal early**, **write for the reviewer’s workflow**, and **use your professor as a co-author pipeline**—backed by data from the Council on Undergraduate Research (CUR) and the 2024 American Chemical Society (ACS) Guide to Scholarly Publishing. By following these steps, you can move from “maybe someday” to “accepted” within a single academic year.

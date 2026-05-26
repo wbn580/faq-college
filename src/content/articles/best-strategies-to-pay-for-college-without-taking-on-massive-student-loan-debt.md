@@ -6,6 +6,7 @@ pubDatetime: "2026-04-27T19:40:53Z"
 publishDate: '2026-04-27T19:40:53Z'
 readingTime: 7
 tags: ["featured"]
+
 ---
 
 American families borrowed over $1.77 trillion in total student debt as of Q2 2024, according to the Federal Reserve Bank of New York’s Household Debt and Credit Report. The average borrower leaves school with roughly $37,850 in federal loan debt, a figure that climbs higher when private loans are included. Yet paying for college without drowning in debt is possible. A 2023 Sallie Mae report found that 47% of families still rely on scholarships and grants as their primary funding source, while 39% use parent income and savings. The key is to layer multiple strategies — start with free money (grants and scholarships), then maximize earned money (work-study and part-time jobs), and only turn to loans as a last resort. This guide breaks down six concrete strategies, each backed by specific figures and official sources, to help you minimize borrowing while still earning your degree.

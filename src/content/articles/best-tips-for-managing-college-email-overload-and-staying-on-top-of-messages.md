@@ -6,6 +6,7 @@ pubDatetime: "2026-05-19T19:44:55Z"
 publishDate: '2026-05-19T19:44:55Z'
 readingTime: 8
 tags: ["featured"]
+
 ---
 
 The average college student receives **120 to 150 emails per week** during the academic year, according to a 2023 EDUCAUSE survey of 15,000 undergraduates. This flood—spanning professors, department announcements, club newsletters, financial aid updates, and campus alerts—creates a cognitive load that directly impacts academic performance. A 2022 study published in *Computers in Human Behavior* found that students who checked email more than five times per hour scored 0.3 GPA points lower than peers who batched their inbox checks. The problem isn't just volume; it's the constant context-switching that fragments focus during study blocks. Most university communication is still email-based, and missing a single message from the registrar can mean a dropped class or a late tuition penalty. The solution isn't checking email more often—it's building a **system** that filters, schedules, and processes messages in under 15 minutes per day. Below are the specific workflows used by students who maintain inbox zero while juggling a full course load.

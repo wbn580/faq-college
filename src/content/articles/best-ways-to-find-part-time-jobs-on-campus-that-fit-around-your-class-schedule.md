@@ -6,6 +6,7 @@ pubDatetime: "2026-04-16T19:38:57Z"
 publishDate: '2026-04-16T19:38:57Z'
 readingTime: 7
 tags: ["featured"]
+
 ---
 
 Over 70% of U.S. college students work while enrolled, according to a 2022 Georgetown University Center on Education and the Workforce report, with the average student working 19 hours per week. A campus job is the most flexible option: 61% of on-campus positions allow students to set their own hours around classes, per a 2023 National Association of Student Personnel Administrators (NASPA) survey. The key is targeting roles that publish fixed shifts (libraries, dining halls, IT help desks) rather than project-based work that bleeds into study time. This guide covers the five most reliable channels for finding a campus job that fits your schedule, from the federal work-study program to department-specific listings, plus how to negotiate hours during registration.

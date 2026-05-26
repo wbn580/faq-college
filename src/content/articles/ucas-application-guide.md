@@ -3,6 +3,7 @@ title: "UCAS Application Guide · How to Apply to UK Universities"
 description: "A complete guide to the UCAS application process — the five-choice system, personal statement requirements, predicted grades, and common mistakes international students make."
 category: "apply"
 publishDate: "2026-05-15T08:00:00Z"
+
 ---
 
 UCAS (Universities and Colleges Admissions Service) is the centralised application system for UK undergraduate degrees. One application, five choices, one personal statement — this guide explains the process.

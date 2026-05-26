@@ -6,6 +6,7 @@ pubDatetime: "2026-04-16T19:38:56Z"
 publishDate: '2026-04-16T19:38:56Z'
 readingTime: 7
 tags: ["featured"]
+
 ---
 
 A single-page resume is the most critical document in your college internship application, yet 63% of hiring managers spend less than 10 seconds scanning it before deciding if you are a fit, according to a 2023 National Association of Colleges and Employers (NACE) survey. For first-time applicants with limited work history, the challenge is to prove potential without a track record. The solution is a **skills-based resume** that prioritizes academic projects, campus leadership, and transferable abilities over paid employment. Data from a 2024 LinkedIn report shows that **86% of entry-level internship offers** went to candidates who demonstrated at least two of the following: technical proficiency, relevant coursework, or extracurricular initiative. This guide breaks down exactly how to structure your resume, what to include when you have zero prior internships, and which common mistakes to avoid. You will learn to transform a blank page into a compelling narrative of your capabilities, using specific formatting rules and keyword strategies that applicant tracking systems (ATS) look for. The goal is simple: get your resume past the 7-second scan and into the "interview" pile.

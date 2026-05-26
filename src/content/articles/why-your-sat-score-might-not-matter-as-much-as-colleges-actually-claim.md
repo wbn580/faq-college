@@ -6,6 +6,7 @@ pubDatetime: "2026-04-08T19:37:24Z"
 publishDate: '2026-04-08T19:37:24Z'
 readingTime: 5
 tags: ["featured"]
+
 ---
 
 Over 1,700 four-year colleges in the United States now operate test-optional or test-blind admissions policies, according to the National Center for Fair & Open Testing (FairTest, 2024). That figure represents more than 80% of all U.S. bachelor’s-degree-granting institutions, a dramatic shift from 2019 when fewer than 1,100 schools had such policies. Meanwhile, a 2023 study by the College Board itself found that **high school GPA predicts first-year college grades 1.3 times better than SAT scores** when both are considered together. Despite this data, many students still spend hundreds of hours and thousands of dollars on SAT prep, believing a single Saturday-morning test determines their admissions fate. The reality is more nuanced: colleges publicly list SAT ranges to attract applicants, but internal admissions rubrics often weight the score far less than they claim in viewbooks and info sessions. This article breaks down exactly how much your SAT score actually matters—and where it doesn't.

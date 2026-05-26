@@ -6,6 +6,7 @@ pubDatetime: "2026-04-22T19:40:01Z"
 publishDate: '2026-04-22T19:40:01Z'
 readingTime: 6
 tags: ["featured"]
+
 ---
 
 By 2027, the U.S. Bureau of Labor Statistics projects 3.5 million data-related job openings, yet the supply of qualified graduates falls short by roughly 200,000 per year (BLS, 2023, Occupational Outlook Handbook). This gap means that college students who graduate with the right data science skills hold a measurable hiring advantage — a 2023 QS report found that 72% of employers in tech, finance, and healthcare now prioritize candidates with demonstrable data analytics capabilities over general business degrees (QS, 2023, Global Employer Survey). The five skills below are not optional electives; they are the baseline requirements for entry-level roles paying a median starting salary of $65,000, according to the National Association of Colleges and Employers (NACE, 2023, Salary Survey). Each skill is independently evaluated by recruiters during technical interviews, portfolio reviews, and case-study assessments. If you are a college student aiming for a data scientist, data analyst, or business intelligence role, these five competencies form the shortest path from classroom to offer letter.

@@ -6,6 +6,7 @@ pubDatetime: "2026-04-12T19:38:08Z"
 publishDate: '2026-04-12T19:38:08Z'
 readingTime: 8
 tags: ["featured"]
+
 ---
 
 The average published tuition at a four-year private US college for the 2023-2024 academic year was $41,540, yet the average *net price* — what students actually paid after grants and scholarships — was only $16,380, according to the College Board's 2023 Trends in College Pricing report. That gap of over $25,000 exists precisely because of the Net Price Calculator (NPC), a federally mandated tool that every US college must host on its website. Despite its potential, a 2022 study by the National Association of Student Financial Aid Administrators (NASFAA) found that fewer than 30% of families use the NPC before applying, and among those who do, most enter inaccurate data that produces wildly misleading results. The core problem is simple: families treat the NPC like a sticker-price lookup tool instead of a financial simulation. They skip the most critical inputs — parent assets, student income, and household size — and then wonder why the actual aid offer differs by thousands of dollars. This article breaks down exactly how the NPC works, why most families misuse it, and how to run it correctly to get a number within 90% accuracy of your real award letter.

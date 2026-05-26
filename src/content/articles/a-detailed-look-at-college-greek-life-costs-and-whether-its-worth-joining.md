@@ -6,6 +6,7 @@ pubDatetime: "2026-04-20T19:39:40Z"
 publishDate: '2026-04-20T19:39:40Z'
 readingTime: 6
 tags: ["featured"]
+
 ---
 
 Joining a fraternity or sorority in the U.S. typically costs between $500 and $4,000 per semester, with lifetime membership dues ranging from $3,000 to over $15,000 depending on the school and national organization. According to the **Association of Fraternal Leadership & Values (AFLV) 2023 Membership Survey**, the average new-member fee across all U.S. chapters is $1,200, while annual dues for active members average $2,800. A **2022 study by the National Center for Education Statistics (NCES)** found that students in Greek life spend an additional 10–15% of their total cost of attendance on social events, housing, and paraphernalia. These figures make Greek life one of the largest discretionary expenses a college student can take on, yet roughly 750,000 undergraduates (about 3% of all U.S. students) participate each year. The central question is whether the financial commitment yields proportional returns in networking, leadership development, and career outcomes—or whether it’s a costly social accessory.

@@ -6,6 +6,7 @@ pubDatetime: "2026-04-29T19:41:13Z"
 publishDate: '2026-04-29T19:41:13Z'
 readingTime: 6
 tags: ["featured"]
+
 ---
 
 Every year, roughly 1 in 5 U.S. college students who formally appeal their financial aid package receives an adjustment, with the average increase hovering around $4,000 per academic year, according to a 2023 report by the National Association of Student Financial Aid Administrators (NASFAA). Despite this, fewer than 20% of families who could benefit actually file an appeal. The process, formally known as a Professional Judgment (PJ) review, allows a college’s financial aid office to adjust your Expected Family Contribution (EFC) or Cost of Attendance (COA) based on documented, extenuating circumstances. The U.S. Department of Education (2024-25 Federal Student Aid Handbook) explicitly grants this authority to aid administrators. This guide breaks the appeal into actionable steps—from identifying valid grounds to writing the letter and submitting supporting documents—so you can approach the process with a clear, data-backed strategy.

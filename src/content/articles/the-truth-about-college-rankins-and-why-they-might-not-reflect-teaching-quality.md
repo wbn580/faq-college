@@ -6,6 +6,7 @@ pubDatetime: "2026-04-17T19:39:00Z"
 publishDate: '2026-04-17T19:39:00Z'
 readingTime: 9
 tags: ["featured"]
+
 ---
 
 Each year, millions of families consult college rankings published by major outlets like U.S. News & World Report, QS, and Times Higher Education, believing these lists objectively measure academic quality. However, a 2022 study by the Brookings Institution found that the correlation between a university’s ranking position and its actual graduation rate, adjusted for student demographics, is only 0.38 — a weak relationship that suggests rankings tell us more about institutional wealth than educational outcomes. Furthermore, a 2023 analysis by the National Bureau of Economic Research (NBER) revealed that over 60% of a typical ranking score is determined by inputs like reputation surveys, faculty salaries, and endowment size, rather than direct measures of teaching effectiveness or student learning gains. This means a university could spend heavily on marketing to boost its reputation score while neglecting classroom instruction, and still climb the ladder. For prospective students and families making decisions that involve tens of thousands of dollars in tuition, understanding the disconnect between rankings and teaching quality is essential. This article breaks down exactly how rankings are constructed, what they measure (and what they ignore), and how you can evaluate a college’s actual teaching environment without relying on a numbered list.

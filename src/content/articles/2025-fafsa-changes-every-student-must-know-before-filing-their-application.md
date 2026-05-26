@@ -6,6 +6,7 @@ pubDatetime: "2026-04-10T19:37:45Z"
 publishDate: '2026-04-10T19:37:45Z'
 readingTime: 8
 tags: ["featured"]
+
 ---
 
 The 2025-2026 FAFSA cycle introduces the most significant structural overhaul since the 2021 FAFSA Simplification Act, directly altering how students report income, how the government calculates aid eligibility, and which families qualify for a Pell Grant. The new Student Aid Index (SAI) formula replaces the old Expected Family Contribution (EFC), and the U.S. Department of Education reported that **4.1 million more students** will become eligible for a Federal Pell Grant under the updated need-analysis methodology [U.S. Department of Education 2024, FAFSA Simplification Fact Sheet]. Additionally, the number of questions on the core form has been reduced from 108 to approximately 36, but the trade-off is a stricter requirement for direct data transfer from the IRS — known as the Direct Data Exchange (DDX). If a student or parent does not consent to the DDX, the application will be considered incomplete and cannot be processed. This article breaks down the six critical changes — from the new **SAI calculation** to the revised **dependency status rules** — so you can file the 2025-2026 form without delays or lost aid.

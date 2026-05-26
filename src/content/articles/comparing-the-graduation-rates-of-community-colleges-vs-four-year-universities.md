@@ -6,6 +6,7 @@ pubDatetime: "2026-05-11T19:43:25Z"
 publishDate: '2026-05-11T19:43:25Z'
 readingTime: 7
 tags: ["featured"]
+
 ---
 
 The 6-year completion rate for first-time, full-time students at four-year public universities in the United States stands at 62.2%, according to the National Student Clearinghouse Research Center’s 2023 report. In contrast, the 3-year completion rate for full-time students pursuing an associate degree at public community colleges is only 37.6%. This 24.6 percentage-point gap represents the core difference in graduation outcomes between these two pathways, but it does not tell the whole story. The National Center for Education Statistics (NCES) reports that 80% of community college students attend part-time, and when part-time students are included, the 6-year completion rate for community college students drops to 25.1% (NCES, 2022, IPEDS). These numbers create a stark picture: on paper, four-year universities graduate students at roughly 2.5 times the rate of community colleges. However, the underlying reasons—student demographics, transfer pathways, and institutional resources—explain why a direct comparison is misleading.

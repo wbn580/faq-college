@@ -6,6 +6,7 @@ pubDatetime: "2026-05-19T19:45:00Z"
 publishDate: '2026-05-19T19:45:00Z'
 readingTime: 6
 tags: ["featured"]
+
 ---
 
 First-generation students — those whose parents have not earned a bachelor’s degree — now make up **33% of all U.S. college undergraduates** (Pell Institute & NASPA, 2023, *Indicators of Higher Education Equity in the United States*). Yet their six-year graduation rate at four-year institutions is **56%**, compared to **74%** for continuing-generation peers (National Center for Education Statistics, 2022). The gap is not ability — it is a support gap. A college's post-graduation support system can determine whether a first-gen student lands a job in their field within six months or drifts into underemployment. This article provides a framework to evaluate that support, using concrete metrics and verifiable data points rather than brochure promises.

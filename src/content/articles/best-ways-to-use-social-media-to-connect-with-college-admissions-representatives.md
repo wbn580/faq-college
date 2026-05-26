@@ -6,6 +6,7 @@ pubDatetime: "2026-05-03T19:41:54Z"
 publishDate: '2026-05-03T19:41:54Z'
 readingTime: 6
 tags: ["featured"]
+
 ---
 
 A 2023 survey by the National Association for College Admission Counseling (NACAC) found that 58% of colleges use social media to recruit prospective students, yet only 12% of applicants actively engage with admissions offices on these platforms. This gap represents a significant missed opportunity. Admissions officers at over 500 U.S. institutions now monitor platforms like Instagram, X (formerly Twitter), and LinkedIn to build their school’s brand, share real-time updates, and identify genuinely interested candidates. While a single tweet or Instagram comment won’t secure your acceptance, strategic social media engagement can place you on an admissions officer’s radar as a serious, informed applicant. The key is to move beyond passive scrolling and use these tools to ask intelligent questions, demonstrate campus-specific knowledge, and build a professional digital presence that complements your application. This guide breaks down the specific, actionable methods to connect with admissions representatives without crossing into spam or desperation.

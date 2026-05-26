@@ -3,6 +3,7 @@ title: "Common App Guide · US University Application Process"
 description: "How to apply to US universities through the Common App — essay prompts, activity list strategy, Early Decision vs Regular Decision, and tips for international students."
 category: "apply"
 publishDate: "2026-05-15T08:00:00Z"
+
 ---
 The Common App is used by over 900 US colleges and universities. It standardises the application form, personal essay, and activity list, but most top universities require supplemental essays in addition.
 

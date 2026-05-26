@@ -6,6 +6,7 @@ pubDatetime: "2026-04-27T19:40:45Z"
 publishDate: '2026-04-27T19:40:45Z'
 readingTime: 6
 tags: ["featured"]
+
 ---
 
 The gap between in-state and out-of-state tuition at U.S. public universities has widened to an average of **$16,182 per year** at four-year institutions, according to the College Board’s 2023 Trends in College Pricing report. For the 2023–2024 academic year, the average published in-state tuition and fees at a public four-year college was **$11,260**, while out-of-state students paid **$29,150** — a 159% premium. This difference is not uniform across states; at the University of Michigan–Ann Arbor, in-state tuition for 2023–2024 is **$17,228** versus out-of-state **$56,472**, a gap of nearly **$40,000**. Meanwhile, the University of Texas at Austin charges in-state students **$11,698** and out-of-state students **$42,778**. These figures exclude room, board, and other living expenses, which the National Center for Education Statistics (NCES) estimates add an average of **$14,030** per year at public four-year institutions. Understanding the actual total cost of attendance — not just the sticker price — is critical for families comparing options across state lines.

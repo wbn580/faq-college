@@ -3,6 +3,7 @@ title: "University Application Deadlines 2026 · A Complete Calendar"
 description: "All major university application deadlines for 2026–2027 — UCAS (UK), Common App (US), OUAC (Canada), UAC (Australia), and major European systems in one consolidated calendar."
 category: "apply"
 publishDate: "2026-05-15T08:00:00Z"
+
 ---
 
 University application deadlines are not synchronised across countries. Missing a deadline by even one day can mean waiting six months for the next intake. This calendar consolidates the major deadlines.

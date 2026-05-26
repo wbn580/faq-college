@@ -6,6 +6,7 @@ pubDatetime: "2026-04-24T19:40:16Z"
 publishDate: '2026-04-24T19:40:16Z'
 readingTime: 6
 tags: ["featured"]
+
 ---
 
 A student at a large public university might wait 6 to 8 weeks for a first counseling appointment, while a peer at a small private college down the road can often get a same-day session. This gap isn't random. Across U.S. higher education, the allocation of mental health resources is determined by a mix of funding models, student-to-staff ratios, and institutional priorities. The American Psychological Association reported in 2022 that the average ratio of students to counseling center staff was 1,250:1 at public universities, compared to 950:1 at private non-profits. Meanwhile, the 2023 Healthy Minds Study, which surveyed over 76,000 students across 133 campuses, found that 41% screened positive for moderate to severe depression, yet only 16% of students accessed therapy. The result: a system where a student's zip code (or college choice) can determine their access to care. Understanding why these disparities exist—and what specific metrics to evaluate—can help applicants and current students identify institutions that genuinely support well-being.

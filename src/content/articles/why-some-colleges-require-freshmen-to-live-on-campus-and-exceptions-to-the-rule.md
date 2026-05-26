@@ -6,6 +6,7 @@ pubDatetime: "2026-05-14T19:43:58Z"
 publishDate: '2026-05-14T19:43:58Z'
 readingTime: 7
 tags: ["featured"]
+
 ---
 
 Roughly 85% of four-year U.S. colleges and universities enforce a **residency requirement** for first-year students, according to a 2022 survey by the Association of College and University Housing Officers International (ACUHO-I). This policy requires freshmen to live in on-campus dormitories for at least their first academic year. The rationale is not arbitrary: data from the National Survey of Student Engagement (NSSE, 2023) shows that students living on campus report **14% higher rates of faculty interaction** and **11% higher peer collaboration** scores compared to commuters. Institutions argue that shared living spaces foster academic integration, social belonging, and higher retention rates—first-year retention at schools with mandatory on-campus living averages 80%, versus 72% at those without (NSSE, 2023). However, the rule is not absolute. Federal law under the Fair Housing Act (FHA) and the Americans with Disabilities Act (ADA) mandates that colleges provide reasonable accommodations, and many schools grant exceptions for commuting from a family home, financial hardship, or age thresholds. Understanding these requirements and the legitimate pathways to an exemption can save families thousands of dollars and prevent housing conflicts.

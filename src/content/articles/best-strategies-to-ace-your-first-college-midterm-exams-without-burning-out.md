@@ -6,6 +6,7 @@ pubDatetime: "2026-05-15T19:44:03Z"
 publishDate: '2026-05-15T19:44:03Z'
 readingTime: 6
 tags: ["featured"]
+
 ---
 
 First-semester midterms are the first major academic filter in a U.S. college career, and the data shows that preparation strategy matters more than raw hours. According to the National Center for Education Statistics (NCES, 2023), first-year students who maintain a GPA below 2.0 in their first semester have a 30% lower retention rate into sophomore year. Meanwhile, a 2022 study by the American Psychological Association (APA) found that students who use active recall (testing yourself) score an average of 12 percentage points higher on exams compared to those who rely on passive re-reading. The real challenge isn't just studying hard—it's studying sustainably. Burnout is a documented threat: the 2023 Healthy Minds Survey reported that over 40% of college students experienced significant symptoms of depression or anxiety, often triggered by the first exam cycle. This guide breaks down five specific strategies—from time-blocking to sleep hygiene—that maximize exam performance while keeping your mental health intact. Each section is backed by peer-reviewed research or institutional data, so you can trust the tactics, not just the hype.

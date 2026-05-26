@@ -3,6 +3,7 @@ title: "Student Loans for International Students · Funding Options"
 description: "How international students can fund university abroad — student loan programmes, scholarships, part-time work, and country-specific funding schemes."
 category: "cost"
 publishDate: "2026-05-15T08:00:00Z"
+
 ---
 
 International students face a funding gap: most government student loan schemes are restricted to domestic students. This article covers the main funding sources available to international students.

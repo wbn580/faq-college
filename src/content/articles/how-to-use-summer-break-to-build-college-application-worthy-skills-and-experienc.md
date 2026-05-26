@@ -6,6 +6,7 @@ pubDatetime: "2026-05-18T19:44:42Z"
 publishDate: '2026-05-18T19:44:42Z'
 readingTime: 11
 tags: ["featured"]
+
 ---
 
 A single summer break spans roughly 10 to 12 weeks, yet that window can determine whether a college application stands out or blends in. According to the 2023 State of College Admission report from the National Association for College Admission Counseling (NACAC), **extracurricular involvement** and **demonstrated interest** now hold "moderate to considerable importance" at over 50% of four-year U.S. institutions — a jump from just 30% a decade earlier. Meanwhile, a 2024 survey by the Higher Education Research Institute (HERI) at UCLA found that 72% of first-year students at selective universities reported completing a "substantial project or internship" during high school summers, compared to only 28% of students at open-admission colleges. These numbers make one thing clear: passive summers — Netflix, part-time retail work with no leadership angle — are a missed opportunity. The goal is not to fill every hour, but to produce 2-3 concrete outputs (a portfolio piece, a research abstract, a measurable community impact) that admissions officers can verify and value.

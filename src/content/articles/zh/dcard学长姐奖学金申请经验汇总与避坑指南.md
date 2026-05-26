@@ -6,6 +6,7 @@ pubDatetime: "2026-02-24T19:29:50Z"
 publishDate: '2026-02-24T19:29:50Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 In 2023, Taiwanese students studying abroad received over NT$12.3 billion in government and private scholarships combined, according to the Ministry of Education's 2024 Education Statistical Indicators report. Yet nearly 40% of eligible applicants never submit an application, primarily due to confusion over documentation requirements and deadline management. Dcard threads — Taiwan's largest student forum — host thousands of scholarship experience posts each year, with the most common advice being "start six months before the deadline" and "prepare three versions of your personal statement." This guide aggregates verified patterns from Dcard学长姐 (senior student) posts, cross-referenced with official scholarship criteria from the Ministry of Education (MOE), the National Science and Technology Council (NSTC), and university financial aid offices. The goal is to eliminate guesswork: each section below addresses a specific pain point — from GPA thresholds to recommendation letter strategies — with concrete numbers and institutional references.

@@ -6,6 +6,7 @@ pubDatetime: "2026-04-19T19:39:20Z"
 publishDate: '2026-04-19T19:39:20Z'
 readingTime: 7
 tags: ["featured"]
+
 ---
 
 The Common Application Supplement section is where colleges ask for school-specific information beyond the standard application, and over 1,000 member institutions use it to collect everything from course schedules to disciplinary history. According to the Common App’s 2023-24 institutional data, 68% of first-year applicants submit at least one supplement, yet the National Association for College Admission Counseling (NACAC) 2023 report found that 22% of applicants make at least one error in this section, often requiring correction emails or delayed processing. The supplement typically opens after you add a college to your “My Colleges” list and submit the main application, but many students miss the distinction between the “Writing” supplement (essays) and the “Questions” supplement (short-answer, course listings, and forms). Getting the supplement right matters because admissions officers use it to verify academic consistency and fit—a 2023 survey from the Association of International Educators (NAFSA) indicated that 41% of international applicants are flagged for incomplete or inconsistent supplement data. Below is the exact step-by-step process, from navigating the dashboard to final submission, with specific field-by-field guidance for the most common supplement types.

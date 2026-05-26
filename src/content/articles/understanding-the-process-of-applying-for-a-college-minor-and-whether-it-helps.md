@@ -6,6 +6,7 @@ pubDatetime: "2026-05-16T19:44:21Z"
 publishDate: '2026-05-16T19:44:21Z'
 readingTime: 7
 tags: ["featured"]
+
 ---
 
 A college minor is a secondary field of study requiring roughly half the credits of a major, typically 15–24 semester hours, and declaring one can add strategic value to your degree without the full commitment of a double major. According to the National Center for Education Statistics (NCES), about 30% of U.S. bachelor’s degree graduates in 2020 had completed at least one minor, a figure that has held steady since 2015. The process is generally simpler and faster than declaring a major: most universities require a simple online form and a minimum GPA of 2.0–2.5, with no application deadline pressure until your junior year. The question of whether a minor “helps” depends heavily on your career goals: a 2022 survey by the National Association of Colleges and Employers (NACE) found that 62% of employers consider a minor a “positive signal” of interdisciplinary thinking, but only 12% said it was a decisive hiring factor. This guide breaks down the exact steps to declare a minor, the credit-hour requirements you’ll face, and the concrete scenarios where a minor boosts your resume versus when it’s a distraction.

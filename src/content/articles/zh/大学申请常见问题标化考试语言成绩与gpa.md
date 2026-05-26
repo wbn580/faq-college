@@ -6,6 +6,7 @@ pubDatetime: "2026-03-13T19:32:59Z"
 publishDate: '2026-03-13T19:32:59Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 U.S. college applications typically require three core academic metrics: standardized test scores (SAT/ACT), English language proficiency scores (TOEFL/IELTS/Duolingo), and the high school GPA. According to the National Association for College Admission Counseling (NACAC) 2023 State of College Admission report, 80.3% of U.S. colleges rated grades in college-preparatory courses as the most important factor in admissions decisions, while standardized test scores were considered "considerably important" by only 43.9% of institutions. Meanwhile, the Institute of International Education (IIE) Open Doors 2023 report found that international student enrollment in U.S. institutions reached 1.06 million, with English proficiency scores being a mandatory requirement for nearly all non-native English speakers. These three metrics form a triage system: GPA demonstrates long-term academic consistency, test scores provide a standardized benchmark, and language scores prove the applicant can survive in an English-medium classroom. Understanding how each metric is weighted, what the competitive thresholds are, and where exceptions apply can save applicants months of wasted effort.

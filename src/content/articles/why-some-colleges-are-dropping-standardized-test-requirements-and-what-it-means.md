@@ -6,6 +6,7 @@ pubDatetime: "2026-04-15T19:38:33Z"
 publishDate: '2026-04-15T19:38:33Z'
 readingTime: 7
 tags: ["featured"]
+
 ---
 
 As of the 2024-2025 admissions cycle, over 80% of U.S. bachelor’s degree-granting institutions have either permanently or temporarily dropped their SAT/ACT requirement, according to FairTest. This shift, accelerated by the pandemic, represents the largest structural change to college admissions in 50 years. The National Association for College Admission Counseling (NACAC) reported in 2023 that 1,900+ four-year colleges were test-optional or test-blind, up from roughly 1,070 in 2019. The rationale is twofold: critics argue standardized tests disproportionately favor students from high-income families who can afford test prep, while proponents claim the SAT/ACT remains the only common metric across high schools. For applicants, the practical meaning is clear — your GPA, course rigor, essays, and extracurriculars now carry more weight than ever. But the landscape is not uniform: a handful of elite institutions, including MIT and Georgetown, have reinstated testing requirements, citing predictive validity for first-year grades. This article breaks down why colleges are dropping tests, what “test-optional” actually means for your application, and how to strategize without a score.

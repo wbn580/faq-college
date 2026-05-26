@@ -6,6 +6,7 @@ pubDatetime: "2026-05-01T19:41:27Z"
 publishDate: '2026-05-01T19:41:27Z'
 readingTime: 7
 tags: ["featured"]
+
 ---
 
 Nearly 40% of all U.S. undergraduates attend college on a part-time basis, according to the National Center for Education Statistics (NCES, 2022). This figure rises to 60% at community colleges, where students often balance work, family, and education simultaneously. The choice to enroll part-time is rarely about preference alone—it is driven by financial constraints, job obligations, or caregiving responsibilities. However, this decision carries significant consequences for financial aid eligibility. Federal Pell Grant awards, for example, are prorated based on enrollment intensity: a student taking half the full-time course load receives roughly half the maximum grant, which was $7,395 for the 2023–2024 award year (U.S. Department of Education, 2023). Beyond federal aid, state grants and institutional scholarships often require a minimum of 12 credits per semester. Understanding how part-time status interacts with aid formulas is essential for any student weighing this path. This article breaks down the key reasons students go part-time, the specific aid rules that apply, and the strategies to avoid losing funding.

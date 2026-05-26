@@ -6,6 +6,7 @@ pubDatetime: "2026-05-22T19:45:25Z"
 publishDate: '2026-05-22T19:45:25Z'
 readingTime: 8
 tags: ["featured"]
+
 ---
 
 Approximately 60% of four-year U.S. colleges and universities now offer academic credit for internships, according to the National Association of Colleges and Employers (NACE) 2023 Internship & Co-op Survey Report. Yet the rules vary wildly: some schools cap credit at 3 units per internship, while others allow up to 12 units across a student’s career. The U.S. Department of Education mandates that for an internship to qualify for federal financial aid, it must be part of an “educational program” — meaning the experience must include structured learning objectives, faculty oversight, and formal assessment. Without these components, students risk losing both tuition dollars and eligibility for Pell Grants or federal loans. Understanding how internship credits work — from registration deadlines to grading policies — can save you thousands and keep your degree on track.

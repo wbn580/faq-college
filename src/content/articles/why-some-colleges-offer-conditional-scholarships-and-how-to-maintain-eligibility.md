@@ -6,6 +6,7 @@ pubDatetime: "2026-05-16T19:44:22Z"
 publishDate: '2026-05-16T19:44:22Z'
 readingTime: 6
 tags: ["featured"]
+
 ---
 
 Conditional scholarships are merit- or need-based awards that require students to meet specific benchmarks—such as a minimum GPA, full-time enrollment, or community service hours—to renew the funding each year. According to the National Association of College and University Business Officers (NACUBO) 2023 *Tuition Discounting Study*, approximately 89% of first-time, full-time freshmen at private nonprofit four-year institutions received some form of institutional grant aid, with many of those awards carrying renewal conditions. A separate 2022 report by the U.S. Department of Education’s National Center for Education Statistics (NCES) found that roughly 62% of all undergraduate students receive grant or scholarship aid, but nearly one in three lose their merit-based renewal after the first year due to unmet conditions. Understanding why colleges structure these awards this way—and how you can maintain eligibility—can mean the difference between a $10,000 annual discount and a full-sticker bill by sophomore year.

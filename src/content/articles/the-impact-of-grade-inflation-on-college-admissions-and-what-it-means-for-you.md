@@ -6,6 +6,7 @@ pubDatetime: "2026-04-22T19:39:53Z"
 publishDate: '2026-04-22T19:39:53Z'
 readingTime: 9
 tags: ["featured"]
+
 ---
 
 Grade inflation has reshaped the U.S. college admissions landscape over the past two decades, with the average high school GPA rising from 3.17 in 2000 to 3.39 in 2023, according to the National Center for Education Statistics (NCES, 2023, *Digest of Education Statistics*). Meanwhile, SAT scores have declined—the average composite score dropped from 1060 in 2006 to 1028 in 2023 (College Board, 2023, *SAT Suite of Assessments Annual Report*). This divergence means a 4.0 GPA no longer signals the same academic achievement it once did, compressing the top of the applicant pool and forcing admissions officers to rely more heavily on standardized tests, extracurriculars, and essays. For you—whether you're a high school junior building your profile or a senior finalizing applications—understanding grade inflation's mechanics is critical. It affects how you interpret your own GPA, which schools are realistic targets, and how to stand out when "straight A's" is the new baseline. This article breaks down the causes, the data, and the concrete strategies you can use to navigate a system where grades alone no longer tell the full story.

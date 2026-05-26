@@ -6,6 +6,7 @@ pubDatetime: "2026-05-04T19:42:01Z"
 publishDate: '2026-05-04T19:42:01Z'
 readingTime: 6
 tags: ["featured"]
+
 ---
 
 Nearly 87% of first-year students at public four-year universities live on campus, according to the 2023 ACUHO-I State of Student Housing report, yet a growing number of institutions now guarantee housing only for freshmen, leaving upperclassmen to fend for themselves. At the University of California system, which enrolled 294,000 students in Fall 2024, only 27% of undergraduates can be accommodated in campus housing, per the UC Office of the President. When on-campus dorms are full, the scramble for affordable off-campus housing becomes a financial and logistical puzzle. The median rent for a one-bedroom unit near a major U.S. university hit $1,540 per month in 2024 (Zillow Observed Rent Index), while students often share rooms to keep costs under $800 per person. This guide delivers practical, data-backed strategies for finding affordable housing near campus — from leveraging university off-campus portals to negotiating leases with roommates.

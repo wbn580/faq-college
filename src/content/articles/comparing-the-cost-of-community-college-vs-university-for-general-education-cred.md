@@ -6,6 +6,7 @@ pubDatetime: "2026-04-19T19:39:23Z"
 publishDate: '2026-04-19T19:39:23Z'
 readingTime: 7
 tags: ["featured"]
+
 ---
 
 The cost difference between completing general education credits at a community college versus directly at a four-year university is substantial, with students saving an average of **$7,600 per year** on tuition and fees alone. According to the College Board's 2024 Trends in College Pricing report, the average in-district tuition and fees at a public two-year college was **$3,990** for the 2023-2024 academic year, compared to **$11,260** for in-state tuition at a public four-year university. This means a student completing 60 general education credits (typically two years) at a community college before transferring could save roughly **$14,540** on tuition alone. The National Center for Education Statistics (NCES, 2023) further reports that 49% of students who completed a bachelor's degree in 2015-16 had enrolled at a community college at some point, indicating this strategy is both common and financially prudent. However, the net savings depend on factors like state residency, financial aid packages, and whether the credits transfer seamlessly to the target university. This guide breaks down the hard numbers, hidden costs, and transfer policies so you can calculate your actual savings.

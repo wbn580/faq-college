@@ -6,6 +6,7 @@ pubDatetime: "2026-05-20T19:45:07Z"
 publishDate: '2026-05-20T19:45:07Z'
 readingTime: 6
 tags: ["featured"]
+
 ---
 
 The National Merit Scholarship Program awards roughly 7,140 scholarships each year, totaling approximately $28 million in private and corporate-sponsored funding, according to the National Merit Scholarship Corporation (NMSC, 2024). To qualify, U.S. high school students must take the PSAT/NMSQT in their junior year (typically October) and score within the top 1% of their state. The cutoff for Semifinalist status varies by state — for the class of 2025, the selection index scores ranged from 207 (Wyoming) to 223 (Massachusetts, New Jersey, D.C.). This guide breaks down the 2025 application timeline, key deadlines, and what you must submit to advance from Semifinalist to Finalist and ultimately receive a scholarship. Missing a single document can disqualify you, even with a perfect PSAT score.

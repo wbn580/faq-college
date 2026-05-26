@@ -6,6 +6,7 @@ pubDatetime: "2026-04-25T19:40:32Z"
 publishDate: '2026-04-25T19:40:32Z'
 readingTime: 7
 tags: ["featured"]
+
 ---
 
 A college financial aid letter is not a bill — it is a structured estimate of what one year will cost and how the school proposes to cover that cost. The core figure is the **Cost of Attendance (COA)**, a federally defined number that every U.S. college must report. For the 2024–2025 academic year, the average published COA (tuition + fees + room + board) at private four-year colleges was **$56,190**, while in-state public four-year institutions averaged **$24,030**, according to the College Board's *Trends in College Pricing and Student Aid 2024* report. The COA breaks down into two categories: **direct costs** (billed by the school — tuition, fees, on-campus housing, meal plan) and **indirect costs** (not billed by the school — books, transportation, personal expenses, off-campus rent). Understanding each line item allows you to compare offers accurately and avoid a gap between estimated aid and actual out-of-pocket spending.

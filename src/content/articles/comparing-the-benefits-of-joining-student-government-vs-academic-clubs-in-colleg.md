@@ -6,6 +6,7 @@ pubDatetime: "2026-05-05T19:42:17Z"
 publishDate: '2026-05-05T19:42:17Z'
 readingTime: 6
 tags: ["featured"]
+
 ---
 
 A 2023 National Association of Colleges and Employers (NACE) survey found that **82.6% of employers** consider leadership experience a key hiring factor, yet only **31% of college students** hold a formal leadership role before graduation. The choice between joining student government or an academic club often determines how you build that experience, and the two paths produce measurably different outcomes. Student government develops institutional influence and budget management skills—the average student senate allocates between **$50,000 and $500,000** in activity fees per year, per the American Student Government Association (ASGA, 2022). Academic clubs, by contrast, offer depth in a specific field; **76% of students** who join discipline-specific clubs report improved GPA in related courses, according to a 2021 study in the *Journal of College Student Development*. Neither path is universally better—your choice depends on whether you prioritize policy influence and campus-wide visibility or technical mastery and peer mentorship. The table below breaks down the trade-offs across five key dimensions.

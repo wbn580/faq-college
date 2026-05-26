@@ -6,6 +6,7 @@ pubDatetime: "2026-05-11T19:43:29Z"
 publishDate: '2026-05-11T19:43:29Z'
 readingTime: 7
 tags: ["featured"]
+
 ---
 
 Each year, roughly **30%** of all FAFSA applicants are randomly selected for a process called verification, according to the U.S. Department of Education’s Federal Student Aid (FSA) office (FSA, 2024, Verification Overview). This does not mean you did anything wrong—it is a standard audit to confirm that the information on your FAFSA matches your official tax and income records. The verification process is mandatory for receiving federal student loans, grants, and work-study funds; if you are selected and do not comply, your financial aid offer can be delayed or canceled entirely. In the 2022-2023 award year, over **4.5 million** students completed verification successfully, per FSA data (FSA, 2023, FAFSA Verification Statistics). The process typically takes 2-4 weeks once you submit the required documents, but delays can occur if forms are incomplete. This guide explains exactly what verification is, why you were selected, what documents you need, and how to respond quickly to keep your aid on track.

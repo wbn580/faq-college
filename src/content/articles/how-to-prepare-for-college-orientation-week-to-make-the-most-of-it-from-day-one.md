@@ -6,6 +6,7 @@ pubDatetime: "2026-05-06T19:42:18Z"
 publishDate: '2026-05-06T19:42:18Z'
 readingTime: 7
 tags: ["featured"]
+
 ---
 
 College orientation week is your first structured opportunity to build the social, academic, and logistical foundation for the next four years. According to the 2023 National Survey of Student Engagement (NSSE), first-year students who attended orientation programs reported a 12% higher sense of belonging and were 18% more likely to return for sophomore year compared to those who skipped. Yet roughly 1 in 4 incoming students at U.S. four-year institutions do not attend any formal orientation events, according to the 2022 American College Testing (ACT) Institutional Data Survey. Missing orientation means losing access to early registration windows, housing assignments, and campus resource fairs that directly impact your first-semester GPA and social network. The key is not just showing up—it’s treating orientation as a targeted, three-day project. This guide covers the five actions that separate students who thrive from those who spend September playing catch-up.

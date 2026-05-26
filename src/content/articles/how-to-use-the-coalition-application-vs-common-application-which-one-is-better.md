@@ -6,6 +6,7 @@ pubDatetime: "2026-05-09T19:43:00Z"
 publishDate: '2026-05-09T19:43:00Z'
 readingTime: 5
 tags: ["featured"]
+
 ---
 
 The Coalition Application and Common Application serve the same primary function—letting you apply to multiple colleges with one set of materials—but they differ in access, cost, and participating schools. The Common App is accepted by over 1,000 member institutions worldwide, including all eight Ivy League universities, and processes roughly 3.5 million applications annually (Common App, 2024, Member Statistics). The Coalition App, launched in 2016, is used by around 150 schools, including 18 public university systems, and was designed specifically to reduce barriers for low-income and first-generation students (Coalition for College, 2024, Member List). Neither platform charges a fee to create an account, but application fees per school still apply unless you qualify for a fee waiver. The choice between them depends on which schools you are targeting, whether you want to use a portfolio locker feature, and how much you value a streamlined vs. customizable application experience.

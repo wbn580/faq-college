@@ -6,6 +6,7 @@ pubDatetime: "2026-04-27T19:40:40Z"
 publishDate: '2026-04-27T19:40:40Z'
 readingTime: 7
 tags: ["featured"]
+
 ---
 
 Total undergraduate applications submitted through the Common App reached 7,327,247 for the 2024-25 cycle, a 7% increase over the prior year, according to the Common App’s January 2025 End-of-Season Report. At the same time, the number of unique first-year applicants grew by 5% to 1,414,063 students. This surge—driven largely by a 13% jump in applicants from outside the U.S., particularly China, India, and Ghana—has intensified competition at the most selective institutions. Meanwhile, the National Association for College Admission Counseling (NACAC) 2024 State of College Admission report found that the average acceptance rate across all four-year U.S. colleges held steady at roughly 68%, but rates at institutions admitting fewer than 50% of applicants dropped by an average of 3.4 percentage points year-over-year. For applicants targeting top-50 national universities, the message is clear: more peers are applying, and yield rates are climbing, making each admissions slot harder to secure.

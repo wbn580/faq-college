@@ -6,6 +6,7 @@ pubDatetime: "2026-04-08T19:37:21Z"
 publishDate: '2026-04-08T19:37:21Z'
 readingTime: 8
 tags: ["featured"]
+
 ---
 
 Most students budgeting for a year abroad focus on tuition, flights, and rent—yet actual spending often exceeds the initial estimate by 30–50%. A 2023 study by the Institute of International Education (IIE) found that the average U.S. study-abroad student spends $3,500–$5,000 per semester beyond published program fees, with over 60% of that going to unplanned categories. Similarly, a 2022 survey by the British Council reported that 47% of international students in the UK ran out of funds before their first semester ended, citing costs they had never considered. These hidden expenses—from mandatory health checks to bank transfer fees—can derail a semester if not anticipated. This article breaks down the seven most overlooked cost categories, with real figures from government and university sources, so you can build a buffer into your budget from day one.

@@ -6,6 +6,7 @@ pubDatetime: "2026-03-27T19:35:25Z"
 publishDate: '2026-03-27T19:35:25Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 In the 2024-2025 academic year, U.S. colleges and universities distributed over $236 billion in financial aid, with approximately $76 billion coming from institutional grants and scholarships alone (College Board, 2024, Trends in College Pricing and Student Aid). For Taiwanese students applying to U.S. universities, the average merit-based scholarship offered to international undergraduates ranges from $5,000 to $25,000 per year, though top-tier institutions like Harvard and MIT meet 100% of demonstrated need for all admitted international students (U.S. News, 2024, Best Colleges Rankings). Based on aggregated experiences shared by senior students on Taiwanese student forums, the most common mistake applicants make is treating scholarship applications as an afterthought—submitting generic essays and missing school-specific deadlines. This guide compiles the practical strategies, timeline checkpoints, and document templates that have consistently worked for students who secured institutional, departmental, and external scholarships in the 2024-2025 cycle.

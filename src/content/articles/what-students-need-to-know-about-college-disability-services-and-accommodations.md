@@ -6,6 +6,7 @@ pubDatetime: "2026-05-13T19:43:51Z"
 publishDate: '2026-05-13T19:43:51Z'
 readingTime: 9
 tags: ["featured"]
+
 ---
 
 Approximately 19% of undergraduate students in the United States report having a disability, according to the National Center for Education Statistics (NCES 2022, *Digest of Education Statistics*). Yet only about 40% of those students actually register with their college’s disability services office. That gap means millions of eligible students miss out on legally mandated accommodations that could significantly impact their academic outcomes. Under Section 504 of the Rehabilitation Act of 1973 and the Americans with Disabilities Act (ADA), colleges that receive federal funding must provide “reasonable accommodations” to students with documented disabilities — but the responsibility to request them falls on the student. Unlike high school, where the school identifies and supports students under an Individualized Education Program (IEP), college requires you to self-disclose. The process is different, the documentation requirements are stricter, and the types of accommodations vary widely by institution. Understanding exactly what disability services offices can and cannot do, how to register, and what documentation you need can be the difference between struggling silently and graduating on time. A 2021 study by the U.S. Government Accountability Office (GAO) found that students who used accommodations had a 12-percentage-point higher first-year retention rate than those who did not.

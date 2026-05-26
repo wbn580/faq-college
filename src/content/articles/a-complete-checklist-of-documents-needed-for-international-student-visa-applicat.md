@@ -6,6 +6,7 @@ pubDatetime: "2026-04-11T19:37:48Z"
 publishDate: '2026-04-11T19:37:48Z'
 readingTime: 8
 tags: ["featured"]
+
 ---
 
 A single missing document can delay your visa by 8–12 weeks, according to the U.S. Department of State’s 2024 Visa Processing Report, and the UK Home Office reported in 2023 that 14% of all Tier 4 (Student) visa refusals were due to incomplete or incorrect documentation. The stakes are high: the OECD’s 2024 Education at a Glance report estimates that 6.3 million international students were enrolled across member countries in 2023, each required to submit a specific set of forms, financial proofs, and identity documents. This checklist covers the core documents required by the four most popular English-speaking destinations—the United States, the United Kingdom, Canada, and Australia—based on their respective immigration department guidelines. You will find the exact document names, formatting rules, and common pitfalls for each category, from passport validity to financial evidence. Use this as a side-by-side reference before you submit your application.

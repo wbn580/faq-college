@@ -6,6 +6,7 @@ pubDatetime: "2026-05-06T19:42:26Z"
 publishDate: '2026-05-06T19:42:26Z'
 readingTime: 7
 tags: ["featured"]
+
 ---
 
 Approximately 3–5% of admitted U.S. college students defer their enrollment each year, according to a 2023 survey by the American Association of Collegiate Registrars and Admissions Officers (AACRAO). This practice, known as a gap year or deferred enrollment, allows students to postpone their start date by one academic term or a full year without reapplying. Major institutions like Harvard University report deferral rates of 1–2% of their admitted class, while public universities such as the University of Michigan see slightly higher numbers, around 4–6% among in-state admits. The process is governed by each institution’s specific policy, but the core steps are consistent: submit a written request, explain your reason, and confirm your financial commitment. Deferring is not a rejection of your offer—it is a formal agreement to hold your place. Understanding the timeline, eligibility criteria, and potential consequences (such as scholarship re-evaluation) is essential before you submit that request. This guide breaks down the entire process into actionable steps, with data-backed insights from university offices and national education bodies.

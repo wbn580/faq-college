@@ -6,6 +6,7 @@ pubDatetime: "2026-05-11T19:43:21Z"
 publishDate: '2026-05-11T19:43:21Z'
 readingTime: 9
 tags: ["featured"]
+
 ---
 
 Between 2012 and 2022, the number of U.S. bachelor’s degrees awarded in English language and literature fell by 34%, dropping from 54,438 to 36,045, according to the National Center for Education Statistics (NCES, 2024). Over the same decade, degrees in foreign languages and literatures declined by 25%, while history degrees contracted by 15%. These shifts are not random — they mirror a broader recalibration of student priorities toward fields with clearer, faster employment pipelines. Meanwhile, emerging majors in data science, renewable energy, and health informatics have seen enrollment surges of 40-200% since 2018, driven by labor market demand and institutional investment. The 2026 landscape will likely accelerate this divergence: traditional humanities and some social science programs will continue to shrink, while interdisciplinary STEM-adjacent fields absorb the displaced enrollment. This article maps the five majors losing the most ground and the five fields rising to replace them, using the latest federal data, QS enrollment surveys, and Bureau of Labor Statistics (BLS) projections to 2033.

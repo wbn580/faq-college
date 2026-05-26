@@ -6,6 +6,7 @@ pubDatetime: "2026-04-14T19:38:33Z"
 publishDate: '2026-04-14T19:38:33Z'
 readingTime: 7
 tags: ["featured"]
+
 ---
 
 Private U.S. universities awarded over **$9.2 billion** in institutional grant aid to undergraduate students in the 2022-2023 academic year, according to the National Association of College and University Business Officers (NACUBO). More than **87%** of that aid was merit-based, meaning it was awarded for academic, artistic, or athletic achievement rather than financial need. For international students, who are ineligible for U.S. federal student aid, merit scholarships are often the only path to a significant tuition discount. This guide provides a step-by-step, deadline-driven plan to identify, apply for, and secure merit-based funding from private U.S. institutions.

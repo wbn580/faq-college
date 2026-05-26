@@ -6,6 +6,7 @@ pubDatetime: "2026-05-10T19:43:11Z"
 publishDate: '2026-05-10T19:43:11Z'
 readingTime: 8
 tags: ["featured"]
+
 ---
 
 Most student-athletes and their families assume that athletic scholarships only exist in Division I powerhouse sports like football and basketball. That assumption is incorrect. Across the NCAA, NAIA, and NJCAA, **over 180,000 athletic scholarships** are awarded each year to athletes competing in sports outside of the traditional DI revenue-generating programs, according to the NCAA's 2023-24 Sports Sponsorship and Participation Rates Report. In fact, **non-Division I schools (DII, DIII, and NAIA) collectively distribute more than $2.6 billion annually** in athletic-based financial aid, per the National Association of Collegiate Directors of Athletics (NACDA) 2023 data. These scholarships are not limited to partial tuition waivers—many cover full tuition, room, board, and fees. The key is understanding that the rules, amounts, and availability differ significantly by division and governing body. This guide breaks down what you need to know about securing athletic scholarships for sports like swimming, tennis, lacrosse, golf, volleyball, track and field, and other non-revenue sports at the Division II, Division III, NAIA, and junior college levels.

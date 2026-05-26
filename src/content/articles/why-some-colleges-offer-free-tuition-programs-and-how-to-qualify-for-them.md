@@ -6,6 +6,7 @@ pubDatetime: "2026-04-18T19:39:19Z"
 publishDate: '2026-04-18T19:39:19Z'
 readingTime: 8
 tags: ["featured"]
+
 ---
 
 As of 2024, over 200 colleges and universities in the United States offer some form of free tuition program, collectively saving eligible students an estimated $1.8 billion annually, according to the College Board’s *Trends in College Pricing* report. These programs range from full-tuition scholarships at elite institutions like Harvard University—which guarantees free tuition for families earning under $85,000 per year—to state-level "promise" programs like the Tennessee Promise, which has covered tuition for over 100,000 community college students since 2015. The National Center for Education Statistics (NCES) reports that the average published tuition at four-year public institutions was $10,940 for in-state students in 2022-2023, making these programs a critical tool for reducing student debt, which now exceeds $1.7 trillion nationally. Understanding how these programs work and, more importantly, how to qualify, can mean the difference between graduating debt-free or carrying a five-figure loan burden for decades.

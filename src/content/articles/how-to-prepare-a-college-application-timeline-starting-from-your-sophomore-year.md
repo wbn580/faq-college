@@ -6,6 +6,7 @@ pubDatetime: "2026-04-13T19:38:21Z"
 publishDate: '2026-04-13T19:38:21Z'
 readingTime: 6
 tags: ["featured"]
+
 ---
 
 Starting college applications in sophomore year (grade 10) gives you 36 months to build a competitive profile, which is 18 months more than students who start in senior fall. According to the National Association for College Admission Counseling (NACAC) 2023 State of College Admission report, 74% of U.S. colleges rate "grades in college prep courses" as considerably important, and 61% rate "admission test scores" as moderately to considerably important. A sophomore start allows you to optimize both numbers without the panic of a compressed timeline. The U.S. Department of Education's National Center for Education Statistics (NCES) 2023 data shows that students who take at least 4 years of core academic subjects (English, math, science, social studies) have a 22% higher on-time graduation rate. This timeline is not about doing more work — it's about distributing work across 3 academic years so each semester has a clear, manageable goal. Below is a semester-by-semester plan built from NACAC benchmarks, Common App historical data, and FAFSA filing windows.

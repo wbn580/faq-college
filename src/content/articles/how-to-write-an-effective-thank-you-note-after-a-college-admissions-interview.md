@@ -6,6 +6,7 @@ pubDatetime: "2026-05-10T19:43:12Z"
 publishDate: '2026-05-10T19:43:12Z'
 readingTime: 5
 tags: ["featured"]
+
 ---
 
 A post-interview thank you note can move the needle on your application. According to a 2023 survey by the National Association for College Admission Counseling (NACAC), 16.4% of colleges consider "demonstrated interest" — including post-interview communication — to have either considerable or moderate importance in admissions decisions. For private institutions, that figure jumps to 22.6%. The interview itself is already a signal of interest; the thank you note reinforces your professionalism and keeps your name fresh in the interviewer's mind. A well-crafted note, sent within 24 hours, can distinguish you from the 60-70% of applicants who skip this step entirely, based on internal reporting from several admissions offices. This guide covers exactly what to write, when to send it, and what to avoid — no fluff, just actionable steps backed by admissions office best practices.

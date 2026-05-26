@@ -6,6 +6,7 @@ pubDatetime: "2026-04-29T19:41:14Z"
 publishDate: '2026-04-29T19:41:14Z'
 readingTime: 8
 tags: ["featured"]
+
 ---
 
 The average cost to apply to a single U.S. college is around $50, but selective private universities often charge $75–$90 per application. With the Common Application reporting that its 1,100+ member schools collected an average of $55 per submission in 2023–2024, a student applying to 10 schools faces $550 in fees before even submitting a single transcript. For low-income families, this creates a real barrier: the National Association for College Admission Counseling (NACAC) found that 42% of students from households earning under $50,000 annually said application fees influenced which colleges they applied to. College fee waivers exist to remove that barrier. These waivers allow eligible students to submit applications without paying the standard fee, covering everything from the Common App’s $55 per submission to individual university charges. The College Board and NACAC both administer centralized waiver programs, while many schools offer their own institutional waivers. Understanding the eligibility criteria, application process, and deadlines can save a student hundreds of dollars — and ensure that financial need does not limit college choice.

@@ -3,6 +3,7 @@ title: "Studying in Canada · International Student Guide"
 description: "A comprehensive guide for international students considering Canadian universities — study permit, PGWP pathway, costs, top universities, and the path to permanent residency."
 category: "compare"
 publishDate: "2026-05-15T08:00:00Z"
+
 ---
 
 Canada is the fastest-growing major study destination, driven by the most attractive post-study immigration pathway among English-speaking countries. The Post-Graduation Work Permit (PGWP) combined with Express Entry provides a structured route from student to permanent resident.

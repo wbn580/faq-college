@@ -6,6 +6,7 @@ pubDatetime: "2026-04-28T19:40:58Z"
 publishDate: '2026-04-28T19:40:58Z'
 readingTime: 8
 tags: ["featured"]
+
 ---
 
 Legacy admissions — the practice of giving preferential treatment to applicants who are children of alumni — remains one of the most debated factors in U.S. college admissions. At Harvard University, legacy applicants were admitted at a rate of approximately 34% between 2014 and 2019, compared to a general admission rate of roughly 6% for the same period, according to data cited in the 2023 *Students for Fair Admissions v. Harvard* trial (Harvard Office of Institutional Research, 2023). A 2022 study by the National Bureau of Economic Research (NBER) found that legacy applicants at 30 elite U.S. colleges were three to four times more likely to be admitted than non-legacy applicants with similar academic profiles. For the average applicant, this means your chances at a top-tier school are measurably lower if you are not a legacy — but the effect is not monolithic across all schools. Understanding how legacy status is weighted, which schools use it, and how you can build a strategy around it is critical for setting realistic expectations and crafting a competitive application.

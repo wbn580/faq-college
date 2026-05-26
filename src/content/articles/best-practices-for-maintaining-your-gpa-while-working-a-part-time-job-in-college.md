@@ -6,6 +6,7 @@ pubDatetime: "2026-05-02T19:41:38Z"
 publishDate: '2026-05-02T19:41:38Z'
 readingTime: 7
 tags: ["featured"]
+
 ---
 
 A 2018 study by Georgetown University's Center on Education and the Workforce found that **40% of full-time undergraduate students** and **76% of part-time students** work at least 30 hours per week. Balancing a job with academic demands is a reality for millions, and the data shows a clear risk: students who work more than 20 hours per week see an average GPA drop of **0.2 to 0.3 points** compared to non-working peers (National Center for Education Statistics, 2020). However, the solution isn't to avoid work—it's to manage the intersection strategically. This guide outlines concrete, data-backed practices to maintain a strong GPA while holding a part-time job, from schedule design to professor communication. The goal is to treat your time as a finite resource and optimize it with the same rigor you'd apply to a course syllabus.

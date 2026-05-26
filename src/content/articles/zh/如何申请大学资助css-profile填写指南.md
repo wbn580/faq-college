@@ -6,6 +6,7 @@ pubDatetime: "2026-03-30T19:35:47Z"
 publishDate: '2026-03-30T19:35:47Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 About 200 U.S. colleges and universities require the CSS Profile from the College Board, not just the FAFSA, to award non-federal institutional aid. For the 2024–2025 academic year, the CSS Profile is used by over 400 institutions, including all Ivy League schools, to distribute more than $9 billion in institutional grants and scholarships annually (College Board, 2023, CSS Profile Overview). Unlike the FAFSA, which is free and strictly federal, the CSS Profile costs $25 for the first school and $16 for each additional school, though fee waivers are available for eligible low-income families (College Board, 2023, CSS Profile Fee Waiver Policy). This guide covers the exact steps to complete the CSS Profile, from gathering documents to understanding how assets are treated differently than on the FAFSA. Missing the CSS Profile could cost you thousands in need-based aid from private universities, so getting it right is critical.

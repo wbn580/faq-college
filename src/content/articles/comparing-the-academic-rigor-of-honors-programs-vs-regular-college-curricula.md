@@ -6,6 +6,7 @@ pubDatetime: "2026-05-03T19:41:56Z"
 publishDate: '2026-05-03T19:41:56Z'
 readingTime: 9
 tags: ["featured"]
+
 ---
 
 About 25% of U.S. four-year public universities offer an honors program, and students in these programs typically take 15–24 credits of honors-designated coursework, according to the National Collegiate Honors Council’s 2022 annual survey. The core difference between honors and regular curricula is not just harder exams — it’s a structural shift toward seminar-style discussion, primary-source reading, and independent research projects. A 2023 study by the American Educational Research Association found that honors students spend an average of 3.2 hours per week on out-of-class academic activities beyond standard homework, compared to 1.8 hours for non-honors peers. This gap widens in STEM disciplines, where honors sections require lab reports with original data analysis rather than pre-written templates. The academic rigor difference also appears in grading: honors courses at public R1 universities average a 3.2 GPA, while regular sections in the same department average 2.9, per a 2024 analysis of 14,000 student records from the University System of Georgia. That 0.3-point gap suggests honors sections maintain higher standards even with self-selected high-achieving students.

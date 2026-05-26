@@ -6,6 +6,7 @@ pubDatetime: "2026-05-02T19:41:45Z"
 publishDate: '2026-05-02T19:41:45Z'
 readingTime: 7
 tags: ["featured"]
+
 ---
 
 About 43% of U.S. colleges that use a waitlist admitted zero students from it in 2022, according to the National Association for College Admission Counseling (NACAC 2023 State of College Admission report). For the schools that did draw from their waitlist, the median admit rate was just 7%. These numbers make one thing clear: a waitlist decision is not a rejection, but the odds are thin. The key is to shift your strategy immediately—from applicant to advocate. This guide breaks down the specific, actionable steps that research shows actually move the needle, based on data from over 1,100 four-year institutions and admissions office surveys.

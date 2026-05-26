@@ -6,6 +6,7 @@ pubDatetime: "2026-04-25T19:40:28Z"
 publishDate: '2026-04-25T19:40:28Z'
 readingTime: 8
 tags: ["featured"]
+
 ---
 
 Around 30% of U.S. college students change their major at least once within the first three years, according to the National Center for Education Statistics (NCES, 2023). For students entering with multiple interests and no clear career path, this statistic is not a failure signal — it reflects a normal exploratory process. A 2022 survey by the American Council on Education found that 75% of incoming freshmen report being "undecided" or "tentatively decided" on a major. The key is not to pick the perfect major on day one, but to design a decision-making framework that narrows options without closing doors. This guide breaks down the selection process into actionable steps: identifying your interest patterns, testing fields through low-risk coursework, leveraging interdisciplinary majors, and using data on graduate outcomes from sources like the U.S. Bureau of Labor Statistics (2024 Occupational Outlook Handbook). By the end, you will have a concrete shortlist of 2–3 majors to investigate further, not a single forced choice.

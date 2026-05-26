@@ -6,6 +6,7 @@ pubDatetime: "2026-05-08T19:42:50Z"
 publishDate: '2026-05-08T19:42:50Z'
 readingTime: 9
 tags: ["featured"]
+
 ---
 
 Nearly 60% of U.S. colleges require full-time undergraduate students to carry health insurance, with average annual premiums for university-sponsored plans reaching $4,000–$5,000 per student in the 2023–2024 academic year, according to the American College Health Association (ACHA 2024 Benchmarking Survey). These plans are often automatically enrolled as part of tuition billing, meaning students see a mandatory "health insurance fee" line item before they can register for classes. A 2023 study by the Government Accountability Office (GAO) found that 42% of public four-year universities and 68% of private four-year universities mandate student health insurance, with waiver deadlines typically falling 10–14 days before the semester starts. Missing that window means paying the full premium—even if you already have coverage under a parent's plan. Understanding how these plans work, what they cover, and how to opt out can save you $2,000–$5,000 per year. Below is a breakdown of enrollment mechanics, fee structures, coverage gaps, and waiver procedures every student should know.

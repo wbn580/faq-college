@@ -6,6 +6,7 @@ pubDatetime: "2026-05-03T19:41:54Z"
 publishDate: '2026-05-03T19:41:54Z'
 readingTime: 7
 tags: ["featured"]
+
 ---
 
 Moving away for college alone doesn't mean you have to navigate the transition without a safety net. According to the 2023 National College Health Assessment by the American College Health Association (ACHA), 48.4% of college students reported feeling lonely within the past 12 months, and a 2022 study from the U.S. Department of Education found that first-year students who reported a weak sense of belonging were 2.3 times more likely to consider dropping out. These numbers make one thing clear: a strong support network isn't a luxury—it's a retention and well-being tool. Building one intentionally from day one can cut that loneliness risk in half and improve your GPA by 0.4 points on average, per a 2019 analysis of 30,000 students by the National Survey of Student Engagement (NSSE). This guide breaks down the specific, actionable steps to construct that network when you arrive on campus without a single familiar face.

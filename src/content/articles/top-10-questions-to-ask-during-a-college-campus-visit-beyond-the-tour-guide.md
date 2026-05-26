@@ -6,6 +6,7 @@ pubDatetime: "2026-04-17T19:38:59Z"
 publishDate: '2026-04-17T19:38:59Z'
 readingTime: 5
 tags: ["featured"]
+
 ---
 
 A standard campus tour shows you the library, the dining hall, and the freshman dorms. But it rarely tells you what 34% of first-year students at four-year institutions actually experience: the decision to transfer before their second year (National Student Clearinghouse Research Center, 2023). The tour guide is paid to sell the school, not to reveal the 62% of students who graduate with debt averaging $29,400 per borrower (The Institute for College Access & Success, 2023). To cut through the marketing, you need questions that target retention, financial reality, and academic fit—questions the guide would rather skip. The 10 questions below are designed for the walk between buildings, the conversation with a random student, or the moment you sit on a bench and observe. They are not for the tour guide. They are for you, the prospective student, to collect data that actually predicts whether you will stay and succeed.

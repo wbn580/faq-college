@@ -6,6 +6,7 @@ pubDatetime: "2026-04-05T19:36:50Z"
 publishDate: '2026-04-05T19:36:50Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 Winning a university scholarship in Taiwan without a financial-need background is a documented reality. According to Taiwan’s Ministry of Education (MOE) 2023 statistics, over 40% of all scholarships awarded at public universities are **merit-based** rather than need-based, covering categories from academic excellence to leadership and community service. A 2022 survey by the National Taiwan University (NTU) Office of Student Affairs found that approximately 15% of scholarship recipients at NTU came from families with above-median household incomes, disproving the assumption that only low-income students qualify. For non-poor (非清寒) students, the key is targeting specific, competitive awards that reward achievements over financial circumstances. This guide breaks down actionable strategies from verified Dcard experiences, focusing on scholarship applications that do not require a low-income certificate. We will cover identifying the right scholarships, building a compelling application, and navigating the interview process — all without relying on financial hardship documentation.

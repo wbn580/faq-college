@@ -6,6 +6,7 @@ pubDatetime: "2026-05-16T19:44:19Z"
 publishDate: '2026-05-16T19:44:19Z'
 readingTime: 9
 tags: ["featured"]
+
 ---
 
 A high school student who actively engages with a target college’s alumni network is 3.4 times more likely to receive an admissions offer than a peer with similar grades who does not, according to a 2023 survey by the National Association for College Admission Counseling (NACAC). The same report found that 62% of selective colleges (admit rate under 25%) consider "demonstrated interest" — including alumni interactions — a moderately or considerably important factor in admissions decisions. Yet fewer than 12% of high school students ever reach out to alumni before applying. This gap represents a significant missed opportunity. Alumni networks offer direct access to insider knowledge about academic programs, campus culture, and career outcomes that brochures and official tours cannot provide. They also serve as informal references: a positive alumni interaction logged by the admissions office can tip a borderline application. This guide outlines five concrete strategies for high school students to build meaningful connections with alumni networks, starting as early as sophomore year.

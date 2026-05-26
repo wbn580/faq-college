@@ -6,6 +6,7 @@ pubDatetime: "2026-05-01T19:41:29Z"
 publishDate: '2026-05-01T19:41:29Z'
 readingTime: 6
 tags: ["featured"]
+
 ---
 
 As of the 2023-2024 admissions cycle, over 65 U.S. colleges and universities—including the entire University of California system, Brown, and the University of Chicago—now offer optional video essay submissions as part of their application, according to the National Association for College Admission Counseling (NACAC 2024 State of College Admission Report). Data from the Common Application shows that only 12% of applicants submit a video when one is available, yet those who do see a measurable increase in their admit rate, with some institutions reporting a 20-30% higher acceptance rate among video submitters (NACAC 2024). This is not a coincidence. A well-executed video essay provides admissions officers—who spend an average of 8 minutes per file—with a multidimensional view of your personality, communication skills, and creative thinking that a written essay alone cannot convey. The key is treating the video not as a backup option, but as a strategic tool to differentiate yourself in a pool of 1.2 million-plus Common App applicants annually.

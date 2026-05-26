@@ -6,6 +6,7 @@ pubDatetime: "2026-04-26T19:40:38Z"
 publishDate: '2026-04-26T19:40:38Z'
 readingTime: 8
 tags: ["featured"]
+
 ---
 
 In the 2022–2023 academic year, approximately 41% of all U.S. undergraduate students were enrolled in community colleges, according to the American Association of Community Colleges (AACC, 2023). For students aiming to transfer to a top university, the central anxiety is credit loss — a 2020 report by the Government Accountability Office (GAO) found that transfer students lost an average of 43% of their earned credits when moving between institutions. This is not inevitable. The University of California system, for example, guarantees admission to its top campuses for California community college students who complete a specific transfer pathway, and these students enter as juniors with full credit transfer. The key is not luck but a structured approach: choosing a transfer-friendly destination, aligning your coursework before enrollment, and understanding each university’s articulation agreements. This guide breaks down the exact steps to transfer from a community college to a top university without losing credits — using real policy data, not generic advice.

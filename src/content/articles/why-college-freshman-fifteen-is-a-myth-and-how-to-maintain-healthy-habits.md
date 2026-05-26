@@ -6,6 +6,7 @@ pubDatetime: "2026-05-07T19:42:33Z"
 publishDate: '2026-05-07T19:42:33Z'
 readingTime: 7
 tags: ["featured"]
+
 ---
 
 The “Freshman 15” — the belief that first-year students inevitably gain 15 pounds — is one of the most persistent myths in higher education. A 2023 study published in the *Journal of American College Health* tracked 1,200 students across 12 U.S. universities and found that the average weight gain during the first year was **3.8 pounds**, not 15. The National Institutes of Health (NIH) reports that only **2.3%** of freshmen gain 10 or more pounds in their first semester. The real story is more nuanced: lifestyle shifts — irregular meal times, reduced sleep, and increased alcohol consumption — can affect health, but the dramatic “15” is an exaggeration. Understanding what actually happens to your body during the transition to college allows you to build sustainable habits without panic.

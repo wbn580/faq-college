@@ -6,6 +6,7 @@ pubDatetime: "2026-05-17T19:44:27Z"
 publishDate: '2026-05-17T19:44:27Z'
 readingTime: 8
 tags: ["featured"]
+
 ---
 
 Nearly 30% of students entering four-year U.S. colleges and universities in fall 2023 declared themselves undeclared or exploratory, according to the National Center for Education Statistics (NCES, 2024, *Digest of Education Statistics*). This makes "undeclared" the single most common major category among first-year students. College advising services designed specifically for these students can raise four-year graduation rates by as much as 12 percentage points, per a 2022 study published in the *Journal of College Student Retention*. Yet many families treat advising as an afterthought, only seeking help when academic probation or a looming degree deadline forces the issue. The difference between a structured advising relationship and a hands-off approach often determines whether a student graduates in four years or six, and whether they accumulate unnecessary debt. This guide covers the concrete services, costs, and decision frameworks that matter most for undeclared students in 2025, drawing on data from the U.S. Department of Education, the National Association of Academic Advising (NACADA), and the National Student Clearinghouse Research Center.

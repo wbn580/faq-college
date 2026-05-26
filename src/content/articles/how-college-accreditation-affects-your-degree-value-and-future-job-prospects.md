@@ -6,6 +6,7 @@ pubDatetime: "2026-04-13T19:38:12Z"
 publishDate: '2026-04-13T19:38:12Z'
 readingTime: 8
 tags: ["featured"]
+
 ---
 
 A college’s accreditation status is the single most important factor determining whether your degree will be recognized by employers, graduate schools, and professional licensing boards. In the United States, approximately 4,000 degree-granting institutions are accredited by agencies recognized by the U.S. Department of Education or the Council for Higher Education Accreditation (CHEA, 2024). Degrees from unaccredited institutions carry a significantly higher risk of rejection: a 2023 survey by the Society for Human Resource Management found that 89% of employers verify accreditation when evaluating a candidate’s degree. The two primary types—regional accreditation (covering 2,800+ nonprofit colleges) and national accreditation (common among for-profit and vocational schools)—carry very different weight in the job market. Regional accreditation, held by institutions like the University of California system and Harvard, is the gold standard for academic transferability and professional licensure. National accreditation, while valid, often limits credit transfer and may not satisfy prerequisites for graduate programs. Understanding these distinctions directly affects your degree’s long-term return on investment and career mobility.

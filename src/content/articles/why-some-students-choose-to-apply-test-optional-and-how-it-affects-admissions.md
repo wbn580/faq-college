@@ -6,6 +6,7 @@ pubDatetime: "2026-05-11T19:43:19Z"
 publishDate: '2026-05-11T19:43:19Z'
 readingTime: 9
 tags: ["featured"]
+
 ---
 
 By fall 2024, over **1,900 accredited U.S. bachelor's-degree-granting institutions** had extended test-optional or test-free admissions policies, according to the National Center for Fair & Open Testing (FairTest, 2024 update). This represents roughly **83% of all four-year colleges in the United States**, a dramatic shift from the 2019–2020 cycle when fewer than 1,070 schools offered such flexibility. The immediate catalyst was the COVID-19 pandemic, which canceled SAT/ACT administrations nationwide. But the structural reasons run deeper: research by the American Educational Research Association (AERA, 2023) found that SAT scores correlate more strongly with family income than with first-year college GPA—a relationship that has driven many institutions to reconsider the role of standardized testing in holistic review. For students, the decision to apply test-optional is not a simple binary. It affects scholarship eligibility, institutional match, and how admissions committees evaluate academic preparedness. Understanding the data behind this choice—and how admissions officers actually use test scores when they are submitted—can determine whether a student’s application strengthens or weakens their chances.

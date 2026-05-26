@@ -6,6 +6,7 @@ pubDatetime: "2026-04-18T19:39:00Z"
 publishDate: '2026-04-18T19:39:00Z'
 readingTime: 5
 tags: ["featured"]
+
 ---
 
 A college rejection letter is not a final verdict. In the 2022-23 admissions cycle, 43% of U.S. colleges reported receiving formal appeals, according to the National Association for College Admission Counseling (NACAC 2023 State of College Admission report). Of those, roughly 1-5% of appeals resulted in a reversed decision, meaning the practice is low-probability but not impossible. The key is knowing which schools allow reconsideration and how to structure a request that admissions officers will actually read. Your window is typically 14-21 days from the rejection date, and the process differs sharply between public universities (which rarely entertain appeals) and private institutions (which may have a formal review committee). This guide covers the five steps to craft a legitimate appeal, the data on success rates, and the one scenario where you should absolutely not submit one.

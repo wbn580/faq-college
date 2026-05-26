@@ -3,6 +3,7 @@ title: "Studying in Australia as an International Student · Complete Guide"
 description: "Everything international students need to know about studying in Australia — universities, visa requirements, cost of living, part-time work, and post-study pathways."
 category: "compare"
 publishDate: "2026-05-15T08:00:00Z"
+
 ---
 Australia is the world's third most popular international study destination, hosting over 700,000 international students. This guide covers the core information for prospective students.
 

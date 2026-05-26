@@ -6,6 +6,7 @@ pubDatetime: "2026-05-09T19:43:00Z"
 publishDate: '2026-05-09T19:43:00Z'
 readingTime: 12
 tags: ["featured"]
+
 ---
 
 The transition from high school to college represents one of the most significant intellectual and social shifts a young person undergoes. According to the National Center for Education Statistics (NCES, 2023), approximately 66% of recent high school graduates enroll in college immediately, yet first-year retention rates at four-year institutions hover around 81%, meaning nearly 1 in 5 students does not return for sophomore year. A 2022 study by the American College Health Association found that 40% of college students reported feeling overwhelming anxiety within the past year, often stemming from academic pressure and social adjustment. The right reading material before arrival can build a mental framework for handling these challenges. The ten books below are not a typical summer reading list of literary classics; they are strategic primers on money management, study habits, emotional resilience, career planning, and social navigation. Each title has been selected for its direct applicability to the freshman experience, drawing on data from institutional surveys and economic reports to address the most common pitfalls students face.

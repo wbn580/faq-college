@@ -6,6 +6,7 @@ pubDatetime: "2026-05-08T19:42:50Z"
 publishDate: '2026-05-08T19:42:50Z'
 readingTime: 7
 tags: ["featured"]
+
 ---
 
 Only 22% of STEM undergraduates in the U.S. participate in paid research before graduation, according to the National Science Foundation's 2023 Survey of Earned Doctorates. The same survey shows that students who complete paid research are 1.8 times more likely to enroll in a STEM graduate program within two years of earning their bachelor's. Paid positions are not just about money — they signal to graduate admissions committees that a student has been trusted with real, funded laboratory work. The National Association of Colleges and Employers (NACE) reports that the average hourly wage for undergraduate research assistants in STEM fields was $16.50 in 2024, with engineering and computer science positions averaging $19.75 per hour. Finding these roles requires a strategy that goes beyond emailing every professor in your department. This guide covers the five most effective channels for securing paid undergraduate research in 2025, with specific timelines, application requirements, and documented success rates for each pathway.

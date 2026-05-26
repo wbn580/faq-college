@@ -3,6 +3,7 @@ title: "Part-Time Jobs for International Students · Rights, Limits, and Tips"
 description: "How international students can work while studying — legal work limits by country, types of jobs available, tax obligations, and strategies for finding student-friendly employment."
 category: "life"
 publishDate: "2026-05-15T08:00:00Z"
+
 ---
 
 Working part-time is the primary way international students offset living costs. Work rights vary by country, and exceeding the legal work limit can result in visa cancellation.

@@ -3,6 +3,7 @@ title: "How to Choose a University Major · A Decision Framework"
 description: "A systematic approach to choosing a university major — balancing interest, employability, and earning potential with practical exercises to narrow your options."
 category: "apply"
 publishDate: "2026-05-15T08:00:00Z"
+
 ---
 
 Choosing a major is the most consequential academic decision you'll make — it shapes your next 3–4 years and your first decade of career options. Most students choose based on two factors: what they enjoyed in high school and what their parents suggest. A more systematic approach leads to better outcomes.

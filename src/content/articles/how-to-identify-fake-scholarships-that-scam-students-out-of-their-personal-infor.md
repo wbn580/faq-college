@@ -6,6 +6,7 @@ pubDatetime: "2026-04-21T19:39:49Z"
 publishDate: '2026-04-21T19:39:49Z'
 readingTime: 8
 tags: ["featured"]
+
 ---
 
 The Federal Trade Commission (FTC) reported that consumers lost over $122 million to scholarship and education scams in 2022 alone, a 40% increase from the prior year. These fraudulent schemes target students aged 16–24, often requesting Social Security numbers, bank details, or copies of passports under the guise of "processing fees" or "verification." A 2023 study by the Better Business Bureau (BBB) found that 1 in 4 scholarship scams successfully obtained a student's personal information before the victim realized the offer was fake. The core tactic is simple: real scholarships never ask for money upfront or sensitive data before awarding funds. Understanding how to spot these red flags can save you from identity theft and financial loss.

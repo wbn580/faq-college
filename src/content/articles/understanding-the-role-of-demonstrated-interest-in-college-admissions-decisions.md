@@ -6,6 +6,7 @@ pubDatetime: "2026-04-18T19:39:18Z"
 publishDate: '2026-04-18T19:39:18Z'
 readingTime: 9
 tags: ["featured"]
+
 ---
 
 Demonstrated interest — the degree to which a prospective student shows genuine enthusiasm for a specific college — is a factor in admissions decisions at approximately **33% of U.S. colleges**, according to the **2023 NACAC State of College Admission report**. For private institutions and smaller liberal arts colleges, that figure jumps to over **50%**, meaning more than half actively track whether applicants have visited campus, opened emails, or engaged with admissions representatives. The logic is straightforward: colleges want to admit students who are likely to enroll, which improves their **yield rate** (the percentage of admitted students who accept an offer). A 1% increase in yield can directly affect a school’s U.S. News ranking and financial planning. For students, understanding which schools track interest — and how — can be the difference between a waitlist decision and an acceptance. This guide breaks down what demonstrated interest is, why some colleges prioritize it, how they measure it, and how you can strategically show interest without overspending time or money.

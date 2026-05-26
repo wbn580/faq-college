@@ -3,6 +3,7 @@ title: "Gap Year Before University · Pros, Cons, and Planning"
 description: "Should you take a gap year? The academic, financial, and personal development arguments, deferred entry options, and how to plan a productive gap year."
 category: "apply"
 publishDate: "2026-05-15T08:00:00Z"
+
 ---
 
 A gap year — a deliberate break between secondary school and university — is increasingly common. This article evaluates the evidence for and against taking one.

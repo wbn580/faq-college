@@ -3,6 +3,7 @@ title: "How to Write a University Personal Statement · A Step-by-Step Guide"
 description: "A practical guide to writing a standout university personal statement — structure, content, common mistakes, and examples for UCAS, Common App, and direct applications."
 category: "apply"
 publishDate: "2026-05-15T08:00:00Z"
+
 ---
 
 The personal statement is the most important document you write for university applications — it's your only opportunity to speak directly to admissions tutors before they make a decision. This guide covers structure, content strategy, and examples.

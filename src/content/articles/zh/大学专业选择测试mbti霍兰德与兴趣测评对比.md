@@ -6,6 +6,7 @@ pubDatetime: "2026-02-28T19:30:32Z"
 publishDate: '2026-02-28T19:30:32Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 A 2018 study by the National Center for Education Statistics (NCES) found that approximately 30% of undergraduate students in the U.S. change their major at least once within the first three years. This decision carries significant financial weight: the average cost of an extra year of tuition, fees, and lost wages can exceed $50,000 per student, according to a 2020 Georgetown University Center on Education and the Workforce analysis. To reduce this risk, many students turn to **career assessment tools** like the Myers-Briggs Type Indicator (MBTI), the Holland Code (RIASEC) test, and general interest inventories. These instruments claim to align personal traits with compatible academic paths, but their effectiveness varies widely. The MBTI, developed from Carl Jung’s theories, sorts personalities into 16 types, while Holland’s framework categorizes interests into six occupational themes (Realistic, Investigative, Artistic, Social, Enterprising, Conventional). Interest inventories, such as the Strong Interest Inventory, measure preferences for specific activities. This article compares these three major approaches, examining their scientific validity, practical application, and limitations for choosing a college major.

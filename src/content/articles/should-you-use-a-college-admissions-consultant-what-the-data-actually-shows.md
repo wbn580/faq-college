@@ -6,6 +6,7 @@ pubDatetime: "2026-04-12T19:38:08Z"
 publishDate: '2026-04-12T19:38:08Z'
 readingTime: 7
 tags: ["featured"]
+
 ---
 
 The decision to hire a college admissions consultant is a financial and strategic one, and the data shows the outcomes are far from uniform. According to a 2022 study by the National Association for College Admission Counseling (NACAC), only 27% of first-year students at four-year institutions reported using a private counselor, yet students from families earning over $200,000 annually were more than twice as likely to use one compared to those earning under $50,000 (NACAC, 2022, *State of College Admission*). Meanwhile, a 2023 report from the U.S. Government Accountability Office (GAO) found that for-profit admissions consulting firms often make claims of "guaranteed" acceptances without disclosing that their average client acceptance rate to top-20 universities was just 12.4%, only marginally above the general applicant pool average of 9.1% (GAO, 2023, *Consumer Protections in College Admissions*). The core question isn't whether these consultants can help — it's whether their help moves the needle enough to justify the cost, which can range from $3,000 for basic essay editing to over $150,000 for comprehensive "package" programs.

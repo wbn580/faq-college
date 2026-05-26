@@ -6,6 +6,7 @@ pubDatetime: "2026-05-21T19:45:22Z"
 publishDate: '2026-05-21T19:45:22Z'
 readingTime: 7
 tags: ["featured"]
+
 ---
 
 Nearly 65% of U.S. college students live with at least one roommate during their first year, according to the National Center for Education Statistics (NCES, 2023). For incoming freshmen who don't know anyone on campus, finding a compatible roommate can feel like a high-stakes gamble. However, a 2022 study by the American College Health Association found that students who actively selected their roommates reported 23% higher satisfaction with their living situation than those assigned randomly. This article outlines six data-backed strategies to find a roommate when you're starting from scratch, covering university tools, social media filters, and communication tactics that reduce conflict risk. Each section provides actionable steps—no luck required.

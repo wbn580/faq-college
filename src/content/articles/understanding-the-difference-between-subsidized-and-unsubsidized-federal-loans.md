@@ -6,6 +6,7 @@ pubDatetime: "2026-04-15T19:38:33Z"
 publishDate: '2026-04-15T19:38:33Z'
 readingTime: 7
 tags: ["featured"]
+
 ---
 
 The U.S. Department of Education disbursed approximately $95.7 billion in federal student loans during the 2022–2023 award year, with Direct Subsidized and Direct Unsubsidized Loans forming the core of that aid (U.S. Department of Education, 2024, FSA Data Book). The single most important difference between the two types is that the government pays the interest on a **subsidized loan** while you are enrolled at least half-time, during the six-month grace period after you leave school, and during any period of deferment. On an **unsubsidized loan**, you are responsible for all interest from the day the loan is disbursed, even while you are still in school. This distinction directly affects how much you will owe at graduation. For the 2024–2025 academic year, the interest rate for both types is fixed at 6.53% for undergraduate borrowers, but the total cost of an unsubsidized loan can be 20–30% higher over a standard 10-year repayment term if interest is capitalized during school (Federal Student Aid, 2024, Interest Rates and Fees). Understanding these mechanics is essential for any student deciding which loan to accept first and how much to borrow.

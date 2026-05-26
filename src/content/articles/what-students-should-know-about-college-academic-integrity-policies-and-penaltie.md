@@ -6,6 +6,7 @@ pubDatetime: "2026-05-19T19:44:57Z"
 publishDate: '2026-05-19T19:44:57Z'
 readingTime: 8
 tags: ["featured"]
+
 ---
 
 Academic integrity policies are not advisory guidelines — they are binding codes that can result in course failure, suspension, or expulsion at virtually every accredited U.S. college. According to the International Center for Academic Integrity (ICAI, 2023 survey), 68% of undergraduate students admitted to at least one instance of cheating or plagiarism over their academic career, yet only 3–5% of violations are formally reported. This gap means many students underestimate both the prevalence of enforcement and the severity of penalties. A 2022 study by the Council of Writing Program Administrators found that 58% of first-year students did not understand what constitutes "unauthorized collaboration" — the most common citation in academic misconduct cases. Penalties vary widely: a first-time plagiarism offense at a state university like Arizona State may result in a zero on the assignment and an academic integrity workshop, while the same offense at Princeton or the University of Virginia can trigger a one-semester suspension and a permanent transcript notation. Understanding these policies before you enroll — not after you receive a notice — is critical. For international students, the stakes are even higher: a violation can jeopardize F-1 visa status under Department of Homeland Security regulations (SEVP, 2024 policy guidance).

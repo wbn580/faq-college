@@ -6,6 +6,7 @@ pubDatetime: "2026-04-10T19:37:42Z"
 publishDate: '2026-04-10T19:37:42Z'
 readingTime: 6
 tags: ["featured"]
+
 ---
 
 Missing an Early Decision (ED) deadline doesn't mean your application is dead. ED is a binding agreement offered by roughly 450 U.S. colleges, and missing its November 1–15 cutoff simply shifts your strategy to Regular Decision (RD) or Early Action (EA) if available. According to the National Association for College Admission Counseling (NACAC) 2023 State of College Admission report, 82% of colleges reported that ED applicants had a higher admit rate than RD applicants, with the average ED admit rate across top-tier schools sitting at 62% versus 29% for RD. However, a missed deadline does not disqualify you from the same school—you just lose the binding early window. You can still apply RD, and many schools allow you to switch your application to EA if the policy permits. The key is acting within 24–48 hours to contact the admissions office, assess your options, and pivot to non-binding rounds without sacrificing your application quality.

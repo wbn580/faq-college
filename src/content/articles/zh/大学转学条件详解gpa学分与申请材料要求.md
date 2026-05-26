@@ -6,6 +6,7 @@ pubDatetime: "2026-03-05T19:31:27Z"
 publishDate: '2026-03-05T19:31:27Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 Transferring to a different university in the United States is a strategic academic move that requires a clear understanding of **GPA thresholds, transferable credit policies, and a specific set of application materials**. According to the National Center for Education Statistics (NCES, 2023), approximately **38% of all undergraduate students** will transfer at least once during their academic career. Furthermore, data from the U.S. Government Accountability Office (GAO, 2017) indicates that students lose an average of **43% of their earned credits** when transferring between institutions. This guide provides a data-driven breakdown of the three core pillars of a successful transfer application: the minimum GPA required, how credits are evaluated, and the exact documents you must prepare.

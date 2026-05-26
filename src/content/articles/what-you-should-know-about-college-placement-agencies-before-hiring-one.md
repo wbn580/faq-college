@@ -6,6 +6,7 @@ pubDatetime: "2026-05-04T19:41:57Z"
 publishDate: '2026-05-04T19:41:57Z'
 readingTime: 6
 tags: ["featured"]
+
 ---
 
 About 28% of U.S. high school students who enroll in a four-year college use some form of private admissions counseling, according to the 2023 *State of College Admission* report from the National Association for College Admission Counseling (NACAC). The same report found that families who hire independent counselors spend an average of $4,500 to $6,000 per student. College placement agencies—firms that offer application strategy, essay editing, and school selection advice—have grown into a $2.9 billion industry in the United States as of 2024 (IBISWorld). But the market is unregulated: anyone can call themselves an admissions consultant. Before signing a contract, you need to know what these agencies actually do, what they cost, and how to separate legitimate help from empty promises.

@@ -6,6 +6,7 @@ pubDatetime: "2026-04-26T19:40:33Z"
 publishDate: '2026-04-26T19:40:33Z'
 readingTime: 7
 tags: ["featured"]
+
 ---
 
 The average U.S. bachelor’s degree recipient in 2023 graduated with **$29,400** in federal student loan debt, according to the College Board’s Trends in College Pricing report. Yet that figure tells only part of the story: the same report found that total cost of attendance — including room, board, books, and personal expenses — exceeded tuition alone by an average of **$15,000 to $20,000 per year** at four-year public universities. This gap forces a critical decision for many students: should you borrow additional student loans to cover living expenses, or find alternative ways to pay for rent, food, and transportation? Taking out extra loans for living costs is often a necessary short-term fix, but the long-term financial consequences — including interest accrual, higher monthly payments, and reduced future borrowing capacity — can outweigh the immediate relief. A 2024 study by the Federal Reserve Bank of New York found that **student loan borrowers aged 25–34 with debt exceeding $50,000** had a 12% higher delinquency rate on other credit products compared to those with lower balances. This risk analysis breaks down the numbers, the trade-offs, and the alternatives so you can make an informed choice.

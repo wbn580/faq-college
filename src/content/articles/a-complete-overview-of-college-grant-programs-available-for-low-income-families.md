@@ -6,6 +6,7 @@ pubDatetime: "2026-04-24T19:40:22Z"
 publishDate: '2026-04-24T19:40:22Z'
 readingTime: 8
 tags: ["featured"]
+
 ---
 
 A college degree is the single most effective wealth-building tool in the United States, yet the sticker price of a four-year institution now exceeds $60,000 per year at 1,000+ private universities. For a family earning under $65,000 annually, this price tag is not a barrier—it is a filter. The U.S. Department of Education reported in 2023 that approximately 7.8 million Pell Grant recipients received an average of $4,491 per student, covering only a fraction of total costs. But Pell is just the baseline. The College Board’s 2023 Trends in College Pricing data shows that full-time undergraduates at public four-year institutions received an average of $15,610 in grant aid from all sources combined. For low-income families, the real opportunity lies in **institutional grant programs**—need-based scholarships funded directly by universities—that can reduce net price to zero. This guide breaks down the major federal, state, and institutional grant programs available, how to qualify, and the specific dollar amounts you can expect.

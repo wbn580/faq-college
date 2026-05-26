@@ -6,6 +6,7 @@ pubDatetime: "2026-02-28T19:30:32Z"
 publishDate: '2026-02-28T19:30:32Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 The 2024–2025 U.S. undergraduate admissions cycle processed over 1.25 million applications through the Common Application alone as of March 2024, according to the Common App’s 2023–2024 End-of-Season Report. Of those, only 43% of applicants were admitted to their first-choice institution, per the National Association for College Admission Counseling (NACAC) 2023 State of College Admission report. These numbers highlight a competitive landscape where application materials, interview performance, and understanding the录取流程 directly determine outcomes. This FAQ covers the three most frequently asked questions about U.S. college admissions: what documents you actually need, how interviews affect your chances, and the step-by-step timeline from submission to decision. Each section cites official sources—Common App, NACAC, and individual university admissions offices—so you can trust the data.

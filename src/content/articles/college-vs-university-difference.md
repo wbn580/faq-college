@@ -5,6 +5,7 @@ category: "faq"
 publishDate: "2026-05-15T04:40:00Z"
 readingTime: 8
 tags: ["college", "university", "comparison", "international-education"]
+
 ---
 
 The terms "college" and "university" mean different things in different countries. An international student who assumes the US meaning of "college" when researching Australian institutions will make category errors in their applications. This guide disambiguates the terms across four systems.

@@ -3,6 +3,7 @@ title: "Student Health Insurance · OSHC, NHS, and Other Health Cover"
 description: "A practical guide to student health insurance for international students — Australia's OSHC, UK's Immigration Health Surcharge, US campus health plans, and what they cover."
 category: "life"
 publishDate: "2026-05-15T08:00:00Z"
+
 ---
 International students must have health insurance in every major study destination. The systems vary significantly — this guide explains what you're paying for and what's covered.
 

@@ -6,6 +6,7 @@ pubDatetime: "2026-04-29T19:41:05Z"
 publishDate: '2026-04-29T19:41:05Z'
 readingTime: 8
 tags: ["featured"]
+
 ---
 
 A portfolio is a curated collection of your best work that demonstrates your skills, creativity, and potential in a specific field, and it is a requirement for many undergraduate programs in art, design, architecture, music, and film. According to the National Association for College Admission Counseling (NACAC) 2023 State of College Admission report, approximately 6% of all four-year colleges and universities require a portfolio or audition for specific majors, with that number rising to over 90% for accredited art and design schools. The portfolio is not a simple scrapbook; it is a high-stakes assessment tool that admissions committees use to gauge your technical ability, conceptual thinking, and artistic growth. For example, the Rhode Island School of Design (RISD) received over 4,500 applications for its 2023 entering class and admitted only about 20%, with the portfolio being the single most influential factor in the decision. Data from the Council for Higher Education Accreditation (CHEA) indicates that programs requiring portfolios see a 15-25% higher retention rate in their majors, suggesting the process effectively matches students to programs where they will succeed. This guide explains why colleges use portfolios and provides a step-by-step framework for building one that stands out.

@@ -6,6 +6,7 @@ pubDatetime: "2026-05-10T19:43:13Z"
 publishDate: '2026-05-10T19:43:13Z'
 readingTime: 7
 tags: ["featured"]
+
 ---
 
 The decision between living on campus and commuting from home is one of the most significant financial choices a college student makes. According to the **College Board’s 2023 Trends in College Pricing report**, the average published cost for on-campus room and board at four-year public institutions was **$12,770 per academic year** for 2023-2024. In contrast, a student living at home forgoes that room-and-board charge but must budget for transportation, food, and potential lost income from reduced work hours. The **National Center for Education Statistics (NCES) 2022** data indicates that **15% of full-time undergraduates lived with their parents** during the 2019-2020 academic year, a number that has likely increased post-pandemic due to rising inflation. This article breaks down the hard numbers—tuition differentials, housing contracts, meal plans, commuting costs, and lost campus income—to help you calculate which option truly costs less for your specific situation.

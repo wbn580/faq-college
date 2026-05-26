@@ -6,6 +6,7 @@ pubDatetime: "2026-05-14T19:43:59Z"
 publishDate: '2026-05-14T19:43:59Z'
 readingTime: 8
 tags: ["featured"]
+
 ---
 
 A single week of a faculty strike can delay a semester by 2–4 weeks, and a student-led protest occupying a main administrative building has historically extended academic calendars by an average of 3.1 weeks (U.S. Department of Education, 2023, "Postsecondary Institutional Disruptions Database"). Across U.S. four-year institutions, 67% of campus-wide work stoppages or building occupations between 2015 and 2023 resulted in at least one official calendar revision—ranging from shortened spring breaks to extended final exam periods (National Center for Education Statistics, 2023, "Campus Operations Disruption Report"). For students, the immediate consequence is not just lost classroom time: a 2022 study by the American Association of University Professors (AAUP) found that 41% of affected students reported a measurable drop in GPA during the recovery semester, while 18% required an extra term to graduate. Understanding how these events reshape your semester schedule, tuition obligations, and graduation timeline is critical—especially when you consider that the average U.S. university strike lasts 23 days (Bureau of Labor Statistics, 2024, "Work Stoppages in Higher Education"). This article breaks down the mechanics of academic calendar disruptions, the policies that govern them, and the concrete steps you can take to protect your credits and financial aid.

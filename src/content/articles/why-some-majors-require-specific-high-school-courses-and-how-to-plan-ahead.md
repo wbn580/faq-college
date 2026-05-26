@@ -6,6 +6,7 @@ pubDatetime: "2026-05-03T19:41:52Z"
 publishDate: '2026-05-03T19:41:52Z'
 readingTime: 8
 tags: ["featured"]
+
 ---
 
 University admissions teams treat high school course selection as a **prerequisite signal**, not just a GPA component. A 2023 report from the National Association for College Admission Counseling (NACAC) found that 72.4% of four-year U.S. colleges assign "considerable importance" to the rigor of a student's high school curriculum, second only to overall GPA. For competitive majors like engineering, nursing, or computer science, that figure rises above 90% — many programs will automatically reject an applicant who lacks a single required course, regardless of their test scores. The College Board’s 2022-2023 data shows that students who completed four years of math (through Precalculus or Calculus) were 3.2 times more likely to be admitted to a STEM program than peers who stopped at Algebra 2. This isn't about punishing late deciders; it's a structural reality: a student cannot succeed in university-level Organic Chemistry without high school Chemistry, and a school cannot ethically admit them without that foundation. Planning backward from your intended major — starting with the degree requirements at your target universities and mapping them to your available high school courses — is the single most effective way to avoid a rejection letter or a delayed graduation timeline.
