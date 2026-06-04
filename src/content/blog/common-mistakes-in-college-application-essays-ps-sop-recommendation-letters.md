@@ -5,7 +5,7 @@ pubDatetime: '2026-05-22T00:00:00Z'
 publishDate: '2026-05-22T00:00:00Z'
 modDatetime: '2026-05-22T00:00:00Z'
 slug: common-mistakes-in-college-application-essays-ps-sop-recommendation-letters
-ogImage: 'https://img.ulec.com.cn/留学-大学FAQ/common-mistakes-in-college-application-essays-ps-sop-recommendation-letters-2026-1880x1253.jpg'
+ogImage: 'https://img.faq.college/留学-大学FAQ/common-mistakes-in-college-application-essays-ps-sop-recommendation-letters-2026-1880x1253.jpg'
 tags:
   - '留学文书'
   - '个人陈述'
@@ -36,7 +36,7 @@ tags:
 
 ## 诚信红线：编造经历与注水推荐信是最高风险的致命伤
 
-![faq-college 配图](https://img.ulec.com.cn/留学-大学FAQ/common-mistakes-in-college-application-essays-ps-sop-recommendation-letters-2026-1880x1253.jpg)
+![faq-college 配图](https://img.faq.college/留学-大学FAQ/common-mistakes-in-college-application-essays-ps-sop-recommendation-letters-2026-1880x1253.jpg)
 
 如果说前几类错误会让招生官皱眉，那么诚信问题就直接意味着“拒绝”。在激烈的竞争压力下，个别学生会虚构实习经历、把简单地旁听实验室组会包装成主导科研项目、或者找根本不熟的名人写推荐信。招生官的审阅经验远比申请人想象的丰富，他们会交叉比对简历、成绩单、推荐信内容和面试表现，一旦发现矛盾之处，轻则文书被总体降分，重则直接判定申请无效，并在内部留下诚信记录，影响未来所有申请。
 
@@ -52,7 +52,7 @@ tags:
 
 ## 常见问题答疑
 
-![faq-college 配图](https://img.ulec.com.cn/留学-大学FAQ/common-mistakes-in-college-application-essays-ps-sop-recommendation-letters-2026-1880x1253.jpg)
+![faq-college 配图](https://img.faq.college/留学-大学FAQ/common-mistakes-in-college-application-essays-ps-sop-recommendation-letters-2026-1880x1253.jpg)
 
 **问：个人陈述（PS）和目的陈述（SOP）到底有什么区别，可以混用吗？**
 答：两者侧重点不同，绝对不能混用。个人陈述更强调个人成长故事、动机来源和独特经历，通常偏故事性。目的陈述则更侧重学术背景、具体研究经历和职业目标，偏学术性和专业性。部分学校只要求其中一种，但也有些会同时要求，提交前务必看清学校要求，针对各自要求写出完全不同的文章。

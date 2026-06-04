@@ -5,7 +5,7 @@ pubDatetime: '2026-05-26T00:00:00Z'
 publishDate: '2026-05-26T00:00:00Z'
 modDatetime: '2026-05-26T00:00:00Z'
 slug: us-college-ed-ea-rea-rd-admission-data-strategy
-ogImage: 'https://img.ulec.com.cn/留学-大学FAQ/us-college-ed-ea-rea-rd-admission-data-strategy-2026-1880x1253.jpg'
+ogImage: 'https://img.faq.college/留学-大学FAQ/us-college-ed-ea-rea-rd-admission-data-strategy-2026-1880x1253.jpg'
 tags:
   - '美国大学申请'
   - '早申策略'
@@ -114,7 +114,7 @@ RD作为最后收网阶段，给予了最大的选校宽度与材料打磨时间
 
 ## 总结：用数据与策略搭建最大化的录取框架
 
-![faq-college 配图](https://img.ulec.com.cn/留学-大学FAQ/us-college-ed-ea-rea-rd-admission-data-strategy-2026-1880x1253.jpg)
+![faq-college 配图](https://img.faq.college/留学-大学FAQ/us-college-ed-ea-rea-rd-admission-data-strategy-2026-1880x1253.jpg)
 
 
 从录取数据复盘角度，对比美国大学EA、ED、REA、RD等申请轮次的优劣势，分析不同策略对录取率的影响，并给出针对不同背景学生的选校与申请轮次组合建议，帮助申请人制定最大化录取机会的方案，这件事的成本其实很低，但收益极高。多轮次政策设计的本质，是大学在招生确定性与学生录取机会之间的博弈，而申请人的任务就是读懂这些隐藏规则，并把它变为自己的战术。

@@ -5,7 +5,7 @@ pubDatetime: '2026-05-23T00:00:00Z'
 publishDate: '2026-05-23T00:00:00Z'
 modDatetime: '2026-05-23T00:00:00Z'
 slug: complete-guide-us-university-scholarships-international-students
-ogImage: 'https://img.ulec.com.cn/留学-大学FAQ/complete-guide-us-university-scholarships-international-students-2026-1880x1255.jpg'
+ogImage: 'https://img.faq.college/留学-大学FAQ/complete-guide-us-university-scholarships-international-students-2026-1880x1255.jpg'
 tags:
   - '美国大学奖学金'
   - '国际学生'
@@ -70,7 +70,7 @@ Need-based 奖学金则依据学生家庭的经济状况来评定，目的是帮
 
 ## 五、奖学金申请中的常见误区与避坑方法
 
-![faq-college 配图](https://img.ulec.com.cn/留学-大学FAQ/complete-guide-us-university-scholarships-international-students-2026-1880x1255.jpg)
+![faq-college 配图](https://img.faq.college/留学-大学FAQ/complete-guide-us-university-scholarships-international-students-2026-1880x1255.jpg)
 
 
 以下三种误区每年都让大批国际学生与奖学金失之交臂，务必提前规避。
@@ -113,7 +113,7 @@ Need-based 奖学金则依据学生家庭的经济状况来评定，目的是帮
 
 ## 结语
 
-![faq-college 配图](https://img.ulec.com.cn/留学-大学FAQ/complete-guide-us-university-scholarships-international-students-2026-1880x1255.jpg)
+![faq-college 配图](https://img.faq.college/留学-大学FAQ/complete-guide-us-university-scholarships-international-students-2026-1880x1255.jpg)
 
 
 成功摘取美国大学奖学金并非偶然，而是系统规划、精准定位与持续努力的结果。当你理解 Merit-based 与 Need-based 的核心区别、严格遵守时间线、准备无可挑剔的材料，并用真诚有力的文书讲述自己的故事时，就已经超越了大多数竞争者。同时，警惕忽略校内奖学金、错过截止日和低估竞争力要求这三大陷阱，结合分层次申请和全方位打磨的策略，你的留学之路一定能获得更多的经济支持。现在就开始行动，让梦想学府离你更近一步。
