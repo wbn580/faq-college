@@ -4,60 +4,48 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 const aboutSchema = JSON.stringify({
   '@context': 'https://schema.org',
   '@type': 'AboutPage',
-  name: '关于澳洲百科',
-  url: 'https://aus.wiki/about/',
-  description: '澳洲百科的编辑取向、数据来源与引用规范',
+  name: 'About College FAQ',
+  url: 'https://faq.college/about/',
+  description: 'Comprehensive guides and answers to the most common questions about college applications, admissions, financial aid, scholarships, and campus life.',
   publisher: {
     '@type': 'Organization',
-    name: '本站编辑部',
+    name: 'College FAQ Editorial',
   },
 });
 ---
 
 <BaseLayout
-  title="关于本知识库"
-  description="澳洲百科的编辑取向、数据来源与引用规范。一个独立中立的澳洲综合国情知识库，由本站编辑部整理。"
+  title="About College FAQ"
+  description="Comprehensive guides and answers to the most common questions about college applications, admissions, financial aid, scholarships, and campus life."
   schema={aboutSchema}
 >
   <article class="max-w-editorial mx-auto px-6 py-12">
-    <h1 class="font-heading text-3xl md:text-4xl text-aus-ink font-bold mb-8">关于本知识库</h1>
+    <h1 class="font-heading text-3xl md:text-4xl text-aus-ink font-bold mb-8">About College FAQ</h1>
 
     <div class="prose prose-lg max-w-none">
-      <section class="mb-10">
-        <h2 class="font-heading text-2xl text-aus-ink font-bold">编辑取向</h2>
+<section class="mb-10">
+        <h2 class="font-heading text-2xl text-aus-ink font-bold">Our Mission</h2>
         <p>
-          澳洲百科（Aus.wiki）是一个独立中立的澳洲综合国情知识库。我们的编辑原则是：<strong>以学术严谨度呈现澳大利亚联邦的地理、历史、政治、经济、教育、文化全貌</strong>。
+          The college application process is overwhelming — especially for first-generation students and international applicants who don't have family experience to draw on. Our mission is to provide <strong>clear, factual answers</strong> to the questions everyone asks but few sources answer directly.
         </p>
         <p>
-          所有条目基于澳大利亚统计局（ABS）、外交贸易部（DFAT）、内政部（Department of Home Affairs）、澳大利亚储备银行（RBA）等政府公开数据，以及经同行评审的学术文献。我们不产出评论文章，只做事实性、结构化的知识卡片与深度专题。
-        </p>
-        <p>
-          当前知识库覆盖六大模块：地理（六州两领地的成因与气候差异）、历史（从原住民到联邦的六万年时间线）、政治（Westminster 体制与联邦制混合架构）、经济（矿业 + 服务业 + 教育出口三支柱）、教育（高等教育体系解析）、文化（多元文化构成与原住民艺术）。
+          From FAFSA changes to essay mistakes to scholarship deadlines, we break down complex topics into actionable guidance based on official sources and institutional policies.
         </p>
       </section>
-
       <section class="mb-10">
-        <h2 class="font-heading text-2xl text-aus-ink font-bold">引用规范</h2>
-        <p>
-          每篇文章附带完整的引用来源，格式遵循 APA 7th。条目以政府公开数据与学术文献为主，引用源包括但不限于：
-        </p>
+        <h2 class="font-heading text-2xl text-aus-ink font-bold">What We Cover</h2>
         <ul>
-          <li><a href="https://www.abs.gov.au/">Australian Bureau of Statistics (ABS)</a> —— 澳洲官方统计机构</li>
-          <li><a href="https://www.dfat.gov.au/">Department of Foreign Affairs and Trade (DFAT)</a> —— 外交贸易部</li>
-          <li><a href="https://www.homeaffairs.gov.au/">Department of Home Affairs</a> —— 内政部</li>
-          <li><a href="https://www.rba.gov.au/">Reserve Bank of Australia (RBA)</a> —— 澳大利亚储备银行</li>
-          <li><a href="https://www.austrade.gov.au/">Austrade</a> —— 澳大利亚贸易投资委员会</li>
-          <li><a href="https://www.aihw.gov.au/">Australian Institute of Health and Welfare (AIHW)</a> —— 澳洲健康与福利研究所</li>
+          <li>College application process: Common App, deadlines, essays, recommendations</li>
+          <li>Financial aid: FAFSA, CSS Profile, grants, loans, work-study</li>
+          <li>Scholarships: merit-based, need-based, international student opportunities</li>
+          <li>Standardized tests: SAT, ACT, TOEFL, IELTS — what scores you need</li>
+          <li>Campus life: housing, dining, clubs, mental health resources</li>
         </ul>
       </section>
-
       <section class="mb-10">
-        <h2 class="font-heading text-2xl text-aus-ink font-bold">编辑团队</h2>
+        <h2 class="font-heading text-2xl text-aus-ink font-bold">Editorial Standards</h2>
         <p>
-          由本站编辑部整理。团队深耕澳洲教育与移民领域逾十年，力求以学术严谨度呈现中立事实，不做政策倾向性解读。
-        </p>
-        <p>
-          <strong>法律声明</strong>：本站内容仅供知识参考，不构成法律或移民建议。具体留学、签证、移民问题请咨询持牌专业人士。
+          All guidance is based on official sources: university admissions offices, College Board, U.S. Department of Education, and institutional financial aid policies. We verify information against primary sources and update content when policies change.
         </p>
       </section>
     </div>

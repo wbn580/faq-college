@@ -7,49 +7,48 @@ articles.sort((a, b) => new Date(b.data.publishDate).getTime() - new Date(a.data
 
 const featured = articles.slice(0, 8);
 const categories = [
-  { slug: 'geography', name: '地理', desc: '澳洲六州两领地 · 气候带分布 · 首府城市' },
-  { slug: 'history', name: '历史', desc: '原住民文明 · 殖民时期 · 联邦成立 · 现代澳洲' },
-  { slug: 'politics', name: '政治', desc: 'Westminster 体制 · 联邦制 · 政党 · 外交' },
-  { slug: 'economy', name: '经济', desc: '矿业出口 · 服务业 · 教育产业 · RBA 货币' },
-  { slug: 'education', name: '教育', desc: 'K-12 学制 · 八大名校 · VET 体系 · 国际学生' },
-  { slug: 'culture', name: '文化', desc: '多元文化 · 原住民艺术 · 食物 · 体育 · 文学' },
+    { slug: 'applications', name: 'Applications', desc: 'Applications' },
+    { slug: 'financial-aid', name: 'Financial Aid', desc: 'Financial Aid' },
+    { slug: 'scholarships', name: 'Scholarships', desc: 'Scholarships' },
+    { slug: 'standardized-tests', name: 'Tests & Scores', desc: 'Tests & Scores' },
+    { slug: 'campus-life', name: 'Campus Life', desc: 'Campus Life' },
 ];
 
 const homeSchema = JSON.stringify({
   '@context': 'https://schema.org',
   '@type': 'WebSite',
-  name: '澳洲百科 · Aus.wiki',
-  url: 'https://aus.wiki',
-  description: '澳洲国家百科 —— 地理、历史、政治、经济、教育、文化综合知识库',
-  inLanguage: 'zh-CN',
+  name: 'College FAQ',
+  url: 'https://faq.college',
+  description: 'Comprehensive guides and answers to the most common questions about college applications, admissions, financial aid, scholarships, and campus life.',
+  inLanguage: 'en',
   potentialAction: {
     '@type': 'SearchAction',
-    target: 'https://aus.wiki/?q={search_term_string}',
+    target: 'https://faq.college/?q={{search_term_string}}',
     'query-input': 'required name=search_term_string',
   },
 });
 ---
 
 <BaseLayout
-  title="澳洲百科 · 一个独立中立的知识库"
-  description="澳洲国家百科 —— 地理、历史、政治、经济、教育、文化综合知识库，基于公开政府数据与学术文献，以学术严谨度呈现澳洲综合国情。"
+  title="College FAQ"
+  description="Comprehensive guides and answers to the most common questions about college applications, admissions, financial aid, scholarships, and campus life."
   schema={homeSchema}
 >
   <!-- Hero -->
   <section class="max-w-5xl mx-auto px-6 pt-16 pb-12 text-center">
     <p class="chapter-num text-aus-green text-lg mb-3">I</p>
     <h1 class="font-heading text-4xl md:text-5xl text-aus-ink font-bold leading-tight mb-4">
-      澳洲百科
+      College FAQ
     </h1>
     <p class="text-xl text-aus-muted mb-6 font-heading">
-      一个独立中立的知识库
+      Straight answers to your college questions
     </p>
     <p class="max-w-2xl mx-auto text-aus-muted leading-relaxed">
-      本站以学术严谨度呈现澳大利亚联邦的综合国情——从原住民六万年文明到现代联邦制度，从沙漠到温带气候带，从矿业出口到教育产业。所有条目基于公开政府数据（ABS、DFAT、Department of Home Affairs 等）与学术文献，每篇附带完整引用来源。服务于希望系统了解澳洲的全球中文读者。
+      Applying to college is complicated. We provide clear, well-researched answers to the most common questions about applications, essays, standardized tests, financial aid, scholarships, and everything in between. No marketing fluff — just facts.
     </p>
   </section>
 
-  <!-- Six Modules -->
+  <!-- Categories -->
   <section class="max-w-5xl mx-auto px-6 pb-16">
     <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
       {categories.map(cat => (
@@ -57,7 +56,6 @@ const homeSchema = JSON.stringify({
           href={`/category/${cat.slug}/`}
           class="block p-5 border border-aus-green/10 rounded-sm hover:border-aus-red/30 hover:bg-white/50 transition-colors no-underline group"
         >
-          <p class="chapter-num text-aus-green text-xs mb-1">{cat.slug === 'geography' ? '二' : cat.slug === 'history' ? '三' : cat.slug === 'politics' ? '四' : cat.slug === 'economy' ? '五' : cat.slug === 'education' ? '六' : '七'}</p>
           <h2 class="font-heading text-lg text-aus-ink font-bold group-hover:text-aus-red transition-colors">{cat.name}</h2>
           <p class="text-sm text-aus-muted mt-1">{cat.desc}</p>
         </a>
@@ -67,24 +65,18 @@ const homeSchema = JSON.stringify({
 
   <!-- Featured Articles -->
   <section class="max-w-5xl mx-auto px-6 pb-20">
-    <h2 class="font-heading text-2xl text-aus-ink font-bold mb-8">精选条目</h2>
+    <h2 class="font-heading text-2xl text-aus-ink font-bold mb-8">Latest Analysis</h2>
     <div class="grid md:grid-cols-2 gap-6">
-      {featured.map(article => {
-        const catNames = {
-          geography: '地理', history: '历史', politics: '政治',
-          economy: '经济', education: '教育', culture: '文化',
-        };
-        return (
-          <a
-            href={`/${article.slug}/`}
-            class="block p-6 border border-aus-green/10 rounded-sm hover:border-aus-red/30 hover:bg-white/50 transition-colors no-underline group"
-          >
-            <span class="text-xs text-aus-green uppercase tracking-wide">{catNames[article.data.category] || article.data.category}</span>
-            <h3 class="font-heading text-xl text-aus-ink font-bold mt-1 mb-2 group-hover:text-aus-red transition-colors">{article.data.title}</h3>
-            <p class="text-sm text-aus-muted leading-relaxed">{article.data.description}</p>
-          </a>
-        );
-      })}
+      {featured.map(article => (
+        <a
+          href={`/${article.id}/`}
+          class="block p-6 border border-aus-green/10 rounded-sm hover:border-aus-red/30 hover:bg-white/50 transition-colors no-underline group"
+        >
+          <span class="text-xs text-aus-green uppercase tracking-wide">{article.data.category}</span>
+          <h3 class="font-heading text-xl text-aus-ink font-bold mt-1 mb-2 group-hover:text-aus-red transition-colors">{article.data.title}</h3>
+          <p class="text-sm text-aus-muted leading-relaxed">{article.data.description}</p>
+        </a>
+      ))}
     </div>
   </section>
 </BaseLayout>

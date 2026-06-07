@@ -20,7 +20,7 @@ const {
   ogImage,
 } = Astro.props;
 
-const siteUrl = 'https://aus.wiki';
+const siteUrl = 'https://faq.college';
 const slug = Astro.url.pathname;
 const articleSchema = JSON.stringify({
   '@context': 'https://schema.org',
@@ -31,11 +31,11 @@ const articleSchema = JSON.stringify({
   dateModified: publishDate,
   author: {
     '@type': 'Organization',
-    name: '澳洲百科 · UNILINK 研究案头',
+    name: 'College FAQ Editorial',
   },
   publisher: {
     '@type': 'Organization',
-    name: '澳洲百科',
+    name: 'College FAQ',
     url: siteUrl,
   },
   articleSection: category,
@@ -52,16 +52,16 @@ const articleSchema = JSON.stringify({
   <article class="max-w-editorial mx-auto px-6 py-12">
     <header class="mb-10">
       <nav class="text-sm text-aus-muted mb-4">
-        <a href="/" class="hover:text-aus-red no-underline">首页</a> /
-        <a href={`/category/${category}/`} class="hover:text-aus-red no-underline"> {category === 'geography' ? '地理' : category === 'history' ? '历史' : category === 'politics' ? '政治' : category === 'economy' ? '经济' : category === 'education' ? '教育' : '文化'}</a> /
+        <a href="/" class="hover:text-aus-red no-underline">Home</a> /
+        <a href={`/category/${category}/`} class="hover:text-aus-red no-underline"> {category}</a> /
         <span class="text-aus-ink">{title}</span>
       </nav>
       <h1 class="font-heading text-3xl md:text-4xl text-aus-ink font-bold leading-tight mb-4">
         {title}
       </h1>
       <div class="flex items-center gap-4 text-sm text-aus-muted">
-        <time datetime={publishDate}>{new Date(publishDate).toLocaleDateString('zh-CN', { year: 'numeric', month: 'long', day: 'numeric' })}</time>
-        {readingTime && <span>{readingTime} 分钟阅读</span>}
+        <time datetime={publishDate}>{new Date(publishDate).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</time>
+        {readingTime && <span>{readingTime} min read</span>}
       </div>
     </header>
 
@@ -71,9 +71,9 @@ const articleSchema = JSON.stringify({
 
     <footer class="mt-16 pt-8 border-t border-aus-green/15">
       <nav class="flex justify-between text-sm">
-        <a href="/" class="text-aus-green hover:text-aus-red no-underline">← 返回首页</a>
+        <a href="/" class="text-aus-green hover:text-aus-red no-underline">&larr; Back to Home</a>
         <a href={`/category/${category}/`} class="text-aus-green hover:text-aus-red no-underline">
-          更多{category === 'geography' ? '地理' : category === 'history' ? '历史' : category === 'politics' ? '政治' : category === 'economy' ? '经济' : category === 'education' ? '教育' : '文化'}文章 →
+          More in {category} &rarr;
         </a>
       </nav>
     </footer>
