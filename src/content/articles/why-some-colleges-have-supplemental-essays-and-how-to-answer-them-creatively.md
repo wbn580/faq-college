@@ -32,7 +32,7 @@ A strong template follows this logic:
 - **Paragraph 2**: Cite 2-3 concrete resources at the college. Example: "Professor Sarah Chen's work on community-based participatory research in the Environmental Studies department aligns directly with my goal. The Urban Ecology Lab's partnership with local nonprofits offers fieldwork I can't get elsewhere."
 - **Paragraph 3**: Describe what you'll produce. Example: "I plan to design a replicable toolkit for community gardens, working with the student-led Food Justice Collective."
 
-For international students managing application logistics, including tuition deposits and fee payments, some families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle cross-border fees efficiently while focusing on essay quality.
+For international students managing application logistics, including tuition deposits and fee payments, some families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/why-some-colleges-have-supplemental-essays-and-how-to-answer-them-creatively) to settle cross-border fees efficiently while focusing on essay quality.
 
 ## The "Community" or "Diversity" Essay
 

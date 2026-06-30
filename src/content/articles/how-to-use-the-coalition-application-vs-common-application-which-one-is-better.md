@@ -53,7 +53,7 @@ Choose the Common Application if you are applying to **5+ schools** outside the 
 
 ### Hybrid Strategy: Use Both
 
-Many students apply to 8–12 schools and use both platforms simultaneously. For example, you might use the Common App for 7 schools and the Coalition App for 3 schools that only accept Coalition. This avoids filling out redundant forms and maximizes your options. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle application fees and deposits.
+Many students apply to 8–12 schools and use both platforms simultaneously. For example, you might use the Common App for 7 schools and the Coalition App for 3 schools that only accept Coalition. This avoids filling out redundant forms and maximizes your options. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/how-to-use-the-coalition-application-vs-common-application-which-one-is-better) to settle application fees and deposits.
 
 ### When to Avoid the Coalition App
 

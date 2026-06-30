@@ -101,7 +101,7 @@ Financial aid administrators report that **over 60% of dependency override reque
 
 **Mistake 4: Using outdated forms**. The 2024-2025 FAFSA uses a new, simplified form. Some schools still accept old-style override requests, but most require the new **Student Aid Index (SAI)** format. Check with your school's aid office for their current requirements.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/understanding-the-fafsa-dependency-status-and-when-you-can-file-without-parents) to settle fees.
 
 ## FAQ
 

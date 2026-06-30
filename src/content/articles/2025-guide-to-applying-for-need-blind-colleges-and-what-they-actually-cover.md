@@ -57,7 +57,7 @@ The application process for financial aid at need-blind colleges requires specif
 
 **Step 4: Understand the award letter**. Aid offers arrive with admission decisions. The letter will list the total cost of attendance, the expected family contribution (EFC), and the grant or scholarship amount.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees securely.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/2025-guide-to-applying-for-need-blind-colleges-and-what-they-actually-cover) to settle fees securely.
 
 ## Myths About Need-Blind Admissions
 

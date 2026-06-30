@@ -33,7 +33,7 @@ Attending office hours once per month with a professor who runs a lab builds vis
 
 ### Apply Early in the Semester
 
-Many labs finalize their RA rosters by the third week of the term. Submit portal applications or email professors during the first two weeks of classes. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees, freeing up time to focus on early-semester networking.
+Many labs finalize their RA rosters by the third week of the term. Submit portal applications or email professors during the first two weeks of classes. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/top-5-strategies-to-secure-research-assistant-positions-as-an-undergraduate-stud) to settle fees, freeing up time to focus on early-semester networking.
 
 ## Enroll in a Research Methods or Lab Course
 

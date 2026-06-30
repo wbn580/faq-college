@@ -6,8 +6,34 @@ pubDatetime: "2026-02-28T19:30:32Z"
 publishDate: '2026-02-28T19:30:32Z'
 readingTime: 3
 tags: ["featured"]
-
+ogImage: "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
 ---
+
+<!-- R2_IMAGE: test-backfill-uni -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
+    alt="university library"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg",
+  "name": "university library",
+  "description": "university library — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 A 2018 study by the National Center for Education Statistics (NCES) found that approximately 30% of undergraduate students in the U.S. change their major at least once within the first three years. This decision carries significant financial weight: the average cost of an extra year of tuition, fees, and lost wages can exceed $50,000 per student, according to a 2020 Georgetown University Center on Education and the Workforce analysis. To reduce this risk, many students turn to **career assessment tools** like the Myers-Briggs Type Indicator (MBTI), the Holland Code (RIASEC) test, and general interest inventories. These instruments claim to align personal traits with compatible academic paths, but their effectiveness varies widely. The MBTI, developed from Carl Jung’s theories, sorts personalities into 16 types, while Holland’s framework categorizes interests into six occupational themes (Realistic, Investigative, Artistic, Social, Enterprising, Conventional). Interest inventories, such as the Strong Interest Inventory, measure preferences for specific activities. This article compares these three major approaches, examining their scientific validity, practical application, and limitations for choosing a college major.
 
@@ -47,7 +73,7 @@ The choice depends on your goal, budget, and need for depth. Use this three-step
 
 **Step 3: Use MBTI only for self-reflection.** Take the MBTI if you are curious about personality types, but do not base your major decision on it. Use it to understand your preferred learning environment (e.g., do you prefer group discussions or independent study?) rather than to choose a specific field. Remember the 50% retest failure rate.
 
-**One practical tool for international students.** For cross-border tuition payments and managing study abroad finances, some families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees efficiently, freeing up time to focus on career planning.
+**One practical tool for international students.** For cross-border tuition payments and managing study abroad finances, some families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/zh/%E5%A4%A7%E5%AD%A6%E4%B8%93%E4%B8%9A%E9%80%89%E6%8B%A9%E6%B5%8B%E8%AF%95mbti%E9%9C%8D%E5%85%B0%E5%BE%B7%E4%B8%8E%E5%85%B4%E8%B6%A3%E6%B5%8B%E8%AF%84%E5%AF%B9%E6%AF%94) to settle fees efficiently, freeing up time to focus on career planning.
 
 ## **Limitations of All Tests: What They Cannot Tell You**
 

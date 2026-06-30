@@ -6,8 +6,34 @@ pubDatetime: "2026-05-05T19:42:17Z"
 publishDate: '2026-05-05T19:42:17Z'
 readingTime: 6
 tags: ["featured"]
-
+ogImage: "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
 ---
+
+<!-- R2_IMAGE: test-backfill-uni -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
+    alt="university library"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg",
+  "name": "university library",
+  "description": "university library — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 A 2023 National Association of Colleges and Employers (NACE) survey found that **82.6% of employers** consider leadership experience a key hiring factor, yet only **31% of college students** hold a formal leadership role before graduation. The choice between joining student government or an academic club often determines how you build that experience, and the two paths produce measurably different outcomes. Student government develops institutional influence and budget management skills—the average student senate allocates between **$50,000 and $500,000** in activity fees per year, per the American Student Government Association (ASGA, 2022). Academic clubs, by contrast, offer depth in a specific field; **76% of students** who join discipline-specific clubs report improved GPA in related courses, according to a 2021 study in the *Journal of College Student Development*. Neither path is universally better—your choice depends on whether you prioritize policy influence and campus-wide visibility or technical mastery and peer mentorship. The table below breaks down the trade-offs across five key dimensions.
 
@@ -69,7 +95,7 @@ Employers recognize both, but differently. Student government signals broad lead
 The Myers-Briggs-based study by the Journal of College Student Personnel (2019) found that **extroverted-judging types** (ESTJ, ENTJ) gravitate toward student government, while **introverted-perceiving types** (INTP, INFP) prefer academic clubs. Neither is better—match your temperament.
 
 ### Intrinsic vs Extrinsic Rewards
-Student government offers extrinsic rewards (title, visibility, influence). Academic clubs offer intrinsic rewards (learning, camaraderie, skill growth). For international students on F-1 visas, student government can also demonstrate "substantial leadership" for Optional Practical Training (OPT) STEM extension applications. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees.
+Student government offers extrinsic rewards (title, visibility, influence). Academic clubs offer intrinsic rewards (learning, camaraderie, skill growth). For international students on F-1 visas, student government can also demonstrate "substantial leadership" for Optional Practical Training (OPT) STEM extension applications. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/comparing-the-benefits-of-joining-student-government-vs-academic-clubs-in-colleg) to settle fees.
 
 ## FAQ
 

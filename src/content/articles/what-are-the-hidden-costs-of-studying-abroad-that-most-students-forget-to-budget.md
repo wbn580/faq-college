@@ -6,8 +6,34 @@ pubDatetime: "2026-04-08T19:37:21Z"
 publishDate: '2026-04-08T19:37:21Z'
 readingTime: 8
 tags: ["featured"]
-
+ogImage: "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
 ---
+
+<!-- R2_IMAGE: test-backfill-uni -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
+    alt="university library"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg",
+  "name": "university library",
+  "description": "university library — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 Most students budgeting for a year abroad focus on tuition, flights, and rent—yet actual spending often exceeds the initial estimate by 30–50%. A 2023 study by the Institute of International Education (IIE) found that the average U.S. study-abroad student spends $3,500–$5,000 per semester beyond published program fees, with over 60% of that going to unplanned categories. Similarly, a 2022 survey by the British Council reported that 47% of international students in the UK ran out of funds before their first semester ended, citing costs they had never considered. These hidden expenses—from mandatory health checks to bank transfer fees—can derail a semester if not anticipated. This article breaks down the seven most overlooked cost categories, with real figures from government and university sources, so you can build a buffer into your budget from day one.
 
@@ -25,7 +51,7 @@ Even if your university offers a plan, it often doesn't cover **preventive care 
 
 **International transaction fees** on everyday spending add up silently. A 2023 study by the Consumer Financial Protection Bureau (CFPB) found that U.S. banks charge an average of 3% per foreign transaction, plus ATM withdrawal fees of $2–$5 per use. If you spend $10,000 over a semester, that's $300 in fees you never see.
 
-Opening a local bank account can help, but many require a minimum deposit ($500–$1,500 in Australia) or charge monthly maintenance fees ($5–$15). For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to lock in exchange rates and avoid hidden bank fees. The key is to calculate the total cost of moving money—not just the transfer fee, but the exchange rate markup.
+Opening a local bank account can help, but many require a minimum deposit ($500–$1,500 in Australia) or charge monthly maintenance fees ($5–$15). For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/what-are-the-hidden-costs-of-studying-abroad-that-most-students-forget-to-budget) to lock in exchange rates and avoid hidden bank fees. The key is to calculate the total cost of moving money—not just the transfer fee, but the exchange rate markup.
 
 ### ATM and Card Replacement
 

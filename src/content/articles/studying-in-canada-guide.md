@@ -3,8 +3,34 @@ title: "Studying in Canada · International Student Guide"
 description: "A comprehensive guide for international students considering Canadian universities — study permit, PGWP pathway, costs, top universities, and the path to permanent residency."
 category: "compare"
 publishDate: "2026-05-15T08:00:00Z"
-
+ogImage: "https://img.ulec.com.cn/edu/backfill-australia-vs-uk-vs-canada-2026-which-cou-2026-1880x1253.jpg"
 ---
+
+<!-- R2_IMAGE: backfill-australia-vs-uk-vs-canada-2026-which-cou -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/backfill-australia-vs-uk-vs-canada-2026-which-cou-2026-1880x1253.jpg"
+    alt="post-study ROI, Australia 2026, UK 2026, Canada 2026, international student salary, tuition fees vs "
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/backfill-australia-vs-uk-vs-canada-2026-which-cou-2026-1880x1253.jpg",
+  "name": "post-study ROI, Australia 2026, UK 2026, Canada 2026, international student salary, tuition fees vs ",
+  "description": "post-study ROI, Australia 2026, UK 2026, Canada 2026, international student salary, tuition fees vs  — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 Canada is the fastest-growing major study destination, driven by the most attractive post-study immigration pathway among English-speaking countries. The Post-Graduation Work Permit (PGWP) combined with Express Entry provides a structured route from student to permanent resident.
 

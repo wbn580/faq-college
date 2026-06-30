@@ -6,8 +6,34 @@ pubDatetime: "2026-05-08T19:42:47Z"
 publishDate: '2026-05-08T19:42:47Z'
 readingTime: 7
 tags: ["featured"]
-
+ogImage: "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
 ---
+
+<!-- R2_IMAGE: test-backfill-uni -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
+    alt="university library"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg",
+  "name": "university library",
+  "description": "university library — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 The choice between a Bachelor of Arts (BA) and a Bachelor of Science (BS) is one of the first major academic decisions you will make in college, and it directly shapes your course load, research opportunities, and career trajectory. At its core, the difference is structural: a BA typically requires 90–120 credit hours with a heavier concentration in humanities and social sciences, while a BS mandates 90–120 credit hours with a greater emphasis on mathematics, natural sciences, and technical coursework. According to the National Center for Education Statistics (NCES), U.S. institutions awarded approximately 1.1 million bachelor’s degrees in 2021–2022, with BA degrees accounting for roughly 50% and BS degrees for 45% of the total. The remaining 5% includes specialized degrees like Bachelor of Fine Arts (BFA) or Bachelor of Business Administration (BBA). A 2023 study by the Association of American Colleges and Universities (AAC&U) found that 72% of employers prioritize critical thinking and communication skills—often associated with BA programs—while 68% value quantitative and technical skills linked to BS curricula. Understanding these distinctions is not about picking a “better” degree; it’s about aligning your academic strengths and career goals with the right structure.
 

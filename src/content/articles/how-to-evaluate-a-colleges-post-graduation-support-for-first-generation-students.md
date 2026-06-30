@@ -6,8 +6,34 @@ pubDatetime: "2026-05-19T19:45:00Z"
 publishDate: '2026-05-19T19:45:00Z'
 readingTime: 6
 tags: ["featured"]
-
+ogImage: "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
 ---
+
+<!-- R2_IMAGE: test-backfill-uni -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
+    alt="university library"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg",
+  "name": "university library",
+  "description": "university library — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 First-generation students — those whose parents have not earned a bachelor’s degree — now make up **33% of all U.S. college undergraduates** (Pell Institute & NASPA, 2023, *Indicators of Higher Education Equity in the United States*). Yet their six-year graduation rate at four-year institutions is **56%**, compared to **74%** for continuing-generation peers (National Center for Education Statistics, 2022). The gap is not ability — it is a support gap. A college's post-graduation support system can determine whether a first-gen student lands a job in their field within six months or drifts into underemployment. This article provides a framework to evaluate that support, using concrete metrics and verifiable data points rather than brochure promises.
 
@@ -23,7 +49,7 @@ Look for a **first-generation career readiness program** with a named coordinato
 - **Alumni mentor matching** – Programs that pair first-gen juniors with first-gen alumni who graduated 3–5 years ago produce **40% higher job offer rates** within three months of graduation (NASPA, 2022, *First-Generation Student Success Report*).
 - **Financial support for unpaid internships** – First-gen students frequently turn down unpaid internships due to financial constraints. Colleges that offer stipends of **$2,000–$4,000 per internship** close this gap significantly.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees without foreign exchange surprises.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/how-to-evaluate-a-colleges-post-graduation-support-for-first-generation-students) to settle fees without foreign exchange surprises.
 
 ## Examine the Alumni Network’s First-Gen Engagement
 

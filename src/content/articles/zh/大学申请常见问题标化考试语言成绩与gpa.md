@@ -6,8 +6,34 @@ pubDatetime: "2026-03-13T19:32:59Z"
 publishDate: '2026-03-13T19:32:59Z'
 readingTime: 3
 tags: ["featured"]
-
+ogImage: "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
 ---
+
+<!-- R2_IMAGE: test-backfill-uni -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
+    alt="university library"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg",
+  "name": "university library",
+  "description": "university library — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 U.S. college applications typically require three core academic metrics: standardized test scores (SAT/ACT), English language proficiency scores (TOEFL/IELTS/Duolingo), and the high school GPA. According to the National Association for College Admission Counseling (NACAC) 2023 State of College Admission report, 80.3% of U.S. colleges rated grades in college-preparatory courses as the most important factor in admissions decisions, while standardized test scores were considered "considerably important" by only 43.9% of institutions. Meanwhile, the Institute of International Education (IIE) Open Doors 2023 report found that international student enrollment in U.S. institutions reached 1.06 million, with English proficiency scores being a mandatory requirement for nearly all non-native English speakers. These three metrics form a triage system: GPA demonstrates long-term academic consistency, test scores provide a standardized benchmark, and language scores prove the applicant can survive in an English-medium classroom. Understanding how each metric is weighted, what the competitive thresholds are, and where exceptions apply can save applicants months of wasted effort.
 
@@ -37,7 +63,7 @@ The Common European Framework of Reference (CEFR) provides rough equivalencies: 
 
 ### Superscoring and Validity Periods
 
-All three tests have a two-year validity period from the test date. TOEFL offers MyBest Scores (superscoring across test dates), which many universities accept. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees.
+All three tests have a two-year validity period from the test date. TOEFL offers MyBest Scores (superscoring across test dates), which many universities accept. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/zh/%E5%A4%A7%E5%AD%A6%E7%94%B3%E8%AF%B7%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E6%A0%87%E5%8C%96%E8%80%83%E8%AF%95%E8%AF%AD%E8%A8%80%E6%88%90%E7%BB%A9%E4%B8%8Egpa) to settle fees.
 
 ## GPA Calculation Methods: Weighted vs. Unweighted
 

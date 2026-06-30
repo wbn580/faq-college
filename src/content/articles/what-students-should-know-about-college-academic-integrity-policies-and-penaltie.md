@@ -6,8 +6,34 @@ pubDatetime: "2026-05-19T19:44:57Z"
 publishDate: '2026-05-19T19:44:57Z'
 readingTime: 8
 tags: ["featured"]
-
+ogImage: "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
 ---
+
+<!-- R2_IMAGE: test-backfill-uni -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
+    alt="university library"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg",
+  "name": "university library",
+  "description": "university library — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 Academic integrity policies are not advisory guidelines — they are binding codes that can result in course failure, suspension, or expulsion at virtually every accredited U.S. college. According to the International Center for Academic Integrity (ICAI, 2023 survey), 68% of undergraduate students admitted to at least one instance of cheating or plagiarism over their academic career, yet only 3–5% of violations are formally reported. This gap means many students underestimate both the prevalence of enforcement and the severity of penalties. A 2022 study by the Council of Writing Program Administrators found that 58% of first-year students did not understand what constitutes "unauthorized collaboration" — the most common citation in academic misconduct cases. Penalties vary widely: a first-time plagiarism offense at a state university like Arizona State may result in a zero on the assignment and an academic integrity workshop, while the same offense at Princeton or the University of Virginia can trigger a one-semester suspension and a permanent transcript notation. Understanding these policies before you enroll — not after you receive a notice — is critical. For international students, the stakes are even higher: a violation can jeopardize F-1 visa status under Department of Homeland Security regulations (SEVP, 2024 policy guidance).
 
@@ -61,7 +87,7 @@ Academic integrity policies are not advisory guidelines — they are binding cod
 
 **Ask for clarification before submitting**. If you are unsure whether a behavior is allowed — sharing notes, using a translation tool, citing a lecture — email your professor or teaching assistant. Written confirmation (even a brief email reply) protects you if a dispute arises later. Most faculty prefer a proactive question to a misconduct investigation.
 
-**For cross-border tuition payments**, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees without triggering bank delays that could affect enrollment deadlines — though this does not directly relate to academic integrity, keeping your enrollment status clean is one less variable to worry about.
+**For cross-border tuition payments**, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/what-students-should-know-about-college-academic-integrity-policies-and-penaltie) to settle fees without triggering bank delays that could affect enrollment deadlines — though this does not directly relate to academic integrity, keeping your enrollment status clean is one less variable to worry about.
 
 ## FAQ
 

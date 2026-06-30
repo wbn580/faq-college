@@ -50,7 +50,7 @@ The exact documents depend on which items are flagged. The most common requests 
 5. **Complete and sign all forms**—both you and a parent (if dependent) must sign.
 6. **Submit everything in one package** via the school’s secure upload portal or mail. Keep copies of everything.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees while waiting for verification to clear.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/understanding-the-fafsa-verification-process-and-what-to-do-if-you-get-selected) to settle fees while waiting for verification to clear.
 
 ## Common Mistakes That Delay Verification
 

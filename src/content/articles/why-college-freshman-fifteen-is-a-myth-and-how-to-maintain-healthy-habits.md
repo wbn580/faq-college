@@ -6,8 +6,34 @@ pubDatetime: "2026-05-07T19:42:33Z"
 publishDate: '2026-05-07T19:42:33Z'
 readingTime: 7
 tags: ["featured"]
-
+ogImage: "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
 ---
+
+<!-- R2_IMAGE: test-backfill-uni -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
+    alt="university library"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg",
+  "name": "university library",
+  "description": "university library — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 The “Freshman 15” — the belief that first-year students inevitably gain 15 pounds — is one of the most persistent myths in higher education. A 2023 study published in the *Journal of American College Health* tracked 1,200 students across 12 U.S. universities and found that the average weight gain during the first year was **3.8 pounds**, not 15. The National Institutes of Health (NIH) reports that only **2.3%** of freshmen gain 10 or more pounds in their first semester. The real story is more nuanced: lifestyle shifts — irregular meal times, reduced sleep, and increased alcohol consumption — can affect health, but the dramatic “15” is an exaggeration. Understanding what actually happens to your body during the transition to college allows you to build sustainable habits without panic.
 
@@ -39,7 +65,7 @@ The “Freshman 15” — the belief that first-year students inevitably gain 15
 
 **Use the dining hall plate method.** The USDA's MyPlate guidelines recommend filling half your plate with vegetables and fruits, a quarter with lean protein, and a quarter with whole grains. Students who follow this visual rule consume **34% fewer calories per meal** without feeling deprived, according to a 2022 study in *Nutrients*.
 
-**Pre-plan your meals using the campus app.** Most dining halls now provide nutritional information online. A 2023 survey by NACUFS found that students who checked menus before entering the dining hall made **2.1 fewer high-calorie selections** per visit. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees, freeing up mental bandwidth for meal planning.
+**Pre-plan your meals using the campus app.** Most dining halls now provide nutritional information online. A 2023 survey by NACUFS found that students who checked menus before entering the dining hall made **2.1 fewer high-calorie selections** per visit. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/why-college-freshman-fifteen-is-a-myth-and-how-to-maintain-healthy-habits) to settle fees, freeing up mental bandwidth for meal planning.
 
 **Keep healthy snacks in your dorm.** A 2023 study from the University of Texas found that students with a stash of almonds, Greek yogurt, or fruit in their room consumed **40% fewer vending machine visits** per week. The key is availability — if a healthy option is within arm's reach, you choose it 73% of the time.
 

@@ -6,8 +6,34 @@ pubDatetime: "2026-04-30T19:41:23Z"
 publishDate: '2026-04-30T19:41:23Z'
 readingTime: 9
 tags: ["featured"]
-
+ogImage: "https://img.ulec.com.cn/edu/backfill-2026年澳洲求职热门行业薪资与紧缺职业清单-2026-1880x1058.jpg"
 ---
+
+<!-- R2_IMAGE: backfill-2026年澳洲求职热门行业薪资与紧缺职业清单 -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/backfill-2026年澳洲求职热门行业薪资与紧缺职业清单-2026-1880x1058.jpg"
+    alt="澳洲求职,澳洲紧缺职业,澳洲热门行业,澳洲薪资,2026澳洲工作"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/backfill-2026年澳洲求职热门行业薪资与紧缺职业清单-2026-1880x1058.jpg",
+  "name": "澳洲求职,澳洲紧缺职业,澳洲热门行业,澳洲薪资,2026澳洲工作",
+  "description": "澳洲求职,澳洲紧缺职业,澳洲热门行业,澳洲薪资,2026澳洲工作 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 The decision to major in the humanities is often framed as a trade-off between passion and practicality. The data, however, reveals a more nuanced picture. According to the American Academy of Arts & Sciences’ 2023 Humanities Indicators, the number of bachelor’s degrees awarded in humanities fields fell by 24% between 2012 and 2022, dropping to roughly 212,000 degrees. Yet, this same period saw a surge in demand for skills that humanities curricula explicitly teach: critical thinking, complex communication, and ethical reasoning. The Georgetown University Center on Education and the Workforce (2022) reports that the median annual earnings for humanities majors 10 years after graduation is $65,000 — lower than the median for engineering ($100,000) but comparable to many life sciences and psychology fields. The real question is not whether humanities degrees have value, but how to strategically position them in a job market that increasingly prizes adaptability and cross-functional expertise. This article breaks down the earnings data, hiring trends, and skill overlaps to help you decide if a humanities major is the right fit given current market realities.
 
@@ -75,7 +101,7 @@ Non-profit and government employers offer competitive benefits and job stability
 
 The **internship-to-job conversion rate** is the strongest predictor of post-graduation employment for humanities majors. The National Association of Colleges and Employers (NACE) 2023 Internship & Co-op Survey found that 68% of humanities graduates who completed a paid internship received a job offer from that employer, compared to 38% of those without any internship experience. The conversion rate for unpaid internships drops to 42%.
 
-Building a portfolio of writing samples, data visualization projects, or digital humanities work is equally important. For students managing cross-border tuition or international payments, using a service like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) can free up time and budget to focus on unpaid or low-paying but high-value internships. A 2022 survey by the American Historical Association found that 71% of history majors who completed two or more internships were employed within six months of graduation, versus 44% of those with zero internships.
+Building a portfolio of writing samples, data visualization projects, or digital humanities work is equally important. For students managing cross-border tuition or international payments, using a service like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/should-you-pursue-a-major-in-the-humanities-given-the-current-job-market-trends) can free up time and budget to focus on unpaid or low-paying but high-value internships. A 2022 survey by the American Historical Association found that 71% of history majors who completed two or more internships were employed within six months of graduation, versus 44% of those with zero internships.
 
 ### The "Skills Portfolio" Alternative to Grades
 

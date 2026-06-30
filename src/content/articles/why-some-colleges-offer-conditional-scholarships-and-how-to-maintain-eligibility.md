@@ -6,8 +6,34 @@ pubDatetime: "2026-05-16T19:44:22Z"
 publishDate: '2026-05-16T19:44:22Z'
 readingTime: 6
 tags: ["featured"]
-
+ogImage: "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
 ---
+
+<!-- R2_IMAGE: test-backfill-uni -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
+    alt="university library"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg",
+  "name": "university library",
+  "description": "university library — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 Conditional scholarships are merit- or need-based awards that require students to meet specific benchmarks—such as a minimum GPA, full-time enrollment, or community service hours—to renew the funding each year. According to the National Association of College and University Business Officers (NACUBO) 2023 *Tuition Discounting Study*, approximately 89% of first-time, full-time freshmen at private nonprofit four-year institutions received some form of institutional grant aid, with many of those awards carrying renewal conditions. A separate 2022 report by the U.S. Department of Education’s National Center for Education Statistics (NCES) found that roughly 62% of all undergraduate students receive grant or scholarship aid, but nearly one in three lose their merit-based renewal after the first year due to unmet conditions. Understanding why colleges structure these awards this way—and how you can maintain eligibility—can mean the difference between a $10,000 annual discount and a full-sticker bill by sophomore year.
 
@@ -27,7 +53,7 @@ While conditions vary by institution, most fall into three categories: academic 
 
 **Proactive tracking** is the single most effective way to avoid losing your award. Most colleges do not send reminders when you are about to fall below a threshold—they simply remove the scholarship at the start of the next term. A 2021 study by the Institute for Higher Education Policy (IHEP) found that 22% of scholarship loss in the second year was due to students unknowingly enrolling in fewer than 12 credits.
 
-Start by **reading your award letter** carefully. It will specify the renewal criteria in a section often labeled “Terms and Conditions.” Save a PDF copy and set calendar reminders for each semester’s add/drop deadline. Use your university’s degree audit system (e.g., DegreeWorks or uAchieve) to track your cumulative GPA in real time. If your scholarship requires a 3.0, aim for a 3.2 to create a buffer—one bad semester will not automatically disqualify you. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees, which helps avoid late-payment issues that could affect enrollment verification.
+Start by **reading your award letter** carefully. It will specify the renewal criteria in a section often labeled “Terms and Conditions.” Save a PDF copy and set calendar reminders for each semester’s add/drop deadline. Use your university’s degree audit system (e.g., DegreeWorks or uAchieve) to track your cumulative GPA in real time. If your scholarship requires a 3.0, aim for a 3.2 to create a buffer—one bad semester will not automatically disqualify you. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/why-some-colleges-offer-conditional-scholarships-and-how-to-maintain-eligibility) to settle fees, which helps avoid late-payment issues that could affect enrollment verification.
 
 ## Strategies to Maintain a High GPA
 

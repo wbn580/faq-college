@@ -53,7 +53,7 @@ Community foundations and family trusts often set **deadlines between October an
 
 Rotary, Kiwanis, and local business scholarships typically have deadlines between February and April. This aligns with when most high school seniors are already completing the FAFSA and national scholarship applications, so you can batch your work. Set calendar reminders for each organization — missing a local deadline means waiting a full year.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees from abroad while keeping local scholarship funds in a domestic account.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/how-to-find-and-apply-for-local-scholarships-in-your-hometown-that-few-know-abou) to settle fees from abroad while keeping local scholarship funds in a domestic account.
 
 ## Common Mistakes That Eliminate Applicants
 

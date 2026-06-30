@@ -56,7 +56,7 @@ Under the **College Board's Financial Aid Principles**, schools must provide a f
 
 Consider also applying to schools with **ED II** deadlines. ED II is a second binding round, typically due January 1–15, with decisions released in February. About 60 schools offer ED II, including New York University, University of Chicago, and Boston University. ED II admit rates are often higher than RD—NYU's ED II admit rate for Fall 2023 was 38% versus 12% for RD. This is your second chance at a binding boost.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees quickly without currency conversion delays.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/what-happens-if-you-miss-the-early-decision-deadline-for-your-dream-school) to settle fees quickly without currency conversion delays.
 
 ## Mental and Practical Next Steps
 

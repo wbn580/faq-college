@@ -53,7 +53,7 @@ Most schools maintain private Facebook groups for housing — the University of 
 
 ### Offer a Longer Lease or Upfront Payment
 
-Landlords near universities prefer stability over turnover. Offering a 12-month lease instead of a 9-month academic lease can save 8–15% on monthly rent. If you can pay 3–6 months upfront, some property managers will reduce the total by 5–10% — ask specifically for a “prepayment discount.” For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees, which can also free up cash for a larger upfront rent deposit.
+Landlords near universities prefer stability over turnover. Offering a 12-month lease instead of a 9-month academic lease can save 8–15% on monthly rent. If you can pay 3–6 months upfront, some property managers will reduce the total by 5–10% — ask specifically for a “prepayment discount.” For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/how-to-find-affordable-housing-near-campus-when-on-campus-dorms-are-full) to settle fees, which can also free up cash for a larger upfront rent deposit.
 
 ### Use Comp Listings as Leverage
 

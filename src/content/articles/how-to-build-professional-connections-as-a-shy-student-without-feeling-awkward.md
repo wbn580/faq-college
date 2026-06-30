@@ -33,7 +33,7 @@ Building professional connections feels like a performance for shy students, but
 
 - **Attend department-specific meetups.** These are often 10-15 people, focused on a shared academic interest. The conversation has a built-in topic.
 - **Volunteer for a role.** Sign up to be a greeter, note-taker, or timekeeper at a networking event. Having a defined task reduces the pressure to "perform" socially. The **International Journal of Human-Computer Studies (2021)** found that role-based participation increases engagement by 40% for introverts.
-- **Use the "Coffee Chat" format.** Propose a 15-minute virtual or in-person coffee. This is a universally accepted, low-commitment meeting. For cross-border tuition payments or event fees, some international students use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to handle costs efficiently, freeing up mental energy for networking.
+- **Use the "Coffee Chat" format.** Propose a 15-minute virtual or in-person coffee. This is a universally accepted, low-commitment meeting. For cross-border tuition payments or event fees, some international students use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/how-to-build-professional-connections-as-a-shy-student-without-feeling-awkward) to handle costs efficiently, freeing up mental energy for networking.
 
 ## Focus on Giving, Not Getting
 

@@ -67,7 +67,7 @@ Some scholarships, like the **Robertson Scholars Program**, hold a multi-day sel
 
 If you receive multiple offers, you can sometimes negotiate. Write a polite email to the financial aid office stating that you have a competing offer from another institution. Provide the dollar amount and ask if they can match or increase your award. This works best when both schools are similarly ranked. For example, if you have a $25,000/year offer from Case Western Reserve, you might ask the University of Rochester to match it.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees with competitive exchange rates and no hidden bank fees. Confirm the payment deadline and any deposit required to secure your scholarship.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/a-step-by-step-plan-to-apply-for-merit-scholarships-at-private-universities) to settle fees with competitive exchange rates and no hidden bank fees. Confirm the payment deadline and any deposit required to secure your scholarship.
 
 ## FAQ
 

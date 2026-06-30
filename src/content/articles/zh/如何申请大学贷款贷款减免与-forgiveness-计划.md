@@ -6,8 +6,34 @@ pubDatetime: "2026-04-03T19:36:27Z"
 publishDate: '2026-04-03T19:36:27Z'
 readingTime: 3
 tags: ["featured"]
-
+ogImage: "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
 ---
+
+<!-- R2_IMAGE: test-backfill-uni -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
+    alt="university library"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg",
+  "name": "university library",
+  "description": "university library — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 Federal student loan borrowers in the U.S. collectively owe over $1.6 trillion, with the average Class of 2023 graduate carrying $29,400 in debt, according to the Federal Reserve (2024) and the Education Data Initiative (2024). Understanding how to apply for college loans is only half the battle — navigating **loan forgiveness** and **repayment relief** programs is what determines whether that debt becomes a manageable tool or a long-term burden. This guide covers the core federal loan types, the most impactful forgiveness plans (Public Service Loan Forgiveness, Income-Driven Repayment forgiveness, Teacher Loan Forgiveness), and the practical steps to apply, all sourced from the U.S. Department of Education and Federal Student Aid.
 
@@ -29,7 +55,7 @@ Graduate and Parent PLUS loans are also Direct Loans, but they require **consoli
 Only full-time (30+ hours/week) employment counts. Payments must be made under an IDR plan (or the standard 10-year plan) while on time. The PSLF Help Tool at StudentAid.gov lets you submit employer certification forms annually to track progress.
 
 ### PSLF Application Process
-Submit the PSLF form (Employment Certification for Public Service Loan Forgiveness) after your 120th payment. The government will review your employment history and payment count. Approval typically takes 4–6 weeks, but backlogged cases can take longer. For cross-border tuition payments while working abroad, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees.
+Submit the PSLF form (Employment Certification for Public Service Loan Forgiveness) after your 120th payment. The government will review your employment history and payment count. Approval typically takes 4–6 weeks, but backlogged cases can take longer. For cross-border tuition payments while working abroad, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/zh/%E5%A6%82%E4%BD%95%E7%94%B3%E8%AF%B7%E5%A4%A7%E5%AD%A6%E8%B4%B7%E6%AC%BE%E8%B4%B7%E6%AC%BE%E5%87%8F%E5%85%8D%E4%B8%8E-forgiveness-%E8%AE%A1%E5%88%92) to settle fees.
 
 ## Income-Driven Repayment (IDR) Forgiveness: After 20 or 25 Years
 

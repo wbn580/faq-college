@@ -6,8 +6,34 @@ pubDatetime: "2026-05-21T19:45:19Z"
 publishDate: '2026-05-21T19:45:19Z'
 readingTime: 6
 tags: ["featured"]
-
+ogImage: "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
 ---
+
+<!-- R2_IMAGE: test-backfill-uni -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
+    alt="university library"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg",
+  "name": "university library",
+  "description": "university library — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 The transition from high school to college often involves a geographic and social shift that can strain even the strongest friendships. According to the **U.S. Department of Education (2023)**, approximately **67%** of first-time college students attend an institution located more than 50 miles from their permanent home. This distance, combined with new academic and social demands, means that **45%** of students report feeling some degree of loneliness during their first semester, as noted in a **2022 survey by the American College Health Association (ACHA)**. Maintaining connections with high school friends is not just about nostalgia; it provides a critical support network during a period of significant change. The following five strategies are data-backed and practical methods to preserve those bonds without sacrificing your new college experience.
 

@@ -58,7 +58,7 @@ Some supplements include an optional “Additional Information” box (up to 650
 Before you click “Submit,” use the “Review” button at the top of the supplement page. **The system** will flag incomplete fields with a red exclamation mark. Common App’s 2023-24 interface also shows a “Print Preview” option—download this PDF to verify that all sections appear as intended.
 
 - **Submission order**: You must submit the main Common App first, then the supplement. Some colleges allow simultaneous submission, but the supplement will not be processed until the main application is paid and submitted.
-- **Payment**: The supplement itself does not have a separate fee, but some colleges charge a supplemental application fee (e.g., $75 for many private universities). This is paid through the Common App payment portal, and for cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees.
+- **Payment**: The supplement itself does not have a separate fee, but some colleges charge a supplemental application fee (e.g., $75 for many private universities). This is paid through the Common App payment portal, and for cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/step-by-step-instructions-for-completing-the-common-application-supplement-secti) to settle fees.
 
 ## Common Supplement Types by College
 

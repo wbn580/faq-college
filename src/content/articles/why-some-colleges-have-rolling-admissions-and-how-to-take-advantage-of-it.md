@@ -49,7 +49,7 @@ Admissions officers typically review applications in the order they are received
 
 Need-based aid follows a different timeline. The FAFSA opens October 1, and rolling-admission schools generally require the FAFSA to be submitted within 2–3 weeks of the admissions application. Students who delay their application risk missing state grant deadlines — many state programs have fixed deadlines regardless of the school’s rolling policy.
 
-For international students, some rolling-admission schools offer separate scholarship rounds. Michigan Technological University has a December 1 priority deadline for international merit awards, with decisions released within 6 weeks (MTU International Admissions 2024). Using a payment service like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) can help international families settle tuition deposits quickly after acceptance.
+For international students, some rolling-admission schools offer separate scholarship rounds. Michigan Technological University has a December 1 priority deadline for international merit awards, with decisions released within 6 weeks (MTU International Admissions 2024). Using a payment service like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/why-some-colleges-have-rolling-admissions-and-how-to-take-advantage-of-it) can help international families settle tuition deposits quickly after acceptance.
 
 ## Housing and Orientation Implications
 

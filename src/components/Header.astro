@@ -8,23 +8,18 @@ const categories = [
 ];
 ---
 
-<header class="border-b border-aus-green/15 bg-aus-sand/95 backdrop-blur-sm sticky top-0 z-10">
-  <nav class="max-w-5xl mx-auto px-6 py-4 flex items-center justify-between">
-    <a href="/" class="font-heading text-2xl text-aus-red font-bold tracking-wide no-underline">
-      College FAQ
-    </a>
-    <div class="hidden md:flex gap-1 text-sm">
-      {categories.map(cat => (
-        <a
-          href={`/category/${cat.slug}/`}
-          class="px-3 py-1.5 text-aus-muted hover:text-aus-ink hover:bg-aus-green/5 rounded-sm transition-colors no-underline"
-        >
-          {cat.name}
-        </a>
-      ))}
-    </div>
-    <a href="/about/" class="text-sm text-aus-muted hover:text-aus-ink no-underline hidden md:block">
-      About
-    </a>
-  </nav>
-</header>
+<nav class="nav" id="nav">
+  <div class="row left"><a href="#dim">Topics</a><a href="#articles">Latest</a></div>
+  <a href="/" class="brand">College FAQ Desk<small>Straight Answers</small></a>
+  <div class="row right"><a href="/about/">About</a><a href="/about/">Ask</a></div>
+  <div class="hamb"><span></span><span></span><span></span></div>
+</nav>
+
+<script>
+  const nav = document.getElementById('nav');
+  function onScroll() {
+    nav.classList.toggle('scrolled', window.scrollY > window.innerHeight * 0.7);
+  }
+  window.addEventListener('scroll', onScroll, {passive: true});
+  onScroll();
+</script>

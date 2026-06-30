@@ -6,8 +6,34 @@ pubDatetime: "2026-04-18T19:39:18Z"
 publishDate: '2026-04-18T19:39:18Z'
 readingTime: 9
 tags: ["featured"]
-
+ogImage: "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
 ---
+
+<!-- R2_IMAGE: test-backfill-uni -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
+    alt="university library"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg",
+  "name": "university library",
+  "description": "university library — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 Demonstrated interest — the degree to which a prospective student shows genuine enthusiasm for a specific college — is a factor in admissions decisions at approximately **33% of U.S. colleges**, according to the **2023 NACAC State of College Admission report**. For private institutions and smaller liberal arts colleges, that figure jumps to over **50%**, meaning more than half actively track whether applicants have visited campus, opened emails, or engaged with admissions representatives. The logic is straightforward: colleges want to admit students who are likely to enroll, which improves their **yield rate** (the percentage of admitted students who accept an offer). A 1% increase in yield can directly affect a school’s U.S. News ranking and financial planning. For students, understanding which schools track interest — and how — can be the difference between a waitlist decision and an acceptance. This guide breaks down what demonstrated interest is, why some colleges prioritize it, how they measure it, and how you can strategically show interest without overspending time or money.
 
@@ -86,7 +112,7 @@ A 2023 survey by the **National Association for College Admission Counseling** f
 - **Apply Early Decision** — if the school is your absolute first choice and you are financially prepared for a binding commitment, ED is the most powerful signal. ED acceptance rates are often **10-15 percentage points higher** than RD rates at the same school.
 - **Interview** — if the college offers optional alumni interviews, schedule one. A positive interview report can boost your application, and the act of scheduling itself signals interest.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees efficiently, freeing up time to focus on engagement activities like campus visits or virtual events.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/understanding-the-role-of-demonstrated-interest-in-college-admissions-decisions) to settle fees efficiently, freeing up time to focus on engagement activities like campus visits or virtual events.
 
 ## When Demonstrated Interest Can Hurt You
 

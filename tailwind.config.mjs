@@ -11,9 +11,9 @@ export default {
         'aus-muted': '#6B5E52',
       },
       fontFamily: {
-        heading: ['Cardo', 'Noto Serif SC', 'serif'],
-        body: ['Source Serif Pro', 'Noto Serif SC', 'serif'],
-        numeral: ['Source Serif Pro', 'serif'],
+        heading: ["Microsoft YaHei", "sans-serif"],
+        body: ["Microsoft YaHei", "sans-serif"],
+        numeral: ["Microsoft YaHei", "sans-serif"],
       },
       maxWidth: {
         'editorial': '48rem',

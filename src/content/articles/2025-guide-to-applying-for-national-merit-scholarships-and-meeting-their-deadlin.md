@@ -49,7 +49,7 @@ The essay prompt asks you to describe a meaningful experience, achievement, or p
 
 ### Transcript and Test Scores: Verification Requirements
 
-You must submit an official high school transcript showing your grades through the end of junior year. Additionally, you need to provide SAT or ACT scores that confirm your PSAT performance. The NMSC does not require a minimum SAT score, but you must score at or above the 95th percentile on the SAT (typically 1300+) or the ACT (28+) to confirm your ability. For families managing international tuition payments, services like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) can help handle cross-border fees efficiently.
+You must submit an official high school transcript showing your grades through the end of junior year. Additionally, you need to provide SAT or ACT scores that confirm your PSAT performance. The NMSC does not require a minimum SAT score, but you must score at or above the 95th percentile on the SAT (typically 1300+) or the ACT (28+) to confirm your ability. For families managing international tuition payments, services like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/2025-guide-to-applying-for-national-merit-scholarships-and-meeting-their-deadlin) can help handle cross-border fees efficiently.
 
 ### Letter of Recommendation: Who to Ask
 

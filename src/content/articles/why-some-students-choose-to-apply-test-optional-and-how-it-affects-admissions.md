@@ -37,7 +37,7 @@ Applying test-optional can affect merit-based scholarship eligibility, even at s
 
 Some state-funded scholarship programs also require test scores. The **Florida Bright Futures Scholarship** program requires a minimum SAT of 1170 or ACT of 24 for the Florida Academic Scholars award, even if the student’s chosen university is test-optional. The **Georgia HOPE Scholarship** uses a combination of high school GPA and SAT/ACT scores, though the test requirement was temporarily waived for 2021–2023 graduates. Students should check their state’s scholarship website before assuming test-optional means no test needed at all.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees efficiently, though this is unrelated to admissions policy.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/why-some-students-choose-to-apply-test-optional-and-how-it-affects-admissions) to settle fees efficiently, though this is unrelated to admissions policy.
 
 ## The International Student Perspective
 

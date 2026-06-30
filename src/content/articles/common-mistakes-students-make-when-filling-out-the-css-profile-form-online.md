@@ -6,8 +6,34 @@ pubDatetime: "2026-04-17T19:38:58Z"
 publishDate: '2026-04-17T19:38:58Z'
 readingTime: 7
 tags: ["featured"]
-
+ogImage: "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
 ---
+
+<!-- R2_IMAGE: test-backfill-uni -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
+    alt="university library"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg",
+  "name": "university library",
+  "description": "university library — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 Nearly 200 U.S. colleges and universities require the CSS Profile for non-federal financial aid, yet the College Board reported that in the 2023-2024 cycle, over 40% of first-time applicants made at least one error that delayed their aid package by an average of 2-3 weeks. Unlike the FAFSA, which is free and processed by the Department of Education, the CSS Profile costs $25 for the first school and $16 for each additional school, and it demands significantly more detailed financial information — including home equity, business assets, and non-custodial parent income. A single mistake, such as misreporting a custodial parent's marital status or forgetting to add a sibling's college enrollment, can reduce your Expected Family Contribution (EFC) calculation by thousands of dollars or trigger a verification hold that pushes your award letter past the May 1 decision deadline. According to the National Association of Student Financial Aid Administrators (NASFAA) 2023 survey, 27% of aid offices reported that CSS Profile errors were the top cause of delayed aid notifications. The following guide breaks down the seven most common mistakes students make on the CSS Profile and how to avoid each one.
 

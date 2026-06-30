@@ -6,8 +6,34 @@ pubDatetime: "2026-04-12T19:38:08Z"
 publishDate: '2026-04-12T19:38:08Z'
 readingTime: 7
 tags: ["featured"]
-
+ogImage: "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
 ---
+
+<!-- R2_IMAGE: test-backfill-uni -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
+    alt="university library"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg",
+  "name": "university library",
+  "description": "university library — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 The decision to hire a college admissions consultant is a financial and strategic one, and the data shows the outcomes are far from uniform. According to a 2022 study by the National Association for College Admission Counseling (NACAC), only 27% of first-year students at four-year institutions reported using a private counselor, yet students from families earning over $200,000 annually were more than twice as likely to use one compared to those earning under $50,000 (NACAC, 2022, *State of College Admission*). Meanwhile, a 2023 report from the U.S. Government Accountability Office (GAO) found that for-profit admissions consulting firms often make claims of "guaranteed" acceptances without disclosing that their average client acceptance rate to top-20 universities was just 12.4%, only marginally above the general applicant pool average of 9.1% (GAO, 2023, *Consumer Protections in College Admissions*). The core question isn't whether these consultants can help — it's whether their help moves the needle enough to justify the cost, which can range from $3,000 for basic essay editing to over $150,000 for comprehensive "package" programs.
 
@@ -39,7 +65,7 @@ Consider the following scenarios:
 - **Mid-range applicant (SAT 1200–1400, GPA 3.0–3.7)**: The data shows negligible benefit. The same NBER study found a 0.3% increase in admissions, statistically insignificant. Money may be better spent on test prep or application fees for more schools.
 - **First-generation or low-income student**: Many free or low-cost resources exist, such as QuestBridge, College Advising Corps, and school-based counselors. The NACAC 2022 report noted that 74% of public high school students already have access to a school counselor for application support.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees securely, but this is a separate logistical decision from hiring a consultant.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/should-you-use-a-college-admissions-consultant-what-the-data-actually-shows) to settle fees securely, but this is a separate logistical decision from hiring a consultant.
 
 ## How to Evaluate a Consultant's Credibility
 

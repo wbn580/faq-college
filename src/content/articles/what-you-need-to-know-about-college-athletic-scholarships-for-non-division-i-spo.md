@@ -6,8 +6,34 @@ pubDatetime: "2026-05-10T19:43:11Z"
 publishDate: '2026-05-10T19:43:11Z'
 readingTime: 8
 tags: ["featured"]
-
+ogImage: "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
 ---
+
+<!-- R2_IMAGE: test-backfill-uni -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
+    alt="university library"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg",
+  "name": "university library",
+  "description": "university library — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 Most student-athletes and their families assume that athletic scholarships only exist in Division I powerhouse sports like football and basketball. That assumption is incorrect. Across the NCAA, NAIA, and NJCAA, **over 180,000 athletic scholarships** are awarded each year to athletes competing in sports outside of the traditional DI revenue-generating programs, according to the NCAA's 2023-24 Sports Sponsorship and Participation Rates Report. In fact, **non-Division I schools (DII, DIII, and NAIA) collectively distribute more than $2.6 billion annually** in athletic-based financial aid, per the National Association of Collegiate Directors of Athletics (NACDA) 2023 data. These scholarships are not limited to partial tuition waivers—many cover full tuition, room, board, and fees. The key is understanding that the rules, amounts, and availability differ significantly by division and governing body. This guide breaks down what you need to know about securing athletic scholarships for sports like swimming, tennis, lacrosse, golf, volleyball, track and field, and other non-revenue sports at the Division II, Division III, NAIA, and junior college levels.
 
@@ -79,7 +105,7 @@ Begin your scholarship search in your sophomore or junior year of high school. C
 
 You can negotiate your athletic scholarship offer, especially at the DII and NAIA levels. Ask the coach if there is flexibility to increase the award based on academic merit, financial need, or competing offers from other schools. The NACDA 2023 survey found that **44% of non-DI athletes** who asked for a higher scholarship received an increase, averaging an additional **$2,100 per year**. Be polite, professional, and provide evidence (e.g., a higher offer from another school, improved test scores).
 
-For international students or families managing cross-border tuition payments, some athletes use services like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees securely and avoid currency exchange surprises.
+For international students or families managing cross-border tuition payments, some athletes use services like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/what-you-need-to-know-about-college-athletic-scholarships-for-non-division-i-spo) to settle fees securely and avoid currency exchange surprises.
 
 ## FAQ
 

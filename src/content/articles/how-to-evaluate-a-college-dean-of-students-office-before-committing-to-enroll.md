@@ -6,8 +6,34 @@ pubDatetime: "2026-05-16T19:44:18Z"
 publishDate: '2026-05-16T19:44:18Z'
 readingTime: 8
 tags: ["featured"]
-
+ogImage: "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
 ---
+
+<!-- R2_IMAGE: test-backfill-uni -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
+    alt="university library"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg",
+  "name": "university library",
+  "description": "university library — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 The Dean of Students office (DOS) is the central hub for student life, crisis management, and behavioral conduct at most U.S. colleges. Yet, 68% of incoming first-year students report never reviewing their college’s student code of conduct or DOS services before moving to campus, according to the 2023 National Survey of Student Engagement (NSSE). This oversight can lead to costly missteps: a 2022 American Council on Education (ACE) report found that 1 in 5 undergraduate conduct cases result in a suspension or expulsion, often due to students misunderstanding the disciplinary process. Evaluating the DOS office before you commit to enroll is a practical step to gauge campus safety, support systems, and your rights as a student. This guide provides a direct checklist of what to look for, from conduct transparency to mental health resources, using official sources and real data.
 
@@ -81,7 +107,7 @@ You do not need to wait until orientation to evaluate the DOS office. Use these 
 - **Read the student code of conduct** (available on the DOS website). Print it and highlight sections on sanctions, appeals, and medical withdrawal.
 - **Search for news articles** using "[University Name] Dean of Students misconduct" or "[University Name] conduct controversy." Local news often covers high-profile cases that reveal systemic issues.
 - **Contact the DOS office directly**: Send an email asking for the "Student Conduct Annual Report" or "Clery Act statistics." The speed and clarity of the response is itself a data point. A response within 3 business days is good; a non-response or a request for a FOIA form is a warning.
-- **Talk to current students**: Ask about their experience with the DOS office. Focus on specific scenarios: "If I had a roommate conflict, who would I talk to?" or "What happens if I get caught with alcohol in my dorm?" For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees.
+- **Talk to current students**: Ask about their experience with the DOS office. Focus on specific scenarios: "If I had a roommate conflict, who would I talk to?" or "What happens if I get caught with alcohol in my dorm?" For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/how-to-evaluate-a-college-dean-of-students-office-before-committing-to-enroll) to settle fees.
 
 ## FAQ
 

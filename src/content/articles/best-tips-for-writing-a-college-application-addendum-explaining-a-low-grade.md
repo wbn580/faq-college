@@ -6,8 +6,34 @@ pubDatetime: "2026-05-05T19:42:13Z"
 publishDate: '2026-05-05T19:42:13Z'
 readingTime: 6
 tags: ["featured"]
-
+ogImage: "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
 ---
+
+<!-- R2_IMAGE: test-backfill-uni -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
+    alt="university library"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg",
+  "name": "university library",
+  "description": "university library — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 A single low grade on your transcript doesn't have to derail your college application, but how you explain it matters. According to the National Association for College Admission Counseling (NACAC) 2023 State of College Admission report, 67.4% of colleges attribute considerable importance to grades in all courses, making any dip a potential red flag. However, the same report notes that the "counselor recommendation" and "teacher recommendation" are the next most important factors, meaning context from trusted adults can be decisive. The key is a concise, factual **addendum** — a brief statement, typically 150-250 words, submitted through the application portal or as part of the "Additional Information" section. This isn't an excuse; it's a clarification. Your goal is to demonstrate resilience and a clear understanding of the situation, proving that a single semester doesn't define your academic trajectory. A well-crafted addendum can transform a potential weakness into evidence of your maturity and problem-solving skills.
 
@@ -41,7 +67,7 @@ If you have more than one low grade in the same semester, treat them as a single
 
 Structure the body as a bullet-point list within the three-paragraph format. In paragraph 1, state: "During the spring semester of my sophomore year, I received a C in Pre-Calculus, a C in Spanish III, and a D in Physics. This was the result of a family emergency: my father was diagnosed with stage 2 lymphoma, and I became the primary caretaker for my younger siblings for three months." In paragraph 2, list the specific actions for each class. In paragraph 3, show your improved performance across all subjects the following semester.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/best-tips-for-writing-a-college-application-addendum-explaining-a-low-grade) to settle fees.
 
 ## The Role of Your Counselor and Teacher Recommendations
 

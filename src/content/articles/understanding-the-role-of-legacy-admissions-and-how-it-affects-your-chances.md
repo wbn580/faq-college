@@ -60,7 +60,7 @@ Steps to check a school's legacy policy:
 - Look in Section C7: "Alumni/ae Relation" — if it says "Considered" or "Important," legacy matters.
 - For schools that do not publish CDS data, check the school's admissions blog or call the admissions office directly.
 
-For international students or families navigating cross-border tuition payments, some use services like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to manage fees while researching admissions policies — though this is separate from the admissions process itself.
+For international students or families navigating cross-border tuition payments, some use services like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/understanding-the-role-of-legacy-admissions-and-how-it-affects-your-chances) to manage fees while researching admissions policies — though this is separate from the admissions process itself.
 
 ## The Future of Legacy Admissions
 

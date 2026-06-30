@@ -6,8 +6,34 @@ pubDatetime: "2026-04-27T19:40:45Z"
 publishDate: '2026-04-27T19:40:45Z'
 readingTime: 6
 tags: ["featured"]
-
+ogImage: "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
 ---
+
+<!-- R2_IMAGE: test-backfill-uni -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
+    alt="university library"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg",
+  "name": "university library",
+  "description": "university library — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 The gap between in-state and out-of-state tuition at U.S. public universities has widened to an average of **$16,182 per year** at four-year institutions, according to the College Board’s 2023 Trends in College Pricing report. For the 2023–2024 academic year, the average published in-state tuition and fees at a public four-year college was **$11,260**, while out-of-state students paid **$29,150** — a 159% premium. This difference is not uniform across states; at the University of Michigan–Ann Arbor, in-state tuition for 2023–2024 is **$17,228** versus out-of-state **$56,472**, a gap of nearly **$40,000**. Meanwhile, the University of Texas at Austin charges in-state students **$11,698** and out-of-state students **$42,778**. These figures exclude room, board, and other living expenses, which the National Center for Education Statistics (NCES) estimates add an average of **$14,030** per year at public four-year institutions. Understanding the actual total cost of attendance — not just the sticker price — is critical for families comparing options across state lines.
 
@@ -49,7 +75,7 @@ The University of Illinois Urbana-Champaign charges in-state students **$17,138*
 
 **Automatic merit scholarships** at many universities significantly narrow the gap. The University of Mississippi offers the **Luckyday Scholarship**, covering full out-of-state tuition for students with a 3.5 GPA and 28 ACT. The University of Kentucky’s **Provost Scholarship** awards **$15,000** per year to out-of-state students with a 3.8 GPA and 31 ACT.
 
-**Tuition payment plans** spread costs without interest. Many schools offer **10-month** payment plans for a small enrollment fee of **$50–$100**. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees with locked exchange rates and no hidden bank fees.
+**Tuition payment plans** spread costs without interest. Many schools offer **10-month** payment plans for a small enrollment fee of **$50–$100**. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/comparing-the-actual-costs-of-in-state-vs-out-of-state-tuition-across-popular-u) to settle fees with locked exchange rates and no hidden bank fees.
 
 ## Private Universities: A Different Equation
 

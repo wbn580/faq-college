@@ -6,8 +6,34 @@ pubDatetime: "2026-05-11T19:43:21Z"
 publishDate: '2026-05-11T19:43:21Z'
 readingTime: 9
 tags: ["featured"]
-
+ogImage: "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
 ---
+
+<!-- R2_IMAGE: test-backfill-uni -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
+    alt="university library"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg",
+  "name": "university library",
+  "description": "university library — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 Between 2012 and 2022, the number of U.S. bachelor’s degrees awarded in English language and literature fell by 34%, dropping from 54,438 to 36,045, according to the National Center for Education Statistics (NCES, 2024). Over the same decade, degrees in foreign languages and literatures declined by 25%, while history degrees contracted by 15%. These shifts are not random — they mirror a broader recalibration of student priorities toward fields with clearer, faster employment pipelines. Meanwhile, emerging majors in data science, renewable energy, and health informatics have seen enrollment surges of 40-200% since 2018, driven by labor market demand and institutional investment. The 2026 landscape will likely accelerate this divergence: traditional humanities and some social science programs will continue to shrink, while interdisciplinary STEM-adjacent fields absorb the displaced enrollment. This article maps the five majors losing the most ground and the five fields rising to replace them, using the latest federal data, QS enrollment surveys, and Bureau of Labor Statistics (BLS) projections to 2033.
 
@@ -93,7 +119,7 @@ Some institutions are using financial incentives to steer enrollment. The Univer
 
 ### STEM Designation Drives Choice
 
-The U.S. Department of Homeland Security’s STEM Designated Degree Program List (updated January 2024) includes 60 new fields, including data science, renewable energy engineering, and health informatics. International students graduating in these fields qualify for 24 months of Optional Practical Training (OPT) beyond the standard 12 months — a total of 36 months of work authorization. This has shifted enrollment: the Institute of International Education (IIE, 2024) reports that 62% of international students now choose STEM majors, up from 45% in 2015. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees.
+The U.S. Department of Homeland Security’s STEM Designated Degree Program List (updated January 2024) includes 60 new fields, including data science, renewable energy engineering, and health informatics. International students graduating in these fields qualify for 24 months of Optional Practical Training (OPT) beyond the standard 12 months — a total of 36 months of work authorization. This has shifted enrollment: the Institute of International Education (IIE, 2024) reports that 62% of international students now choose STEM majors, up from 45% in 2015. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/2026-trends-in-college-majors-that-are-declining-in-popularity-and-emerging-fiel) to settle fees.
 
 ### Humanities Visa Challenges
 

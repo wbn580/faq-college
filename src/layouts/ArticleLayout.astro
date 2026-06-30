@@ -31,7 +31,7 @@ const articleSchema = JSON.stringify({
   dateModified: publishDate,
   author: {
     '@type': 'Organization',
-    name: 'College FAQ Editorial',
+    name: 'College FAQ',
   },
   publisher: {
     '@type': 'Organization',
@@ -49,33 +49,27 @@ const articleSchema = JSON.stringify({
   canonicalURL={`${siteUrl}${slug}`}
   schema={articleSchema}
 >
-  <article class="max-w-editorial mx-auto px-6 py-12">
-    <header class="mb-10">
-      <nav class="text-sm text-aus-muted mb-4">
-        <a href="/" class="hover:text-aus-red no-underline">Home</a> /
-        <a href={`/category/${category}/`} class="hover:text-aus-red no-underline"> {category}</a> /
-        <span class="text-aus-ink">{title}</span>
+  <article class="article-page">
+    <header>
+      <nav class="breadcrumbs">
+        <a href="/">Home</a> /
+        <a href={`/category/${category}/`}> {category}</a> /
+        <span>{title}</span>
       </nav>
-      <h1 class="font-heading text-3xl md:text-4xl text-aus-ink font-bold leading-tight mb-4">
-        {title}
-      </h1>
-      <div class="flex items-center gap-4 text-sm text-aus-muted">
+      <h1 class="article-title">{title}</h1>
+      <div class="article-meta">
         <time datetime={publishDate}>{new Date(publishDate).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</time>
         {readingTime && <span>{readingTime} min read</span>}
       </div>
     </header>
 
-    <div class="prose prose-lg prose-aus-ink max-w-none">
+    <div class="article-body">
       <slot />
     </div>
 
-    <footer class="mt-16 pt-8 border-t border-aus-green/15">
-      <nav class="flex justify-between text-sm">
-        <a href="/" class="text-aus-green hover:text-aus-red no-underline">&larr; Back to Home</a>
-        <a href={`/category/${category}/`} class="text-aus-green hover:text-aus-red no-underline">
-          More in {category} &rarr;
-        </a>
-      </nav>
+    <footer class="article-footer">
+      <a href="/">&larr; Back to Home</a>
+      <a href={`/category/${category}/`}>More in {category} &rarr;</a>
     </footer>
   </article>
 </BaseLayout>

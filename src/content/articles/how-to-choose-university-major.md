@@ -3,8 +3,34 @@ title: "How to Choose a University Major · A Decision Framework"
 description: "A systematic approach to choosing a university major — balancing interest, employability, and earning potential with practical exercises to narrow your options."
 category: "apply"
 publishDate: "2026-05-15T08:00:00Z"
-
+ogImage: "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
 ---
+
+<!-- R2_IMAGE: test-backfill-uni -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
+    alt="university library"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg",
+  "name": "university library",
+  "description": "university library — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 Choosing a major is the most consequential academic decision you'll make — it shapes your next 3–4 years and your first decade of career options. Most students choose based on two factors: what they enjoyed in high school and what their parents suggest. A more systematic approach leads to better outcomes.
 

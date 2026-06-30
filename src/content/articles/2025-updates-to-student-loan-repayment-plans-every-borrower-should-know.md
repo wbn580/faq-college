@@ -6,8 +6,34 @@ pubDatetime: "2026-04-18T19:39:17Z"
 publishDate: '2026-04-18T19:39:17Z'
 readingTime: 6
 tags: ["featured"]
-
+ogImage: "https://img.ulec.com.cn/loan/low-doc-贷款-bas-会计师信-银行流水接受度-cnf20-435e935f-2026-940x627.jpeg"
 ---
+
+<!-- R2_IMAGE: low-doc-贷款-bas-会计师信-银行流水接受度-cnf20-435e935f -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/loan/low-doc-贷款-bas-会计师信-银行流水接受度-cnf20-435e935f-2026-940x627.jpeg"
+    alt="low doc 贷款 bas 会计师信 银行流水接受度 cnf20 435e935f"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/loan/low-doc-贷款-bas-会计师信-银行流水接受度-cnf20-435e935f-2026-940x627.jpeg",
+  "name": "low doc 贷款 bas 会计师信 银行流水接受度 cnf20 435e935f",
+  "description": "low doc 贷款 bas 会计师信 银行流水接受度 cnf20 435e935f — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 In 2025, the landscape of federal student loan repayment in the United States has shifted significantly, affecting over **43 million borrowers** who collectively hold **$1.6 trillion in outstanding debt**, according to the Federal Student Aid (FSA) office's Q4 2024 data. The most consequential change is the indefinite court-ordered block on the Saving on a Valuable Education (SAVE) plan, which the 8th Circuit Court of Appeals placed in July 2024. This has forced borrowers previously enrolled in SAVE—which had over 8 million participants—into forbearance, where no payments are due and no interest accrues, but these months also do not count toward Public Service Loan Forgiveness (PSLF) or Income-Driven Repayment (IDR) forgiveness. Compounding this, the Department of Education announced in January 2025 that it would pause processing all new IDR plan applications until at least mid-2025, creating a backlog for those seeking lower monthly payments. Borrowers must now navigate a patchwork of options: the remaining open IDR plans (Income-Based Repayment, Pay As You Earn, and Income-Contingent Repayment), the standard 10-year plan, and extended or graduated plans. The U.S. Government Accountability Office (GAO) reported in February 2025 that roughly 60% of borrowers are unaware of these specific changes, making it critical to understand which plans are still accessible and how the SAVE pause affects your long-term forgiveness timeline.
 
@@ -41,7 +67,7 @@ For borrowers who do not qualify for IDR or prefer fixed payments, the **Standar
 
 ### When to Consider Extended or Graduated Plans
 
-The **Graduated Repayment Plan** starts with low payments that increase every two years, while the **Extended Repayment Plan** stretches payments over 25 years (for borrowers with over $30,000 in Direct Loans). Neither plan offers forgiveness, and interest accumulates faster. These are best for borrowers who expect their income to rise sharply within 5-7 years and can pay off the balance before interest snowballs. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees.
+The **Graduated Repayment Plan** starts with low payments that increase every two years, while the **Extended Repayment Plan** stretches payments over 25 years (for borrowers with over $30,000 in Direct Loans). Neither plan offers forgiveness, and interest accumulates faster. These are best for borrowers who expect their income to rise sharply within 5-7 years and can pay off the balance before interest snowballs. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/2025-updates-to-student-loan-repayment-plans-every-borrower-should-know) to settle fees.
 
 ## Public Service Loan Forgiveness (PSLF) Requires Careful Plan Selection
 

@@ -62,7 +62,7 @@ When accepting federal student loans, always **maximize subsidized loans first**
 
 If you need to borrow beyond the subsidized limit, consider paying the accruing interest on the unsubsidized loan while in school. Even small monthly payments — $10 to $20 — can prevent capitalization and save hundreds of dollars over the loan term. Some borrowers use part-time job income or family contributions to cover in-school interest.
 
-For international students or families managing cross-border tuition payments, some use services like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees efficiently. This is separate from loan origination but relevant when coordinating actual fund transfers.
+For international students or families managing cross-border tuition payments, some use services like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/understanding-the-difference-between-subsidized-and-unsubsidized-federal-loans) to settle fees efficiently. This is separate from loan origination but relevant when coordinating actual fund transfers.
 
 ### Refund and Cancellation Rights
 You have the right to cancel all or a portion of a Direct Loan within 120 days of disbursement. Contact your school's financial aid office to request cancellation. After 120 days, the loan is considered fully disbursed and must be repaid according to the master promissory note terms.

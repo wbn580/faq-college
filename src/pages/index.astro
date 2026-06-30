@@ -5,13 +5,13 @@ import { getCollection } from 'astro:content';
 const articles = await getCollection('articles', ({ data }) => !data.draft);
 articles.sort((a, b) => new Date(b.data.publishDate).getTime() - new Date(a.data.publishDate).getTime());
 
-const featured = articles.slice(0, 8);
+const featured = articles.slice(0, 6);
 const categories = [
-    { slug: 'applications', name: 'Applications', desc: 'Applications' },
-    { slug: 'financial-aid', name: 'Financial Aid', desc: 'Financial Aid' },
-    { slug: 'scholarships', name: 'Scholarships', desc: 'Scholarships' },
-    { slug: 'standardized-tests', name: 'Tests & Scores', desc: 'Tests & Scores' },
-    { slug: 'campus-life', name: 'Campus Life', desc: 'Campus Life' },
+  { slug: 'applications', name: 'Applications', desc: 'Admissions, essays, interviews, and application strategy', icon: '📝' },
+  { slug: 'financial-aid', name: 'Financial Aid', desc: 'FAFSA, CSS Profile, grants, and loans explained', icon: '💰' },
+  { slug: 'scholarships', name: 'Scholarships', desc: 'Find and win scholarships for every background', icon: '🎓' },
+  { slug: 'standardized-tests', name: 'Tests &amp; Scores', desc: 'SAT, ACT, AP, and test-optional strategies', icon: '📊' },
+  { slug: 'campus-life', name: 'Campus Life', desc: 'Dorms, dining, clubs, and the real college experience', icon: '🏛️' },
 ];
 
 const homeSchema = JSON.stringify({
@@ -23,7 +23,7 @@ const homeSchema = JSON.stringify({
   inLanguage: 'en',
   potentialAction: {
     '@type': 'SearchAction',
-    target: 'https://faq.college/?q={{search_term_string}}',
+    target: 'https://faq.college/?q={search_term_string}',
     'query-input': 'required name=search_term_string',
   },
 });
@@ -34,49 +34,107 @@ const homeSchema = JSON.stringify({
   description="Comprehensive guides and answers to the most common questions about college applications, admissions, financial aid, scholarships, and campus life."
   schema={homeSchema}
 >
-  <!-- Hero -->
-  <section class="max-w-5xl mx-auto px-6 pt-16 pb-12 text-center">
-    <p class="chapter-num text-aus-green text-lg mb-3">I</p>
-    <h1 class="font-heading text-4xl md:text-5xl text-aus-ink font-bold leading-tight mb-4">
-      College FAQ
-    </h1>
-    <p class="text-xl text-aus-muted mb-6 font-heading">
-      Straight answers to your college questions
-    </p>
-    <p class="max-w-2xl mx-auto text-aus-muted leading-relaxed">
-      Applying to college is complicated. We provide clear, well-researched answers to the most common questions about applications, essays, standardized tests, financial aid, scholarships, and everything in between. No marketing fluff — just facts.
-    </p>
-  </section>
+  <!-- Fullscreen Hero -->
+  <header class="hero">
+    <div class="hero-inner">
+      <span class="eyebrow">Straight answers · no fluff</span>
+      <h1>Your college questions<br>answered <em>honestly</em></h1>
+      <p class="lead">From applications and financial aid to scholarships and campus life — well-researched answers from someone who has been through it.</p>
+      <div class="hero-actions">
+        <a href="#dim" class="btn btn-primary">Explore topics</a>
+        <a href="#articles" class="btn btn-ghost">Read latest</a>
+      </div>
+    </div>
+    <div class="scroll-cue"><div class="mouse"></div>Scroll</div>
+  </header>
 
-  <!-- Categories -->
-  <section class="max-w-5xl mx-auto px-6 pb-16">
-    <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
-      {categories.map(cat => (
-        <a
-          href={`/category/${cat.slug}/`}
-          class="block p-5 border border-aus-green/10 rounded-sm hover:border-aus-red/30 hover:bg-white/50 transition-colors no-underline group"
-        >
-          <h2 class="font-heading text-lg text-aus-ink font-bold group-hover:text-aus-red transition-colors">{cat.name}</h2>
-          <p class="text-sm text-aus-muted mt-1">{cat.desc}</p>
+  <!-- Bento: Categories -->
+  <section id="dim">
+    <div class="wrap">
+      <div class="sec-head">
+        <div class="kicker">Explore topics</div>
+        <h2>Every question has an answer</h2>
+        <p>College knowledge organized into clear categories so you find what you need, fast.</p>
+      </div>
+
+      <div class="bento">
+        <!-- Feature card -->
+        <a class="card c-feature" href="/category/applications/">
+          <span class="tag">Popular</span>
+          <h3>College applications the complete guide</h3>
+          <p>Essays, deadlines, recommendations, and what admissions officers do not tell you.</p>
         </a>
-      ))}
+        {categories.filter(c => c.slug !== 'applications').slice(0, 2).map(cat => (
+          <a class="card c-3" href={`/category/${cat.slug}/`}>
+            <div class="ic">{cat.icon}</div>
+            <h3>{cat.name}</h3>
+            <p>{cat.desc}</p>
+          </a>
+        ))}
+        <!-- Stats -->
+        <div class="card c-stat"><div class="num">5</div><p>Core topic areas</p></div>
+        <div class="card c-stat"><div class="num">500+</div><p>In-depth articles</p></div>
+        {categories.slice(3).map(cat => (
+          <a class="card c-3" href={`/category/${cat.slug}/`}>
+            <div class="ic">{cat.icon}</div>
+            <h3>{cat.name}</h3>
+            <p>{cat.desc}</p>
+          </a>
+        ))}
+      </div>
     </div>
   </section>
 
-  <!-- Featured Articles -->
-  <section class="max-w-5xl mx-auto px-6 pb-20">
-    <h2 class="font-heading text-2xl text-aus-ink font-bold mb-8">Latest Analysis</h2>
-    <div class="grid md:grid-cols-2 gap-6">
-      {featured.map(article => (
-        <a
-          href={`/${article.id}/`}
-          class="block p-6 border border-aus-green/10 rounded-sm hover:border-aus-red/30 hover:bg-white/50 transition-colors no-underline group"
-        >
-          <span class="text-xs text-aus-green uppercase tracking-wide">{article.data.category}</span>
-          <h3 class="font-heading text-xl text-aus-ink font-bold mt-1 mb-2 group-hover:text-aus-red transition-colors">{article.data.title}</h3>
-          <p class="text-sm text-aus-muted leading-relaxed">{article.data.description}</p>
-        </a>
-      ))}
+  <!-- Latest Articles -->
+  <section class="articles" id="articles">
+    <div class="wrap">
+      <div class="sec-head">
+        <div>
+          <div class="kicker">Latest analysis</div>
+          <h2>Fresh answers</h2>
+        </div>
+        <a href="/category/applications/" class="more-link">All articles &rarr;</a>
+      </div>
+      <div class="filters">
+        <span class="chip active">All</span>
+        {categories.map(cat => (
+          <a href={`/category/${cat.slug}/`} class="chip">{cat.name}</a>
+        ))}
+      </div>
+      <div class="grid">
+        {featured.map((article, i) => (
+          <a href={`/${article.id}/`} class={`post${i === 0 ? ' feature' : ''}`}>
+            <div class="thumb">
+              {article.data.image ? (
+                <img src={article.data.image} alt="" loading={i === 0 ? 'eager' : 'lazy'} />
+              ) : (
+                <div class="placeholder-icon">{['📝','💰','🎓','📊','🏛️'][i % 5]}</div>
+              )}
+              <span class="cat">{article.data.category || 'Article'}</span>
+            </div>
+            <div class="body">
+              <h3>{article.data.title}</h3>
+              <p>{article.data.description}</p>
+              <div class="meta">
+                College FAQ
+                <span class="dot"></span>
+                {article.data.publishDate ? new Date(article.data.publishDate).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }) : ''}
+              </div>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA Band -->
+  <section style="padding-top:0">
+    <div class="wrap">
+      <div class="cta-band">
+        <h2>Still have questions</h2>
+        <p>Browse our categories or ask our assistant for instant answers about anything college-related.</p>
+        <a href="#dim" class="btn btn-primary">Browse all topics</a>
+      </div>
     </div>
   </section>
 </BaseLayout>

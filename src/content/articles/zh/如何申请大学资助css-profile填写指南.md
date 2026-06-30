@@ -6,8 +6,34 @@ pubDatetime: "2026-03-30T19:35:47Z"
 publishDate: '2026-03-30T19:35:47Z'
 readingTime: 3
 tags: ["featured"]
-
+ogImage: "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
 ---
+
+<!-- R2_IMAGE: test-backfill-uni -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
+    alt="university library"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg",
+  "name": "university library",
+  "description": "university library — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 About 200 U.S. colleges and universities require the CSS Profile from the College Board, not just the FAFSA, to award non-federal institutional aid. For the 2024–2025 academic year, the CSS Profile is used by over 400 institutions, including all Ivy League schools, to distribute more than $9 billion in institutional grants and scholarships annually (College Board, 2023, CSS Profile Overview). Unlike the FAFSA, which is free and strictly federal, the CSS Profile costs $25 for the first school and $16 for each additional school, though fee waivers are available for eligible low-income families (College Board, 2023, CSS Profile Fee Waiver Policy). This guide covers the exact steps to complete the CSS Profile, from gathering documents to understanding how assets are treated differently than on the FAFSA. Missing the CSS Profile could cost you thousands in need-based aid from private universities, so getting it right is critical.
 
@@ -73,7 +99,7 @@ After completing all sections, review every answer for accuracy. Errors can dela
 
 Submit the application and pay the fee. You will receive a confirmation email from the College Board. Your data is sent to each school within 3–5 business days, but some schools may take up to two weeks to process it. Check each school’s financial aid portal to confirm receipt.
 
-**Tracking tip:** After submission, you can log back into the CSS Profile portal to view your application status and see which schools have downloaded your data. If a school hasn’t downloaded it after two weeks, contact their financial aid office directly. For cross-border tuition payments or international student fees, some families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle charges from abroad.
+**Tracking tip:** After submission, you can log back into the CSS Profile portal to view your application status and see which schools have downloaded your data. If a school hasn’t downloaded it after two weeks, contact their financial aid office directly. For cross-border tuition payments or international student fees, some families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/zh/%E5%A6%82%E4%BD%95%E7%94%B3%E8%AF%B7%E5%A4%A7%E5%AD%A6%E8%B5%84%E5%8A%A9css-profile%E5%A1%AB%E5%86%99%E6%8C%87%E5%8D%97) to settle charges from abroad.
 
 ## FAQ
 

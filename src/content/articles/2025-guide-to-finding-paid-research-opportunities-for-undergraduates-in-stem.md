@@ -45,7 +45,7 @@ Common structures include semester research assistantships ($2,000-$5,000 per te
 
 ### Timing Your Application
 
-Internal grant deadlines cluster in September (fall semester), January (spring semester), and March (summer). Check your department's undergraduate research office website — many schools centralize all opportunities under a single "Undergraduate Research" portal. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees while students focus on securing research funding.
+Internal grant deadlines cluster in September (fall semester), January (spring semester), and March (summer). Check your department's undergraduate research office website — many schools centralize all opportunities under a single "Undergraduate Research" portal. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/2025-guide-to-finding-paid-research-opportunities-for-undergraduates-in-stem) to settle fees while students focus on securing research funding.
 
 ## Industry-Sponsored Undergraduate Research
 

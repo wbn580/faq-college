@@ -19,6 +19,32 @@ tags:
   - '留学FAQ'
 
 ---
+
+<!-- R2_IMAGE: backfill-cómo-solicitar-la-visa-de-estudiante-par -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/backfill-cómo-solicitar-la-visa-de-estudiante-par-2026-1880x1253.jpg"
+    alt="visa estudiante Canadá 2026, solicitud study permit, requisitos visa canadiense, latinoamericanos Ca"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/backfill-cómo-solicitar-la-visa-de-estudiante-par-2026-1880x1253.jpg",
+  "name": "visa estudiante Canadá 2026, solicitud study permit, requisitos visa canadiense, latinoamericanos Ca",
+  "description": "visa estudiante Canadá 2026, solicitud study permit, requisitos visa canadiense, latinoamericanos Ca — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 # 美国本科申请ED/EA/REA/SCEA/RD全解析：截止日期、绑定规则与早申策略
 
 申请美国本科的同学们经常面对一个绕不开的困惑：除了大家都知道的常规申请（RD），还有眼花缭乱的ED、EA、REA、SCEA轮次，它们代表什么？选错了会不会影响最终结果？本文将系统对比美国本科申请中ED、EA、REA、SCEA和RD五种申请轮次的截止日期、绑定规则、录取率差异及策略组合，通过历年录取数据复盘早申优势，分析不同背景学生如何搭配选校清单，规避违约风险，并提供时间规划建议，帮助你在复杂的游戏规则里找到最优解。

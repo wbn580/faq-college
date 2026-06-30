@@ -6,8 +6,34 @@ pubDatetime: "2026-04-27T19:40:53Z"
 publishDate: '2026-04-27T19:40:53Z'
 readingTime: 6
 tags: ["featured"]
-
+ogImage: "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
 ---
+
+<!-- R2_IMAGE: test-backfill-uni -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
+    alt="university library"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg",
+  "name": "university library",
+  "description": "university library — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 Only 37% of first-year college students who actively seek a mentor report doing so through a formal university program, while the remaining 63% find one through organic interactions — office hours, student organizations, or peer referrals — according to the 2023 National Survey of Student Engagement (NSSE). Students who establish a mentor relationship by the end of their first year are 2.3 times more likely to persist to graduation than those who do not, per a 2021 study by the American Educational Research Association (AERA). Yet the process feels intimidating: you have to identify the right person, make the first move, and maintain the connection without it fizzling out. This guide breaks down exactly how to find a mentor in your first year — from locating candidates on campus to sustaining a relationship that lasts beyond graduation.
 

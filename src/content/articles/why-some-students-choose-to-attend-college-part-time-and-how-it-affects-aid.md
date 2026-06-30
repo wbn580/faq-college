@@ -6,8 +6,34 @@ pubDatetime: "2026-05-01T19:41:27Z"
 publishDate: '2026-05-01T19:41:27Z'
 readingTime: 7
 tags: ["featured"]
-
+ogImage: "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
 ---
+
+<!-- R2_IMAGE: test-backfill-uni -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
+    alt="university library"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg",
+  "name": "university library",
+  "description": "university library — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 Nearly 40% of all U.S. undergraduates attend college on a part-time basis, according to the National Center for Education Statistics (NCES, 2022). This figure rises to 60% at community colleges, where students often balance work, family, and education simultaneously. The choice to enroll part-time is rarely about preference alone—it is driven by financial constraints, job obligations, or caregiving responsibilities. However, this decision carries significant consequences for financial aid eligibility. Federal Pell Grant awards, for example, are prorated based on enrollment intensity: a student taking half the full-time course load receives roughly half the maximum grant, which was $7,395 for the 2023–2024 award year (U.S. Department of Education, 2023). Beyond federal aid, state grants and institutional scholarships often require a minimum of 12 credits per semester. Understanding how part-time status interacts with aid formulas is essential for any student weighing this path. This article breaks down the key reasons students go part-time, the specific aid rules that apply, and the strategies to avoid losing funding.
 
@@ -71,7 +97,7 @@ Another option is to take one full-time semester per year. Since Pell is calcula
 
 Summer Pell Grants allow students to receive up to 150% of their annual award if they enroll in at least 6 credits during the summer term. A student who takes 6 credits in fall, 6 in spring, and 6 in summer can receive 50% + 50% + 50% = 150% of the annual maximum—effectively $11,092.50 for the calendar year. This requires careful coordination with the financial aid office.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees in their home currency while avoiding high bank wire fees and exchange rate markups.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/why-some-students-choose-to-attend-college-part-time-and-how-it-affects-aid) to settle fees in their home currency while avoiding high bank wire fees and exchange rate markups.
 
 ## FAQ
 

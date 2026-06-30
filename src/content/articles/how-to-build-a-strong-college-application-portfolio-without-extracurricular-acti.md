@@ -6,8 +6,34 @@ pubDatetime: "2026-04-08T19:37:20Z"
 publishDate: '2026-04-08T19:37:20Z'
 readingTime: 8
 tags: ["featured"]
-
+ogImage: "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
 ---
+
+<!-- R2_IMAGE: test-backfill-uni -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
+    alt="university library"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg",
+  "name": "university library",
+  "description": "university library — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 A 2019 report from the National Center for Education Statistics (NCES) found that 88% of first-time, full-time freshmen at four-year institutions had participated in community service or volunteer work during high school. Yet nearly 12% of admitted students at top-tier universities report zero formal extracurriculars on their applications, according to a 2023 survey by the National Association for College Admission Counseling (NACAC). This means a strong portfolio is not defined by the number of clubs or sports you join, but by the depth and quality of the evidence you provide. Admissions officers at selective schools, including those ranked in the top 50 by U.S. News & World Report, prioritize academic rigor, intellectual curiosity, and personal initiative over a long list of activities. If you lack traditional extracurriculars, you can still build a compelling application by focusing on coursework, independent projects, work experience, and personal essays that demonstrate your unique strengths.
 
@@ -17,7 +43,7 @@ A 2019 report from the National Center for Education Statistics (NCES) found tha
 
 Take the most challenging course load available at your school. If your school offers AP, IB, or dual-enrollment classes, enroll in at least 4-5 core subjects (English, math, science, history, foreign language) by senior year. A 2022 study from the College Board showed that students who took 5+ AP courses had a 67% higher likelihood of admission to selective universities than those with fewer than 3, even when controlling for GPA. If your school lacks advanced options, enroll in online courses through platforms like Coursera or edX—these are free and can be listed on your application under "Academic Achievements."
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees for these programs. Focus on earning A's in every advanced course; a 3.8+ unweighted GPA with a rigorous schedule outweighs a 4.0 in standard classes.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/how-to-build-a-strong-college-application-portfolio-without-extracurricular-acti) to settle fees for these programs. Focus on earning A's in every advanced course; a 3.8+ unweighted GPA with a rigorous schedule outweighs a 4.0 in standard classes.
 
 ### Submit Strong Standardized Test Scores
 

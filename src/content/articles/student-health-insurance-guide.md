@@ -3,8 +3,34 @@ title: "Student Health Insurance · OSHC, NHS, and Other Health Cover"
 description: "A practical guide to student health insurance for international students — Australia's OSHC, UK's Immigration Health Surcharge, US campus health plans, and what they cover."
 category: "life"
 publishDate: "2026-05-15T08:00:00Z"
-
+ogImage: "https://img.ulec.com.cn/edu/expand-expand-澳洲本科转英国研究生转学指南gpa要求材料录取率-9c95af-og-2026-7919x5282.jpg"
 ---
+
+<!-- R2_IMAGE: expand-expand-澳洲本科转英国研究生转学指南gpa要求材料录取率-9c95af-og -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/expand-expand-澳洲本科转英国研究生转学指南gpa要求材料录取率-9c95af-og-2026-7919x5282.jpg"
+    alt=""
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/expand-expand-澳洲本科转英国研究生转学指南gpa要求材料录取率-9c95af-og-2026-7919x5282.jpg",
+  "name": "",
+  "description": " — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 International students must have health insurance in every major study destination. The systems vary significantly — this guide explains what you're paying for and what's covered.
 
 ## Australia: Overseas Student Health Cover (OSHC)

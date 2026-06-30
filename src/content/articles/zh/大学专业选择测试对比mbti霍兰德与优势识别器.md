@@ -6,8 +6,34 @@ pubDatetime: "2026-03-22T19:34:25Z"
 publishDate: '2026-03-22T19:34:25Z'
 readingTime: 3
 tags: ["featured"]
-
+ogImage: "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
 ---
+
+<!-- R2_IMAGE: test-backfill-uni -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
+    alt="university library"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg",
+  "name": "university library",
+  "description": "university library — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 Each year, approximately 1.9 million U.S. students enter their first year of college, and roughly 30% will change their major at least once within three years, according to the National Center for Education Statistics (NCES, 2023, *Digest of Education Statistics*). A mismatch between a student’s natural inclinations and their chosen field of study is a primary driver of this churn. Three career-assessment frameworks dominate the landscape for 16-to-24-year-olds: the Myers-Briggs Type Indicator (MBTI), the Holland Code (RIASEC), and the CliftonStrengths (formerly StrengthsFinder). Each tool approaches the question “What should I major in?” from a distinct angle — personality type, vocational interest, or innate talent. The MBTI classifies users into one of 16 personality types based on four dichotomies (e.g., Introversion vs. Extraversion) and is used by roughly 89% of Fortune 500 companies for team building (The Myers-Briggs Company, 2022, *MBTI Applications Report*). Holland’s hexagon sorts individuals into six interest categories — Realistic, Investigative, Artistic, Social, Enterprising, Conventional — and is embedded in the U.S. Department of Labor’s O*NET database. CliftonStrengths identifies a user’s top 5 signature themes from a list of 34 talent domains. This article compares the three assessments head-to-head on validity, cost, time commitment, and actionable output for choosing a college major.
 
@@ -66,7 +92,7 @@ Use the **Holland Code** if your primary goal is to find a major with a clear ca
 
 ### Combining Assessments
 
-Many university career centers recommend taking two of the three assessments. A common combination is the Holland Code for interest mapping followed by the CliftonStrengths for talent identification. For cross-border tuition payments to pay for these assessments or related career services, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees.
+Many university career centers recommend taking two of the three assessments. A common combination is the Holland Code for interest mapping followed by the CliftonStrengths for talent identification. For cross-border tuition payments to pay for these assessments or related career services, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/zh/%E5%A4%A7%E5%AD%A6%E4%B8%93%E4%B8%9A%E9%80%89%E6%8B%A9%E6%B5%8B%E8%AF%95%E5%AF%B9%E6%AF%94mbti%E9%9C%8D%E5%85%B0%E5%BE%B7%E4%B8%8E%E4%BC%98%E5%8A%BF%E8%AF%86%E5%88%AB%E5%99%A8) to settle fees.
 
 ## FAQ
 

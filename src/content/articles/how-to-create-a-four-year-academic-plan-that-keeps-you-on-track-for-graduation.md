@@ -57,7 +57,7 @@ Capstone courses (senior seminars, design projects, research theses) often requi
 
 ### Build in Internship or Co-op Semesters
 
-Many majors (business, engineering, communications) require or strongly recommend an internship for graduation. A co-op program typically adds 1–2 semesters to your timeline. If you plan a co-op, adjust your four-year plan to include a "co-op semester" that does not count toward the 120-credit total. For cross-border tuition payments during a study abroad or co-op semester, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees.
+Many majors (business, engineering, communications) require or strongly recommend an internship for graduation. A co-op program typically adds 1–2 semesters to your timeline. If you plan a co-op, adjust your four-year plan to include a "co-op semester" that does not count toward the 120-credit total. For cross-border tuition payments during a study abroad or co-op semester, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/how-to-create-a-four-year-academic-plan-that-keeps-you-on-track-for-graduation) to settle fees.
 
 ## Use Your Academic Advisor as a Second Check
 

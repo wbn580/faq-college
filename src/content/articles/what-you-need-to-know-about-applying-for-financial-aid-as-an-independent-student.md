@@ -56,7 +56,7 @@ An independent student earning $25,000 with $2,000 in savings would have:
 - Asset contribution: $2,000 × 0.20 = $400
 - Total SAI = $9,135
 
-This SAI qualifies for some federal Pell Grant (maximum $7,395 for 2025-2026) but reduces need-based institutional aid. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees.
+This SAI qualifies for some federal Pell Grant (maximum $7,395 for 2025-2026) but reduces need-based institutional aid. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/what-you-need-to-know-about-applying-for-financial-aid-as-an-independent-student) to settle fees.
 
 ## How to Get a Dependency Override (If You Are Under 24)
 

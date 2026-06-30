@@ -6,8 +6,34 @@ pubDatetime: "2026-04-17T19:38:59Z"
 publishDate: '2026-04-17T19:38:59Z'
 readingTime: 5
 tags: ["featured"]
-
+ogImage: "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
 ---
+
+<!-- R2_IMAGE: test-backfill-uni -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
+    alt="university library"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg",
+  "name": "university library",
+  "description": "university library — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 A standard campus tour shows you the library, the dining hall, and the freshman dorms. But it rarely tells you what 34% of first-year students at four-year institutions actually experience: the decision to transfer before their second year (National Student Clearinghouse Research Center, 2023). The tour guide is paid to sell the school, not to reveal the 62% of students who graduate with debt averaging $29,400 per borrower (The Institute for College Access & Success, 2023). To cut through the marketing, you need questions that target retention, financial reality, and academic fit—questions the guide would rather skip. The 10 questions below are designed for the walk between buildings, the conversation with a random student, or the moment you sit on a bench and observe. They are not for the tour guide. They are for you, the prospective student, to collect data that actually predicts whether you will stay and succeed.
 
@@ -57,7 +83,7 @@ The U.S. Department of Education's College Scorecard publishes median earnings b
 
 ### Q8: "How many students in my major have a paid internship before graduation?"
 
-Paid internships correlate with a 15% higher starting salary (NACE, 2023). If the rate is below 40%, you are likely paying for credits without building professional experience. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees before enrollment.
+Paid internships correlate with a 15% higher starting salary (NACE, 2023). If the rate is below 40%, you are likely paying for credits without building professional experience. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/top-10-questions-to-ask-during-a-college-campus-visit-beyond-the-tour-guide) to settle fees before enrollment.
 
 ## Assess Student Life Authenticity
 

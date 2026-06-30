@@ -6,8 +6,34 @@ pubDatetime: "2026-04-13T19:38:21Z"
 publishDate: '2026-04-13T19:38:21Z'
 readingTime: 6
 tags: ["featured"]
-
+ogImage: "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
 ---
+
+<!-- R2_IMAGE: test-backfill-uni -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
+    alt="university library"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg",
+  "name": "university library",
+  "description": "university library — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 Starting college applications in sophomore year (grade 10) gives you 36 months to build a competitive profile, which is 18 months more than students who start in senior fall. According to the National Association for College Admission Counseling (NACAC) 2023 State of College Admission report, 74% of U.S. colleges rate "grades in college prep courses" as considerably important, and 61% rate "admission test scores" as moderately to considerably important. A sophomore start allows you to optimize both numbers without the panic of a compressed timeline. The U.S. Department of Education's National Center for Education Statistics (NCES) 2023 data shows that students who take at least 4 years of core academic subjects (English, math, science, social studies) have a 22% higher on-time graduation rate. This timeline is not about doing more work — it's about distributing work across 3 academic years so each semester has a clear, manageable goal. Below is a semester-by-semester plan built from NACAC benchmarks, Common App historical data, and FAFSA filing windows.
 
@@ -23,7 +49,7 @@ Start a **college research spreadsheet** with 15–20 schools, sorted by reach/t
 
 **Take a baseline PSAT/NMSQT or a free practice SAT/ACT** to identify weak areas. The College Board's 2023 PSAT data shows that students who take a diagnostic test in 10th grade improve their final SAT score by an average of 120–150 points compared to those who start in 11th grade. If your target school is test-optional (over 1,900 colleges were test-optional for fall 2024, per FairTest), still take a baseline — strong scores can still boost scholarship eligibility.
 
-Select **2–3 extracurriculars to deepen** rather than 8–10 to list. The Harvard Graduate School of Education's 2023 "Turning the Tide" report recommends "quality over quantity" — one sustained leadership role (e.g., club president, varsity team captain, research assistant) carries more weight than a dozen scattered memberships. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees without currency fluctuation risk.
+Select **2–3 extracurriculars to deepen** rather than 8–10 to list. The Harvard Graduate School of Education's 2023 "Turning the Tide" report recommends "quality over quantity" — one sustained leadership role (e.g., club president, varsity team captain, research assistant) carries more weight than a dozen scattered memberships. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/how-to-prepare-a-college-application-timeline-starting-from-your-sophomore-year) to settle fees without currency fluctuation risk.
 
 ## Junior Fall (Aug–Dec): Testing & College Visits
 

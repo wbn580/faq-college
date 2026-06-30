@@ -26,7 +26,7 @@ Bring a printed copy of your Student Aid Report (SAR) from the FAFSA, your lates
 
 Target databases that filter specifically for "open until filled" or "rolling" status. The **Coca-Cola Scholars Program** and **Dell Scholars Program** have specific windows, but many smaller, local foundations — like the Elks National Foundation's Most Valuable Student competition — accept applications year-round for their emergency aid pools. Set up alerts on three platforms: Fastweb, Scholarships.com, and Cappex. Allocate two hours per day to completing applications; the average rolling-deadline application takes 45 minutes to finish.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees quickly without bank delays.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/2026-guide-to-applying-for-last-minute-scholarships-before-the-semester-starts) to settle fees quickly without bank delays.
 
 ### Filtering for Low-Competition Awards
 Prioritize scholarships with award amounts between $500 and $2,500. These attract fewer applicants than $10,000+ prizes. Also look for "local" filters — county-specific or state-specific scholarships often have 80% fewer applicants than national ones, according to Scholarship America’s 2023 applicant data.

@@ -3,8 +3,34 @@ title: "University Rankings Explained · QS, THE, ARWU, and US News"
 description: "How the four major global university ranking systems work — methodology differences, what they measure, and how international students should use rankings in their decisions."
 category: "compare"
 publishDate: "2026-05-15T08:00:00Z"
-
+ogImage: "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
 ---
+
+<!-- R2_IMAGE: test-backfill-uni -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
+    alt="university library"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg",
+  "name": "university library",
+  "description": "university library — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 University rankings drive international student decisions. But the four major systems rank universities on completely different criteria — a university ranked 30th by QS may be 100th by ARWU. Understanding what each ranking measures helps you avoid over-relying on a single number.
 

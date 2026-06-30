@@ -6,8 +6,34 @@ pubDatetime: "2026-04-05T19:36:50Z"
 publishDate: '2026-04-05T19:36:50Z'
 readingTime: 3
 tags: ["featured"]
-
+ogImage: "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
 ---
+
+<!-- R2_IMAGE: test-backfill-uni -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
+    alt="university library"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg",
+  "name": "university library",
+  "description": "university library — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 Winning a university scholarship in Taiwan without a financial-need background is a documented reality. According to Taiwan’s Ministry of Education (MOE) 2023 statistics, over 40% of all scholarships awarded at public universities are **merit-based** rather than need-based, covering categories from academic excellence to leadership and community service. A 2022 survey by the National Taiwan University (NTU) Office of Student Affairs found that approximately 15% of scholarship recipients at NTU came from families with above-median household incomes, disproving the assumption that only low-income students qualify. For non-poor (非清寒) students, the key is targeting specific, competitive awards that reward achievements over financial circumstances. This guide breaks down actionable strategies from verified Dcard experiences, focusing on scholarship applications that do not require a low-income certificate. We will cover identifying the right scholarships, building a compelling application, and navigating the interview process — all without relying on financial hardship documentation.
 
@@ -56,7 +82,7 @@ Dcard is a goldmine for real-world scholarship application experiences, but you 
 Receiving a scholarship involves financial logistics, especially for international students or those studying abroad. Understanding **tax rules and payment methods** is crucial.
 
 - **Tax exemption limits:** In Taiwan, scholarships up to NT$200,000 per year are tax-free under the Income Tax Act (Article 4). Amounts above that may be subject to a 10% withholding tax if the recipient is a non-resident. For example, a NT$500,000 scholarship would incur tax on the excess NT$300,000.
-- **Payment methods:** Many scholarships are disbursed directly to the student’s bank account or through the university. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees efficiently, avoiding high bank transfer fees.
+- **Payment methods:** Many scholarships are disbursed directly to the student’s bank account or through the university. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/zh/%E5%A4%A7%E5%AD%A6%E5%A5%96%E5%AD%A6%E9%87%91%E7%94%B3%E8%AF%B7dcard%E7%BB%8F%E9%AA%8C%E9%9D%9E%E6%B8%85%E5%AF%92%E5%AD%A6%E7%94%9F%E6%88%90%E5%8A%9F%E6%A1%88%E4%BE%8B) to settle fees efficiently, avoiding high bank transfer fees.
 - **Reporting to financial aid:** If you receive multiple scholarships, ensure you do not exceed the maximum allowed by your university. For instance, NTU caps total external scholarships at NT$300,000 per academic year. Declare all awards to avoid conflicts.
 
 **Data point:** The MOE 2023 report indicated that 12% of scholarship recipients faced tax issues due to non-declaration, leading to penalties. Keep records of all awards.

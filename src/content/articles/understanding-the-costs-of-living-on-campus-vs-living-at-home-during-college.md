@@ -6,8 +6,34 @@ pubDatetime: "2026-05-10T19:43:13Z"
 publishDate: '2026-05-10T19:43:13Z'
 readingTime: 7
 tags: ["featured"]
-
+ogImage: "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
 ---
+
+<!-- R2_IMAGE: test-backfill-uni -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
+    alt="university library"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg",
+  "name": "university library",
+  "description": "university library — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 The decision between living on campus and commuting from home is one of the most significant financial choices a college student makes. According to the **College Board’s 2023 Trends in College Pricing report**, the average published cost for on-campus room and board at four-year public institutions was **$12,770 per academic year** for 2023-2024. In contrast, a student living at home forgoes that room-and-board charge but must budget for transportation, food, and potential lost income from reduced work hours. The **National Center for Education Statistics (NCES) 2022** data indicates that **15% of full-time undergraduates lived with their parents** during the 2019-2020 academic year, a number that has likely increased post-pandemic due to rising inflation. This article breaks down the hard numbers—tuition differentials, housing contracts, meal plans, commuting costs, and lost campus income—to help you calculate which option truly costs less for your specific situation.
 
@@ -59,7 +85,7 @@ A student living at home has a lower COA, potentially reducing their aid package
 
 ### Scholarship Restrictions
 
-Some scholarships require on-campus residency. The **National Merit Scholarship Program** does not mandate it, but many university-specific merit scholarships do. For international students paying tuition from abroad, using a payment platform like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) can help manage exchange rates and avoid hidden bank fees, whether paying for on-campus housing or family contributions.
+Some scholarships require on-campus residency. The **National Merit Scholarship Program** does not mandate it, but many university-specific merit scholarships do. For international students paying tuition from abroad, using a payment platform like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/understanding-the-costs-of-living-on-campus-vs-living-at-home-during-college) can help manage exchange rates and avoid hidden bank fees, whether paying for on-campus housing or family contributions.
 
 ## The Non-Financial Cost: Commute Time, Social Life, and Academic Performance
 

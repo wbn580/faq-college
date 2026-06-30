@@ -6,8 +6,34 @@ pubDatetime: "2026-05-17T19:44:38Z"
 publishDate: '2026-05-17T19:44:38Z'
 readingTime: 5
 tags: ["featured"]
-
+ogImage: "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
 ---
+
+<!-- R2_IMAGE: test-backfill-uni -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
+    alt="university library"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg",
+  "name": "university library",
+  "description": "university library — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 Nearly one in three U.S. college students who join a fraternity or sorority reports a GPA above 3.5, according to the North American Interfraternity Conference (NIC, 2023 Annual Report). Yet only 8.5% of undergraduate students nationwide are active in Greek life, per the U.S. Department of Education's 2022 National Postsecondary Student Aid Study. This wide gap between perception and participation fuels persistent myths—that Greek organizations are purely social clubs, that membership destroys academic performance, that hazing is universal, that the cost is prohibitive, and that joining guarantees a lifetime of exclusive networking. Each of these claims has been examined by institutional research bodies including the Association of Fraternity/Sorority Advisors (AFA) and the Journal of College Student Development. The data tells a different story: Greek life can be academically rigorous, financially manageable, and structurally diverse. This article breaks down the five most common misconceptions using peer-reviewed studies and official university statistics, so prospective students can make an informed decision without relying on second-hand anecdotes.
 
@@ -53,7 +79,7 @@ The **cost barrier** is real but often overstated. Average annual dues for an NI
 
 ### Payment Plans and Scholarships
 
-Nearly 70% of chapters offer payment plans, and 40% have chapter-specific scholarships. The University of Texas at Austin's Greek Life office reports that 15% of its active members receive some form of financial aid from their chapter or national headquarters. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees.
+Nearly 70% of chapters offer payment plans, and 40% have chapter-specific scholarships. The University of Texas at Austin's Greek Life office reports that 15% of its active members receive some form of financial aid from their chapter or national headquarters. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/top-5-myths-about-college-greek-life-that-could-mislead-prospective-students) to settle fees.
 
 ### Hidden Costs Are Manageable
 

@@ -45,7 +45,7 @@ Common data requests include: full name, date of birth, SSN, driver's license nu
 
 ### The "Tax or Fee" Before Release
 
-A classic scam pattern: you are told you won a $5,000 scholarship, but you must pay $250 in "taxes" or "international transfer fees" first. The IRS never requires scholarship recipients to pay taxes before receiving funds—scholarships used for tuition and fees are tax-free under IRS Publication 970. Any demand for prepayment of taxes is 100% fraudulent. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees securely, but no legitimate scholarship will ask you to use a specific payment service to "release" funds.
+A classic scam pattern: you are told you won a $5,000 scholarship, but you must pay $250 in "taxes" or "international transfer fees" first. The IRS never requires scholarship recipients to pay taxes before receiving funds—scholarships used for tuition and fees are tax-free under IRS Publication 970. Any demand for prepayment of taxes is 100% fraudulent. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/how-to-identify-fake-scholarships-that-scam-students-out-of-their-personal-infor) to settle fees securely, but no legitimate scholarship will ask you to use a specific payment service to "release" funds.
 
 ## Vague or Unverifiable Organization Credentials
 

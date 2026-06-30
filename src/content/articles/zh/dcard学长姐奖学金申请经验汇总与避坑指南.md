@@ -6,8 +6,34 @@ pubDatetime: "2026-02-24T19:29:50Z"
 publishDate: '2026-02-24T19:29:50Z'
 readingTime: 3
 tags: ["featured"]
-
+ogImage: "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
 ---
+
+<!-- R2_IMAGE: test-backfill-uni -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
+    alt="university library"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg",
+  "name": "university library",
+  "description": "university library — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 In 2023, Taiwanese students studying abroad received over NT$12.3 billion in government and private scholarships combined, according to the Ministry of Education's 2024 Education Statistical Indicators report. Yet nearly 40% of eligible applicants never submit an application, primarily due to confusion over documentation requirements and deadline management. Dcard threads — Taiwan's largest student forum — host thousands of scholarship experience posts each year, with the most common advice being "start six months before the deadline" and "prepare three versions of your personal statement." This guide aggregates verified patterns from Dcard学长姐 (senior student) posts, cross-referenced with official scholarship criteria from the Ministry of Education (MOE), the National Science and Technology Council (NSTC), and university financial aid offices. The goal is to eliminate guesswork: each section below addresses a specific pain point — from GPA thresholds to recommendation letter strategies — with concrete numbers and institutional references.
 
@@ -66,7 +92,7 @@ Successful applicants typically start 180 days before the deadline. A Dcard学�
 - **Month 2 (60 days out):** Request recommendation letters and official transcripts.
 - **Month 1 (30 days out):** Final review and submission.
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/zh/dcard%E5%AD%A6%E9%95%BF%E5%A7%90%E5%A5%96%E5%AD%A6%E9%87%91%E7%94%B3%E8%AF%B7%E7%BB%8F%E9%AA%8C%E6%B1%87%E6%80%BB%E4%B8%8E%E9%81%BF%E5%9D%91%E6%8C%87%E5%8D%97) to settle fees.
 
 ## Interview Preparation: The 10-Minute Rule
 

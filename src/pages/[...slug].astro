@@ -12,6 +12,32 @@ export async function getStaticPaths() {
 
 const { article } = Astro.props;
 const { Content } = await render(article);
+
+const _faqItems = (() => {
+  try {
+    const body = String((article as any).body || "");
+    const lines = body.split("\n");
+    let start = -1;
+    for (let i = 0; i < lines.length; i++) { if (/^#{1,4}\s*(常见问题|常見問題|FAQ|Frequently|问答|Q&A|常见疑问)/i.test(lines[i])) { start = i + 1; break; } }
+    if (start === -1) return [] as {q:string;a:string}[];
+    const clean = (s: string) => s.replace(/\*\*/g, "").replace(/\[([^\]]+)\]\([^)]*\)/g, "$1").replace(/^[#>\s\-*]+/, "").replace(/^[QA]\d*[:：.\)\s]+/i, "").trim();
+    const items: {q:string;a:string}[] = [];
+    let curQ = ""; let curA: string[] = [];
+    const push = () => { const q = clean(curQ); const a = clean(curA.join(" ")); if (q && a && q.length <= 200) items.push({ q, a }); };
+    for (let j = start; j < lines.length; j++) {
+      const ln = lines[j];
+      if (/^##\s/.test(ln) && !/常见问题|常見問題|FAQ|问答|Q&A/i.test(ln)) break;
+      const mh = ln.match(/^#{3,4}\s+(.*\S)/);
+      const mb = ln.match(/^\*\*\s*(Q\d*[:：][^*]+|[^*]+[?？])\s*\*\*\s*$/);
+      if (mh) { if (curQ) push(); curQ = mh[1]; curA = []; }
+      else if (mb) { if (curQ) push(); curQ = mb[1]; curA = []; }
+      else if (curQ) { curA.push(ln); }
+    }
+    if (curQ) push();
+    return items.slice(0, 12);
+  } catch { return [] as {q:string;a:string}[]; }
+})();
+const _faqSchema = _faqItems.length ? { "@context": "https://schema.org", "@type": "FAQPage", mainEntity: _faqItems.map(it => ({ "@type": "Question", name: it.q, acceptedAnswer: { "@type": "Answer", text: it.a } })) } : null;
 ---
 
 <ArticleLayout
@@ -23,5 +49,6 @@ const { Content } = await render(article);
   ogImage={article.data.ogImage}
   sources={article.data.sources}
 >
+  {_faqSchema && <script type="application/ld+json" set:html={JSON.stringify(_faqSchema)} />}
   <Content />
 </ArticleLayout>

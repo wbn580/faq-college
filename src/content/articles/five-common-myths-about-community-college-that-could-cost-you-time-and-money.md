@@ -6,8 +6,34 @@ pubDatetime: "2026-04-09T19:37:36Z"
 publishDate: '2026-04-09T19:37:36Z'
 readingTime: 6
 tags: ["featured"]
-
+ogImage: "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
 ---
+
+<!-- R2_IMAGE: test-backfill-uni -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
+    alt="university library"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg",
+  "name": "university library",
+  "description": "university library — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 Nearly one in three U.S. undergraduates — **29.4%**, or about 5.4 million students — were enrolled in a community college in fall 2022, according to the National Student Clearinghouse Research Center. Yet despite that scale, a persistent set of myths steers many students and families away from a path that could save them tens of thousands of dollars. The College Board reports that the average annual tuition and fees at a public two-year institution for the 2023–2024 academic year was **$3,990**, compared to **$11,260** at a public four-year in-state university — a difference of over **$7,000 per year**. Over two years, that gap widens to more than $14,000, not counting room and board. The real cost of believing these myths isn't just a higher tuition bill; it's wasted time, unnecessary debt, and missed transfer opportunities. Below are the five most damaging misconceptions about community college, backed by data from the U.S. Department of Education, the National Center for Education Statistics (NCES), and institutional transfer studies.
 

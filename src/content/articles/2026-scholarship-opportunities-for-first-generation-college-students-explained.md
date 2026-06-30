@@ -6,8 +6,34 @@ pubDatetime: "2026-04-11T19:37:59Z"
 publishDate: '2026-04-11T19:37:59Z'
 readingTime: 6
 tags: ["featured"]
-
+ogImage: "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
 ---
+
+<!-- R2_IMAGE: test-backfill-uni -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
+    alt="university library"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg",
+  "name": "university library",
+  "description": "university library — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 First-generation college students—those whose parents did not complete a four-year degree—represent roughly one-third of all U.S. undergraduates, yet they receive a disproportionately small share of institutional aid. According to the National Center for Education Statistics (NCES 2023, *First-Generation Students*), 34% of entering freshmen in 2019–20 were first-generation, but their median family income was $41,000—less than half the $81,000 median for continuing-generation peers. This financial gap makes targeted scholarship funding critical. For the 2026–27 academic year, over $1.2 billion in dedicated first-generation scholarships are available through federal, state, and private sources, with award sizes ranging from $500 to full tuition. Programs like the Federal Pell Grant (maximum $7,395 in 2025–26) and the **QuestBridge National College Match** (full four-year scholarships for low-income first-gen students) are the most prominent. However, many smaller, application-specific awards go unclaimed each year. This guide breaks down the 2026 scholarship landscape—who qualifies, where to apply, and how to maximize your chances—using verified data from the Department of Education, College Board, and institutional financial aid offices.
 
@@ -32,7 +58,7 @@ Smaller, less competitive awards include:
 - **Horatio Alger National Scholarship** ($25,000 for first-gen students who have overcome adversity)
 - **Coca-Cola First Generation Scholarship** ($20,000 over four years)
 
-For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees.
+For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/2026-scholarship-opportunities-for-first-generation-college-students-explained) to settle fees.
 
 ## State-Specific Programs: Where to Find $10,000+ Awards
 

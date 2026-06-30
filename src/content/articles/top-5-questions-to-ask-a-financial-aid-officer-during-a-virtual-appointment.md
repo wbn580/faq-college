@@ -6,8 +6,34 @@ pubDatetime: "2026-04-28T19:40:57Z"
 publishDate: '2026-04-28T19:40:57Z'
 readingTime: 7
 tags: ["featured"]
-
+ogImage: "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
 ---
+
+<!-- R2_IMAGE: test-backfill-uni -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
+    alt="university library"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg",
+  "name": "university library",
+  "description": "university library — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 A 20-minute virtual appointment with a financial aid officer is your single best opportunity to clarify exactly how much college will cost and what you can do to lower it. According to the National Association of Student Financial Aid Administrators (NASFAA) 2023 survey, 72% of families who prepared a list of specific questions before a financial aid meeting reported receiving additional scholarship or grant offers within the same academic year. Yet the same survey found that only 34% of students asked about the **net price** — the actual cost after grants and scholarships, not the sticker price — during their appointment. The U.S. Department of Education's College Scorecard database shows the average net price at a four-year private university was $28,240 in 2022-2023, while the sticker price averaged $55,800. That $27,560 gap is money you leave on the table if you don't ask the right questions. This guide covers the five highest-impact questions that yield concrete numbers, policy clarifications, and actionable next steps — not vague reassurance.
 

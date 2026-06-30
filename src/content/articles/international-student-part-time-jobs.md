@@ -3,8 +3,34 @@ title: "Part-Time Jobs for International Students · Rights, Limits, and Tips"
 description: "How international students can work while studying — legal work limits by country, types of jobs available, tax obligations, and strategies for finding student-friendly employment."
 category: "life"
 publishDate: "2026-05-15T08:00:00Z"
-
+ogImage: "https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg"
 ---
+
+<!-- R2_IMAGE: 二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641 -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg"
+    alt="二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg",
+  "name": "二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641",
+  "description": "二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 Working part-time is the primary way international students offset living costs. Work rights vary by country, and exceeding the legal work limit can result in visa cancellation.
 

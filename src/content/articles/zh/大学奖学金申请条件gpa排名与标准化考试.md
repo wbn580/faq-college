@@ -6,8 +6,34 @@ pubDatetime: "2026-03-31T19:36:01Z"
 publishDate: '2026-03-31T19:36:01Z'
 readingTime: 3
 tags: ["featured"]
-
+ogImage: "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
 ---
+
+<!-- R2_IMAGE: test-backfill-uni -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
+    alt="university library"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg",
+  "name": "university library",
+  "description": "university library — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 In the 2023-2024 academic year, U.S. colleges distributed over $19.6 billion in institutional grant aid to undergraduate students, according to the College Board's Trends in College Pricing and Student Aid 2024 report. Of that total, roughly $7.4 billion was awarded on a non-need basis—meaning it was tied directly to academic merit, test scores, or other performance criteria rather than financial circumstances. For international students, the picture is even more selective: a 2023 survey by the Institute of International Education (IIE) found that only 12% of U.S. universities offer full-tuition merit scholarships to non-resident applicants. The three metrics that dominate almost every merit-based scholarship rubric are **GPA**, **class rank**, and **standardized test scores** (SAT/ACT). Understanding the specific thresholds and how these factors interact is the single most effective way to target awards that match your profile.
 
@@ -59,7 +85,7 @@ Some schools explicitly publish a **GPA/test score grid** for scholarship eligib
 
 International applicants face additional hurdles because many merit scholarships are restricted to U.S. citizens or permanent residents. The **International Student Scholarship** at the **University of Oregon** provides $10,000–$30,000 per year to international students with a 3.5+ GPA and a 1300+ SAT or 28+ ACT. The **Boston University Trustee Scholarship** for international students requires a 4.0 GPA and a 1500+ SAT, but only 20 are awarded each year out of approximately 8,000 international applicants.
 
-**English proficiency tests** (TOEFL/IELTS) are often a separate requirement. The **TOEFL iBT** minimum for most merit scholarships is 90–100, with the University of Michigan's **International Merit Scholarship** requiring a 100+ TOEFL or 7.0+ IELTS. Some schools, like the **University of Illinois Urbana-Champaign**, automatically consider international applicants for merit aid based on their admission application, with no separate scholarship application. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees.
+**English proficiency tests** (TOEFL/IELTS) are often a separate requirement. The **TOEFL iBT** minimum for most merit scholarships is 90–100, with the University of Michigan's **International Merit Scholarship** requiring a 100+ TOEFL or 7.0+ IELTS. Some schools, like the **University of Illinois Urbana-Champaign**, automatically consider international applicants for merit aid based on their admission application, with no separate scholarship application. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/zh/%E5%A4%A7%E5%AD%A6%E5%A5%96%E5%AD%A6%E9%87%91%E7%94%B3%E8%AF%B7%E6%9D%A1%E4%BB%B6gpa%E6%8E%92%E5%90%8D%E4%B8%8E%E6%A0%87%E5%87%86%E5%8C%96%E8%80%83%E8%AF%95) to settle fees.
 
 ## Application Timing and Strategy
 

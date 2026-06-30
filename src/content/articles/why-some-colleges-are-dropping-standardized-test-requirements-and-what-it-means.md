@@ -69,7 +69,7 @@ Georgetown has required SAT/ACT since 2021, citing “the value of standardized 
 
 ### Grade Translation Challenges
 
-**International transcripts often lack context for U.S. admissions officers**. A 2023 survey by the Association of International Educators found that 40% of U.S. colleges reported difficulty evaluating non-U.S. high school transcripts. For international applicants, submitting a strong SAT/ACT score (1400+ SAT or 31+ ACT) can help overcome this ambiguity. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to settle fees.
+**International transcripts often lack context for U.S. admissions officers**. A 2023 survey by the Association of International Educators found that 40% of U.S. colleges reported difficulty evaluating non-U.S. high school transcripts. For international applicants, submitting a strong SAT/ACT score (1400+ SAT or 31+ ACT) can help overcome this ambiguity. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/why-some-colleges-are-dropping-standardized-test-requirements-and-what-it-means) to settle fees.
 
 ## How to Decide Whether to Submit a Test Score
 

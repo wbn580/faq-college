@@ -1,6 +1,4 @@
 ---
-import Header from '../components/Header.astro';
-import Footer from '../components/Footer.astro';
 import BaseHead from '../components/BaseHead.astro';
 
 interface Props {
@@ -35,10 +33,51 @@ const {
     </style>
   </head>
   <body>
-    <Header />
-    <main>{Astro.slot}</main>
-    <Footer />
-    <!-- Per-site widget -->
-    <script src="https://chat.faq.college/assistant.js" defer></script>
-  </body>
+    <!-- Nav: centered-overlay (logo center, links flanking) -->
+    <nav class="nav" id="nav">
+      <div class="row left"><a href="#dim">Topics</a><a href="#articles">Latest</a></div>
+      <a href="/" class="brand">College FAQ Desk<small>Straight Answers</small></a>
+      <div class="row right"><a href="/about/">About</a><a href="/about/">Ask</a></div>
+      <div class="hamb"><span></span><span></span><span></span></div>
+    </nav>
+
+    <main>
+      <slot />
+    </main>
+
+    <!-- Footer -->
+    <footer>
+      <div class="foot-grid">
+        <div class="foot-brand">
+          <b>College FAQ Desk</b>
+          <p>Straight answers to your college questions — no marketing fluff, just well-researched facts about applications, financial aid, scholarships, and campus life.</p>
+        </div>
+        <div>
+          <h4>Topics</h4>
+          <a href="/category/applications/">Applications</a>
+          <a href="/category/financial-aid/">Financial Aid</a>
+          <a href="/category/scholarships/">Scholarships</a>
+          <a href="/category/standardized-tests/">Tests &amp; Scores</a>
+          <a href="/category/campus-life/">Campus Life</a>
+        </div>
+        <div>
+          <h4>Resources</h4>
+          <a href="/about/">About</a>
+          <a href="#dim">Categories</a>
+          <a href="#articles">Latest Articles</a>
+        </div>
+        <div>
+          <h4>Info</h4>
+          <a href="/about/">About Us</a>
+          <a href="/about/">Contact</a>
+        </div>
+      </div>
+      <div class="foot-bottom">
+        <span>&copy; 2026 College FAQ Desk. Independent educational resource.</span>
+        <span>Not affiliated with any university.</span>
+      </div>
+    </footer>
+<!-- Chat widget -->
+        <!-- 留资入口中心化组件（吸底两按钮 + 桌面药丸 + 文中图片卡） -->
+</body>
 </html>
