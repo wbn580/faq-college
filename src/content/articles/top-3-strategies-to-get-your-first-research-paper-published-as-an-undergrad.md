@@ -7,6 +7,8 @@ publishDate: '2026-04-20T19:39:38Z'
 readingTime: 6
 tags: ["featured"]
 ogImage: "https://img.ulec.com.cn/edu/expand-expand-美国本科申请时间线什么时间做什么事含checklist-fbf9b8-og-2026-7919x5282.jpg"
+hideFromHome: true
+
 ---
 
 <!-- R2_IMAGE: expand-expand-美国本科申请时间线什么时间做什么事含checklist-fbf9b8-og -->

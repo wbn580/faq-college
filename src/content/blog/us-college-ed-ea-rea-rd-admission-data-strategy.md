@@ -13,6 +13,8 @@ tags:
   - '录取率分析'
   - '留学选校建议'
   - '申请轮次复盘'
+hideFromHome: true
+
 ---
 
 <!-- R2_IMAGE: backfill-cómo-solicitar-la-visa-de-estudiante-par -->

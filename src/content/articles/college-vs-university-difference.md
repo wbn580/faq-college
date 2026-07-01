@@ -6,6 +6,8 @@ publishDate: "2026-05-15T04:40:00Z"
 readingTime: 8
 tags: ["college", "university", "comparison", "international-education"]
 ogImage: "https://img.ulec.com.cn/edu/backfill-australia-vs-uk-vs-canada-2026-which-cou-2026-1880x1253.jpg"
+hideFromHome: true
+
 ---
 
 <!-- R2_IMAGE: backfill-australia-vs-uk-vs-canada-2026-which-cou -->

@@ -4,6 +4,8 @@ description: "Which English proficiency test should international students take?
 category: "apply"
 publishDate: "2026-05-15T08:00:00Z"
 ogImage: "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
+hideFromHome: true
+
 ---
 
 <!-- R2_IMAGE: test-backfill-uni -->

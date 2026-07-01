@@ -9,6 +9,8 @@ featured: false
 schema:
   faq: true
 ogImage: "https://img.ulec.com.cn/seo/e073aee5-9.jpg"
+hideFromHome: true
+
 ---
 
 ## 直接答案

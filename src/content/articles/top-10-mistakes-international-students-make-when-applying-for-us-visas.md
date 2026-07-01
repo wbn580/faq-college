@@ -7,6 +7,8 @@ publishDate: '2026-04-25T19:40:23Z'
 readingTime: 7
 tags: ["featured"]
 ogImage: "https://img.ulec.com.cn/edu/backfill-2026-年澳洲雇主担保移民-186-签证要求-2026-1880x1253.jpg"
+hideFromHome: true
+
 ---
 
 <!-- R2_IMAGE: backfill-2026-年澳洲雇主担保移民-186-签证要求 -->
