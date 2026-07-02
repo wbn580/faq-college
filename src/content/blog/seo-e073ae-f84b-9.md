@@ -10,9 +10,7 @@ schema:
   faq: true
 ogImage: "https://img.ulec.com.cn/seo/e073aee5-9.jpg"
 hideFromHome: true
-
 ---
-
 ## 直接答案
 如果你正在纠结“2026年出国留学到底去哪个国家”，可以先看这张速览卡片：  
 - **追求名校光环与高薪回报**，首选美国；  

@@ -15,9 +15,7 @@ tags:
   - '留学文书'
   - '申请时间线'
   - '常见误区'
-
 ---
-
 <!-- R2_IMAGE: backfill-cómo-solicitar-la-visa-de-estudiante-par -->
 <figure class="article-image">
   <img
