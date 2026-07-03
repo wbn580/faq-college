@@ -14,6 +14,12 @@
     "publishDate": {
       "type": "string"
     },
+    "pubDatetime": {
+      "type": "string"
+    },
+    "modDatetime": {
+      "type": "string"
+    },
     "readingTime": {
       "type": "number"
     },
@@ -25,6 +31,18 @@
       }
     },
     "ogImage": {
+      "type": "string"
+    },
+    "hideFromHome": {
+      "type": "boolean"
+    },
+    "draft": {
+      "type": "boolean"
+    },
+    "featured": {
+      "type": "boolean"
+    },
+    "author": {
       "type": "string"
     },
     "chapter": {

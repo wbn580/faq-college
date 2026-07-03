@@ -13,7 +13,10 @@ const articles = defineCollection({
     title: z.string(),
     publishDate: z.string(),
     modDatetime: z.string(),
-
+    hideFromHome: z.boolean().optional(),
+    draft: z.boolean().optional(),
+    featured: z.boolean().optional(),
+    author: z.string().optional(),
   },
 });
 

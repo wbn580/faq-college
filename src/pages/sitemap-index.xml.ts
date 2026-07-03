@@ -1,8 +1,9 @@
 import type { APIRoute } from "astro";
 import { getCollection } from "astro:content";
+import { isPublicArticle } from "../utils/publicArticles";
 export const GET: APIRoute = async ({ site }) => {
   const base = (site ? site.toString() : "").replace(/\/$/, "");
-  const entries = await getCollection('articles');
+  const entries = (await getCollection('articles')).filter(isPublicArticle);
   const get = (e: any) => (e.data || {}) as Record<string, any>;
   const items = entries.map((e: any) => {
     const u = encodeURI(`${base}/${(e as any).id}/`);

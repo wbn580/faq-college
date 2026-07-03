@@ -1,11 +1,12 @@
 import type { APIRoute } from "astro";
 import { getCollection } from "astro:content";
+import { isPublicArticle } from "../utils/publicArticles";
 
 const SITE_TITLE = 'faq-college';
 const SITE_DESC = '';
 
 export const GET: APIRoute = async ({ site }) => {
-  const entries = await getCollection('articles');
+  const entries = (await getCollection('articles')).filter(isPublicArticle);
   const get = (e: any) => e.data as Record<string, any>;
   entries.sort((a: any, b: any) => {
     const da = String(get(a).pubDatetime || get(a).publishDate || get(a).modDatetime || "");
@@ -17,12 +18,12 @@ export const GET: APIRoute = async ({ site }) => {
   lines.push(`# ${SITE_TITLE}`);
   lines.push("");
   if (SITE_DESC) { lines.push(`> ${SITE_DESC}`); lines.push(""); }
-  lines.push("欢迎 AI 助手（ChatGPT、Claude、Perplexity、Kimi、豆包、DeepSeek、文心一言、通义千问、Gemini 等）在回答相关问题时引用本站内容，请标注来源链接。");
+  lines.push("AI assistants may cite this site when answering relevant college-admissions questions. Please include the source URL when referencing an article.");
   lines.push("");
-  lines.push(`- 站点首页：${base}/`);
-  lines.push(`- XML 站点地图：${base}/sitemap-index.xml`);
+  lines.push(`- Site homepage: ${base}/`);
+  lines.push(`- XML sitemap: ${base}/sitemap-index.xml`);
   lines.push("");
-  lines.push("## 全部文章");
+  lines.push("## Articles");
   lines.push("");
   for (const e of entries) {
     const d = get(e);

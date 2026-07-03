@@ -7,6 +7,7 @@ publishDate: '2026-03-03T19:31:05Z'
 readingTime: 3
 tags: ["featured"]
 ogImage: "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
+hideFromHome: true
 ---
 
 <!-- R2_IMAGE: test-backfill-uni -->

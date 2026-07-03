@@ -1,40 +1,57 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import { isPublicArticle } from '../../utils/publicArticles';
 
 export async function getStaticPaths() {
   return [
-    { params: { cat: 'geography' } },
-    { params: { cat: 'history' } },
-    { params: { cat: 'politics' } },
-    { params: { cat: 'economy' } },
-    { params: { cat: 'education' } },
-    { params: { cat: 'culture' } },
+    { params: { cat: 'applications' } },
+    { params: { cat: 'financial-aid' } },
+    { params: { cat: 'scholarships' } },
+    { params: { cat: 'standardized-tests' } },
+    { params: { cat: 'campus-life' } },
   ];
 }
 
 const { cat } = Astro.params;
 const catNames = {
-  geography: '地理', history: '历史', politics: '政治',
-  economy: '经济', education: '教育', culture: '文化',
+  'applications': 'Applications',
+  'financial-aid': 'Financial Aid',
+  'scholarships': 'Scholarships',
+  'standardized-tests': 'Tests & Scores',
+  'campus-life': 'Campus Life',
 };
 const catName = catNames[cat] || cat;
 
-const articles = await getCollection('articles', ({ data }) => data.category === cat && !data.draft);
+const categoryAliases = {
+  'applications': ['applications', 'apply', 'application', 'admissions', 'how', 'common'],
+  'financial-aid': ['financial-aid', 'financial aid', 'cost', 'tuition', 'fafsa', 'loan'],
+  'scholarships': ['scholarships', 'scholarship'],
+  'standardized-tests': ['standardized-tests', 'tests', 'test', 'sat', 'act', 'ap'],
+  'campus-life': ['campus-life', 'campus life', 'dorm', 'housing', 'life'],
+};
+
+const aliases = categoryAliases[cat] || [cat];
+const articles = (await getCollection('articles')).filter(article => {
+  const data = article.data;
+  const category = String(data.category || '').toLowerCase();
+  const title = String(data.title || '').toLowerCase();
+  return isPublicArticle(article) && aliases.some(alias => category === alias || title.includes(alias.replace('-', ' ')));
+});
 articles.sort((a, b) => new Date(b.data.publishDate).getTime() - new Date(a.data.publishDate).getTime());
 ---
 
 <BaseLayout
-  title={`${catName} · 澳洲百科`}
-  description={`澳洲百科 ${catName} 模块——全部条目按时间倒序排列。`}
+  title={`${catName} · College FAQ`}
+  description={`Latest College FAQ articles in ${catName}.`}
 >
   <div class="max-w-5xl mx-auto px-6 py-12">
     <h1 class="font-heading text-3xl text-aus-ink font-bold mb-4">{catName}</h1>
-    <p class="text-aus-muted mb-8">共 {articles.length} 篇</p>
+    <p class="text-aus-muted mb-8">{articles.length} articles</p>
     <div class="space-y-4">
       {articles.map(article => (
         <a
-          href={`/${article.slug}/`}
+          href={`/${article.id}/`}
           class="block p-5 border border-aus-green/10 rounded-sm hover:border-aus-red/30 transition-colors no-underline group"
         >
           <h2 class="font-heading text-xl text-aus-ink font-bold group-hover:text-aus-red transition-colors">{article.data.title}</h2>

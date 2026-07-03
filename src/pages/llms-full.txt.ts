@@ -1,10 +1,11 @@
 import type { APIRoute } from "astro";
 import { getCollection } from "astro:content";
+import { isPublicArticle } from "../utils/publicArticles";
 
 const SITE_TITLE = 'faq-college';
 
 export const GET: APIRoute = async ({ site }) => {
-  const entries = await getCollection('articles');
+  const entries = (await getCollection('articles')).filter(isPublicArticle);
   const get = (e: any) => e.data as Record<string, any>;
   entries.sort((a: any, b: any) => {
     const da = String(get(a).pubDatetime || get(a).publishDate || "");
@@ -12,7 +13,7 @@ export const GET: APIRoute = async ({ site }) => {
     return db.localeCompare(da);
   });
   const base = (site ? site.toString() : "").replace(/\/$/, "");
-  const out: string[] = [`# ${SITE_TITLE} — 全文`, ""];
+  const out: string[] = [`# ${SITE_TITLE} - Full Text`, ""];
   for (const e of entries) {
     const d = get(e);
     const url = `${base}/${(e as any).id}/`;
