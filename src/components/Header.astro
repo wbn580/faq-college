@@ -23,3 +23,48 @@ const categories = [
   window.addEventListener('scroll', onScroll, {passive: true});
   onScroll();
 </script>
+
+<style>
+
+
+  /* MENU-CROWD-FIX-20260708: keep dense desktop menus from wrapping or crushing CTA buttons. */
+  header nav a,
+  .nav-links a,
+  .nav-link,
+  .nav-cta,
+  .site-nav a {
+    white-space: nowrap;
+  }
+  .nav-links,
+  .site-nav {
+    min-width: 0;
+  }
+  .site-nav.flex-wrap,
+  nav.site-nav.flex-wrap {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+  }
+  .site-nav.flex-wrap::-webkit-scrollbar,
+  nav.site-nav.flex-wrap::-webkit-scrollbar {
+    display: none;
+  }
+
+
+  /* MENU-CROWD-FIX-20260708-OVERFLOW: fallback for nav bars without a hamburger variant. */
+  @media (max-width: 1120px) {
+    header nav,
+    .nav-links {
+      flex-wrap: nowrap;
+      overflow-x: auto;
+      overflow-y: visible;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: none;
+    }
+    header nav::-webkit-scrollbar,
+    .nav-links::-webkit-scrollbar {
+      display: none;
+    }
+  }
+</style>
