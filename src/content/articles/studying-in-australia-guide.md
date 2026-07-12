@@ -49,7 +49,7 @@ No centralised system for international students. Apply directly to each univers
 
 ## Student Visa (Subclass 500)
 
-Requirements: Confirmation of Enrolment (CoE), OSHC, Genuine Temporary Entrant (GTE) statement, English proficiency, financial capacity. Processing: 4–8 weeks.
+Requirements: Confirmation of Enrolment (CoE), OSHC, Genuine Student (GS) statement, English proficiency, financial capacity. Processing: 4–8 weeks.
 
 ## Costs (Annual, AUD)
 

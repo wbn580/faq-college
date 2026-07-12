@@ -67,7 +67,7 @@ Once you have used a trustworthy Australia education agent ranking—or your own
 
 
 1. **Verify your CoE and check CRICOS codes.** Every Australian course for international students has a CRICOS code. Cross-check this code on the CRICOS register to ensure the course is active and your agent hasn’t placed you in an unregistered pathway.
-2. **Organize your Genuine Student documents early.** With the new Genuine Student (GS) requirement replacing the old GTE, you need a personal statement that addresses academic history, future career plans, and economic circumstances. A good agent will review your draft but won’t write it entirely for you.
+2. **Organize your Genuine Student documents early.** With the new Genuine Student (GS) requirement replacing the old GS, you need a personal statement that addresses academic history, future career plans, and economic circumstances. A good agent will review your draft but won’t write it entirely for you.
 3. **Secure your OSHC and set a budget for living costs.** Melbourne and Sydney can exceed AUD 25,000 per year in living expenses. Your agent should give you up-to-date figures based on the Department of Home Affairs financial capacity requirements.
 4. **Plan your timeline to the 2026 intakes.** Most universities have Semester 1 (February/March) and Semester 2 (July) intakes. Application deadlines often fall 2-4 months before the course start, and student visa processing can take 4-12 weeks. Work backwards from your desired arrival date.
 
