@@ -21,7 +21,7 @@ const BASE_URL = 'https://faq.college';
 
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>{title} — {SITE_NAME}</title>
+<title>{(title.includes(SITE_NAME) || title === SITE_NAME) ? title : title + " — " + SITE_NAME}</title>
 <meta name="description" content={description} />
 <link rel="canonical" href={canonicalURL || BASE_URL} />
 <link rel="icon" type="image/svg+xml" href="/favicon.svg" />

@@ -1,3 +1,5 @@
+Sitemap: https://faq.college/sitemap-index.xml
+
 User-agent: *
 Allow: /
 
