@@ -63,12 +63,11 @@ Most scholarship money is university-administered, not from external foundations
 
 ## Working While Studying
 
-| Country | Hours During Term | Hours During Holidays |
-|---|---|---|
-| Australia | 48 per fortnight | Unlimited |
-| UK | 20 per week (degree level) | Full-time permitted |
-| US | 20 per week (on-campus) | Full-time permitted |
-| Canada | 20 per week (off-campus) | Full-time permitted |
-| Germany | 120 full days or 240 half days/year | — |
+- **Australia**: 48 per fortnight · Unlimited
+- **UK**: 20 per week (degree level) · Full-time permitted
+- **US**: 20 per week (on-campus) · Full-time permitted
+- **Canada**: 20 per week (off-campus) · Full-time permitted
+- **Germany**: 120 full days or 240 half days/year · —
+
 
 Working can offset 30–60% of living costs in most destinations but will not cover tuition. It should be supplementary, not primary funding.

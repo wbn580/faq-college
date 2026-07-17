@@ -66,12 +66,11 @@ The actual per-book net cost difference is only $14-$20, not the $56 gap suggest
 
 **The total cost of textbooks over a four-year degree is $1,960-$2,520 for digital versus $2,520-$4,160 for new print books**, depending on resale recovery. This calculation assumes 40 textbooks (10 per year) at the average prices above.
 
-| Format | Upfront cost (40 books) | Resale recovery | Net 4-year cost |
-|---|---|---|---|
-| New print | $4,200 | -$1,680 (40%) | $2,520 |
-| Used print | $2,680 | -$1,072 (40%) | $1,608 |
-| Digital rental | $1,960 | $0 | $1,960 |
-| Digital purchase | $1,960 | $0 | $1,960 |
+- **New print**: $4,200 · -$1,680 (40%) · $2,520
+- **Used print**: $2,680 · -$1,072 (40%) · $1,608
+- **Digital rental**: $1,960 · $0 · $1,960
+- **Digital purchase**: $1,960 · $0 · $1,960
+
 
 - **Digital saves $560 over new print** over four years.
 - **Used print saves $352 over digital** if you can consistently find used copies and resell them.

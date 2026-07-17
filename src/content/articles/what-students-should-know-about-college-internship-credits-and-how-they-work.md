@@ -113,11 +113,10 @@ Some schools also charge a **non-refundable internship fee** (e.g., $50–$200) 
 
 ### Cost Comparison Example
 
-| Institution Type | Per-Credit Tuition | 3-Credit Internship Cost |
-|------------------|-------------------|--------------------------|
-| Public university (in-state) | $400–$600 | $1,200–$1,800 |
-| Public university (out-of-state) | $1,000–$1,500 | $3,000–$4,500 |
-| Private university | $1,500–$3,000 | $4,500–$9,000 |
+- **Public university (in-state)**: $400–$600 · $1,200–$1,800
+- **Public university (out-of-state)**: $1,000–$1,500 · $3,000–$4,500
+- **Private university**: $1,500–$3,000 · $4,500–$9,000
+
 
 ## Risks and Common Pitfalls to Avoid
 

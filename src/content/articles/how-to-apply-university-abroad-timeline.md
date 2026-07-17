@@ -60,14 +60,13 @@ Starting with a single "dream university" and reverse-engineering the applicatio
 
 ### Documents Checklist
 
-| Document | Required By | Lead Time |
-|---|---|---|
-| Passport (valid 6+ months beyond program end) | All | 4-8 weeks if renewing |
-| Academic transcripts | All | 2-4 weeks |
-| English test score report | All (with exceptions) | 2 weeks after test date |
-| Personal statement / SOP | Most | 4-6 weeks to write well |
-| Letters of recommendation | Most | 4-8 weeks notice to referees |
-| Portfolio (creative programs) | Some | 8-12 weeks |
+- **Passport (valid 6+ months beyond program end)**: All · 4-8 weeks if renewing
+- **Academic transcripts**: All · 2-4 weeks
+- **English test score report**: All (with exceptions) · 2 weeks after test date
+- **Personal statement / SOP**: Most · 4-6 weeks to write well
+- **Letters of recommendation**: Most · 4-8 weeks notice to referees
+- **Portfolio (creative programs)**: Some · 8-12 weeks
+
 
 ## Month 5-6: Applications (May–Jun for Sept intake; Oct–Nov for Feb intake)
 
@@ -119,12 +118,11 @@ Starting with a single "dream university" and reverse-engineering the applicatio
 
 ### Visa Processing Times (2026 estimates)
 
-| Country | Typical Processing Time |
-|---|---|
-| Australia (subclass 500) | 4-8 weeks |
-| UK (Student Route) | 3 weeks (priority: 5 working days) |
-| US (F-1) | 2-6 weeks (varies by consulate) |
-| Canada (Study Permit) | 4-12 weeks (SDS: 20 calendar days) |
+- **Australia (subclass 500)**: 4-8 weeks
+- **UK (Student Route)**: 3 weeks (priority: 5 working days)
+- **US (F-1)**: 2-6 weeks (varies by consulate)
+- **Canada (Study Permit)**: 4-12 weeks (SDS: 20 calendar days)
+
 
 ## Month 11-12: Pre-Departure (Nov–Dec for Feb intake)
 

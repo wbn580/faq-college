@@ -103,12 +103,11 @@ A **weighted decision matrix** converts subjective preferences into a numeric sc
 
 ### Example matrix structure
 
-| Criterion | Weight | School A Score | School A Weighted | School B Score | School B Weighted |
-|-----------|--------|----------------|-------------------|----------------|-------------------|
-| Graduation rate | 9 | 8 | 72 | 6 | 54 |
-| Program strength | 10 | 7 | 70 | 9 | 90 |
-| Location fit | 6 | 9 | 54 | 5 | 30 |
-| Total | — | — | 196 | — | 174 |
+- **Graduation rate**: 9 · 8 · 72 · 6 · 54
+- **Program strength**: 10 · 7 · 70 · 9 · 90
+- **Location fit**: 6 · 9 · 54 · 5 · 30
+- **Total**: — · — · 196 · — · 174
+
 
 This method forces you to quantify trade-offs. If School B wins in program strength but loses in every other category, the matrix makes that visible. For cross-border tuition payments during enrollment, some international families use channels like [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=faq-college/articles/how-to-choose-between-two-college-offers-when-both-have-similar-financial-packag) to settle fees across currencies.
 

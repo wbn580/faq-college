@@ -31,12 +31,11 @@ The legal landscape shifted in June 2023 when the U.S. Supreme Court struck down
 
 **Your chances as a non-legacy applicant depend heavily on the tier of school you are targeting.** The table below summarizes the legacy admission rate vs. general admission rate at several major institutions, based on publicly available data:
 
-| School | Legacy Admission Rate | General Admission Rate | Boost Factor |
-|--------|----------------------|----------------------|--------------|
-| Harvard | ~34% (2014-2019) | ~6% | 5.7x |
-| Princeton | ~29.4% (2022) | ~5.5% | 5.3x |
-| University of Michigan | ~26% (2021) | ~18% | 1.4x |
-| University of Virginia | ~32% (2021) | ~21% | 1.5x |
+- **Harvard**: ~34% (2014-2019) · ~6% · 5.7x
+- **Princeton**: ~29.4% (2022) · ~5.5% · 5.3x
+- **University of Michigan**: ~26% (2021) · ~18% · 1.4x
+- **University of Virginia**: ~32% (2021) · ~21% · 1.5x
+
 
 Data sources: Harvard Office of Institutional Research (2023), Princeton Office of Admission (2022), University of Michigan Office of Budget and Planning (2021), University of Virginia Office of Institutional Assessment (2021).
 

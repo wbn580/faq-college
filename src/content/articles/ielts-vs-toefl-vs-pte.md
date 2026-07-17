@@ -38,23 +38,21 @@ Three English proficiency tests dominate university admissions. They serve the s
 
 ## Quick Comparison
 
-| | IELTS Academic | TOEFL iBT | PTE Academic |
-|---|---|---|---|
-| Test length | 2h45min | 2h | 2h |
-| Cost (2026) | ~A$410 | ~A$350 | ~A$375 |
-| Scoring | 0–9 (band scores) | 0–120 (total) | 10–90 (overall) |
-| Results | 13 days | 4–8 days | 48 hours |
-| Valid for | 2 years | 2 years | 2 years |
-| Exam format | Paper or computer | Computer only | Computer only |
+- **Test length**: 2h45min · 2h · 2h
+- **Cost (2026)**: ~A$410 · ~A$350 · ~A$375
+- **Scoring**: 0–9 (band scores) · 0–120 (total) · 10–90 (overall)
+- **Results**: 13 days · 4–8 days · 48 hours
+- **Valid for**: 2 years · 2 years · 2 years
+- **Exam format**: Paper or computer · Computer only · Computer only
+
 
 ## University Requirements (typical, check specific university)
 
-| University | IELTS | TOEFL | PTE |
-|---|---|---|---|
-| Australian universities | 6.5 (no band <6.0) | 79–90 | 58–64 |
-| UK universities | 6.0–7.0 | 80–100 | 55–70 |
-| US universities | 6.5–7.5 | 80–100 | 58–70 |
-| Canadian universities | 6.5–7.0 | 83–100 | 60–70 |
+- **Australian universities**: 6.5 (no band <6.0) · 79–90 · 58–64
+- **UK universities**: 6.0–7.0 · 80–100 · 55–70
+- **US universities**: 6.5–7.5 · 80–100 · 58–70
+- **Canadian universities**: 6.5–7.0 · 83–100 · 60–70
+
 
 ## Which Test Should You Take?
 

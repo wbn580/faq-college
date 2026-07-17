@@ -36,14 +36,13 @@ Working part-time is the primary way international students offset living costs.
 
 ## Work Limits by Country
 
-| Country | Hours During Term | During Holidays |
-|---|---|---|
-| Australia | 48 per fortnight | Unlimited |
-| UK | 20 per week (degree level) | Full-time permitted |
-| US | 20 per week (on-campus only) | Full-time on-campus |
-| Canada | 24 per week (off-campus) | Full-time permitted |
-| Germany | 120 full / 240 half days per year | Counts toward annual limit |
-| NZ | 20 per week | Full-time |
+- **Australia**: 48 per fortnight · Unlimited
+- **UK**: 20 per week (degree level) · Full-time permitted
+- **US**: 20 per week (on-campus only) · Full-time on-campus
+- **Canada**: 24 per week (off-campus) · Full-time permitted
+- **Germany**: 120 full / 240 half days per year · Counts toward annual limit
+- **NZ**: 20 per week · Full-time
+
 
 ## Common Student Jobs
 

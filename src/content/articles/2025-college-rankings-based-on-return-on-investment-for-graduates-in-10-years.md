@@ -57,13 +57,12 @@ Median earnings 10 years after enrollment are pulled from the U.S. Department of
 
 **Net 10-year ROI** is calculated as median earnings 10 years after enrollment minus total cost of attendance (tuition, fees, room, board, books, and forgone income). All figures are from the U.S. Department of Education College Scorecard (2024 release) and adjusted for inflation.
 
-| Rank | Institution | 10-Year Net ROI |
-|------|-------------|-----------------|
-| 1 | Massachusetts Institute of Technology (MIT) | $1,820,000 |
-| 2 | Stanford University | $1,650,000 |
-| 3 | California Institute of Technology (Caltech) | $1,480,000 |
-| 4 | Harvard University | $1,310,000 |
-| 5 | Princeton University | $1,220,000 |
+- **1**: Massachusetts Institute of Technology (MIT) · $1,820,000
+- **2**: Stanford University · $1,650,000
+- **3**: California Institute of Technology (Caltech) · $1,480,000
+- **4**: Harvard University · $1,310,000
+- **5**: Princeton University · $1,220,000
+
 
 These five institutions share two characteristics: extremely high median earnings ($100,000+ at 10 years) and generous need-based financial aid that reduces net cost for most students. MIT’s net cost for a family earning under $100,000 is effectively zero, while its graduates earn a median of $120,000 after a decade.
 

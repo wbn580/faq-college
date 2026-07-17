@@ -92,12 +92,11 @@ Undergraduate and graduate SOPs differ significantly. **Undergraduate essays** e
 
 ### Undergraduate vs. Graduate Differences
 
-| Aspect | Undergraduate SOP | Graduate SOP |
-|--------|-------------------|--------------|
-| Length | 500–650 words | 800–1500 words |
-| Focus | Personal story, values, impact | Research, expertise, career path |
-| Tone | Reflective, narrative | Professional, analytical |
-| Faculty mention | Rare | Essential (2–3 professors) |
+- **Length**: 500–650 words · 800–1500 words
+- **Focus**: Personal story, values, impact · Research, expertise, career path
+- **Tone**: Reflective, narrative · Professional, analytical
+- **Faculty mention**: Rare · Essential (2–3 professors)
+
 
 For transfer applications, emphasize why the new institution better fits your evolving goals — never disparage your current school.
 

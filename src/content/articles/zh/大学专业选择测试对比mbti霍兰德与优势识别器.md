@@ -79,14 +79,13 @@ The CliftonStrengths for Students assessment costs $19.99 for the top-5 report. 
 
 Each of the three assessments serves a different purpose, and the best choice depends on a student’s specific needs. The table below summarizes the key differences.
 
-| Feature | MBTI | Holland Code (RIASEC) | CliftonStrengths |
-|---------|------|----------------------|------------------|
-| **Focus** | Personality type | Vocational interest | Innate talent |
-| **Number of categories** | 16 types | 6 types (3-letter code) | 34 themes (top 5) |
-| **Cost (official)** | $49–$89 | $9.95 (SDS) | $19.99 (top 5) |
-| **Time commitment** | 20–30 minutes | 15–20 minutes | 30–40 minutes |
-| **Validity** | Moderate reliability, low predictive validity | High validity, direct O*NET link | Moderate reliability, limited independent validation |
-| **Best for** | Team dynamics, self-awareness | Direct major-career matching | Building on existing strengths |
+- **Focus**: Personality type · Vocational interest · Innate talent
+- **Number of categories**: 16 types · 6 types (3-letter code) · 34 themes (top 5)
+- **Cost (official)**: $49–$89 · $9.95 (SDS) · $19.99 (top 5)
+- **Time commitment**: 20–30 minutes · 15–20 minutes · 30–40 minutes
+- **Validity**: Moderate reliability, low predictive validity · High validity, direct O*NET link · Moderate reliability, limited independent validation
+- **Best for**: Team dynamics, self-awareness · Direct major-career matching · Building on existing strengths
+
 
 ### When to Use Each
 

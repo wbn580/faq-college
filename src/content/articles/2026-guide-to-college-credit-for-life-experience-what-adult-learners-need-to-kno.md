@@ -92,13 +92,12 @@ After submission, expect a 4–8 week review period. If credit is denied, most s
 
 **PLA credit is significantly cheaper** than traditional coursework, but costs vary by method. Understanding these numbers helps you prioritize which learning to convert first.
 
-| Assessment Method | Typical Cost per Credit | Time to Credit |
-|---|---|---|
-| CLEP exam | $15–$20 | 2–4 weeks |
-| DSST exam | $20–$25 | 2–4 weeks |
-| Portfolio assessment | $50–$100 | 6–12 weeks |
-| Military evaluation (JST) | $0 | 2–4 weeks |
-| Traditional tuition (public 4-year) | $300–$600 | 15 weeks |
+- **CLEP exam**: $15–$20 · 2–4 weeks
+- **DSST exam**: $20–$25 · 2–4 weeks
+- **Portfolio assessment**: $50–$100 · 6–12 weeks
+- **Military evaluation (JST)**: $0 · 2–4 weeks
+- **Traditional tuition (public 4-year)**: $300–$600 · 15 weeks
+
 
 Source: College Board (2025), DSST (2025), CAEL (2025), NCES (2024).
 
