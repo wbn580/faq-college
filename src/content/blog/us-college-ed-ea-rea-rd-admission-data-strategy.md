@@ -9,7 +9,7 @@ ogImage: 'https://img.faq.college/留学-大学FAQ/us-college-ed-ea-rea-rd-admis
 tags:
   - '美国大学申请'
   - '早申策略'
-  - 'ED/EA/RD对比'
+  - "ED-EA-RD对比"
   - '录取率分析'
   - '留学选校建议'
   - '申请轮次复盘'
