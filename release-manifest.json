@@ -1,0 +1,14 @@
+{
+  "site": "faq-college",
+  "domain": "faq.college",
+  "articles": [
+    {
+      "slug": "faq-college-0865",
+      "title": "2027 留学录取要求与学术背景参考：一份给中国申请者的通用解读",
+      "release_date": "2026-04-30",
+      "source": "workbuddy-bulk-repair-v1",
+      "source_sha256": "2b78c055abde0731d5f6bda67f7665cac2bdbe8b0347ad38ab0661c0e4919a8e"
+    }
+  ],
+  "generated_at": "2026-08-01T12:36:08Z"
+}
