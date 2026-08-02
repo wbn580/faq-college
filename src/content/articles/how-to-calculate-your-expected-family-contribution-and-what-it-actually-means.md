@@ -7,6 +7,7 @@ publishDate: '2026-04-30T19:41:20Z'
 readingTime: 7
 tags: ["featured"]
 
+ogImage: "https://img.ulec.com.cn/留学/大学FAQ/how-to-calculate-your-expected-family-contribution-and-what-it-actually-means-2026-1280x960.jpg"
 ---
 
 Your Expected Family Contribution (EFC) is a dollar figure colleges use to determine your financial aid package, not the actual amount your family must pay. Calculated using a federal formula established by the U.S. Department of Education, the EFC is derived from your family’s taxed and untaxed income, assets, and benefits (like Social Security or unemployment). For the 2023-2024 aid cycle, the average EFC for dependent students was approximately $26,000, but 35% of families had an EFC of $0, according to the National Center for Education Statistics (NCES, 2023, *Digest of Education Statistics*). The formula is weighted heavily toward parent income (up to 47% of adjusted available income) and student assets (20% of student assets counted), with allowances for family size and number of students in college. Understanding your EFC is critical because it directly sets your baseline for need-based grants, work-study, and subsidized loans—schools subtract your EFC from their Cost of Attendance (COA) to calculate your demonstrated need. In short, the EFC is a metric of financial strength, not a bill.

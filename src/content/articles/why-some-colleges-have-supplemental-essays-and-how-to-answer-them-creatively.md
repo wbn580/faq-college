@@ -7,6 +7,7 @@ publishDate: '2026-05-12T19:43:39Z'
 readingTime: 7
 tags: ["featured"]
 
+ogImage: "https://img.ulec.com.cn/留学/大学FAQ/why-some-colleges-have-supplemental-essays-and-how-to-answer-them-creatively-2026-1880x869.jpg"
 ---
 
 About 25% of U.S. colleges and universities require at least one supplemental essay beyond the Common App or Coalition App personal statement, according to the 2023 NACAC State of College Admission report. The most selective institutions — those admitting fewer than 25% of applicants — are nearly twice as likely to require supplements, with schools like Harvard, Stanford, and the University of Chicago averaging 3-5 prompts per applicant. These supplements exist not to add busywork, but to solve a critical admissions problem: the personal statement is a generic canvas, while supplements let admissions officers test for specific institutional fit. A 2022 study by the College Board found that **demonstrated interest** — including thorough supplemental responses — correlates with a 12-18% higher yield rate for universities that track it. The creative challenge is real: you have 150-500 words to prove you belong somewhere without sounding like you copied a template. The good news is that creative answers follow repeatable patterns, not luck.
