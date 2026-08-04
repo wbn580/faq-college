@@ -4,6 +4,7 @@ description: "All major university application deadlines for 2026–2027 — UCA
 category: "apply"
 publishDate: "2026-05-15T08:00:00Z"
 ogImage: "https://img.ulec.com.cn/edu/backfill-australia-vs-uk-vs-canada-2026-which-cou-2026-1880x1253.jpg"
+tags: ["featured"]
 ---
 
 <!-- R2_IMAGE: backfill-australia-vs-uk-vs-canada-2026-which-cou -->
@@ -28,7 +29,7 @@ ogImage: "https://img.ulec.com.cn/edu/backfill-australia-vs-uk-vs-canada-2026-wh
   "width": "1200",
   "height": "800",
   "license": "https://creativecommons.org/licenses/publicdomain/",
-  "acquireLicensePage": "https://img.ulec.com.cn/about"
+  "acquireLicensePage": "https://faq.college/about/"
 }
 </script>
 

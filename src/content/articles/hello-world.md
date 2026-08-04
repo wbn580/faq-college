@@ -31,7 +31,7 @@ ogImage: "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
   "width": "1200",
   "height": "800",
   "license": "https://creativecommons.org/licenses/publicdomain/",
-  "acquireLicensePage": "https://img.ulec.com.cn/about"
+  "acquireLicensePage": "https://faq.college/about/"
 }
 </script>
 Welcome to College FAQ Desk. This is a placeholder article. Content is being prepared.

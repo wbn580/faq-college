@@ -5,6 +5,7 @@ category: "apply"
 publishDate: "2026-05-15T08:00:00Z"
 
 ogImage: "https://img.ulec.com.cn/留学/大学FAQ/university-transfer-guide-2026-1880x1253.jpg"
+tags: ["featured"]
 ---
 
 Transferring universities is possible but more complex than most students assume. Credit transfer is not automatic — it requires careful course matching, and transferring internationally adds visa complications.

@@ -31,7 +31,7 @@ ogImage: "https://img.ulec.com.cn/edu/backfill-2026年新西兰留学毕业后�
   "width": "1200",
   "height": "800",
   "license": "https://creativecommons.org/licenses/publicdomain/",
-  "acquireLicensePage": "https://img.ulec.com.cn/about"
+  "acquireLicensePage": "https://faq.college/about/"
 }
 </script>
 

@@ -30,7 +30,7 @@ ogImage: "https://img.ulec.com.cn/edu/backfill-2026年法国留学签证需要�
   "width": "1200",
   "height": "800",
   "license": "https://creativecommons.org/licenses/publicdomain/",
-  "acquireLicensePage": "https://img.ulec.com.cn/about"
+  "acquireLicensePage": "https://faq.college/about/"
 }
 </script>
 

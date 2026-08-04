@@ -37,7 +37,7 @@ hideFromHome: true
   "width": "1200",
   "height": "800",
   "license": "https://creativecommons.org/licenses/publicdomain/",
-  "acquireLicensePage": "https://img.ulec.com.cn/about"
+  "acquireLicensePage": "https://faq.college/about/"
 }
 </script>
 

@@ -4,6 +4,7 @@ description: "Everything international students need to know about studying in A
 category: "compare"
 publishDate: "2026-05-15T08:00:00Z"
 ogImage: "https://img.ulec.com.cn/edu/backfill-2026年澳洲485毕业生工签续签条件与时长变化-2026-1880x1254.jpg"
+tags: ["featured"]
 ---
 
 <!-- R2_IMAGE: backfill-2026年澳洲485毕业生工签续签条件与时长变化 -->
@@ -28,7 +29,7 @@ ogImage: "https://img.ulec.com.cn/edu/backfill-2026年澳洲485毕业生工签�
   "width": "1200",
   "height": "800",
   "license": "https://creativecommons.org/licenses/publicdomain/",
-  "acquireLicensePage": "https://img.ulec.com.cn/about"
+  "acquireLicensePage": "https://faq.college/about/"
 }
 </script>
 Australia is the world's third most popular international study destination, hosting over 700,000 international students. This guide covers the core information for prospective students.

@@ -4,6 +4,7 @@ description: "How international students can work while studying — legal work 
 category: "life"
 publishDate: "2026-05-15T08:00:00Z"
 ogImage: "https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg"
+tags: ["featured"]
 ---
 
 <!-- R2_IMAGE: 二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641 -->
@@ -28,7 +29,7 @@ ogImage: "https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq
   "width": "1200",
   "height": "800",
   "license": "https://creativecommons.org/licenses/publicdomain/",
-  "acquireLicensePage": "https://img.ulec.com.cn/about"
+  "acquireLicensePage": "https://faq.college/about/"
 }
 </script>
 

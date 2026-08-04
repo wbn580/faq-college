@@ -31,7 +31,7 @@ ogImage: "https://img.ulec.com.cn/loan/low-doc-贷款-bas-会计师信-银行流
   "width": "1200",
   "height": "800",
   "license": "https://creativecommons.org/licenses/publicdomain/",
-  "acquireLicensePage": "https://img.ulec.com.cn/about"
+  "acquireLicensePage": "https://faq.college/about/"
 }
 </script>
 

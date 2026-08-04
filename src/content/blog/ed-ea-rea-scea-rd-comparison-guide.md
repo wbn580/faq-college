@@ -42,7 +42,7 @@ tags:
   "width": "1200",
   "height": "800",
   "license": "https://creativecommons.org/licenses/publicdomain/",
-  "acquireLicensePage": "https://img.ulec.com.cn/about"
+  "acquireLicensePage": "https://faq.college/about/"
 }
 </script>
 # 美国本科申请ED/EA/REA/SCEA/RD全解析：截止日期、绑定规则与早申策略

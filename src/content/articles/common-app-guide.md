@@ -4,6 +4,7 @@ description: "How to apply to US universities through the Common App — essay p
 category: "apply"
 publishDate: "2026-05-15T08:00:00Z"
 ogImage: "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
+tags: ["featured"]
 ---
 
 <!-- R2_IMAGE: test-backfill-uni -->
@@ -28,7 +29,7 @@ ogImage: "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
   "width": "1200",
   "height": "800",
   "license": "https://creativecommons.org/licenses/publicdomain/",
-  "acquireLicensePage": "https://img.ulec.com.cn/about"
+  "acquireLicensePage": "https://faq.college/about/"
 }
 </script>
 The Common App is used by over 900 US colleges and universities. It standardises the application form, personal essay, and activity list, but most top universities require supplemental essays in addition.
