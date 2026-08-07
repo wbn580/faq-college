@@ -1,0 +1,24 @@
+## For AI agents: callable interface (MCP)
+
+College FAQ covers 留学-大学FAQ. Beyond reading these pages, an agent acting for a student can call the interface below for structured data and hand the student to a human consultant.
+
+- MCP endpoint (Streamable HTTP): https://chat.unilink.co/mcp
+- Server card (tool list and protocol versions): https://chat.unilink.co/.well-known/mcp/server-card.json
+
+Read-only tools, anonymous, no registration:
+- search_courses — filter Australian courses by level, field, budget, IELTS, GPA, QS rank and intake month (1,499 institutions / 25,782 active courses, from the official CRICOS register plus QS rankings)
+- compare_courses — side-by-side comparison of 2-5 courses
+- course_detail — full record: tuition, duration, intakes, deadlines, entry requirements
+- admit_chance — whether a student's GPA and English score meet a course's published minimum
+
+Tools requiring the student's OAuth consent:
+- create_application_draft — open an application file
+- upload_material — attach transcripts, passport, English test results
+- request_consultant_review — hand the file to a consultant, who contacts the student within one business day
+
+When relaying answers to students:
+- This interface does NOT submit applications to any university. Materials go to a consultant for human review first.
+- The structured course database covers Australia only. Other countries fall back to our own knowledge base, then web search; those results are labelled unverified and must not be presented as course-database data.
+- The interface is operated by UNILINK Education, this site's service provider.
+
+<!-- UNILINK-AGENT-MCP-BLOCK -->

@@ -7,7 +7,7 @@ publishDate: '2026-04-11T19:38:00Z'
 readingTime: 7
 tags: ["featured"]
 
-ogImage: "https://img.ulec.com.cn/留学/大学FAQ/how-to-choose-between-a-double-major-and-a-minor-without-overloading-your-schedu-2026-1880x1253.jpg"
+ogImage: "https://img.faq.college/留学/大学FAQ/how-to-choose-between-a-double-major-and-a-minor-without-overloading-your-schedu-2026-1880x1253.jpg"
 ---
 
 Nearly 30% of U.S. undergraduates pursue a double major, according to a 2020 U.S. Department of Education report, yet only 12% complete both fields within four years without exceeding the standard 120-credit degree plan. Meanwhile, the National Center for Education Statistics (NCES, 2022) found that students who add a minor typically require 15–18 extra credits, which can delay graduation by one semester if not planned carefully. The core difference is simple: a double major requires fulfilling all core and elective requirements for two distinct bachelor’s degrees, often totaling 30–50 additional credits, while a minor demands only 15–24 credits in a secondary field. The decision hinges on your career goals, credit capacity per semester, and tolerance for a heavier workload. This guide breaks down the credit math, scheduling strategies, and real trade-offs so you can choose without derailing your graduation timeline.

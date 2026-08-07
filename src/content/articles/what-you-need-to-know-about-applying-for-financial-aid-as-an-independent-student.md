@@ -7,7 +7,7 @@ publishDate: '2026-04-15T19:38:42Z'
 readingTime: 6
 tags: ["featured"]
 
-ogImage: "https://img.ulec.com.cn/留学/大学FAQ/what-you-need-to-know-about-applying-for-financial-aid-as-an-independent-student-2026-1880x1111.jpg"
+ogImage: "https://img.faq.college/留学/大学FAQ/what-you-need-to-know-about-applying-for-financial-aid-as-an-independent-student-2026-1880x1111.jpg"
 ---
 
 Only 1.9% of U.S. undergraduates were classified as independent without dependents in 2020, according to the National Center for Education Statistics (NCES, 2023). Yet these students face the highest unmet financial need: the average independent student receives $9,200 less in grant aid than a dependent peer with the same income (U.S. Department of Education, 2022). The federal definition of "independent" is strict—you must be at least 24 years old, married, a graduate student, a veteran, an orphan, or legally emancipated. Simply living alone or paying your own bills does not qualify. This guide covers the five core questions: who qualifies, what documents you need, how the FAFSA treats independent income, how to get a dependency override if you don't meet the age threshold, and which scholarships specifically target independent students. Each section is based on federal regulations and institutional policies, not anecdotal advice.

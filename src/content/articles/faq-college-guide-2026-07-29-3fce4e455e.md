@@ -8,7 +8,7 @@ slug: 'faq-college-guide-2026-07-29-3fce4e455e'
 category: 'general'
 language: 'en'
 lang: 'en'
-ogImage: 'https://img.ulec.com.cn/留学-大学FAQ/faq-college-guide-2026-07-29-3fce4e455e-image-01-2026-1880x1253.jpg'
+ogImage: 'https://img.faq.college/留学-大学FAQ/faq-college-guide-2026-07-29-3fce4e455e-image-01-2026-1880x1253.jpg'
 verified: '2026-07-29T00:00:00Z'
 tags:
   - 'international education'
@@ -23,7 +23,7 @@ New Zealand is actively pursuing growth in its international education sector th
 
 Education New Zealand, the government agency responsible for promoting the country’s education internationally, has explicitly stated that New Zealand is not marketing itself as a substitute for Australia. While both countries compete for international students, particularly from markets like China and India, New Zealand’s brand is built on its own strengths—such as a student-centered learning approach, research opportunities, and a welcoming society. Officials emphasize that the country’s value proposition stands independently, and it does not rely on comparisons with its neighbor to attract students. This distinction is an important part of the messaging to prospective students and education agents, ensuring that New Zealand is seen for what it is, rather than what it is not.
 
-![International students walking on a university campus in New Zealand with modern buildings and green landscape.](https://img.ulec.com.cn/留学-大学FAQ/faq-college-guide-2026-07-29-3fce4e455e-image-01-2026-1880x1253.jpg)
+![International students walking on a university campus in New Zealand with modern buildings and green landscape.](https://img.faq.college/留学-大学FAQ/faq-college-guide-2026-07-29-3fce4e455e-image-01-2026-1880x1253.jpg)
 
 
 ## FAQ

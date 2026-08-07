@@ -3,14 +3,14 @@ title: "Common App Guide · US University Application Process"
 description: "How to apply to US universities through the Common App — essay prompts, activity list strategy, Early Decision vs Regular Decision, and tips for international students."
 category: "apply"
 publishDate: "2026-05-15T08:00:00Z"
-ogImage: "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
+ogImage: "https://img.faq.college/edu/test-backfill-uni-2026-1880x1253.jpg"
 tags: ["featured"]
 ---
 
 <!-- R2_IMAGE: test-backfill-uni -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
+    src="https://img.faq.college/edu/test-backfill-uni-2026-1880x1253.jpg"
     alt="university library"
     width="1200"
     height="800"
@@ -23,7 +23,7 @@ tags: ["featured"]
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg",
+  "contentUrl": "https://img.faq.college/edu/test-backfill-uni-2026-1880x1253.jpg",
   "name": "university library",
   "description": "university library — 配图来源：R2自有图库",
   "width": "1200",

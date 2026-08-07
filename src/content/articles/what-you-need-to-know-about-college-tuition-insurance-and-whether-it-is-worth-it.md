@@ -6,13 +6,13 @@ pubDatetime: "2026-05-19T19:44:59Z"
 publishDate: '2026-05-19T19:44:59Z'
 readingTime: 7
 tags: ["featured"]
-ogImage: "https://img.ulec.com.cn/edu/backfill-2026年澳洲oshc保险对比哪家性价比最高-2026-1880x1254.jpg"
+ogImage: "https://img.faq.college/edu/backfill-2026年澳洲oshc保险对比哪家性价比最高-2026-1880x1254.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年澳洲oshc保险对比哪家性价比最高 -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/backfill-2026年澳洲oshc保险对比哪家性价比最高-2026-1880x1254.jpg"
+    src="https://img.faq.college/edu/backfill-2026年澳洲oshc保险对比哪家性价比最高-2026-1880x1254.jpg"
     alt="OSHC,澳洲留学生保险,保险对比,海外学生健康保险,2026,理赔流程,性价比"
     width="1200"
     height="800"
@@ -25,7 +25,7 @@ ogImage: "https://img.ulec.com.cn/edu/backfill-2026年澳洲oshc保险对比哪�
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/backfill-2026年澳洲oshc保险对比哪家性价比最高-2026-1880x1254.jpg",
+  "contentUrl": "https://img.faq.college/edu/backfill-2026年澳洲oshc保险对比哪家性价比最高-2026-1880x1254.jpg",
   "name": "OSHC,澳洲留学生保险,保险对比,海外学生健康保险,2026,理赔流程,性价比",
   "description": "OSHC,澳洲留学生保险,保险对比,海外学生健康保险,2026,理赔流程,性价比 — 配图来源：R2自有图库",
   "width": "1200",

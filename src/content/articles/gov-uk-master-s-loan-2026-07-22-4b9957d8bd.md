@@ -8,7 +8,7 @@ slug: 'gov-uk-master-s-loan-2026-07-22-4b9957d8bd'
 category: 'general'
 language: 'en'
 lang: 'en'
-ogImage: 'https://img.ulec.com.cn/留学-大学FAQ/gov-uk-master-s-loan-2026-07-22-4b9957d8bd-image-01-2026-1880x1253.jpg'
+ogImage: 'https://img.faq.college/留学-大学FAQ/gov-uk-master-s-loan-2026-07-22-4b9957d8bd-image-01-2026-1880x1253.jpg'
 verified: '2026-07-22T00:00:00Z'
 tags:
   - 'Master''s Loan'
@@ -28,7 +28,7 @@ Information on how to apply is available on the GOV.UK website.
 
 - [Related guide A](/2025-college-rankings-based-on-return-on-investment-for-graduates-in-10-years/)
 
-![Illustrative image related to this guide A](https://img.ulec.com.cn/留学-大学FAQ/gov-uk-master-s-loan-2026-07-22-4b9957d8bd-image-01-2026-1880x1253.jpg)
+![Illustrative image related to this guide A](https://img.faq.college/留学-大学FAQ/gov-uk-master-s-loan-2026-07-22-4b9957d8bd-image-01-2026-1880x1253.jpg)
 
 
 - [Related guide B](/2025-fafsa-changes-every-student-must-know-before-filing-their-application/)

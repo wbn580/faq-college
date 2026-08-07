@@ -8,7 +8,7 @@ draft: false
 featured: false
 schema:
   faq: true
-ogImage: "https://img.ulec.com.cn/seo/e073aee5-9.jpg"
+ogImage: "https://img.faq.college/rehost/850b4fe5e730.jpg"
 hideFromHome: true
 ---
 ## 直接答案
@@ -38,7 +38,7 @@ hideFromHome: true
 
 英国教育的另一个优势是文化浓度：罗素集团大学的研究实力遥遥领先，教学方式强调批判性思维与独立研究，因此一年制硕士的课程密度极高，能实实在在“压缩式成长”。不过这种快节奏对适应能力和时间管理的要求也更高，建议在雅思考到6.5–7.0的基础上，提前阅读英文文献，否则第一个学期可能会相当吃力。详细的雅思备考策略可以看这篇《出国留学语言考试怎么选：雅思还是托福？》。
 
-![美英澳加四国地图对比](https://img.faq.college/compare-map-2026.png)
+![美英澳加四国地图对比](https://img.faq.college/rehost/e9c74db20bd2.jpg)
 
 ## 澳洲：宜居环境与宽松移民路径
 
@@ -74,7 +74,7 @@ hideFromHome: true
 11. **加拿大毕业后工签**：PGWP最长3年，开放式，不限雇主。  
 12. **加拿大移民加分**：EE系统对加拿大本地学历与工作经验的加分在2026年持续有效。
 
-![四国费用与工签时长对比柱状图](https://img.faq.college/cost-visa-compare-2026.png)
+![四国费用与工签时长对比柱状图](https://img.faq.college/rehost/e94298c7184d.jpg)
 
 ## 如何根据个人情况选择？四个灵魂拷问
 选国家不能只看排名和预算，还要问自己四个问题：
@@ -102,7 +102,7 @@ hideFromHome: true
 
 如果你还在纠结时间怎么安排，推荐读一下《2027年秋季入学留学申请倒计时》，帮你把从选校到拿offer的过程拆分到每个月。
 
-![留学决策四象限示意图](https://img.faq.college/decision-quadrant.png)
+![留学决策四象限示意图](https://img.faq.college/rehost/d2efa15f8f91.jpg)
 
 ## 常见问题FAQ
 

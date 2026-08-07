@@ -7,7 +7,7 @@ publishDate: '2026-04-20T19:39:28Z'
 readingTime: 8
 tags: ["featured"]
 
-ogImage: "https://img.ulec.com.cn/留学/大学FAQ/how-ap-and-ib-credits-transfer-to-different-universities-across-the-country-2026-1880x1111.jpg"
+ogImage: "https://img.faq.college/留学/大学FAQ/how-ap-and-ib-credits-transfer-to-different-universities-across-the-country-2026-1880x1111.jpg"
 ---
 
 In the 2023-2024 academic year, over 1.4 million U.S. high school students took at least one Advanced Placement (AP) exam, and more than 120,000 sat for International Baccalaureate (IB) exams in the U.S. alone, according to the College Board and the International Baccalaureate Organization. Despite this high participation, **the transfer of AP and IB credits is not a standardized process** — each university sets its own score thresholds and credit equivalencies. A 2022 study by the American Association of Collegiate Registrars and Admissions Officers (AACRAO) found that 68% of U.S. institutions grant credit for AP scores of 3 or higher, but only 42% do the same for IB scores at the 4 or higher level. This inconsistency means that a student earning a 4 on the AP Calculus BC exam might receive 8 semester credits at one public flagship and zero at another. Understanding how these credits transfer can save families thousands of dollars and shave a full semester off a degree. This guide breaks down the transfer policies by institution type, score tiers, and practical strategies to maximize your earned credit.

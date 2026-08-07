@@ -23,7 +23,7 @@ tags:
 <!-- R2_IMAGE: backfill-cómo-solicitar-la-visa-de-estudiante-par -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/backfill-cómo-solicitar-la-visa-de-estudiante-par-2026-1880x1253.jpg"
+    src="https://img.faq.college/edu/backfill-cómo-solicitar-la-visa-de-estudiante-par-2026-1880x1253.jpg"
     alt="visa estudiante Canadá 2026, solicitud study permit, requisitos visa canadiense, latinoamericanos Ca"
     width="1200"
     height="800"
@@ -36,7 +36,7 @@ tags:
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/backfill-cómo-solicitar-la-visa-de-estudiante-par-2026-1880x1253.jpg",
+  "contentUrl": "https://img.faq.college/edu/backfill-cómo-solicitar-la-visa-de-estudiante-par-2026-1880x1253.jpg",
   "name": "visa estudiante Canadá 2026, solicitud study permit, requisitos visa canadiense, latinoamericanos Ca",
   "description": "visa estudiante Canadá 2026, solicitud study permit, requisitos visa canadiense, latinoamericanos Ca — 配图来源：R2自有图库",
   "width": "1200",

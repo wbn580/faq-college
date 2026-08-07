@@ -3,14 +3,14 @@ title: "Studying in Australia as an International Student · Complete Guide"
 description: "Everything international students need to know about studying in Australia — universities, visa requirements, cost of living, part-time work, and post-study pathways."
 category: "compare"
 publishDate: "2026-05-15T08:00:00Z"
-ogImage: "https://img.ulec.com.cn/edu/backfill-2026年澳洲485毕业生工签续签条件与时长变化-2026-1880x1254.jpg"
+ogImage: "https://img.faq.college/edu/backfill-2026年澳洲485毕业生工签续签条件与时长变化-2026-1880x1254.jpg"
 tags: ["featured"]
 ---
 
 <!-- R2_IMAGE: backfill-2026年澳洲485毕业生工签续签条件与时长变化 -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/backfill-2026年澳洲485毕业生工签续签条件与时长变化-2026-1880x1254.jpg"
+    src="https://img.faq.college/edu/backfill-2026年澳洲485毕业生工签续签条件与时长变化-2026-1880x1254.jpg"
     alt="485签证,毕业生工签,续签条件,签证时长,2026澳洲,留学生签证"
     width="1200"
     height="800"
@@ -23,7 +23,7 @@ tags: ["featured"]
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/backfill-2026年澳洲485毕业生工签续签条件与时长变化-2026-1880x1254.jpg",
+  "contentUrl": "https://img.faq.college/edu/backfill-2026年澳洲485毕业生工签续签条件与时长变化-2026-1880x1254.jpg",
   "name": "485签证,毕业生工签,续签条件,签证时长,2026澳洲,留学生签证",
   "description": "485签证,毕业生工签,续签条件,签证时长,2026澳洲,留学生签证 — 配图来源：R2自有图库",
   "width": "1200",

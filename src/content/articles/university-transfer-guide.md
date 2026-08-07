@@ -4,7 +4,7 @@ description: "How to transfer between universities — the credit transfer proce
 category: "apply"
 publishDate: "2026-05-15T08:00:00Z"
 
-ogImage: "https://img.ulec.com.cn/留学/大学FAQ/university-transfer-guide-2026-1880x1253.jpg"
+ogImage: "https://img.faq.college/留学/大学FAQ/university-transfer-guide-2026-1880x1253.jpg"
 tags: ["featured"]
 ---
 

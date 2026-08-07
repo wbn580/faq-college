@@ -6,13 +6,13 @@ pubDatetime: "2026-04-22T19:39:49Z"
 publishDate: '2026-04-22T19:39:49Z'
 readingTime: 7
 tags: ["featured"]
-ogImage: "https://img.ulec.com.cn/edu/backfill-2026年日本留学一年学费加生活费要多少钱-2026-1880x1252.jpg"
+ogImage: "https://img.faq.college/edu/backfill-2026年日本留学一年学费加生活费要多少钱-2026-1880x1252.jpg"
 ---
 
 <!-- R2_IMAGE: backfill-2026年日本留学一年学费加生活费要多少钱 -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/backfill-2026年日本留学一年学费加生活费要多少钱-2026-1880x1252.jpg"
+    src="https://img.faq.college/edu/backfill-2026年日本留学一年学费加生活费要多少钱-2026-1880x1252.jpg"
     alt="日本留学费用,2026年日本学费,日本生活费,日本留学开销,日本留学一年总花费,日本私立大学学费,日本国立大学学费"
     width="1200"
     height="800"
@@ -25,7 +25,7 @@ ogImage: "https://img.ulec.com.cn/edu/backfill-2026年日本留学一年学费�
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/backfill-2026年日本留学一年学费加生活费要多少钱-2026-1880x1252.jpg",
+  "contentUrl": "https://img.faq.college/edu/backfill-2026年日本留学一年学费加生活费要多少钱-2026-1880x1252.jpg",
   "name": "日本留学费用,2026年日本学费,日本生活费,日本留学开销,日本留学一年总花费,日本私立大学学费,日本国立大学学费",
   "description": "日本留学费用,2026年日本学费,日本生活费,日本留学开销,日本留学一年总花费,日本私立大学学费,日本国立大学学费 — 配图来源：R2自有图库",
   "width": "1200",

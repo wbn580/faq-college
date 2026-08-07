@@ -3,14 +3,14 @@ title: "UCAS Application Guide · How to Apply to UK Universities"
 description: "A complete guide to the UCAS application process — the five-choice system, personal statement requirements, predicted grades, and common mistakes international students make."
 category: "apply"
 publishDate: "2026-05-15T08:00:00Z"
-ogImage: "https://img.ulec.com.cn/edu/expand-expand-英国研究生申请时间线什么时间做什么事含checklist-615a17-og-2026-7919x5282.jpg"
+ogImage: "https://img.faq.college/edu/expand-expand-英国研究生申请时间线什么时间做什么事含checklist-615a17-og-2026-7919x5282.jpg"
 tags: ["featured"]
 ---
 
 <!-- R2_IMAGE: expand-expand-英国研究生申请时间线什么时间做什么事含checklist-615a17-og -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/expand-expand-英国研究生申请时间线什么时间做什么事含checklist-615a17-og-2026-7919x5282.jpg"
+    src="https://img.faq.college/edu/expand-expand-英国研究生申请时间线什么时间做什么事含checklist-615a17-og-2026-7919x5282.jpg"
     alt=""
     width="1200"
     height="800"
@@ -23,7 +23,7 @@ tags: ["featured"]
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/expand-expand-英国研究生申请时间线什么时间做什么事含checklist-615a17-og-2026-7919x5282.jpg",
+  "contentUrl": "https://img.faq.college/edu/expand-expand-英国研究生申请时间线什么时间做什么事含checklist-615a17-og-2026-7919x5282.jpg",
   "name": "",
   "description": " — 配图来源：R2自有图库",
   "width": "1200",
