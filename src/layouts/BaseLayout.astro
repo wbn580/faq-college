@@ -3,6 +3,11 @@ import BaseHead from '../components/BaseHead.astro';
 
 interface Props {
   title: string;
+  /** BCP 47 tag for <html lang>; pages that are not articles stay English. */
+  htmlLang?: string;
+  ogLocale?: string;
+  /** Emitted as <link rel="alternate" hreflang>; empty for untranslated pages. */
+  langAlternates?: { hreflang: string; path: string }[];
   description: string;
   ogImage?: string;
   canonicalURL?: string;
@@ -15,12 +20,34 @@ const {
   ogImage,
   canonicalURL,
   schema,
+  htmlLang = 'en',
+  ogLocale = 'en_US',
+  langAlternates = [],
 } = Astro.props;
+
+const SITE_URL = 'https://faq.college';
+
+// The chatbot takes a plain locale code, not a BCP 47 region tag — the rest of
+// the fleet passes `en` / `zh-CN`, so a Chinese reader gets a Chinese assistant.
+const botLang = htmlLang.startsWith('zh') ? 'zh-CN' : 'en';
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang={htmlLang}>
   <head>
+    <meta property="og:locale" content={ogLocale} />
+    <!-- Translation pairing: tells search engines these two URLs are the same
+         article in different languages, so neither is treated as duplicate or
+         off-language content and each is served to the right audience. -->
+    {
+      langAlternates.map(alt => (
+        <link
+          rel="alternate"
+          hreflang={alt.hreflang}
+          href={new URL(alt.path, SITE_URL).toString()}
+        />
+      ))
+    }
     <BaseHead
       title={title}
       description={description}
@@ -32,9 +59,9 @@ const {
       @import '../styles/global.css';
     </style>
       <!-- Unified lead conversion entry: assessment form, chat, sticky buttons, and in-article cards -->
-    <script src="https://chat.faq.college/lead.js?v=20260702-routefix" data-site="faq-college" data-lang="en" data-tier="country" data-country="us" data-apply-base="https://apply.faq.college" data-color="#d98c5f" data-accent="#1f6b3a" async></script>
+    <script src="https://chat.faq.college/lead.js?v=20260702-routefix" data-site="faq-college" data-lang={botLang} data-tier="country" data-country="us" data-apply-base="https://apply.faq.college" data-color="#d98c5f" data-accent="#1f6b3a" async></script>
     <!-- Chat widget for lead consultation actions -->
-    <script src="https://chat.faq.college/assistant.js" data-site="faq-college" data-lang="en" data-bot-name="College FAQ Assistant" data-channel="organic" data-color="#d98c5f" data-accent="#1f6b3a" async data-no-bubble="1"></script>
+    <script src="https://chat.faq.college/assistant.js" data-site="faq-college" data-lang={botLang} data-bot-name="College FAQ Assistant" data-channel="organic" data-color="#d98c5f" data-accent="#1f6b3a" async data-no-bubble="1"></script>
 </head>
   <body>
     <!-- Nav: centered-overlay (logo center, links flanking) -->

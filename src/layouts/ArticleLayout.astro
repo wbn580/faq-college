@@ -1,7 +1,11 @@
 ---
 import BaseLayout from './BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import { getLangPair } from '../utils/langPair';
 
 interface Props {
+  /** Collection entry id — the routed path, and what pairs the translations. */
+  id: string;
   title: string;
   description: string;
   publishDate: string;
@@ -12,6 +16,7 @@ interface Props {
 }
 
 const {
+  id,
   title,
   description,
   publishDate,
@@ -19,6 +24,14 @@ const {
   readingTime,
   ogImage,
 } = Astro.props;
+
+/* ========== Translation pairing ==========
+ * Resolved against the whole collection, so an article whose translation has
+ * not been written yet gets no switch link and no hreflang, rather than a link
+ * to a 404.
+ */
+const _allArticles = await getCollection('articles');
+const langPair = getLangPair(id, _allArticles.map(a => a.id));
 
 const siteUrl = 'https://faq.college';
 const slug = Astro.url.pathname;
@@ -39,6 +52,7 @@ const articleSchema = JSON.stringify({
     url: siteUrl,
   },
   articleSection: category,
+  inLanguage: langPair.htmlLang,
 });
 ---
 
@@ -48,6 +62,9 @@ const articleSchema = JSON.stringify({
   ogImage={ogImage}
   canonicalURL={`${siteUrl}${slug}`}
   schema={articleSchema}
+  htmlLang={langPair.htmlLang}
+  ogLocale={langPair.ogLocale}
+  langAlternates={langPair.alternates}
 >
   <article class="article-page">
     <header>
@@ -58,9 +75,21 @@ const articleSchema = JSON.stringify({
       </nav>
       <h1 class="article-title">{title}</h1>
       <div class="article-meta">
-        <time datetime={publishDate}>{new Date(publishDate).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</time>
+        <time datetime={publishDate}>{new Date(publishDate).toLocaleDateString(langPair.htmlLang, { year: 'numeric', month: 'long', day: 'numeric' })}</time>
         {readingTime && <span>{readingTime} min read</span>}
       </div>
+      {
+        langPair.altPath && (
+          <a
+            href={langPair.altPath}
+            hreflang={langPair.altLang === 'zh' ? 'zh-CN' : 'en'}
+            rel="alternate"
+            style="display:inline-flex;align-items:center;gap:4px;border:1px solid currentColor;border-radius:4px;padding:4px 12px;font-size:14px;font-weight:600;text-decoration:none;margin:8px 0 24px"
+          >
+            {langPair.altLang === 'zh' ? '中文版' : 'Read in English'}
+          </a>
+        )
+      }
     </header>
 
     <div class="article-body">
