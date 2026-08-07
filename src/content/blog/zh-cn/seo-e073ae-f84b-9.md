@@ -1,4 +1,5 @@
 ---
+slug: zh-cn/seo-e073ae-f84b-9
 title: "2026年如何选择留学国家：美国、英国、澳洲、加拿大四大地区差异对比指南"
 pubDatetime: 2026-06-29T14:04:02Z
 modDatetime: 2026-06-29T14:04:02Z

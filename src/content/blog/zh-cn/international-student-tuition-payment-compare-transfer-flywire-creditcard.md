@@ -4,7 +4,7 @@ description: '从汇率、手续费、到账时间和安全性角度，系统对
 pubDatetime: '2026-05-27T00:00:00Z'
 publishDate: '2026-05-27T00:00:00Z'
 modDatetime: '2026-05-27T00:00:00Z'
-slug: international-student-tuition-payment-compare-transfer-flywire-creditcard
+slug: zh-cn/international-student-tuition-payment-compare-transfer-flywire-creditcard
 ogImage: 'https://img.faq.college/留学-大学FAQ/international-student-tuition-payment-compare-transfer-flywire-creditcard-2026-1880x1057.jpg'
 category: 'general'
 tags:

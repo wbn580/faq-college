@@ -4,11 +4,11 @@ description: 当一所海外院校说明“录取要求”时，它指的远不�
 pubDatetime: '2026-04-30T10:52:49Z'
 publishDate: '2026-04-30T10:52:49Z'
 modDatetime: '2026-08-01T11:51:06Z'
-slug: faq-college-0865
+slug: zh-cn/faq-college-0865
 draft: false
 hideFromHome: true
-lang: en
-language: en
+lang: zh-CN
+language: zh-CN
 tags:
 - faq-college 录取要求与学术背景参考
 ogImage: /images/homepage-college-hero.jpg

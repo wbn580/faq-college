@@ -4,7 +4,7 @@ description: '系统对比美国本科申请中ED、EA、REA、SCEA和RD五种�
 pubDatetime: '2026-05-25T00:00:00Z'
 publishDate: '2026-05-25T00:00:00Z'
 modDatetime: '2026-05-25T00:00:00Z'
-slug: ed-ea-rea-scea-rd-comparison-guide
+slug: zh-cn/ed-ea-rea-scea-rd-comparison-guide
 ogImage: ''
 tags:
   - '美国本科申请'

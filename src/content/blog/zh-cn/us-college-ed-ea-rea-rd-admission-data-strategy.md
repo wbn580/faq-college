@@ -4,7 +4,7 @@ description: '从录取数据复盘角度，深度对比美国大学EA、ED、RE
 pubDatetime: '2026-05-26T00:00:00Z'
 publishDate: '2026-05-26T00:00:00Z'
 modDatetime: '2026-05-26T00:00:00Z'
-slug: us-college-ed-ea-rea-rd-admission-data-strategy
+slug: zh-cn/us-college-ed-ea-rea-rd-admission-data-strategy
 ogImage: 'https://img.faq.college/留学-大学FAQ/us-college-ed-ea-rea-rd-admission-data-strategy-2026-1880x1253.jpg'
 tags:
   - '美国大学申请'

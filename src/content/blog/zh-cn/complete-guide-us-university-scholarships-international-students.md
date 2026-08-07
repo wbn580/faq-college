@@ -4,7 +4,7 @@ description: '本文为国际学生提供美国大学奖学金申请完整指南
 pubDatetime: '2026-05-23T00:00:00Z'
 publishDate: '2026-05-23T00:00:00Z'
 modDatetime: '2026-05-23T00:00:00Z'
-slug: complete-guide-us-university-scholarships-international-students
+slug: zh-cn/complete-guide-us-university-scholarships-international-students
 ogImage: 'https://img.faq.college/留学-大学FAQ/complete-guide-us-university-scholarships-international-students-2026-1880x1255.jpg'
 tags:
   - '美国大学奖学金'

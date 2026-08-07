@@ -4,7 +4,7 @@ description: '深度梳理留学申请文书（PS/SOP/推荐信）中最容易�
 pubDatetime: '2026-05-22T00:00:00Z'
 publishDate: '2026-05-22T00:00:00Z'
 modDatetime: '2026-05-22T00:00:00Z'
-slug: common-mistakes-in-college-application-essays-ps-sop-recommendation-letters
+slug: zh-cn/common-mistakes-in-college-application-essays-ps-sop-recommendation-letters
 ogImage: 'https://img.faq.college/留学-大学FAQ/common-mistakes-in-college-application-essays-ps-sop-recommendation-letters-2026-1880x1253.jpg'
 tags:
   - '留学文书'
