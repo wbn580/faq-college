@@ -1,5 +1,3 @@
-Sitemap: https://faq.college/sitemap-index.xml
-
 User-agent: *
 Allow: /
 
@@ -40,3 +38,5 @@ User-agent: Yisouspider
 Allow: /
 User-agent: ToutiaoSpider
 Allow: /
+
+Sitemap: https://faq.college/sitemap-index.xml
