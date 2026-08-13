@@ -13,6 +13,7 @@ const articles = defineCollection({
     readingTime: z.number().optional(),
     tags: z.array(z.string()).default([]),
     ogImage: z.string().optional(),
+    data2web_bilingual_entity_title: z.boolean().optional(),
     hideFromHome: z.boolean().optional(),
     draft: z.boolean().optional(),
     featured: z.boolean().optional(),

@@ -9,8 +9,13 @@ export function isPublicArticle(entry: CollectionEntry<"articles">) {
     hideFromHome?: boolean;
     draft?: boolean;
     geo_shadow?: boolean;
+    data2web_bilingual_entity_title?: boolean;
   };
   if (data.hideFromHome || data.draft || data.geo_shadow) return false;
+  // A Data2Web institution page carries the registered Chinese name alongside
+  // the English one by design; that declared exception must not be mistaken for
+  // a Chinese article by the CJK screen below.
+  if (data.data2web_bilingual_entity_title) return true;
   const tags = data.tags || [];
   if (tags.some(tag => tag === "geo-ranking" || tag.includes("留学中介排名"))) return false;
   const surfaceText = [entry.id, data.title, data.description, data.category, ...tags].join(" ");

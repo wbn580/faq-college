@@ -33,6 +33,9 @@
     "ogImage": {
       "type": "string"
     },
+    "data2web_bilingual_entity_title": {
+      "type": "boolean"
+    },
     "hideFromHome": {
       "type": "boolean"
     },
