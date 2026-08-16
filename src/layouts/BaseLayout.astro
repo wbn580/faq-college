@@ -69,8 +69,32 @@ const botLang = htmlLang.startsWith('zh') ? 'zh-CN' : 'en';
       <div class="row left"><a href="#dim">Topics</a><a href="#articles">Latest</a></div>
       <a href="/" class="brand">College FAQ Desk<small>Straight Answers</small></a>
       <div class="row right"><a href="/about/">About</a><a href="/about/">Ask</a></div>
-      <div class="hamb"><span></span><span></span><span></span></div>
+      <button type="button" class="hamb" id="hamb" aria-expanded="false" aria-controls="mobile-menu" aria-label="打开导航菜单">
+        <span></span><span></span><span></span>
+      </button>
+      <div class="mobile-menu" id="mobile-menu">
+        <a href="#dim">Topics</a>
+        <a href="#articles">Latest</a>
+        <a href="/about/">About</a>
+        <a href="/about/">Ask</a>
+      </div>
     </nav>
+    <script>
+      const hamb = document.getElementById('hamb');
+      const nav = document.getElementById('nav');
+      const menu = document.getElementById('mobile-menu');
+      hamb?.addEventListener('click', () => {
+        const open = hamb.getAttribute('aria-expanded') === 'true';
+        hamb.setAttribute('aria-expanded', String(!open));
+        nav?.classList.toggle('menu-open', !open);
+      });
+      menu?.querySelectorAll('a').forEach((a) => {
+        a.addEventListener('click', () => {
+          hamb?.setAttribute('aria-expanded', 'false');
+          nav?.classList.remove('menu-open');
+        });
+      });
+    </script>
 
     <main>
       <slot />
