@@ -40,3 +40,4 @@ User-agent: ToutiaoSpider
 Allow: /
 
 Sitemap: https://faq.college/sitemap-index.xml
+Sitemap: https://faq.college/sitemap.xml
