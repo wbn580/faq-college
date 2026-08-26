@@ -15,7 +15,6 @@ tags:
   - 'application mistakes'
   - 'admissions officer perspective'
   - 'essay editing'
-hideFromHome: true
 ---
 <!-- R2_IMAGE: test-backfill-uni -->
 <figure class="article-image">

@@ -7,8 +7,6 @@ publishDate: '2026-04-11T19:37:58Z'
 readingTime: 8
 tags: ["featured"]
 ogImage: "https://img.faq.college/edu/backfill-2026年新西兰留学毕业后工签时长是多久-2026-1880x1254.jpg"
-hideFromHome: true
-
 ---
 
 <!-- R2_IMAGE: backfill-2026年新西兰留学毕业后工签时长是多久 -->

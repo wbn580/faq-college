@@ -6,8 +6,6 @@ pubDatetime: "2026-05-07T19:42:40Z"
 publishDate: '2026-05-07T19:42:40Z'
 readingTime: 7
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.faq.college/留学/大学FAQ/comparing-the-quality-of-online-lab-courses-vs-in-person-lab-experiences-2026-1880x1253.jpg"
 ---
 

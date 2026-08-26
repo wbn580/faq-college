@@ -6,7 +6,6 @@ publishDate: '2026-04-30T10:52:49Z'
 modDatetime: '2026-08-01T11:51:06Z'
 slug: zh-cn/faq-college-0865
 draft: false
-hideFromHome: true
 lang: zh-CN
 language: zh-CN
 tags:

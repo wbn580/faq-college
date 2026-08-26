@@ -4,7 +4,6 @@ description: "A comprehensive comparison of university tuition fees for internat
 category: "cost"
 publishDate: "2026-05-15T08:00:00Z"
 ogImage: "https://img.faq.college/edu/backfill-australia-vs-uk-vs-canada-2026-which-cou-2026-1880x1253.jpg"
-hideFromHome: true
 tags: ["featured"]
 ---
 

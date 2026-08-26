@@ -15,7 +15,6 @@ tags:
   - '留学申请错误'
   - '招生官视角'
   - '文书优化'
-hideFromHome: true
 ---
 <!-- R2_IMAGE: test-backfill-uni -->
 <figure class="article-image">

@@ -18,7 +18,6 @@ tags:
   - '汇率锁定'
   - '分批付款'
   - '留学省钱'
-hideFromHome: true
 ---
 <!-- R2_IMAGE: test-backfill-uni -->
 <figure class="article-image">

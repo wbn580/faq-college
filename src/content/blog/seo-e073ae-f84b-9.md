@@ -10,7 +10,6 @@ featured: false
 schema:
   faq: true
 ogImage: "https://img.faq.college/rehost/850b4fe5e730.jpg"
-hideFromHome: true
 ---
 ## Direct Answer
 If you are agonizing over "which country to study abroad in for 2026," start with this quick-reference card:  

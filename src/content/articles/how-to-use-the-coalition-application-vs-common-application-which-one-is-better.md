@@ -6,8 +6,6 @@ pubDatetime: "2026-05-09T19:43:00Z"
 publishDate: '2026-05-09T19:43:00Z'
 readingTime: 5
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.faq.college/留学/大学FAQ/how-to-use-the-coalition-application-vs-common-application-which-one-is-better-2026-1880x1253.jpg"
 ---
 

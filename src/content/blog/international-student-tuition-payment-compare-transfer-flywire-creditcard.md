@@ -18,7 +18,6 @@ tags:
   - 'rate locking'
   - 'installment payments'
   - 'study abroad savings'
-hideFromHome: true
 ---
 <!-- R2_IMAGE: test-backfill-uni -->
 <figure class="article-image">

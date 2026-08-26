@@ -6,8 +6,6 @@ pubDatetime: "2026-04-13T19:38:21Z"
 publishDate: '2026-04-13T19:38:21Z'
 readingTime: 6
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.faq.college/留学/大学FAQ/comparing-online-degrees-vs-traditional-campus-programs-which-employers-prefer-2026-1880x1253.jpg"
 ---
 

@@ -6,8 +6,6 @@ pubDatetime: "2026-05-13T19:43:42Z"
 publishDate: '2026-05-13T19:43:42Z'
 readingTime: 7
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.faq.college/留学/大学FAQ/comparing-the-benefits-of-study-abroad-in-europe-vs-asia-for-language-majors-2026-1880x1253.jpg"
 ---
 

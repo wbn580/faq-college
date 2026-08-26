@@ -7,8 +7,6 @@ publishDate: '2026-04-19T19:39:23Z'
 readingTime: 7
 tags: ["featured"]
 ogImage: "https://img.faq.college/edu/test-backfill-uni-2026-1880x1253.jpg"
-hideFromHome: true
-
 ---
 
 <!-- R2_IMAGE: test-backfill-uni -->

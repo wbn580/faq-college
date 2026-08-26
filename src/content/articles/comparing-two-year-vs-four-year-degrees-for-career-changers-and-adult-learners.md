@@ -7,8 +7,6 @@ publishDate: '2026-04-16T19:38:51Z'
 readingTime: 9
 tags: ["featured"]
 ogImage: "https://img.faq.college/edu/backfill-2026年澳洲求职热门行业薪资与紧缺职业清单-2026-1880x1058.jpg"
-hideFromHome: true
-
 ---
 
 <!-- R2_IMAGE: backfill-2026年澳洲求职热门行业薪资与紧缺职业清单 -->

@@ -13,7 +13,6 @@ tags:
   - 'acceptance rate analysis'
   - 'school selection advice'
   - 'application round review'
-hideFromHome: true
 ---
 <!-- R2_IMAGE: backfill-cómo-solicitar-la-visa-de-estudiante-par -->
 <figure class="article-image">

@@ -10,7 +10,6 @@ featured: false
 schema:
   faq: true
 ogImage: "https://img.faq.college/rehost/850b4fe5e730.jpg"
-hideFromHome: true
 ---
 ## 直接答案
 如果你正在纠结“2026年出国留学到底去哪个国家”，可以先看这张速览卡片：  
