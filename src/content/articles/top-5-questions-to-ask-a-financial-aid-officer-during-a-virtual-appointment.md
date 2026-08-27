@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Questions to Ask a Financial Aid Officer During a Virtual Appointment"
 description: "A 20-minute virtual appointment with a financial aid officer is your single best opportunity to clarify exactly how much college will cost and what you can d…"
-category: "Top"
+category: "financial-aid"
 pubDatetime: "2026-04-28T19:40:57Z"
 publishDate: '2026-04-28T19:40:57Z'
 readingTime: 7

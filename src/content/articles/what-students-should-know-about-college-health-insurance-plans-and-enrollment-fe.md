@@ -1,7 +1,7 @@
 ---
 title: "What Students Should Know About College Health Insurance Plans and Enrollment Fees"
 description: "Nearly 60% of U.S. colleges require full-time undergraduate students to carry health insurance, with average annual premiums for university-sponsored plans r…"
-category: "What"
+category: "applications"
 pubDatetime: "2026-05-08T19:42:50Z"
 publishDate: '2026-05-08T19:42:50Z'
 readingTime: 9

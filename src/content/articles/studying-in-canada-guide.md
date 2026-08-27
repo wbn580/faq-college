@@ -1,7 +1,7 @@
 ---
 title: "Studying in Canada · International Student Guide"
 description: "A comprehensive guide for international students considering Canadian universities — study permit, PGWP pathway, costs, top universities, and the path to permanent residency."
-category: "compare"
+category: "campus-life"
 publishDate: "2026-05-15T08:00:00Z"
 ogImage: "https://img.faq.college/edu/backfill-australia-vs-uk-vs-canada-2026-which-cou-2026-1880x1253.jpg"
 tags: ["featured"]

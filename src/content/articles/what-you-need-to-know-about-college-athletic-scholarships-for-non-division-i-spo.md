@@ -1,7 +1,7 @@
 ---
 title: "What You Need to Know About College Athletic Scholarships for Non Division I Sports"
 description: "Most student-athletes and their families assume that athletic scholarships only exist in Division I powerhouse sports like football and basketball. That assu…"
-category: "What"
+category: "financial-aid"
 pubDatetime: "2026-05-10T19:43:11Z"
 publishDate: '2026-05-10T19:43:11Z'
 readingTime: 8

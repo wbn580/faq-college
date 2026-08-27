@@ -1,7 +1,7 @@
 ---
 title: "Best Online Tools to Create a College Application Master List and Track Deadlines"
 description: "Managing 8–15 college applications simultaneously means tracking 40–60 distinct deadlines across platforms like the Common App, Coalition App, and individual…"
-category: "Best"
+category: "applications"
 pubDatetime: "2026-04-25T19:40:31Z"
 publishDate: '2026-04-25T19:40:31Z'
 readingTime: 7

@@ -1,7 +1,7 @@
 ---
 title: "How to Calculate Your Expected Family Contribution and What It Actually Means"
 description: "Your Expected Family Contribution (EFC) is a dollar figure colleges use to determine your financial aid package, not the actual amount your family must pay. …"
-category: "How"
+category: "financial-aid"
 pubDatetime: "2026-04-30T19:41:20Z"
 publishDate: '2026-04-30T19:41:20Z'
 readingTime: 7

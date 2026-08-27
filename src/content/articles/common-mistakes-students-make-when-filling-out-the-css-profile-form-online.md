@@ -1,7 +1,7 @@
 ---
 title: "Common Mistakes Students Make When Filling Out the CSS Profile Form Online"
 description: "Nearly 200 U.S. colleges and universities require the CSS Profile for non-federal financial aid, yet the College Board reported that in the 2023-2024 cycle, …"
-category: "Common"
+category: "financial-aid"
 pubDatetime: "2026-04-17T19:38:58Z"
 publishDate: '2026-04-17T19:38:58Z'
 readingTime: 7

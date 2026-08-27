@@ -1,7 +1,7 @@
 ---
 title: "How to Prepare for College Orientation Week to Make the Most of It From Day One"
 description: "College orientation week is your first structured opportunity to build the social, academic, and logistical foundation for the next four years. According to …"
-category: "How"
+category: "campus-life"
 pubDatetime: "2026-05-06T19:42:18Z"
 publishDate: '2026-05-06T19:42:18Z'
 readingTime: 7

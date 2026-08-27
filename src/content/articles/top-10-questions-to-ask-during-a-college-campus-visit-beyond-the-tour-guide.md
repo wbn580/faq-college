@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Questions to Ask During a College Campus Visit Beyond the Tour Guide"
 description: "A standard campus tour shows you the library, the dining hall, and the freshman dorms. But it rarely tells you what 34% of first-year students at four-year i…"
-category: "Top"
+category: "campus-life"
 pubDatetime: "2026-04-17T19:38:59Z"
 publishDate: '2026-04-17T19:38:59Z'
 readingTime: 5

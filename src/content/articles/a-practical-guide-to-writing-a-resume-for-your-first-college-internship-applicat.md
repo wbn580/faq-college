@@ -1,7 +1,7 @@
 ---
 title: "A Practical Guide to Writing a Resume for Your First College Internship Application"
 description: "A single-page resume is the most critical document in your college internship application, yet 63% of hiring managers spend less than 10 seconds scanning it …"
-category: "A"
+category: "applications"
 pubDatetime: "2026-04-16T19:38:56Z"
 publishDate: '2026-04-16T19:38:56Z'
 readingTime: 7

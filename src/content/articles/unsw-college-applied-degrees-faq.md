@@ -1,7 +1,7 @@
 ---
 title: "UNSW College（新南威尔士大学学院）Applied Degrees: The Questions Applicants Actually Ask"
 description: "Answers the real questions about UNSW College Applied Degrees: who awards them, cost, entry, English scores, start dates, placements and what happens after graduation."
-category: "general"
+category: "standardized-tests"
 publishDate: "2026-08-12"
 pubDatetime: '2026-08-12T02:00:00Z'
 modDatetime: '2026-08-12T02:00:00Z'

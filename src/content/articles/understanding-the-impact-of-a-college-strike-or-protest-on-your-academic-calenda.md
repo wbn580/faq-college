@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Impact of a College Strike or Protest on Your Academic Calendar"
 description: "A single week of a faculty strike can delay a semester by 2–4 weeks, and a student-led protest occupying a main administrative building has historically exte…"
-category: "Understanding"
+category: "standardized-tests"
 pubDatetime: "2026-05-14T19:43:59Z"
 publishDate: '2026-05-14T19:43:59Z'
 readingTime: 8

@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Questions to Ask at a College Virtual Open House to Get Insider Info"
 description: "A virtual open house is often the first real look a prospective student gets at a university, but the standard admissions spiel rarely reveals the details th…"
-category: "Top"
+category: "applications"
 pubDatetime: "2026-05-12T19:43:29Z"
 publishDate: '2026-05-12T19:43:29Z'
 readingTime: 7

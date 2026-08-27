@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Books Every College Bound Student Should Read Before Freshman Year"
 description: "The transition from high school to college represents one of the most significant intellectual and social shifts a young person undergoes. According to the N…"
-category: "Top"
+category: "campus-life"
 pubDatetime: "2026-05-09T19:43:00Z"
 publishDate: '2026-05-09T19:43:00Z'
 readingTime: 12

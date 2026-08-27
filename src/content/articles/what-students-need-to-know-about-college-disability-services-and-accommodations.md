@@ -1,7 +1,7 @@
 ---
 title: "What Students Need to Know About College Disability Services and Accommodations"
 description: "Approximately 19% of undergraduate students in the United States report having a disability, according to the National Center for Education Statistics (NCES …"
-category: "What"
+category: "campus-life"
 pubDatetime: "2026-05-13T19:43:51Z"
 publishDate: '2026-05-13T19:43:51Z'
 readingTime: 9

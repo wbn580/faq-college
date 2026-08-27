@@ -1,7 +1,7 @@
 ---
 title: "How AP and IB Credits Transfer to Different Universities Across the Country"
 description: "In the 2023-2024 academic year, over 1.4 million U.S. high school students took at least one Advanced Placement (AP) exam, and more than 120,000 sat for Inte…"
-category: "How"
+category: "standardized-tests"
 pubDatetime: "2026-04-20T19:39:28Z"
 publishDate: '2026-04-20T19:39:28Z'
 readingTime: 8

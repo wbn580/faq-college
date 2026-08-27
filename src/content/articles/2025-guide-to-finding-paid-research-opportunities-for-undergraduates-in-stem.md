@@ -1,7 +1,7 @@
 ---
 title: "2025 Guide to Finding Paid Research Opportunities for Undergraduates in STEM"
 description: "Only 22% of STEM undergraduates in the U.S. participate in paid research before graduation, according to the National Science Foundation's 2023 Survey of Ear…"
-category: "2025"
+category: "financial-aid"
 pubDatetime: "2026-05-08T19:42:50Z"
 publishDate: '2026-05-08T19:42:50Z'
 readingTime: 7

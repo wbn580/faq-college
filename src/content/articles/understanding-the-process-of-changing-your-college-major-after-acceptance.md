@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Process of Changing Your College Major After Acceptance"
 description: "About 30% of U.S. undergraduate students change their major within the first three years of enrollment, according to the National Center for Education Statis…"
-category: "Understanding"
+category: "applications"
 pubDatetime: "2026-05-22T19:45:29Z"
 publishDate: '2026-05-22T19:45:29Z'
 readingTime: 7

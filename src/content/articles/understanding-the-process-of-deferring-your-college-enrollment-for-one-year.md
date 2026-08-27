@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Process of Deferring Your College Enrollment for One Year"
 description: "Approximately 3–5% of admitted U.S. college students defer their enrollment each year, according to a 2023 survey by the American Association of Collegiate R…"
-category: "Understanding"
+category: "applications"
 pubDatetime: "2026-05-06T19:42:26Z"
 publishDate: '2026-05-06T19:42:26Z'
 readingTime: 7

@@ -1,7 +1,7 @@
 ---
 title: "How to Identify and Avoid Predatory Lenders When Looking for Private Student Loans"
 description: "Private student loans fill a gap that federal loans can’t cover, but the wrong lender can cost you thousands in hidden fees and interest. The Consumer Financ…"
-category: "How"
+category: "financial-aid"
 pubDatetime: "2026-05-12T19:43:32Z"
 publishDate: '2026-05-12T19:43:32Z'
 readingTime: 8

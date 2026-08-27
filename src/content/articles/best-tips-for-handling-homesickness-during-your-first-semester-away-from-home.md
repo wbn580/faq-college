@@ -1,7 +1,7 @@
 ---
 title: "Best Tips for Handling Homesickness During Your First Semester Away From Home"
 description: "Nearly 70% of first-year college students report experiencing homesickness during their initial semester, according to a 2022 study published in the *Journal…"
-category: "Best"
+category: "applications"
 pubDatetime: "2026-05-15T19:44:04Z"
 publishDate: '2026-05-15T19:44:04Z'
 readingTime: 5

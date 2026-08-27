@@ -1,7 +1,7 @@
 ---
 title: "Why Some Colleges Have Supplemental Essays and How to Answer Them Creatively"
 description: "About 25% of U.S. colleges and universities require at least one supplemental essay beyond the Common App or Coalition App personal statement, according to t…"
-category: "Why"
+category: "applications"
 pubDatetime: "2026-05-12T19:43:39Z"
 publishDate: '2026-05-12T19:43:39Z'
 readingTime: 7

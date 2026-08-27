@@ -1,7 +1,7 @@
 ---
 title: "Best Countries to Study Abroad · Comparing Education Systems"
 description: "Which country is best for international students — comparing Australia, UK, US, Canada, and European destinations across cost, quality, visa pathways, and post-study work rights."
-category: "compare"
+category: "campus-life"
 publishDate: "2026-05-15T08:00:00Z"
 ogImage: "https://img.faq.college/edu/backfill-australia-vs-uk-vs-canada-2026-which-cou-2026-1880x1253.jpg"
 tags: ["featured"]

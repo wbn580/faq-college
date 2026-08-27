@@ -1,7 +1,7 @@
 ---
 title: "Studying in the UK · International Student Guide"
 description: "A comprehensive guide for international students considering UK universities — UCAS, visa requirements, costs, NHS surcharge, Graduate Route visa, and academic culture."
-category: "compare"
+category: "campus-life"
 publishDate: "2026-05-15T08:00:00Z"
 ogImage: "https://img.faq.college/edu/backfill-2026-年英國學生簽證student-visa申請流程有咩改動-2026-1880x1176.jpg"
 tags: ["featured"]

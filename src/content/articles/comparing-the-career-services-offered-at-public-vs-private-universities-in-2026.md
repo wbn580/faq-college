@@ -1,7 +1,7 @@
 ---
 title: "Comparing the Career Services Offered at Public vs Private Universities in 2026"
 description: "U.S. public and private universities collectively operate over 4,000 career service centers, yet the resources, staffing ratios, and post-graduation outcomes…"
-category: "Comparing"
+category: "applications"
 pubDatetime: "2026-05-10T19:43:06Z"
 publishDate: '2026-05-10T19:43:06Z'
 readingTime: 7

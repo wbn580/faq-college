@@ -5,7 +5,7 @@ pubDatetime: '2026-08-05T00:00:00Z'
 publishDate: '2026-08-05T00:00:00Z'
 modDatetime: '2026-08-05T00:00:00Z'
 slug: 'faq-college-160-guide-2026-08-05-41f63eae15'
-category: 'general'
+category: "applications"
 language: 'en'
 lang: 'en'
 ogImage: 'https://img.faq.college/留学-大学FAQ/faq-college-160-guide-2026-08-05-41f63eae15-image-01-2026-1280x800.jpg'

@@ -1,7 +1,7 @@
 ---
 title: "Why Some Colleges Require a Portfolio for Admission and How to Prepare Yours"
 description: "A portfolio is a curated collection of your best work that demonstrates your skills, creativity, and potential in a specific field, and it is a requirement f…"
-category: "Why"
+category: "applications"
 pubDatetime: "2026-04-29T19:41:05Z"
 publishDate: '2026-04-29T19:41:05Z'
 readingTime: 8

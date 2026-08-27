@@ -1,7 +1,7 @@
 ---
 title: "免费职业兴趣测评推荐：霍兰德代码与MBTI"
 description: "Only 27% of U.S. high school students who take a career interest assessment later enroll in a college major aligned with their results, according to the Nati…"
-category: "免费职业兴趣测评推荐：霍"
+category: "standardized-tests"
 pubDatetime: "2026-03-05T19:31:22Z"
 publishDate: '2026-03-05T19:31:22Z'
 readingTime: 3

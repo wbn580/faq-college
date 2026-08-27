@@ -1,7 +1,7 @@
 ---
 title: "How to Prepare for the Transition to College Academics as a First Year Student"
 description: "The transition from high school to college academics is one of the steepest learning curves students face, with data showing that **nearly 30% of first-year …"
-category: "How"
+category: "applications"
 pubDatetime: "2026-05-13T19:43:42Z"
 publishDate: '2026-05-13T19:43:42Z'
 readingTime: 9

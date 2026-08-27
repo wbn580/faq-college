@@ -1,7 +1,7 @@
 ---
 title: "Gap Year Before University · Pros, Cons, and Planning"
 description: "Should you take a gap year? The academic, financial, and personal development arguments, deferred entry options, and how to plan a productive gap year."
-category: "apply"
+category: "applications"
 publishDate: "2026-05-15T08:00:00Z"
 ogImage: "https://img.faq.college/edu/test-backfill-uni-2026-1880x1253.jpg"
 tags: ["featured"]

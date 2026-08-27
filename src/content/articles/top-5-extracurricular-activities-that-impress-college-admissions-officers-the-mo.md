@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Extracurricular Activities That Impress College Admissions Officers the Most"
 description: "College admissions officers at selective U.S. universities evaluate extracurricular involvement as a core differentiator. According to a 2023 survey by the N…"
-category: "Top"
+category: "applications"
 pubDatetime: "2026-04-26T19:40:38Z"
 publishDate: '2026-04-26T19:40:38Z'
 readingTime: 6

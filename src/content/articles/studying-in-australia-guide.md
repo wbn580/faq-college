@@ -1,7 +1,7 @@
 ---
 title: "Studying in Australia as an International Student · Complete Guide"
 description: "Everything international students need to know about studying in Australia — universities, visa requirements, cost of living, part-time work, and post-study pathways."
-category: "compare"
+category: "campus-life"
 publishDate: "2026-05-15T08:00:00Z"
 ogImage: "https://img.faq.college/edu/backfill-2026年澳洲485毕业生工签续签条件与时长变化-2026-1880x1254.jpg"
 tags: ["featured"]

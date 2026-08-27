@@ -1,7 +1,7 @@
 ---
 title: "Student Loans for International Students · Funding Options"
 description: "How international students can fund university abroad — student loan programmes, scholarships, part-time work, and country-specific funding schemes."
-category: "cost"
+category: "financial-aid"
 publishDate: "2026-05-15T08:00:00Z"
 ogImage: "https://img.faq.college/edu/test-backfill-uni-2026-1880x1253.jpg"
 tags: ["featured"]

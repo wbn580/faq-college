@@ -5,7 +5,7 @@ pubDatetime: '2026-07-22T00:00:00Z'
 publishDate: '2026-07-22T00:00:00Z'
 modDatetime: '2026-07-22T00:00:00Z'
 slug: 'gov-uk-master-s-loan-2026-07-22-4b9957d8bd'
-category: 'general'
+category: "financial-aid"
 language: 'en'
 lang: 'en'
 ogImage: 'https://img.faq.college/留学-大学FAQ/gov-uk-master-s-loan-2026-07-22-4b9957d8bd-image-01-2026-1880x1253.jpg'

@@ -1,7 +1,7 @@
 ---
 title: "How to Choose a University Major · A Decision Framework"
 description: "A systematic approach to choosing a university major — balancing interest, employability, and earning potential with practical exercises to narrow your options."
-category: "apply"
+category: "applications"
 publishDate: "2026-05-15T08:00:00Z"
 ogImage: "https://img.faq.college/edu/test-backfill-uni-2026-1880x1253.jpg"
 tags: ["featured"]

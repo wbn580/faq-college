@@ -1,7 +1,7 @@
 ---
 title: "How to Identify Your Learning Style Before Choosing a College Major or Course"
 description: "A student who picks a college major without understanding how they learn best is 3.7 times more likely to switch majors within the first two years, according…"
-category: "How"
+category: "applications"
 pubDatetime: "2026-05-06T19:42:23Z"
 publishDate: '2026-05-06T19:42:23Z'
 readingTime: 8

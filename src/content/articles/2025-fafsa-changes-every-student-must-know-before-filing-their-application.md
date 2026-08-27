@@ -1,7 +1,7 @@
 ---
 title: "2025 FAFSA Changes Every Student Must Know Before Filing Their Application"
 description: "The 2025-2026 FAFSA cycle introduces the most significant structural overhaul since the 2021 FAFSA Simplification Act, directly altering how students report …"
-category: "2025"
+category: "applications"
 pubDatetime: "2026-04-10T19:37:45Z"
 publishDate: '2026-04-10T19:37:45Z'
 readingTime: 8

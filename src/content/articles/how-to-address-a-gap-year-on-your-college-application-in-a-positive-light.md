@@ -1,7 +1,7 @@
 ---
 title: "How to Address a Gap Year on Your College Application in a Positive Light"
 description: "A gap year — a break of one semester or a full academic year between high school and college — is taken by roughly 3% of U.S. high school graduates annually,…"
-category: "How"
+category: "applications"
 pubDatetime: "2026-05-21T19:45:24Z"
 publishDate: '2026-05-21T19:45:24Z'
 readingTime: 7

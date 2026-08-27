@@ -1,7 +1,7 @@
 ---
 title: "Should You Live Off Campus in Your Second Year Weighing Costs and Social Life"
 description: "Moving off campus after your first year is one of the biggest decisions a college student makes, and the data shows it carries real trade-offs. According to …"
-category: "Should"
+category: "campus-life"
 pubDatetime: "2026-04-18T19:39:18Z"
 publishDate: '2026-04-18T19:39:18Z'
 readingTime: 7

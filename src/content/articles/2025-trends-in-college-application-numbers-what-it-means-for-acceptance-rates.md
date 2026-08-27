@@ -1,7 +1,7 @@
 ---
 title: "2025 Trends in College Application Numbers What It Means for Acceptance Rates"
 description: "Total undergraduate applications submitted through the Common App reached 7,327,247 for the 2024-25 cycle, a 7% increase over the prior year, according to th…"
-category: "2025"
+category: "applications"
 pubDatetime: "2026-04-27T19:40:40Z"
 publishDate: '2026-04-27T19:40:40Z'
 readingTime: 7

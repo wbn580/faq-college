@@ -1,7 +1,7 @@
 ---
 title: "Why Some Colleges Are Dropping Standardized Test Requirements and What It Means"
 description: "As of the 2024-2025 admissions cycle, over 80% of U.S. bachelor’s degree-granting institutions have either permanently or temporarily dropped their SAT/ACT r…"
-category: "Why"
+category: "standardized-tests"
 pubDatetime: "2026-04-15T19:38:33Z"
 publishDate: '2026-04-15T19:38:33Z'
 readingTime: 7

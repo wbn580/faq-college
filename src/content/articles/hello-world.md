@@ -1,7 +1,7 @@
 ---
 title: "Hello World"
 description: "Welcome to College FAQ Desk"
-category: "welcome"
+category: "applications"
 pubDatetime: "2026-02-21T00:00:00Z"
 publishDate: '2026-02-21T00:00:00Z'
 readingTime: 1

@@ -1,7 +1,7 @@
 ---
 title: "How to Prepare a College Application Timeline Starting From Your Sophomore Year"
 description: "Starting college applications in sophomore year (grade 10) gives you 36 months to build a competitive profile, which is 18 months more than students who star…"
-category: "How"
+category: "applications"
 pubDatetime: "2026-04-13T19:38:21Z"
 publishDate: '2026-04-13T19:38:21Z'
 readingTime: 6

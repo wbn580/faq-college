@@ -1,7 +1,7 @@
 ---
 title: "How to Apply to University Abroad · A 12-Month Timeline"
 description: "A month-by-month timeline for international university applications — from initial research through offer acceptance, visa application, and pre-departure planning."
-category: "faq"
+category: "applications"
 publishDate: "2026-05-15T04:40:00Z"
 readingTime: 7
 tags: ["applications", "timeline", "international-students", "planning"]

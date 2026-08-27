@@ -1,7 +1,7 @@
 ---
 title: "如何申请大学资助：填写FAFSA的步骤与技巧"
 description: "The 2025-2026 Free Application for Federal Student Aid (FAFSA) opens on **October 1, 2024**, and completing it accurately is the single most critical step to…"
-category: "如何申请大学资助：填写F"
+category: "financial-aid"
 pubDatetime: "2026-03-17T19:33:42Z"
 publishDate: '2026-03-17T19:33:42Z'
 readingTime: 3

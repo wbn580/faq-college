@@ -1,7 +1,7 @@
 ---
 title: "大学转学条件与流程：GPA要求与申请截止日期"
 description: "Transferring to a different university in the United States is a common academic strategy, with approximately **1 in 10** undergraduate students in the U.S. …"
-category: "大学转学条件与流程：GP"
+category: "applications"
 pubDatetime: "2026-03-26T19:35:07Z"
 publishDate: '2026-03-26T19:35:07Z'
 readingTime: 3

@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Online Communities for College Students to Share Advice and Resources"
 description: "Over **58%** of U.S. college students reported using online forums or social media groups at least weekly to seek academic or career advice, according to a 2…"
-category: "Top"
+category: "campus-life"
 pubDatetime: "2026-05-13T19:43:49Z"
 publishDate: '2026-05-13T19:43:49Z'
 readingTime: 5

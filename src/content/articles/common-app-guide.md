@@ -1,7 +1,7 @@
 ---
 title: "Common App Guide · US University Application Process"
 description: "How to apply to US universities through the Common App — essay prompts, activity list strategy, Early Decision vs Regular Decision, and tips for international students."
-category: "apply"
+category: "applications"
 publishDate: "2026-05-15T08:00:00Z"
 ogImage: "https://img.faq.college/edu/test-backfill-uni-2026-1880x1253.jpg"
 tags: ["featured"]

@@ -1,7 +1,7 @@
 ---
 title: "Best Strategies to Find a Roommate for College When You Don't Know Anyone"
 description: "Nearly 65% of U.S. college students live with at least one roommate during their first year, according to the National Center for Education Statistics (NCES,…"
-category: "Best"
+category: "campus-life"
 pubDatetime: "2026-05-21T19:45:22Z"
 publishDate: '2026-05-21T19:45:22Z'
 readingTime: 7

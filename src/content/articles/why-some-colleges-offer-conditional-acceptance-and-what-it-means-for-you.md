@@ -1,7 +1,7 @@
 ---
 title: "Why Some Colleges Offer Conditional Acceptance and What It Means for You"
 description: "A conditional acceptance—sometimes called a provisional or conditional offer—means a college has admitted you but requires you to meet specific academic, lan…"
-category: "Why"
+category: "applications"
 pubDatetime: "2026-05-05T19:42:15Z"
 publishDate: '2026-05-05T19:42:15Z'
 readingTime: 8

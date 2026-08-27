@@ -1,7 +1,7 @@
 ---
 title: "How to Write a University Personal Statement · A Step-by-Step Guide"
 description: "A practical guide to writing a standout university personal statement — structure, content, common mistakes, and examples for UCAS, Common App, and direct applications."
-category: "apply"
+category: "applications"
 publishDate: "2026-05-15T08:00:00Z"
 ogImage: "https://img.faq.college/edu/test-backfill-uni-2026-1880x1253.jpg"
 tags: ["featured"]

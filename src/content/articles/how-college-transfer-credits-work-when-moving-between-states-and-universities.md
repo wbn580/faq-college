@@ -1,7 +1,7 @@
 ---
 title: "How College Transfer Credits Work When Moving Between States and Universities"
 description: "Roughly one in three U.S. undergraduates will transfer institutions at least once during their academic career, according to the National Student Clearinghou…"
-category: "How"
+category: "applications"
 pubDatetime: "2026-04-09T19:37:38Z"
 publishDate: '2026-04-09T19:37:38Z'
 readingTime: 7

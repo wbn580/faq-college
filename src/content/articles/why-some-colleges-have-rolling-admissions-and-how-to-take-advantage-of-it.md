@@ -1,7 +1,7 @@
 ---
 title: "Why Some Colleges Have Rolling Admissions and How to Take Advantage of It"
 description: "Roughly 400 U.S. colleges and universities operate on a **rolling admissions** schedule, meaning they review applications as they arrive and continue accepti…"
-category: "Why"
+category: "applications"
 pubDatetime: "2026-05-08T19:42:48Z"
 publishDate: '2026-05-08T19:42:48Z'
 readingTime: 6

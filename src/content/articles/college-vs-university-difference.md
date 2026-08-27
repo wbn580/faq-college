@@ -1,7 +1,7 @@
 ---
 title: "College vs University · What's the Difference in Australia, UK, US, and Canada"
 description: "A clear breakdown of the college/university distinction across four major English-speaking education systems — what each term means, how they differ, and why it matters for international students."
-category: "faq"
+category: "applications"
 publishDate: "2026-05-15T04:40:00Z"
 readingTime: 8
 tags: ["college", "university", "comparison", "international-education"]

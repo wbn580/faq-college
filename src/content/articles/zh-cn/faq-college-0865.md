@@ -11,7 +11,7 @@ language: zh-CN
 tags:
 - faq-college 录取要求与学术背景参考
 ogImage: /images/homepage-college-hero.jpg
-category: '2026'
+category: "applications"
 ---
 
 ## 录取要求到底包含哪些内容

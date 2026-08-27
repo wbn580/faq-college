@@ -1,7 +1,7 @@
 ---
 title: "What You Should Know About College Placement Agencies Before Hiring One"
 description: "About 28% of U.S. high school students who enroll in a four-year college use some form of private admissions counseling, according to the 2023 *State of Coll…"
-category: "What"
+category: "applications"
 pubDatetime: "2026-05-04T19:41:57Z"
 publishDate: '2026-05-04T19:41:57Z'
 readingTime: 6

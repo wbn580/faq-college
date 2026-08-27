@@ -1,7 +1,7 @@
 ---
 title: "Why Some Colleges Have a Core Curriculum and How It Differs From Open Curriculum"
 description: "In the 2023–2024 academic year, approximately 72% of U.S. bachelor’s degree-granting institutions required some form of general education or core curriculum …"
-category: "Why"
+category: "applications"
 pubDatetime: "2026-05-18T19:44:48Z"
 publishDate: '2026-05-18T19:44:48Z'
 readingTime: 8

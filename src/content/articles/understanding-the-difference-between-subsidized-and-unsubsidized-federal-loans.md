@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Difference Between Subsidized and Unsubsidized Federal Loans"
 description: "The U.S. Department of Education disbursed approximately $95.7 billion in federal student loans during the 2022–2023 award year, with Direct Subsidized and D…"
-category: "Understanding"
+category: "financial-aid"
 pubDatetime: "2026-04-15T19:38:33Z"
 publishDate: '2026-04-15T19:38:33Z'
 readingTime: 7

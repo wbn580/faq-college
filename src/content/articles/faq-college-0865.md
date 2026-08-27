@@ -11,7 +11,7 @@ language: en
 tags:
 - admission requirements academic background
 ogImage: /images/homepage-college-hero.jpg
-category: '2026'
+category: "standardized-tests"
 ---
 
 ## What "Admission Requirements" Actually Include

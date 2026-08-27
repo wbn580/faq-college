@@ -1,7 +1,7 @@
 ---
 title: "2025 Guide to Applying for Need Blind Colleges and What They Actually Cover"
 description: "Only 7 U.S. institutions currently meet the strict definition of need-blind for all applicants, including international students, according to the 2024-2025 …"
-category: "2025"
+category: "applications"
 pubDatetime: "2026-05-05T19:42:14Z"
 publishDate: '2026-05-05T19:42:14Z'
 readingTime: 7

@@ -1,7 +1,7 @@
 ---
 title: "IELTS vs TOEFL vs PTE · English Test Comparison for University"
 description: "Which English proficiency test should international students take? A practical comparison of IELTS Academic, TOEFL iBT, and PTE Academic — format, scoring, costs, and university acceptance."
-category: "apply"
+category: "applications"
 publishDate: "2026-05-15T08:00:00Z"
 ogImage: "https://img.faq.college/edu/test-backfill-uni-2026-1880x1253.jpg"
 tags: ["featured"]

@@ -1,7 +1,7 @@
 ---
 title: "What You Need to Know About Applying for Financial Aid as an Independent Student"
 description: "Only 1.9% of U.S. undergraduates were classified as independent without dependents in 2020, according to the National Center for Education Statistics (NCES, …"
-category: "What"
+category: "financial-aid"
 pubDatetime: "2026-04-15T19:38:42Z"
 publishDate: '2026-04-15T19:38:42Z'
 readingTime: 6

@@ -1,7 +1,7 @@
 ---
 title: "University Application Deadlines 2026 · A Complete Calendar"
 description: "All major university application deadlines for 2026–2027 — UCAS (UK), Common App (US), OUAC (Canada), UAC (Australia), and major European systems in one consolidated calendar."
-category: "apply"
+category: "applications"
 publishDate: "2026-05-15T08:00:00Z"
 ogImage: "https://img.faq.college/edu/backfill-australia-vs-uk-vs-canada-2026-which-cou-2026-1880x1253.jpg"
 tags: ["featured"]

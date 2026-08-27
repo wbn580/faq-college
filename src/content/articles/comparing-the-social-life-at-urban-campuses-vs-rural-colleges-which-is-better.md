@@ -1,7 +1,7 @@
 ---
 title: "Comparing the Social Life at Urban Campuses vs Rural Colleges Which Is Better"
 description: "The choice between an urban university campus and a rural college is one of the most consequential decisions a prospective student can make, directly shaping…"
-category: "Comparing"
+category: "campus-life"
 pubDatetime: "2026-05-01T19:41:34Z"
 publishDate: '2026-05-01T19:41:34Z'
 readingTime: 6

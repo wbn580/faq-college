@@ -1,7 +1,7 @@
 ---
 title: "Transfer Between Universities · Domestic and International Transfers"
 description: "How to transfer between universities — the credit transfer process, articulation agreements, timing, and practical steps for both domestic and international students."
-category: "apply"
+category: "applications"
 publishDate: "2026-05-15T08:00:00Z"
 
 ogImage: "https://img.faq.college/留学/大学FAQ/university-transfer-guide-2026-1880x1253.jpg"

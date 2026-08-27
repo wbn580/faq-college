@@ -1,7 +1,7 @@
 ---
 title: "Why Some Colleges Offer Conditional Scholarships and How to Maintain Eligibility"
 description: "Conditional scholarships are merit- or need-based awards that require students to meet specific benchmarks—such as a minimum GPA, full-time enrollment, or co…"
-category: "Why"
+category: "applications"
 pubDatetime: "2026-05-16T19:44:22Z"
 publishDate: '2026-05-16T19:44:22Z'
 readingTime: 6

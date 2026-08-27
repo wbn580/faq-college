@@ -1,7 +1,7 @@
 ---
 title: "What to Do If Your College GPA Drops Below a 2.0 Academic Probation Explained"
 description: "A GPA drop below 2.0 triggers academic probation at most U.S. universities, and the immediate consequences are more structured than many students expect. Acc…"
-category: "What"
+category: "applications"
 pubDatetime: "2026-04-19T19:39:23Z"
 publishDate: '2026-04-19T19:39:23Z'
 readingTime: 7

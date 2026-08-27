@@ -1,7 +1,7 @@
 ---
 title: "Why College Freshman Fifteen Is a Myth and How to Maintain Healthy Habits"
 description: "The “Freshman 15” — the belief that first-year students inevitably gain 15 pounds — is one of the most persistent myths in higher education. A 2023 study pub…"
-category: "Why"
+category: "campus-life"
 pubDatetime: "2026-05-07T19:42:33Z"
 publishDate: '2026-05-07T19:42:33Z'
 readingTime: 7

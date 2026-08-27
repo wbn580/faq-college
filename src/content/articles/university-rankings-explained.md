@@ -1,7 +1,7 @@
 ---
 title: "University Rankings Explained · QS, THE, ARWU, and US News"
 description: "How the four major global university ranking systems work — methodology differences, what they measure, and how international students should use rankings in their decisions."
-category: "compare"
+category: "campus-life"
 publishDate: "2026-05-15T08:00:00Z"
 ogImage: "https://img.faq.college/edu/test-backfill-uni-2026-1880x1253.jpg"
 hideFromHome: true

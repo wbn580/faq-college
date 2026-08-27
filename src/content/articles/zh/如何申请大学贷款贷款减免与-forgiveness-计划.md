@@ -1,7 +1,7 @@
 ---
 title: "如何申请大学贷款：贷款减免与 forgiveness 计划"
 description: "Federal student loan borrowers in the U.S. collectively owe over $1.6 trillion, with the average Class of 2023 graduate carrying $29,400 in debt, according t…"
-category: "如何申请大学贷款：贷款减"
+category: "financial-aid"
 pubDatetime: "2026-04-03T19:36:27Z"
 publishDate: '2026-04-03T19:36:27Z'
 readingTime: 3

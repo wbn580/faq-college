@@ -1,7 +1,7 @@
 ---
 title: "2025 Guide to Applying for National Merit Scholarships and Meeting Their Deadlines"
 description: "The National Merit Scholarship Program awards roughly 7,140 scholarships each year, totaling approximately $28 million in private and corporate-sponsored fun…"
-category: "2025"
+category: "applications"
 pubDatetime: "2026-05-20T19:45:07Z"
 publishDate: '2026-05-20T19:45:07Z'
 readingTime: 6

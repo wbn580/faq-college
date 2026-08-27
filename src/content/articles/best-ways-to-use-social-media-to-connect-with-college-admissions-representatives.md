@@ -1,7 +1,7 @@
 ---
 title: "Best Ways to Use Social Media to Connect With College Admissions Representatives"
 description: "A 2023 survey by the National Association for College Admission Counseling (NACAC) found that 58% of colleges use social media to recruit prospective student…"
-category: "Best"
+category: "applications"
 pubDatetime: "2026-05-03T19:41:54Z"
 publishDate: '2026-05-03T19:41:54Z'
 readingTime: 6

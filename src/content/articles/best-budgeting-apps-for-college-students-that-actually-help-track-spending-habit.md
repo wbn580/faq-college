@@ -1,7 +1,7 @@
 ---
 title: "Best Budgeting Apps for College Students That Actually Help Track Spending Habits"
 description: "The average college student in the U.S. spends approximately $2,240 per academic year on non-tuition expenses like food, transportation, and personal items, …"
-category: "Best"
+category: "financial-aid"
 pubDatetime: "2026-04-14T19:38:32Z"
 publishDate: '2026-04-14T19:38:32Z'
 readingTime: 8

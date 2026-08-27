@@ -1,7 +1,7 @@
 ---
 title: "How to Use the Coalition Application vs Common Application Which One Is Better"
 description: "The Coalition Application and Common Application serve the same primary function—letting you apply to multiple colleges with one set of materials—but they di…"
-category: "How"
+category: "applications"
 pubDatetime: "2026-05-09T19:43:00Z"
 publishDate: '2026-05-09T19:43:00Z'
 readingTime: 5

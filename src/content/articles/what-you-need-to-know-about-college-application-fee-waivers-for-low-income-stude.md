@@ -1,7 +1,7 @@
 ---
 title: "What You Need to Know About College Application Fee Waivers for Low Income Students"
 description: "The average cost to apply to a U.S. college is approximately $45 per application, with selective private universities charging $75–$90. For a low-income stud…"
-category: "What"
+category: "applications"
 pubDatetime: "2026-05-15T19:44:14Z"
 publishDate: '2026-05-15T19:44:14Z'
 readingTime: 7

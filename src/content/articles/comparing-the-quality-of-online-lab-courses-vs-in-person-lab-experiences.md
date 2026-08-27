@@ -1,7 +1,7 @@
 ---
 title: "Comparing the Quality of Online Lab Courses vs In Person Lab Experiences"
 description: "Students who completed a fully online lab course scored an average of **8-12% lower on hands-on practical assessments** compared to peers who took the same c…"
-category: "Comparing"
+category: "standardized-tests"
 pubDatetime: "2026-05-07T19:42:40Z"
 publishDate: '2026-05-07T19:42:40Z'
 readingTime: 7

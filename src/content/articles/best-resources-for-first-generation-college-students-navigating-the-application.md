@@ -1,7 +1,7 @@
 ---
 title: "Best Resources for First Generation College Students Navigating the Application Process"
 description: "First-generation college students — those whose parents did not earn a four-year degree — face a unique set of barriers in the U.S. college application proce…"
-category: "Best"
+category: "applications"
 pubDatetime: "2026-04-30T19:41:20Z"
 publishDate: '2026-04-30T19:41:20Z'
 readingTime: 6

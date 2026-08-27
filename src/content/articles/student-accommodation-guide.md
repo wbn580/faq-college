@@ -1,7 +1,7 @@
 ---
 title: "Student Accommodation Guide · On-Campus, Off-Campus, Homestay"
 description: "A practical guide to student accommodation options — university halls, private rentals, homestay, and how to find, budget for, and secure student housing abroad."
-category: "life"
+category: "campus-life"
 publishDate: "2026-05-15T08:00:00Z"
 ogImage: "https://img.faq.college/edu/test-backfill-uni-2026-1880x1253.jpg"
 tags: ["featured"]

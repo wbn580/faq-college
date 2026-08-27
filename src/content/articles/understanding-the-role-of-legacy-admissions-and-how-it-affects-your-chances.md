@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Role of Legacy Admissions and How It Affects Your Chances"
 description: "Legacy admissions — the practice of giving preferential treatment to applicants who are children of alumni — remains one of the most debated factors in U.S. …"
-category: "Understanding"
+category: "applications"
 pubDatetime: "2026-04-28T19:40:58Z"
 publishDate: '2026-04-28T19:40:58Z'
 readingTime: 8

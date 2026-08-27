@@ -1,7 +1,7 @@
 ---
 title: "Best Tips for Writing a College Application Addendum Explaining a Low Grade"
 description: "A single low grade on your transcript doesn't have to derail your college application, but how you explain it matters. According to the National Association …"
-category: "Best"
+category: "applications"
 pubDatetime: "2026-05-05T19:42:13Z"
 publishDate: '2026-05-05T19:42:13Z'
 readingTime: 6

@@ -1,7 +1,7 @@
 ---
 title: "2025 College Rankings Based on Return on Investment for Graduates in 10 Years"
 description: "A bachelor’s degree from a top U.S. university can cost over $80,000 per year in tuition, fees, and housing, yet the median starting salary for new graduates…"
-category: "2025"
+category: "financial-aid"
 pubDatetime: "2026-04-23T19:40:08Z"
 publishDate: '2026-04-23T19:40:08Z'
 readingTime: 9

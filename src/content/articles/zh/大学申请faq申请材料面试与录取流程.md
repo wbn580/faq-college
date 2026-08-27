@@ -1,7 +1,7 @@
 ---
 title: "大学申请FAQ：申请材料、面试与录取流程"
 description: "The 2024–2025 U.S. undergraduate admissions cycle processed over 1.25 million applications through the Common Application alone as of March 2024, according t…"
-category: "大学申请FAQ：申请材料"
+category: "applications"
 pubDatetime: "2026-02-28T19:30:32Z"
 publishDate: '2026-02-28T19:30:32Z'
 readingTime: 3

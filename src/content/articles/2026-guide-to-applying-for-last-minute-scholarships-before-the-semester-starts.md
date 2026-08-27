@@ -1,7 +1,7 @@
 ---
 title: "2026 Guide to Applying for Last Minute Scholarships Before the Semester Starts"
 description: "A semester starting in a few weeks and still short on funding is a tight spot, but last-minute scholarships remain a viable option for students who act fast.…"
-category: "2026"
+category: "applications"
 pubDatetime: "2026-05-14T19:44:00Z"
 publishDate: '2026-05-14T19:44:00Z'
 readingTime: 7

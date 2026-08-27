@@ -1,7 +1,7 @@
 ---
 title: "Best Strategies to Navigate College Registration and Get the Classes You Want"
 description: "Every fall, roughly 20 million students enroll in U.S. degree-granting postsecondary institutions, according to the National Center for Education Statistics …"
-category: "Best"
+category: "applications"
 pubDatetime: "2026-05-08T19:42:45Z"
 publishDate: '2026-05-08T19:42:45Z'
 readingTime: 10

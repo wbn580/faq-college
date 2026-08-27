@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Strategies to Balance College Coursework With a Social Life and Sleep"
 description: "A 2023 American Time Use Survey from the Bureau of Labor Statistics found that full-time university students aged 15–24 spend an average of **3.5 hours per d…"
-category: "Top"
+category: "campus-life"
 pubDatetime: "2026-05-09T19:43:05Z"
 publishDate: '2026-05-09T19:43:05Z'
 readingTime: 5

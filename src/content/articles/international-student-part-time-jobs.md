@@ -1,7 +1,7 @@
 ---
 title: "Part-Time Jobs for International Students · Rights, Limits, and Tips"
 description: "How international students can work while studying — legal work limits by country, types of jobs available, tax obligations, and strategies for finding student-friendly employment."
-category: "life"
+category: "campus-life"
 publishDate: "2026-05-15T08:00:00Z"
 ogImage: "https://img.faq.college/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg"
 tags: ["featured"]

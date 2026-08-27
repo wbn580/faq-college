@@ -1,7 +1,7 @@
 ---
 title: "What Happens If You Miss the Early Decision Deadline for Your Dream School"
 description: "Missing an Early Decision (ED) deadline doesn't mean your application is dead. ED is a binding agreement offered by roughly 450 U.S. colleges, and missing it…"
-category: "What"
+category: "applications"
 pubDatetime: "2026-04-10T19:37:42Z"
 publishDate: '2026-04-10T19:37:42Z'
 readingTime: 6
