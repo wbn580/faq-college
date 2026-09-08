@@ -1,7 +1,7 @@
 ---
 title: "Australian Graduate Salaries: 1, 5 and 9 Years After Graduation"
 description: "What Australian graduates earn depends on when you measure. This guide explains the QILT salary data at one, five and nine years, what each figure actually covers, and how to verify it on ComparED."
-category: "scholarships"
+category: "'general'"
 pubDatetime: "2026-09-08T07:11:12Z"
 publishDate: '2026-03-28T19:35:33Z'
 readingTime: 3
