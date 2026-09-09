@@ -20,7 +20,7 @@ tags:
 
 Experts indicate that Queensland's housing recovery will take longer than previously expected, with demand continuing to outweigh supply. Recent data shows that dwelling approvals have fallen, and the state is not on track to meet its housing targets by the planned deadlines. Rents have increased, and vacancy rates remain tight, reflecting the ongoing imbalance.
 
-![A residential construction site in Queensland with new homes under development](https://img.ulec.com.cn/留学-大学FAQ/faq-college-guide-2026-08-31-2a1bbe0d8d-image-02-2026-1880x1253.jpg)
+![A residential construction site in Queensland with new homes under development](https://img.faq.college/留学-大学FAQ/faq-college-guide-2026-08-31-2a1bbe0d8d-image-02-2026-1880x1253.jpg)
 
 
 ## Key factors at play

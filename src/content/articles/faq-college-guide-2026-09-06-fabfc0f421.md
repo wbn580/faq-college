@@ -27,7 +27,7 @@ Interest rates in Australia have reached record lows. This development has been 
 
 For those looking to buy a home, the record low rates may offer some relief in terms of mortgage repayments. However, the broader challenge of housing affordability persists. This suggests that buyers should not rely solely on low interest rates to overcome affordability barriers. Other factors, such as property prices and supply, continue to play a significant role.
 
-![A house with a key and a downward arrow representing interest rates](https://img.ulec.com.cn/留学-大学FAQ/faq-college-guide-2026-09-06-fabfc0f421-image-02-2026-1679x1300.jpg)
+![A house with a key and a downward arrow representing interest rates](https://img.faq.college/留学-大学FAQ/faq-college-guide-2026-09-06-fabfc0f421-image-02-2026-1679x1300.jpg)
 
 
 ## Looking ahead

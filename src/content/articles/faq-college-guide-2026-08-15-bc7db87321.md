@@ -26,14 +26,14 @@ For undergraduate study, typical entrance requirements include completion of sec
 
 Tourism management is another area where New Zealand universities excel, reflecting the country’s significant tourism sector. Bachelor’s and master’s programs focus on sustainable tourism, hospitality, and destination management. Admission to undergraduate programs usually depends on secondary school results, while master’s programs typically require a bachelor’s degree, sometimes in a related field, and may consider relevant work experience.
 
-![Aerial view of a New Zealand university campus surrounded by farmland](https://img.ulec.com.cn/留学-大学FAQ/faq-college-guide-2026-08-15-bc7db87321-image-01-2026-1880x1253.jpg)
+![Aerial view of a New Zealand university campus surrounded by farmland](https://img.faq.college/留学-大学FAQ/faq-college-guide-2026-08-15-bc7db87321-image-01-2026-1880x1253.jpg)
 
 
 ## Film and Screen Production: Creative Strengths
 
 The film industry, with its global reputation, is supported by university programs in film production, screen arts, and media studies. Undergraduate entry often involves a portfolio or audition alongside academic criteria. Master’s programs may require a bachelor’s degree in a related discipline and a portfolio of creative work. Again, exact prerequisites should be checked with each institution.
 
-![Film crew working on a set with New Zealand landscape in background](https://img.ulec.com.cn/留学-大学FAQ/faq-college-guide-2026-08-15-bc7db87321-image-02-2026-1679x1300.jpg)
+![Film crew working on a set with New Zealand landscape in background](https://img.faq.college/留学-大学FAQ/faq-college-guide-2026-08-15-bc7db87321-image-02-2026-1679x1300.jpg)
 
 
 ## Comparing Undergraduate and Postgraduate Entrance

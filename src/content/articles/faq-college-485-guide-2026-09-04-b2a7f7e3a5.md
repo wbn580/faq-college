@@ -28,7 +28,7 @@ To apply for the second graduate visa, you must meet several criteria. You need 
 
 The second graduate visa allows you to work full-time in Australia without restrictions, giving you the opportunity to gain valuable work experience in regional locations. Many regional areas have industries such as agriculture, tourism, hospitality, and healthcare that actively seek skilled workers. Using this visa period to work in your field or in a related industry can help you build professional networks, strengthen your resume, and potentially qualify for further visa pathways that require Australian work experience.
 
-![International graduate working at a regional Australian workplace](https://img.ulec.com.cn/留学-大学FAQ/faq-college-485-guide-2026-09-04-b2a7f7e3a5-image-02-2026-1679x1300.jpg)
+![International graduate working at a regional Australian workplace](https://img.faq.college/留学-大学FAQ/faq-college-485-guide-2026-09-04-b2a7f7e3a5-image-02-2026-1679x1300.jpg)
 
 
 ## What Should You Keep in Mind?

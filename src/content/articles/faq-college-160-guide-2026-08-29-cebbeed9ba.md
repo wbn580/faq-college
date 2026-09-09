@@ -24,7 +24,7 @@ The 2026 New Zealand Skilled Migration (SMC) points system awards points for a r
 
 Certain study majors are linked to higher point values. For example, qualifications at Level 9 or above, such as a master's degree, earn more points for qualification level than a bachelor's degree. Additionally, if your major leads to an occupation that is listed as skilled and there is a shortage or high demand, you may qualify for bonus points. Fields such as engineering, ICT, health, and construction-related professions often fall into this category. However, the points system considers the specific qualification and occupation, not just the major itself.
 
-![Students in a New Zealand university classroom](https://img.ulec.com.cn/留学-大学FAQ/faq-college-160-guide-2026-08-29-cebbeed9ba-image-02-2026-1679x1300.jpg)
+![Students in a New Zealand university classroom](https://img.faq.college/留学-大学FAQ/faq-college-160-guide-2026-08-29-cebbeed9ba-image-02-2026-1679x1300.jpg)
 
 
 ## Choosing a Study Major with Migration in Mind
@@ -35,7 +35,7 @@ When selecting a major, consider its level and how it maps to an occupation that
 
 Your major is not the only factor. Points are also awarded for age, work experience, and whether you have a job offer in New Zealand. To reach 160, you need a strong overall profile. For example, a younger applicant with a master's degree and three years of work experience might score well even without bonus points. The system rewards a balanced combination of factors, so focus on both your study choice and your career plans.
 
-![Illustration of points-based migration system](https://img.ulec.com.cn/留学-大学FAQ/faq-college-160-guide-2026-08-29-cebbeed9ba-image-03-2026-1733x1300.jpg)
+![Illustration of points-based migration system](https://img.faq.college/留学-大学FAQ/faq-college-160-guide-2026-08-29-cebbeed9ba-image-03-2026-1733x1300.jpg)
 
 
 ## Summary of Points to Consider
