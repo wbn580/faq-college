@@ -8,7 +8,7 @@ slug: 'faq-college-guide-2026-09-06-fabfc0f421'
 category: 'general'
 language: 'en'
 lang: 'en'
-ogImage: 'https://img.ulec.com.cn/留学-大学FAQ/faq-college-guide-2026-09-06-fabfc0f421-image-01-2026-1880x1253.jpg'
+ogImage: "https://img.faq.college/留学-大学FAQ/faq-college-guide-2026-09-06-fabfc0f421-image-01-2026-1880x1253.jpg"
 verified: '2026-09-06T00:00:00Z'
 tags:
   - 'housing affordability'

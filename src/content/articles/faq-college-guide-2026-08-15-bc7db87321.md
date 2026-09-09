@@ -8,7 +8,7 @@ slug: 'faq-college-guide-2026-08-15-bc7db87321'
 category: "applications"
 language: 'en'
 lang: 'en'
-ogImage: 'https://img.ulec.com.cn/留学-大学FAQ/faq-college-guide-2026-08-15-bc7db87321-image-01-2026-1880x1253.jpg'
+ogImage: "https://img.faq.college/留学-大学FAQ/faq-college-guide-2026-08-15-bc7db87321-image-01-2026-1880x1253.jpg"
 verified: '2026-08-15T00:00:00Z'
 tags:
   - 'New Zealand universities'

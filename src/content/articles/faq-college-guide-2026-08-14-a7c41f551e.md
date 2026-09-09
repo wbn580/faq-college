@@ -8,7 +8,7 @@ slug: 'faq-college-guide-2026-08-14-a7c41f551e'
 category: "financial-aid"
 language: 'en'
 lang: 'en'
-ogImage: "https://img.ulec.com.cn/留学/大学FAQ/faq-college-guide-2026-08-14-a7c41f551e-2026-1880x1253.jpg"
+ogImage: "https://img.faq.college/留学/大学FAQ/faq-college-guide-2026-08-14-a7c41f551e-2026-1880x1253.jpg"
 verified: '2026-08-14T00:00:00Z'
 tags:
   - 'rental bond'

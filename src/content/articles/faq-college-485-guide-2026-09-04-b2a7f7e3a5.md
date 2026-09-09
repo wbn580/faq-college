@@ -8,7 +8,7 @@ slug: 'faq-college-485-guide-2026-09-04-b2a7f7e3a5'
 category: 'general'
 language: 'en'
 lang: 'en'
-ogImage: 'https://img.ulec.com.cn/留学-大学FAQ/faq-college-485-guide-2026-09-04-b2a7f7e3a5-image-01-2026-1880x1253.jpg'
+ogImage: "https://img.faq.college/留学-大学FAQ/faq-college-485-guide-2026-09-04-b2a7f7e3a5-image-01-2026-1880x1253.jpg"
 verified: '2026-09-04T00:00:00Z'
 tags:
   - '485 visa'

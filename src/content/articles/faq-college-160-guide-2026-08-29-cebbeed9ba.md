@@ -8,7 +8,7 @@ slug: 'faq-college-160-guide-2026-08-29-cebbeed9ba'
 category: 'general'
 language: 'en'
 lang: 'en'
-ogImage: 'https://img.ulec.com.cn/留学-大学FAQ/faq-college-160-guide-2026-08-29-cebbeed9ba-image-01-2026-1280x853.jpg'
+ogImage: "https://img.faq.college/留学-大学FAQ/faq-college-160-guide-2026-08-29-cebbeed9ba-image-01-2026-1280x853.jpg"
 verified: '2026-08-29T00:00:00Z'
 tags:
   - 'Skilled Migration'
