@@ -3,7 +3,7 @@ title: "UCAS Application Guide · How to Apply to UK Universities"
 description: "A complete guide to the UCAS application process — the five-choice system, personal statement requirements, predicted grades, and common mistakes international students make."
 category: "applications"
 publishDate: "2026-05-15T08:00:00Z"
-ogImage: "https://img.faq.college/edu/expand-expand-英国研究生申请时间线什么时间做什么事含checklist-615a17-og-2026-7919x5282.jpg"
+ogImage: "https://faq.college/og-image.jpg"
 tags: ["featured"]
 ---
 
