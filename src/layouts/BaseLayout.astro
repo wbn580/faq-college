@@ -12,6 +12,8 @@ interface Props {
   ogImage?: string;
   canonicalURL?: string;
   schema?: string;
+  /** True only for pages with a full-bleed dark hero image behind the nav (currently just the homepage). */
+  hero?: boolean;
 }
 
 const {
@@ -23,6 +25,7 @@ const {
   htmlLang = 'en',
   ogLocale = 'en_US',
   langAlternates = [],
+  hero = false,
 } = Astro.props;
 
 const SITE_URL = 'https://faq.college';
@@ -63,7 +66,7 @@ const botLang = htmlLang.startsWith('zh') ? 'zh-CN' : 'en';
     <!-- Chat widget for lead consultation actions -->
     <script src="https://chat.faq.college/assistant.js" data-site="faq-college" data-lang={botLang} data-bot-name="College FAQ Assistant" data-channel="organic" data-color="#d98c5f" data-accent="#1f6b3a" async data-no-bubble="1"></script>
 </head>
-  <body>
+  <body data-hero={hero ? 'true' : 'false'}>
     <!-- Nav: centered-overlay (logo center, links flanking) -->
     <nav class="nav" id="nav">
       <div class="row left"><a href="#dim">Topics</a><a href="#articles">Latest</a></div>
@@ -83,6 +86,18 @@ const botLang = htmlLang.startsWith('zh') ? 'zh-CN' : 'en';
       const hamb = document.getElementById('hamb');
       const nav = document.getElementById('nav');
       const menu = document.getElementById('mobile-menu');
+      // The nav's default light-on-transparent styling is only legible over the
+      // homepage's dark hero photo; every other page has no hero, so the nav
+      // (and its overlap with page content) must switch to its solid/dark-text
+      // state immediately instead of waiting for a 70%-viewport scroll that may
+      // never happen.
+      if (document.body.dataset.hero === 'true') {
+        const onScroll = () => nav?.classList.toggle('scrolled', window.scrollY > window.innerHeight * 0.7);
+        window.addEventListener('scroll', onScroll, { passive: true });
+        onScroll();
+      } else {
+        nav?.classList.add('scrolled');
+      }
       hamb?.addEventListener('click', () => {
         const open = hamb.getAttribute('aria-expanded') === 'true';
         hamb.setAttribute('aria-expanded', String(!open));

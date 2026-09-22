@@ -57,6 +57,9 @@ img { max-width: 100%; display: block; }
 }
 .nav.scrolled { background: var(--paper); box-shadow: 0 1px 0 var(--line); padding: 13px clamp(20px, 5vw, 64px); }
 .nav.scrolled .row, .nav.scrolled .brand { color: var(--forest-d); }
+/* The homepage's hero fills the viewport behind the fixed nav by design; every
+   other page has no such backdrop, so its content needs room below the nav. */
+body:not([data-hero="true"]) main { padding-top: 96px; }
 .hamb { display: none; }
 .mobile-menu { display: none; }
 
